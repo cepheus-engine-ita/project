@@ -1,1350 +1,152 @@
+# INTRODUZIONE
 
+Benvenuti nel ***Cepheus Engine System Reference Document***, che delinea le regole fondamentali usate da un Sistema di Gioco Aperto, basato su 2D6, di Fantascienza dell'Era Classica. Questa introduzione ti fornisce una panoramica di ciò che Cepheus Engine è e di come funziona, mentre i capitoli successivi ti mostrano come creare personaggi e imbarcarti in tue eccitanti avventure di fantascienza.
 
+## Che cos'è il Gioco di Ruolo?
 
+Se sei nuovo al gioco di ruolo, potresti chiederti: "Che cos'è un
+gioco di ruolo?"
 
+Un gioco di ruolo (a volte abbreviato in GdR) è un gioco in cui i giocatori assumono i ruoli di personaggi in un ambiente immaginario. I giocatori si assumono la responsabilità di recitare questi ruoli all'interno di una narrazione, o attraverso la recitazione letterale o attraverso un processo strutturato
+processo decisionale o sviluppo del personaggio. Le azioni intraprese all'interno di molti giochi riescono o falliscono secondo un sistema formale di regole e linee guida, come le regole del Cepheus Engine.
 
+Una sessione di gioco di Cepheus Engine play è condotta tramite il dialogo. Un giocatore, l'Arbitro, di solito arbitra qualsiasi decisione in base alle regole e presenta l'ambientazione del gioco, mentre ciascuno degli altri giocatori interpreta il ruolo di un singolo personaggio. Insieme, l'arbitro e i giocatori creano una storia, molto simile al modo in cui molti di noi erano soliti creare storie giocando a giochi di finzione da bambini, tranne che con più dadi e più struttura.
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://github.githubassets.com">
-  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+## Che cos'è il Cepheus Engine?
 
+Il Cepheus Engine è semplicemente un insieme di regole per condurre un gioco basato sulla fantascienza classica. All'interno delle sue pagine troverai regole per creare personaggi, risolvere compiti, combattere altre creature e impegnarti in enormi battaglie spaziali, costruire mondi, goderti i rischi del commercio speculativo interstellare, esplorare nuovi mondi e una miriade di altre attività diverse. Sebbene nessun set di regole possa essere completo, il motore Cepheus cerca di fornire regole sufficienti per consentirti di creare quasi tutte le avventure di fantascienza.
 
+Il Cepheus Engine si ispira ai classici giochi di fantascienza dei primi giorni del gioco di ruolo e condivide molte somiglianze con questi sistemi di gioco. Il materiale di questi vecchi set di regole e quelli creati con il Cepheus Engine sono reciprocamente compatibili con solo un minimo di aggiustamenti richiesti.
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-sTPn4ucUv51v42xE6Jeddjc8xD4F5Qzs3PUlX4tko79zmOo+vjkqOGBNcXNtGkfjoFSRmxAzx3X25ApYG0NY1w==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-b133e7e2e714bf9d6fe36c44e8979d76.css" />
-  
-    <link crossorigin="anonymous" media="all" integrity="sha512-tPCrmZw/k+PaAc5uKfZB+s06xCQogn8YUf2hkC1FKowz+rxXEvonKD/oDDlfayT62k/J77qgWejIuOjAazEy8g==" rel="stylesheet" href="https://github.githubassets.com/assets/github-b4f0ab999c3f93e3da01ce6e29f641fa.css" />
-    
-    
-    
-    
+Per giocare, hai bisogno di una copia delle regole del Cepheus Engine; diversi dadi a sei facce, disponibili nei negozi di giochi e hobby (ne servono almeno due, ma più è meglio); e una matita e della carta.
 
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-8K2vvwbW+6H27Nad5ydg8PA2/aMD/LKq+EiK9s0U0hhVZxCI2tWBsYk9beAtisRw2j+Or5k2/F+6dk02nmj/PA==" type="application/javascript" src="https://github.githubassets.com/assets/environment-f0adafbf.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-UHStoWT3MmammIgsJ4ngr4eDRtqfK58cCSPCj3YL0xlvVKeXQLiLXEzpkyFPI6iu2rLYEhV2GkICbk06xHdvcQ==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-5074ada1.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-57BXsO8XaL0t9BZAtpvxNYFJHfZNrBwkfSyGeC3exSzN6O8TCruBADgWYbNEL8j3du298LBu6uVHMaO9l0NNIg==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-e7b057b0.js"></script>
-  
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-lGZjKddip/5W1JMb64NUo1beBRE5QUuDCMbCzECoA4Z/chei+PPG31E12TP8Y5grqcjMrwYaone44PYdYtyrWQ==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-94666329.js"></script>
-  
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-F/8sNCLF603gJL0egQeZwFTYP9dfZAVEWHdjMssZ2opLZXRK08vgowBRzKyra6u9zU/rGVxe+igfJsSWzfO2lg==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-17ff2c34.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-obMR8mPKx8OvqRe34LgnUcxeJ1qujiA4ND3H6UX13ExMlA/WfHLjEzXRmgGRcRvN/8J1nzc+Z+jgz/PLTFy6zg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-a1b311f2.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-yGHlU15Ycv/1UkpPTVKgm9bDZRVbDJxx0n94pbIWequIXR3FYSskJerCSCPSzBAeXis2ZLtihPIP/keMFYwkDg==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-c861e553.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-tcH4xCRuMBAh1PruDaiwGnRIbHlF6bGLhxyCQ16uqok1cV5QFMguVPWJtN9KI0jGQOgN+Pha3+uOUXhXdfK/qw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-b5c1f8c4.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-gPx3bYhTjyC83X5u5KlEDJpwGAHt3AC2p5s9iMuAfPTeSj7kHlKMW231C3K3c7+jvlpWpELk8DJsefrYdRzqjA==" type="application/javascript" data-module-id="./chunk-randomColor.js" data-src="https://github.githubassets.com/assets/chunk-randomColor-80fc776d.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-E+H+wAtjiqutBvn2cnXzDIvmasIhYiS7i7JzOfFUwo+Ej8zT54OrJtP//RhwixnypgOpCF4JvqzYy6zOtORDmg==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-13e1fec0.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-qdiCkJPPR4LxwUKftEmJe2v79E8xnTceYqylsWkMsGuARkiKkX9iFNwkvZJ3bDfS5YHSPD3+k+N2/I73tvlL1Q==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-a9d88290.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-NpURjBPyJ0JT8hWOMbLErYNeb0bTkKfmFX1hl1F8C/q6jckqWObeOzEAcs6TRlj+cqAR6GDohEBxDgkYBlx+QQ==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-3695118c.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-e+30BriXsBu+fb/LGEU9gAzSwn25wRYzDDPpr2AA8jZJI9034xzRHYXjA9XhF+7ncBIGJ/uTD11G25/H0XyuZg==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-7bedf406.js"></script>
-  
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-qNDna0BX3we4VBg3HjAz/0cUYWHU+kQ2GnbPj+s6SwRs8Tyfb7GbdrLwjZ5CaOMjxsHvd1XOZM+cu+tAPkX4zA==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-a8d0e76b.js"></script>
-<script crossorigin="anonymous" defer="defer" integrity="sha512-QiBwUGhO4Jv2+dKa60P1uNnbTpouIkJHy8OW9ESCzFNPYUarubjEGJMZbprgBV9m+u6kWlAbQHId8mYadSVTOQ==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-42207050.js"></script>
+## Il sistema principale di risoluzione delle attività
 
-  <meta name="viewport" content="width=device-width">
-  
-  <title>cepheus-engine-ita/003_introduzione.md at introduzione · zeruhur/cepheus-engine-ita</title>
-    <meta name="description" content="Repository dei sorgenti per la versione italiana di Cepheus Engine - zeruhur/cepheus-engine-ita">
-    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
-  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-  <meta property="fb:app_id" content="1401488693436528">
-  <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://avatars1.githubusercontent.com/u/51272598?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="zeruhur/cepheus-engine-ita" /><meta name="twitter:description" content="Repository dei sorgenti per la versione italiana di Cepheus Engine - zeruhur/cepheus-engine-ita" />
-    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/51272598?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="zeruhur/cepheus-engine-ita" /><meta property="og:url" content="https://github.com/zeruhur/cepheus-engine-ita" /><meta property="og:description" content="Repository dei sorgenti per la versione italiana di Cepheus Engine - zeruhur/cepheus-engine-ita" />
+Il Cepheus Engine utilizza un sistema princiapale di risoluzione delle attività per risolvere le azioni. Ogni volta che il tuo personaggio tenta un'azione con una possibilità di fallimento, procedi come segue:
 
+1. Tira due dati a sei facce (abbreviato 2D6).
 
+2. Aggiungi ogni modificatore rilevante (per cose come caratteristiche, competenze, difficoltà e circostanze).
 
-    
+3. Se il risultato eguaglia o supera 8, l'azione ha successo. Se il risultato è inferiore di 8, l'azione fallisce.
 
-  <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/51272598/ws?session=eyJ2IjoiVjMiLCJ1Ijo1MTI3MjU5OCwicyI6NjEyMjg1MjMxLCJjIjoyNDU4MTE0NTQxLCJ0IjoxNjA2MjE0MTc1fQ==--f7c5d1276377d83e8605bcdf1b54daaceecd2840d0f571e0f049f7aa0b1730f6" data-refresh-url="/_alive">
-  <link rel="sudo-modal" href="/sessions/sudo_modal">
+Questo semplice sitema è usato praticamente per tutto nel Cepheus Engine, con varianti basate sui modificatori aggiunti a un tiro e gli effetti di successo o fallimento.
 
-  <meta name="request-id" content="C0F8:5056:C53D75:FEC0A1:5FBCE1FD" data-pjax-transient="true" /><meta name="html-safe-nonce" content="c0e18e945f93fdbf160cbe0c0ee13ca51196379ef165757254d8b7903b93a2b4" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS96ZXJ1aHVyL2NlcGhldXMtZW5naW5lLWl0YS90cmVlL2ludHJvZHV6aW9uZS9pdGEiLCJyZXF1ZXN0X2lkIjoiQzBGODo1MDU2OkM1M0Q3NTpGRUMwQTE6NUZCQ0UxRkQiLCJ2aXNpdG9yX2lkIjoiOTExNzA1NTUyNjEwMjc1NTkyMiIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="3c3aaf4d71ed3494d4e23f8c884b440ecd3500ae47e18e366e5fa708797b95b5" data-pjax-transient="true" /><meta name="cookie-consent-required" content="true" />
+## L'Arbitro
 
-    <meta name="hovercard-subject-tag" content="repository:315424275" data-pjax-transient>
+All'interno delle regole del Cepheus Engine, a uno dei giocatori viene chiesto di assumere il manto di arbitro. L'Arbitro è la persona che agirà da
+organizzatore, officiante per questioni riguardanti le regole, arbitro e moderatore di una sessione di gioco Cepheus Engine o di una campagna di Cepheus Engine in corso. Il ruolo dell'Arbitro è quello: di tessere insieme le storie dei personaggi giocanti degli altri partecipanti; di controllare gli aspetti non-giocanti del gioco; di creare ambienti in cui i giocatori possono interagire; di risolvere eventuali controversie dei giocatori.
 
+## I Personaggi
 
-  <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
+Un personaggio di un giocatore o un personaggio giocante (PG) è un personaggio immaginario in un gioco Cepheus Engine le cui azioni sono controllate direttamente da un giocatore piuttosto che dalle regole del gioco. I personaggi che non sono controllati da un giocatore sono chiamati personaggi non giocanti (NPG). Le azioni dei personaggi non giocanti sono generalmente gestite dall'Arbitro.
 
-  
+Usando le regole del Cepheus Engine come linee guida, un giocatore creerà un personaggio che riflette il tipo di ruolo che vorrebbe avere nel gioco.
+Il personaggio è solitamente di una certa razza (a seconda di quelli disponibili nell'universo dell'Arbitro) e possiede una combinazione unica di competenze e livelli di esperienza. Gli attributi di un personaggio sono dati come valori numerici che possono cambiare man mano che il giocatore avanza e i personaggi crescono e si sviluppano nel corso delle loro avventure.
 
-  <meta name="selected-link" value="repo_source" data-pjax-transient>
+## Caratteristiche
 
-    <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
-  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
-  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
-  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+Tutti i personaggi hanno determinate caratteristiche di base che definiscono ciò che essi sono in grado di fare. Queste caratteristiche sono Forza, Destrezza, Resistenza, Intelligenza, Educazione e Posizione Sociale. Ognuno di loro ha un punteggio caratteristico numerico, in media 7 per un umano di normale capacità. I punteggi delle caratteristiche più alti conferiscono bonus (+1 o più) alla verifica di risoluzione delle attività, mentre punteggi delle caratteristiche più bassi concedono penalità (fino a -2). Come parte della creazione del tuo personaggio, decidi quanto esso sia forte, intelligente e resistente scegliendo l'appropriato punteggio di caratteristica. Vedi ** Capitolo 1: Creazione del personaggio ** per ulteriori informazioni.
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-actor-id" content="51272598" /><meta name="octolytics-actor-login" content="zeruhur" /><meta name="octolytics-actor-hash" content="96ffd37e2aeee2a9b6a18de8af60a75d92c70cf0d159ae2042ccee41c0647d31" />
+## Carriere
 
-  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+Come parte del loro sviluppo, i personaggi seguono determinati percorsi di vita chiamati carriere. Il Cepheus Engine offre una varietà di opzioni di carriera da perseguire per i personaggi, il che apre opportunità ai personaggi di ottenere livelli di competenze, potenziamenti delle caratteristiche e significativi benefici di congedo prima di entrare in gioco. Vedi il ** Capitolo 1: Creazione del personaggio ** per ulteriori informazioni.
 
-  
+## Competenze
 
+Le competenze rappresentano l'addestramento in un particolare tipo di compito o conoscenza, dalle manovre acrobatiche alla negoziazione, al pilotaggio di un'astronave, al programmare un computer. Una persona addestrata in atletica leggera è in grado arrampicarsi più velocemente e con più sicurezza di qualcuno che non lo è, per esempio. Le competenze sono misurate in livelli, che riflettono quanto addestramento un personaggio possiede nella competenza. Quando si registrano le competenze e i loro livelli associati, il nome della competenza viene scritto per primo, seguito da un trattino e quindi dal numero di livelli che il personaggio possiede in quella competenza. Per esempio, Gioco d'azzardo-2 significa che il personaggio ha due livelli nella competenza di Gioco d'azzardo.
 
+Ogni livello di competenza rappresenta circa due anni di addestramento e formazione in quella competenza. Per un confronto usando una terminologia di stampo accademico, potresti equiparare il livello uno a quello di una laurea breve (o analogo programma accademico triennale), il livello due a una laurea magistrale (o altro programma quinquennale), il livello tre a un Master, il livello quattro a un dottorato e così via. I livelli di competenze agiscono come bonus sulle risoluzioni delle attività quando il personaggio tenta un'azione connessa a una competenza. Come il tuo personaggio procede nella propria carriera, acquisice competenze. Vedi **Capitolo 2: Competenze** per maggiori informazioni su competenze specifiche.
 
-  <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;18630402174&quot;, &quot;key&quot;: &quot;launchpad&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;18866331456&quot;, &quot;key&quot;: &quot;control&quot;}], &quot;id&quot;: &quot;18651193356&quot;, &quot;key&quot;: &quot;_features_redesign_rollout&quot;, &quot;layerId&quot;: &quot;18645992876&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;18630402174&quot;, &quot;endOfRange&quot;: 500}, {&quot;entityId&quot;: &quot;18866331456&quot;, &quot;endOfRange&quot;: 1000}, {&quot;entityId&quot;: &quot;18630402174&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;18630402174&quot;, &quot;endOfRange&quot;: 5500}, {&quot;entityId&quot;: &quot;18866331456&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;143327983.1601483920&quot;: &quot;launchpad&quot;, &quot;1955030087.1562868941&quot;: &quot;launchpad&quot;, &quot;1983887325.1550021416&quot;: &quot;launchpad&quot;, &quot;1947530619.1600461583&quot;: &quot;launchpad&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;19136700362&quot;, &quot;key&quot;: &quot;show_plans&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;19157700511&quot;, &quot;key&quot;: &quot;control&quot;}], &quot;id&quot;: &quot;19062314978&quot;, &quot;key&quot;: &quot;account_billing_plans&quot;, &quot;layerId&quot;: &quot;19068014945&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;19136700362&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;19157700511&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;1238720267648ea2c88a74b410aa3c5c&quot;: &quot;show_plans&quot;, &quot;c4abf59d1620c671458b2a74df2a2410&quot;: &quot;control&quot;}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event.do_not_use_in_production&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [&quot;19062314978&quot;], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [&quot;19062314978&quot;], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [&quot;19062314978&quot;], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}], &quot;revision&quot;: &quot;338&quot;}" />
-  <!-- To prevent page flashing, the optimizely JS needs to be loaded in the
-    <head> tag before the DOM renders -->
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-MuDIvnJcsagYASfaXbyxDAm0ckijhSjLUKnHvLPF9M6xvEljv5yQglCLgRLMoeiF8QS6oh9TJq52wph8nKmQoQ==" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-32e0c8be.js"></script>
+## Game Play
 
+Giocare a una sessione utilizzando le regole del Cepheus Engine assomiglia a recitare verbalmente i capitoli di un romanzo di fantascienza. Le sessioni di gioco possono durare da brevi sessioni di un'ora o due, fino a maratone che coprono la maggior parte del fine settimana. Tuttavia, la sessione di gioco media tende a durare dalle tre alle cinque ore. Nel corso di una sessione, i personaggi giocanti proseguono le loro avventure. Alcune si risolvono rapidamente, all'interno di una singola sessione, mentre altre possono svolgersi in più atti spalmate su più sessioni.
 
+Ogni avventura è come una vera e propria storia, composta da una serie di scene che sono esplorate durante il gioco. In generale, la maggior parte delle scene consistono semplicemente nell'interazione dei giocatori con i personaggi non giocanti e l'universo creato dall'Arbitro. I giocatori descrivono le loro azioni e l'arbitro descrive i risultati di quelle azioni, in un scambio bidirezionale. Alcuni tipi di situazioni, come il combattimento personale o spaziale, hanno più struttura e più regole per aiutare i giocatori a risolvere i loro azioni in modalità che riflettono le competenze dei loro personaggi.
 
-  
+## Temi Usuali di Cepheus Engine
 
-      <meta name="hostname" content="github.com">
-    <meta name="user-login" content="zeruhur">
+I giochi che utilizzano le regole del Cepheus Engine sono generalmente progettati attorno a un tema. Basate nell'era classica della fantascienza, queste regole si prestano a giochi che seguono alcuni temi comuni, che sono dettagliati nella tabella Temi Usuali di Cepheus Engine. Questo non è un elenco completo dei tipi di gioco che il Cepheus Engine è progettato per gestire; questo è semplicemente un elenco generale di temi usali da considerare.
 
+#### Tabella: Temi Usuali di Cepheus Engine
 
-      <meta name="expected-hostname" content="github.com">
+| Tema          | Descrizione                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Coloniale     | Gli avventurieri sono ai confini dello spazio esplorato, aiutano a selezionare un nuovo mondo per una colonia e poi a stabilirlo. Queste campagne consentono a un gruppo di sviluppare ampiamente un unico mondo.                                                                                                                                                                     |
+| Commercio     | Gli avventurieri vivono a bordo di un commerciante di frontiera o di un commerciante mercantile, guadagnandosi da vivere con il trasporto di merci, passeggeri, merci speculative e occasionali lavori. Queste campagne esplorano pesantemente le regole del commercio e del commercio.                                                                                               |
+| Vagabondaggio | Gli avventurieri si spostano costantemente da un posto all'altro, senza una casa fissa o un lavoro, in cerca di lavoro attraverso lavori occasionali mentre esplorano l'universo che l'Arbitro ha creato. Queste campagne sono talvolta chiamate "campagne sandbox" perché esplorano un'area che è stata precedentemente creata e popolata dall'Arbitro.                              |
+| Spionaggio    | Gli avventurieri appartengono tutti allo stesso governo o agenzia di intelligence aziendale e si guadagnano da vivere andando in missioni di spionaggio contro i loro nemici. Queste campagne tendono ad essere più episodiche di altri temi comuni delle campagne.                                                                                                                   |
+| Esplorazione  | Gli avventurieri servono a bordo di una nave da ricognizione, guadagnandosi da vivere viaggiando attraverso regioni dello spazio precedentemente inesplorate, esplorando strani nuovi mondi e cercando nuova vita e nuove civiltà mentre vanno coraggiosamente dove nessun altro studente è mai giunto prima. Queste campagne fanno un uso massiccio delle regole per generare mondi. |
+| Mercenari     | Gli avventurieri appartengono tutti alla stessa unità mercenaria, guadagnandosi da vivere partecipando ad azioni militari nell'assunzione di una parte interessata al conflitto. Queste campagne fanno un uso significativo delle regole di combattimento personali, con una particolare attenzione agli scenari militari su larga scala.                                             |
+| Politico      | Gli avventurieri sono pesantemente coinvolti nell'arena sociale e politica di una comunità politica interstellare, trattando con diplomatici, nobili e altre fazioni con interessi acquisiti nel controllo degli aspetti del governo. Queste campagne tendono a concentrarsi sulla diplomazia e sugli intrighi politici.                                                              |
+| Ribellione    | Gli avventurieri sono coinvolti in una fiorente guerra civile, cercando di preservare o rovesciare l'attuale governo. Queste campagne in genere iniziano con l'intrigo e terminano con l'azione.                                                                                                                                                                                      |
 
-      <meta name="js-proxy-site-detection-payload" content="N2IyOWM1ZDRjOGQzNWU3ODAwNjQ4Zjg5ODQ5NTRiZDVkODk5YjliNDI3NDBjM2Y2ZmY2OTJhMDhiY2NjYzE1M3x7InJlbW90ZV9hZGRyZXNzIjoiMTg4LjE1My4xNTUuMTcyIiwicmVxdWVzdF9pZCI6IkMwRjg6NTA1NjpDNTNENzU6RkVDMEExOjVGQkNFMUZEIiwidGltZXN0YW1wIjoxNjA2MjE0MTc1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+## Tiro dei dadi
 
-    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS">
+Usando il Cepheus Engine, quando devi fare un tiro di dado per risolvere un'azione, seguirà tipicamente il sistema principale di tiro di un 2D6 più modificatori da confrontare a un obiettivo di 8+ (leggi come "otto o più"). Questo è chiamato verifica. Vorrai sempre tirare alto per una verifica. Tirando 12 prima di aggiungere modificatori (quando due sei appaiono naturalmente sui dadi) non è un successo automatico e tirando un 2 prima di aggiungere modificatori (quando entrambi i dadi mostrano un uno naturale) non è automaticamente fallimento.
 
-  <meta http-equiv="x-pjax-version" content="a2f7c793122af8cd7dbd7c8f7b0cd8a9d8fb47ebe63d03d50beed0ced0962e79">
-  
+### Difficoltà ed Effetto
 
-        <link href="https://github.com/zeruhur/cepheus-engine-ita/commits/introduzione.atom" rel="alternate" title="Recent Commits to cepheus-engine-ita:introduzione" type="application/atom+xml">
+La Difficoltà di una verifica è un numero deciso dall'Arbitro che modifica il risultato della tua verifica. Quando non è fornita alcuna Difficoltà, è assunto che la Difficoltà sia +0. Quindi, per un'attività con Difficoltà di +2, devi aggiungere +2 al risultato della verifica. Hai successo su un totale di 8 o più. La lista dei valori di Difficoltà può essere trovata nella Tabella Difficoltà delle Attività
 
-  <meta name="go-import" content="github.com/zeruhur/cepheus-engine-ita git https://github.com/zeruhur/cepheus-engine-ita.git">
-
-  <meta name="octolytics-dimension-user_id" content="51272598" /><meta name="octolytics-dimension-user_login" content="zeruhur" /><meta name="octolytics-dimension-repository_id" content="315424275" /><meta name="octolytics-dimension-repository_nwo" content="zeruhur/cepheus-engine-ita" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="315424275" /><meta name="octolytics-dimension-repository_network_root_nwo" content="zeruhur/cepheus-engine-ita" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
-
-
-    <link rel="canonical" href="https://github.com/zeruhur/cepheus-engine-ita/blob/introduzione/ita/003_introduzione.md" data-pjax-transient>
-
-
-  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
-
-  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
-
-  <meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
-
-  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
-  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
-  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
-
-<meta name="theme-color" content="#1e2327">
-
-
-  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
-
-  </head>
-
-  <body class="logged-in env-production page-responsive page-blob">
-    
-
-    <div class="position-relative js-header-wrapper ">
-      <a href="#start-of-content" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
-      <span class="progress-pjax-loader width-full js-pjax-loader-bar Progress position-fixed">
-    <span style="background-color: #79b8ff;width: 0%;" class="Progress-item progress-pjax-loader-bar "></span>
-</span>      
-      
-
-
-            <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner" >
-    <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
-      <a class="Header-link " href="https://github.com/" data-hotkey="g d"
-  aria-label="Homepage " data-ga-click="Header, go to dashboard, icon:logo">
-  <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
-</a>
-
-    </div>
-
-    <div class="Header-item d-md-none">
-      <button class="Header-link btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
-        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg>
-      </button>
-    </div>
-
-    <div class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
-          <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
-  role="combobox"
-  aria-owns="jump-to-results"
-  aria-label="Search or jump to"
-  aria-haspopup="listbox"
-  aria-expanded="false"
->
-  <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="315424275" data-scoped-search-url="/zeruhur/cepheus-engine-ita/search" data-unscoped-search-url="/search" action="/zeruhur/cepheus-engine-ita/search" accept-charset="UTF-8" method="get">
-      <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
-        <input type="text"
-          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
-          data-hotkey="s,/"
-          name="q"
-          value=""
-          placeholder="Search or jump to…"
-          data-unscoped-placeholder="Search or jump to…"
-          data-scoped-placeholder="Search or jump to…"
-          autocapitalize="off"
-          aria-autocomplete="list"
-          aria-controls="jump-to-results"
-          aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
-          spellcheck="false"
-          autocomplete="off"
-          >
-          <input type="hidden" value="VN9u2xkLCg85JrvAVrHdK3EzRU31H7UOfmKYh/L0eLl92fwAKfVFvfwwGEeqqvN/XSjVztoDvNTOuSCk7hr+7g==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
-          <input type="hidden" class="js-site-search-type-field" name="type" >
-            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
-
-            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
-              
-<ul class="d-none js-jump-to-suggestions-template-container">
-  
-
-<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
-    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
-      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
-      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
-      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
-    </div>
-
-    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
-
-    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
-    </div>
-
-    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
-        In this repository
-      </span>
-      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
-        All GitHub
-      </span>
-      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-
-    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
-      Jump to
-      <span class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-  </a>
-</li>
-
-</ul>
-
-<ul class="d-none js-jump-to-no-results-template-container">
-  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
-    <span class="text-gray">No suggested jump to results</span>
-  </li>
-</ul>
-
-<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
-  
-
-<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
-    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
-      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
-      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
-      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
-    </div>
-
-    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
-
-    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
-    </div>
-
-    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
-        In this repository
-      </span>
-      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
-        All GitHub
-      </span>
-      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-
-    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
-      Jump to
-      <span class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-  </a>
-</li>
-
-  
-
-<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
-    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
-      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
-      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
-      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path></svg>
-    </div>
-
-    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
-
-    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
-    </div>
-
-    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
-        In this repository
-      </span>
-      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
-        All GitHub
-      </span>
-      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-
-    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
-      Jump to
-      <span class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-  </a>
-</li>
-
-
-    <li class="d-flex flex-justify-center flex-items-center p-0 f5 js-jump-to-suggestion">
-      <svg viewBox="0 0 16 16" fill="none" style="box-sizing: content-box; color: var(--color-icon-primary);" class="m-3" width="32" height="32">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke">
-    <animateTransform attributeName="transform" type="rotate" from="0 8 8" to="360 8 8" dur="1s" repeatCount="indefinite" />
-  </path>
-</svg>
-    </li>
-</ul>
-
-            </div>
-      </label>
-</form>  </div>
-</div>
-
-        <nav class="d-flex flex-column flex-md-row flex-self-stretch flex-md-self-auto" aria-label="Global">
-      <a class="Header-link py-md-3 d-block d-md-none py-2 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:dashboard:user" aria-label="Dashboard" href="/dashboard">
-        Dashboard
-</a>
-    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade-15" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
-        Pull<span class="d-inline d-md-none d-lg-inline"> request</span>s
-</a>
-    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade-15" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
-      Issues
-</a>
-
-      <div class="d-flex position-relative">
-        <a class="js-selected-navigation-item Header-link flex-auto mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
-          Marketplace
-</a>        
-
-      </div>
-
-    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
-      Explore
-</a>
-
-
-    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15" href="/settings/profile">
-      Settings
-</a>
-    <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15" href="/zeruhur">
-      <img class="avatar avatar-user" src="https://avatars3.githubusercontent.com/u/51272598?s=40&amp;v=4" width="20" height="20" alt="@zeruhur" />
-      zeruhur
-</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vFFF7HL/r72cimW3hQ51PwqrKyzmEaooQ5X1DphlUHsKvq1OWq83q3Pwftfl2hkHhdsAl04//xBSS+VPm6JVbA==" />
-      <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
-        <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
-        Sign out
-      </button>
-</form></nav>
-
-    </div>
-
-    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
-      <a class="Header-link " href="https://github.com/" data-hotkey="g d"
-  aria-label="Homepage " data-ga-click="Header, go to dashboard, icon:logo">
-  <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
-</a>
-
-    </div>
-
-    <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
-      
-
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTEyNzI1OTgiLCJ0IjoxNjA2MjE0MTc1fQ==--db1f61e7d9abb2ad19961528ced665f89b16573a9cf9db8e3915a5348f1c6f9c">
-      <a href="/notifications"
-         class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
-         
-         aria-label="You have no unread notifications"
-         data-hotkey="g n"
-         data-ga-click="Header, go to notifications, icon:read"
-         data-target="notification-indicator.link">
-         <span class="mail-status  " data-target="notification-indicator.modifier"></span>
-         <svg class="octicon octicon-bell" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path></svg>
-      </a>
-    </notification-indicator>
-
-    </div>
-
-
-    <div class="Header-item position-relative d-none d-md-flex">
-      <details class="details-overlay details-reset">
-  <summary class="Header-link"
-      aria-label="Create new…"
-      data-ga-click="Header, create new, icon:add">
-      <svg class="octicon octicon-plus" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 2a.75.75 0 01.75.75v4.5h4.5a.75.75 0 010 1.5h-4.5v4.5a.75.75 0 01-1.5 0v-4.5h-4.5a.75.75 0 010-1.5h4.5v-4.5A.75.75 0 018 2z"></path></svg> <span class="dropdown-caret"></span>
-  </summary>
-  <details-menu class="dropdown-menu dropdown-menu-sw">
-    
-<a role="menuitem" class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
-  New repository
-</a>
-
-  <a role="menuitem" class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
-    Import repository
-  </a>
-
-<a role="menuitem" class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
-  New gist
-</a>
-
-  <a role="menuitem" class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
-    New organization
-  </a>
-
-
-  <div role="none" class="dropdown-divider"></div>
-  <div class="dropdown-header">
-    <span title="zeruhur/cepheus-engine-ita">This repository</span>
-  </div>
-    <a role="menuitem" class="dropdown-item" href="/zeruhur/cepheus-engine-ita/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
-      New issue
-    </a>
-
-
-  </details-menu>
-</details>
-
-    </div>
-
-    <div class="Header-item position-relative mr-0 d-none d-md-flex">
-        
-  <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/zeruhur/feature_preview/indicator_check">
-
-  <summary class="Header-link"
-    aria-label="View profile and more"
-    data-ga-click="Header, show menu, icon:avatar">
-    <img
-  alt="@zeruhur"
-  width="20"
-  height="20"
-  src="https://avatars0.githubusercontent.com/u/51272598?s=60&amp;v=4"
-  class="avatar avatar-user " />
-
-      <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
-    <span class="dropdown-caret"></span>
-  </summary>
-  <details-menu class="dropdown-menu dropdown-menu-sw" style="width: 180px" 
-      src="/users/51272598/menu" preload>
-      <include-fragment>
-        <p class="text-center mt-3" data-hide-on-error>
-          <svg viewBox="0 0 16 16" fill="none" style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke">
-    <animateTransform attributeName="transform" type="rotate" from="0 8 8" to="360 8 8" dur="1s" repeatCount="indefinite" />
-  </path>
-</svg>
-        </p>
-        <p class="ml-1 mb-2 mt-2 text-gray-dark" data-show-on-error>
-          <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>
-          Sorry, something went wrong.
-        </p>
-      </include-fragment>
-  </details-menu>
-</details>
-
-    </div>
-</header>
-
-            
-    </div>
-
-  <div id="start-of-content" class="show-on-focus"></div>
-
-
-
-
-
-    <div data-pjax-replace id="js-flash-container">
-
-
-  <template class="js-flash-template">
-    <div class="flash flash-full  {{ className }}">
-  <div class=" px-2" >
-    <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
-      <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-    </button>
-    
-      <div>{{ message }}</div>
-
-  </div>
-</div>
-  </template>
-</div>
-
-
-    
-
-  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
-
-
-
-
-  <div
-    class="application-main "
-    data-commit-hovercards-enabled
-    data-discussion-hovercards-enabled
-    data-issue-and-pr-hovercards-enabled
-  >
-        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
-    <main  >
-      
-
-    
-
-
-
-
-
-
-  
-
-
-  <div class="bg-gray-light pt-3 hide-full-screen mb-5">
-
-      <div class="d-flex mb-3 px-3 px-md-4 px-lg-5">
-
-        <div class="flex-auto min-width-0 width-fit mr-3">
-            <h1 class=" d-flex flex-wrap flex-items-center break-word f3 text-normal">
-    <svg class="octicon octicon-repo text-gray mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
-    <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/zeruhur/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/zeruhur">zeruhur</a>
-    </span>
-    <span class="mx-1 flex-self-stretch color-text-secondary">/</span>
-  <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" class="" href="/zeruhur/cepheus-engine-ita">cepheus-engine-ita</a>
-  </strong>
-  
-</h1>
-
-
-        </div>
-
-          <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
-
-  <li>
-          <notifications-list-subscription-form class="f5 position-relative d-flex">
-      <details
-        class="details-reset details-overlay f5 position-relative"
-        data-target="notifications-list-subscription-form.details"
-        data-action="toggle:notifications-list-subscription-form#detailsToggled"
-      >
-
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:315424275,&quot;originating_url&quot;:&quot;https://github.com/zeruhur/cepheus-engine-ita/blob/introduzione/ita/003_introduzione.md&quot;,&quot;user_id&quot;:51272598}}" data-hydro-click-hmac="8328bfa4fcc43f0a9a568b7b4ee662543e58c3aa7407e4243d9f5926e1fab8ad" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
-          <span data-menu-button>
-            <span
-              
-              
-              data-target="notifications-list-subscription-form.unwatchButtonCopy"
-            >
-              <svg class="octicon octicon-eye" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path></svg>
-              Unwatch
-            </span>
-            <span
-              hidden
-              
-              data-target="notifications-list-subscription-form.stopIgnoringButtonCopy"
-            >
-              <svg class="octicon octicon-bell-slash" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5c-.997 0-1.895.416-2.534 1.086A.75.75 0 014.38 1.55 5 5 0 0113 5v2.373a.75.75 0 01-1.5 0V5A3.5 3.5 0 008 1.5zM4.182 4.31L1.19 2.143a.75.75 0 10-.88 1.214L3 5.305v2.642a.25.25 0 01-.042.139L1.255 10.64A1.518 1.518 0 002.518 13h11.108l1.184.857a.75.75 0 10.88-1.214l-1.375-.996a1.196 1.196 0 00-.013-.01L4.198 4.321a.733.733 0 00-.016-.011zm7.373 7.19L4.5 6.391v1.556c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01.015.015 0 00.005.012.017.017 0 00.006.004l.007.001h9.037zM8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path></svg>
-              Stop ignoring
-            </span>
-            <span
-              hidden
-              
-              data-target="notifications-list-subscription-form.watchButtonCopy"
-            >
-              <svg class="octicon octicon-eye" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path></svg>
-              Watch
-            </span>
-          </span>
-          <span class="dropdown-caret"></span>
-</summary>
-        <details-menu
-          class="SelectMenu  "
-          role="menu"
-          data-target="notifications-list-subscription-form.menu"
-          
-        >
-          <div class="SelectMenu-modal notifications-component-menu-modal">
-            <header class="SelectMenu-header">
-              <h3 class="SelectMenu-title">Notifications</h3>
-              <button class="SelectMenu-closeButton" type="button" aria-label="Close menu" data-action="click:notifications-list-subscription-form#closeMenu">
-                <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-              </button>
-            </header>
-
-            <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="p3ZRm1OETVMj0CEE6C/urk0al6fZV7HhvpvWYqGPWAziVSlYs5fM4d1vRSBEKr+kos6s+oPYcdhTYqz9HF9GjA==" />
-
-                <input type="hidden" name="repository_id" value="315424275">
-
-                <button
-                  type="submit"
-                  name="do"
-                  value="included"
-                  class="SelectMenu-item flex-items-start"
-                  role="menuitemradio"
-                  aria-checked="false"
-                  data-targets="notifications-list-subscription-form.subscriptionButtons"
-                  
-                >
-                  <span class="f5">
-                    <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
-                  </span>
-                  <div>
-                    <div class="f5 text-bold">
-                      Participating and @mentions
-                    </div>
-                    <div class="text-small text-gray text-normal pb-1">
-                      Only receive notifications from this repo when participating or @mentioned.
-                    </div>
-                  </div>
-                </button>
-
-                <button
-                  type="submit"
-                  name="do"
-                  value="subscribed"
-                  class="SelectMenu-item flex-items-start"
-                  role="menuitemradio"
-                  aria-checked="true"
-                  data-targets="notifications-list-subscription-form.subscriptionButtons"
-                >
-                  <span class="f5">
-                    <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
-                  </span>
-                  <div>
-                    <div class="f5 text-bold">
-                      All Activity
-                    </div>
-                    <div class="text-small text-gray text-normal pb-1">
-                      Notified of all notifications on this repo.
-                    </div>
-                  </div>
-                </button>
-
-                <button
-                  type="submit"
-                  name="do"
-                  value="ignore"
-                  class="SelectMenu-item flex-items-start"
-                  role="menuitemradio"
-                  aria-checked="false"
-                  data-targets="notifications-list-subscription-form.subscriptionButtons"
-                >
-                  <span class="f5">
-                    <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
-                  </span>
-                  <div>
-                    <div class="f5 text-bold">
-                      Ignore
-                    </div>
-                    <div class="text-small text-gray text-normal pb-1">
-                      Never be notified.
-                    </div>
-                  </div>
-                </button>
-</form>
-              <button
-                class="SelectMenu-item flex-items-start pr-3"
-                type="button"
-                role="menuitemradio"
-                data-target="notifications-list-subscription-form.customButton"
-                data-action="click:notifications-list-subscription-form#openCustomDialog"
-                aria-haspopup="true"
-                aria-checked="false"
-                
-              >
-                <span class="f5">
-                  <svg class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
-                </span>
-                <div>
-                  <div class="d-flex flex-items-start flex-justify-between">
-                    <div class="f5 text-bold">Custom</div>
-                    <div class="f5 pr-1">
-                      <svg class="octicon octicon-arrow-right" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 2.97a.75.75 0 011.06 0l4.25 4.25a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06-1.06l2.97-2.97H3.75a.75.75 0 010-1.5h7.44L8.22 4.03a.75.75 0 010-1.06z"></path></svg>
-                    </div>
-                  </div>
-                  <div class="text-small text-gray text-normal pb-1">
-                    Select events you want to be notified of in addition to participating and @mentions.
-                  </div>
-                </div>
-              </button>
-            </div>
-          </div>
-        </details-menu>
-
-        <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
-          <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="e9f1RhvTbpMvjqReW88LrZPB9AG2S+yvAZdSG89X5F0+9I2F+8DvIdExwHr3ylqnfBXPXOzELJbsbiiEcof63Q==" />
-
-              <input type="hidden" name="repository_id" value="315424275">
-
-              <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
-                <h1 class="f3 SelectMenu-title d-inline-flex">
-                  <button
-                    class="bg-white border-0 px-2 py-0 m-0 link-gray f5"
-                    aria-label="Return to menu"
-                    type="button"
-                    data-action="click:notifications-list-subscription-form#closeCustomDialog"
-                  >
-                    <svg style="" class="octicon octicon-arrow-left" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.78 12.53a.75.75 0 01-1.06 0L2.47 8.28a.75.75 0 010-1.06l4.25-4.25a.75.75 0 011.06 1.06L4.81 7h7.44a.75.75 0 010 1.5H4.81l2.97 2.97a.75.75 0 010 1.06z"></path></svg>
-                  </button>
-                  Custom
-                </h3>
-              </header>
-
-              <header class="d-none d-sm-flex flex-items-start pt-1">
-                <button
-                  class="bg-white border-0 px-2 pt-1 m-0 link-gray f5"
-                  aria-label="Return to menu"
-                  type="button"
-                  data-action="click:notifications-list-subscription-form#closeCustomDialog"
-                >
-                  <svg style="position: relative; left: 2px; top: 1px" class="octicon octicon-arrow-left" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.78 12.53a.75.75 0 01-1.06 0L2.47 8.28a.75.75 0 010-1.06l4.25-4.25a.75.75 0 011.06 1.06L4.81 7h7.44a.75.75 0 010 1.5H4.81l2.97 2.97a.75.75 0 010 1.06z"></path></svg>
-                </button>
-
-                <h1 class="pt-1 pr-4 pb-0 pl-0 f5 text-bold">
-                  Custom
-                </h1>
-              </header>
-
-              <fieldset>
-                <legend>
-                  <div class="text-small text-gray pt-0 pr-3 pb-3 pl-6 pl-sm-5 border-bottom mb-3">
-                    Select events you want to be notified of in addition to participating and @mentions.
-                  </div>
-                </legend>
-                  <div class="form-checkbox mr-3 ml-6 ml-sm-5 mb-2 mt-0">
-                    <label class="f5 text-normal">
-                      <input
-                        type="checkbox"
-                        name="thread_types[]"
-                        value="Issue"
-                        data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
-                        data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
-                        autofocus
-                      >
-                      Issues
-                    </label>
-
-                  </div>
-                  <div class="form-checkbox mr-3 ml-6 ml-sm-5 mb-2 mt-0">
-                    <label class="f5 text-normal">
-                      <input
-                        type="checkbox"
-                        name="thread_types[]"
-                        value="PullRequest"
-                        data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
-                        data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
-                        
-                      >
-                      Pull requests
-                    </label>
-
-                  </div>
-                  <div class="form-checkbox mr-3 ml-6 ml-sm-5 mb-2 mt-0">
-                    <label class="f5 text-normal">
-                      <input
-                        type="checkbox"
-                        name="thread_types[]"
-                        value="Release"
-                        data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
-                        data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
-                        
-                      >
-                      Releases
-                    </label>
-
-                  </div>
-              </fieldset>
-              <div class="pt-2 pb-3 px-3 d-flex flex-justify-start flex-row-reverse">
-                <button
-                  type="submit"
-                  name="do"
-                  value="custom"
-                  class="btn btn-sm btn-primary ml-2"
-                  data-target="notifications-list-subscription-form.customSubmit"
-                  disabled
-                >Apply</button>
-
-                <button
-                  class="btn btn-sm"
-                  type="button"
-                  data-action="click:notifications-list-subscription-form#resetForm"
-                  data-close-dialog="">Cancel</button>
-              </div>
-</form>          </div>
-        </details-dialog>
-        <div class="notifications-component-dialog-overlay"></div>
-      </details>
-        <a class="social-count"
-          href="/zeruhur/cepheus-engine-ita/watchers"
-          aria-label="1 user is watching this repository"
-          data-target="notifications-list-subscription-form.socialCount"
-        >
-          1
-        </a>
-
-    </notifications-list-subscription-form>
-
-  </li>
-
-  <li>
-        <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/zeruhur/cepheus-engine-ita/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Vc6Lpm6ckbmKci5RiFygkTXf2pRlEOpUNRsgWuZeY60g5Q04ooPAZvCZX0t+RMaD1NSTmQquvtppwtoHfH5smg==" />
-      <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar zeruhur/cepheus-engine-ita" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:315424275,&quot;originating_url&quot;:&quot;https://github.com/zeruhur/cepheus-engine-ita/blob/introduzione/ita/003_introduzione.md&quot;,&quot;user_id&quot;:51272598}}" data-hydro-click-hmac="4c8146169776a210bf6cb2fe9676cf01de437a726039ce6a82c9a346edc06627" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
-        Unstar
-</button>        <a class="social-count js-social-count" href="/zeruhur/cepheus-engine-ita/stargazers"
-           aria-label="0 users starred this repository">
-           0
-        </a>
-</form>
-    <form class="unstarred js-social-form" action="/zeruhur/cepheus-engine-ita/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Vel9TmrZD9Ye2E/JjK7DYwSxsuy87cZt+eGQB5EEK+GyLHUwszPcUXNND3dWdtq5V/oXcK8lvYquYBOYwNZ4eQ==" />
-      <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star zeruhur/cepheus-engine-ita" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:315424275,&quot;originating_url&quot;:&quot;https://github.com/zeruhur/cepheus-engine-ita/blob/introduzione/ita/003_introduzione.md&quot;,&quot;user_id&quot;:51272598}}" data-hydro-click-hmac="7655752daff36542c6502ed42d30e1b0169a4ad9bf50f986396b7f255104e9c9" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
-        Star
-</button>        <a class="social-count js-social-count" href="/zeruhur/cepheus-engine-ita/stargazers"
-           aria-label="0 users starred this repository">
-          0
-        </a>
-</form>  </div>
-
-  </li>
-
-  <li>
-            <div class="float-left">
-              <details class="details-reset details-overlay details-overlay-dark " >
-                      <summary
-                    class="btn btn-sm btn-with-count"
-                    title="Fork your own copy of zeruhur/cepheus-engine-ita to your account"
-                    data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:315424275,&quot;originating_url&quot;:&quot;https://github.com/zeruhur/cepheus-engine-ita/blob/introduzione/ita/003_introduzione.md&quot;,&quot;user_id&quot;:51272598}}" data-hydro-click-hmac="e6169e97bf5ff73d5f6851717ef56a82fb328d754c3829383af67a0b9dc6a6d1" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
-                    <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
-                    Fork
-                  </summary>
-
-  <details-dialog
-    class="Box d-flex flex-column anim-fade-in fast Box--overlay "
-      aria-label="Fork cepheus-engine-ita"
-      src="/zeruhur/cepheus-engine-ita/fork?fragment=1"
-      preload
-    >
-    <div class="Box-header">
-      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-        <svg class="octicon octicon-x" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-      </button>
-      <h1 class="Box-title">Fork cepheus-engine-ita</h1>
-    </div>
-      
-                <div class="text-center overflow-auto">
-                  <include-fragment>
-                    <div class="octocat-spinner my-5" aria-label="Loading..."></div>
-                    <p class="f5 text-gray">If this dialog fails to load, you can visit <a href="/zeruhur/cepheus-engine-ita/fork">the fork page</a> directly.</p>
-                  </include-fragment>
-                </div>
-
-  </details-dialog>
-</details>
-            </div>
-
-      <a href="/zeruhur/cepheus-engine-ita/network/members" class="social-count"
-         aria-label="0 users forked this repository">
-        0
-      </a>
-  </li>
-</ul>
-
-      </div>
-        
-<nav aria-label="Repository" data-pjax="#js-repo-pjax-container" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5 bg-gray-light">
-  <ul class="UnderlineNav-body list-style-none ">
-          <li class="d-flex">
-        <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /zeruhur/cepheus-engine-ita/tree/introduzione" href="/zeruhur/cepheus-engine-ita/tree/introduzione">
-              <svg class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
-            <span data-content="Code">Code</span>
-              <span title="Not available" class="Counter "></span>
-</a>      </li>
-      <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="issues-tab" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-selected-links="repo_issues repo_labels repo_milestones /zeruhur/cepheus-engine-ita/issues" href="/zeruhur/cepheus-engine-ita/issues">
-              <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
-            <span data-content="Issues">Issues</span>
-              <span title="0" hidden="hidden" class="Counter ">0</span>
-</a>      </li>
-      <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="pull-requests-tab" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-selected-links="repo_pulls checks /zeruhur/cepheus-engine-ita/pulls" href="/zeruhur/cepheus-engine-ita/pulls">
-              <svg class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path></svg>
-            <span data-content="Pull requests">Pull requests</span>
-              <span title="0" hidden="hidden" class="Counter ">0</span>
-</a>      </li>
-      <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="actions-tab" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-selected-links="repo_actions /zeruhur/cepheus-engine-ita/actions" href="/zeruhur/cepheus-engine-ita/actions">
-              <svg class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path></svg>
-            <span data-content="Actions">Actions</span>
-              <span title="Not available" class="Counter "></span>
-</a>      </li>
-      <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="projects-tab" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-selected-links="repo_projects new_repo_project repo_project /zeruhur/cepheus-engine-ita/projects" href="/zeruhur/cepheus-engine-ita/projects">
-              <svg class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
-            <span data-content="Projects">Projects</span>
-              <span title="1" class="Counter ">1</span>
-</a>      </li>
-      <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="wiki-tab" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-selected-links="repo_wiki /zeruhur/cepheus-engine-ita/wiki" href="/zeruhur/cepheus-engine-ita/wiki">
-              <svg class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path></svg>
-            <span data-content="Wiki">Wiki</span>
-              <span title="Not available" class="Counter "></span>
-</a>      </li>
-      <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="security-tab" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-selected-links="security overview alerts policy token_scanning code_scanning /zeruhur/cepheus-engine-ita/security" href="/zeruhur/cepheus-engine-ita/security">
-              <svg class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path></svg>
-            <span data-content="Security">Security</span>
-              <include-fragment src="/zeruhur/cepheus-engine-ita/security/overall-count" accept="text/fragment+html"></include-fragment>
-</a>      </li>
-      <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="insights-tab" data-ga-click="Repository, Navigation click, Insights tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /zeruhur/cepheus-engine-ita/pulse" href="/zeruhur/cepheus-engine-ita/pulse">
-              <svg class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path></svg>
-            <span data-content="Insights">Insights</span>
-              <span title="Not available" class="Counter "></span>
-</a>      </li>
-      <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="settings-tab" data-ga-click="Repository, Navigation click, Settings tab" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings repo_actions_settings notifications /zeruhur/cepheus-engine-ita/settings" href="/zeruhur/cepheus-engine-ita/settings">
-              <svg class="octicon octicon-gear UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.429 1.525a6.593 6.593 0 011.142 0c.036.003.108.036.137.146l.289 1.105c.147.56.55.967.997 1.189.174.086.341.183.501.29.417.278.97.423 1.53.27l1.102-.303c.11-.03.175.016.195.046.219.31.41.641.573.989.014.031.022.11-.059.19l-.815.806c-.411.406-.562.957-.53 1.456a4.588 4.588 0 010 .582c-.032.499.119 1.05.53 1.456l.815.806c.08.08.073.159.059.19a6.494 6.494 0 01-.573.99c-.02.029-.086.074-.195.045l-1.103-.303c-.559-.153-1.112-.008-1.529.27-.16.107-.327.204-.5.29-.449.222-.851.628-.998 1.189l-.289 1.105c-.029.11-.101.143-.137.146a6.613 6.613 0 01-1.142 0c-.036-.003-.108-.037-.137-.146l-.289-1.105c-.147-.56-.55-.967-.997-1.189a4.502 4.502 0 01-.501-.29c-.417-.278-.97-.423-1.53-.27l-1.102.303c-.11.03-.175-.016-.195-.046a6.492 6.492 0 01-.573-.989c-.014-.031-.022-.11.059-.19l.815-.806c.411-.406.562-.957.53-1.456a4.587 4.587 0 010-.582c.032-.499-.119-1.05-.53-1.456l-.815-.806c-.08-.08-.073-.159-.059-.19a6.44 6.44 0 01.573-.99c.02-.029.086-.075.195-.045l1.103.303c.559.153 1.112.008 1.529-.27.16-.107.327-.204.5-.29.449-.222.851-.628.998-1.189l.289-1.105c.029-.11.101-.143.137-.146zM8 0c-.236 0-.47.01-.701.03-.743.065-1.29.615-1.458 1.261l-.29 1.106c-.017.066-.078.158-.211.224a5.994 5.994 0 00-.668.386c-.123.082-.233.09-.3.071L3.27 2.776c-.644-.177-1.392.02-1.82.63a7.977 7.977 0 00-.704 1.217c-.315.675-.111 1.422.363 1.891l.815.806c.05.048.098.147.088.294a6.084 6.084 0 000 .772c.01.147-.038.246-.088.294l-.815.806c-.474.469-.678 1.216-.363 1.891.2.428.436.835.704 1.218.428.609 1.176.806 1.82.63l1.103-.303c.066-.019.176-.011.299.071.213.143.436.272.668.386.133.066.194.158.212.224l.289 1.106c.169.646.715 1.196 1.458 1.26a8.094 8.094 0 001.402 0c.743-.064 1.29-.614 1.458-1.26l.29-1.106c.017-.066.078-.158.211-.224a5.98 5.98 0 00.668-.386c.123-.082.233-.09.3-.071l1.102.302c.644.177 1.392-.02 1.82-.63.268-.382.505-.789.704-1.217.315-.675.111-1.422-.364-1.891l-.814-.806c-.05-.048-.098-.147-.088-.294a6.1 6.1 0 000-.772c-.01-.147.039-.246.088-.294l.814-.806c.475-.469.679-1.216.364-1.891a7.992 7.992 0 00-.704-1.218c-.428-.609-1.176-.806-1.82-.63l-1.103.303c-.066.019-.176.011-.299-.071a5.991 5.991 0 00-.668-.386c-.133-.066-.194-.158-.212-.224L10.16 1.29C9.99.645 9.444.095 8.701.031A8.094 8.094 0 008 0zm1.5 8a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM11 8a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-            <span data-content="Settings">Settings</span>
-              <span title="Not available" class="Counter "></span>
-</a>      </li>
-
-</ul>        <div class="position-absolute right-0 pr-3 pr-md-4 pr-lg-5 js-responsive-underlinenav-overflow" style="visibility:hidden;">
-      <details class="details-overlay details-reset position-relative">
-  <summary role="button">
-    <div class="UnderlineNav-item mr-0 border-0">
-            <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path></svg>
-            <span class="sr-only">More</span>
-          </div>
-</summary>  <div>
-    <details-menu role="menu" class="dropdown-menu dropdown-menu-sw ">
-  
-            <ul>
-                <li data-menu-item="code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /zeruhur/cepheus-engine-ita/tree/introduzione" href="/zeruhur/cepheus-engine-ita/tree/introduzione">
-                    Code
-</a>                </li>
-                <li data-menu-item="issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /zeruhur/cepheus-engine-ita/issues" href="/zeruhur/cepheus-engine-ita/issues">
-                    Issues
-</a>                </li>
-                <li data-menu-item="pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /zeruhur/cepheus-engine-ita/pulls" href="/zeruhur/cepheus-engine-ita/pulls">
-                    Pull requests
-</a>                </li>
-                <li data-menu-item="actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /zeruhur/cepheus-engine-ita/actions" href="/zeruhur/cepheus-engine-ita/actions">
-                    Actions
-</a>                </li>
-                <li data-menu-item="projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /zeruhur/cepheus-engine-ita/projects" href="/zeruhur/cepheus-engine-ita/projects">
-                    Projects
-</a>                </li>
-                <li data-menu-item="wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /zeruhur/cepheus-engine-ita/wiki" href="/zeruhur/cepheus-engine-ita/wiki">
-                    Wiki
-</a>                </li>
-                <li data-menu-item="security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /zeruhur/cepheus-engine-ita/security" href="/zeruhur/cepheus-engine-ita/security">
-                    Security
-</a>                </li>
-                <li data-menu-item="insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /zeruhur/cepheus-engine-ita/pulse" href="/zeruhur/cepheus-engine-ita/pulse">
-                    Insights
-</a>                </li>
-                <li data-menu-item="settings-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /zeruhur/cepheus-engine-ita/settings" href="/zeruhur/cepheus-engine-ita/settings">
-                    Settings
-</a>                </li>
-            </ul>
-
-</details-menu>
-</div></details>    </div>
-
-</nav>
-  </div>
-
-
-<div class="container-xl clearfix new-discussion-timeline px-3 px-md-4 px-lg-5">
-  <div class="repository-content " >
-
-    
-      
-  
-
-
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/zeruhur/cepheus-engine-ita/blob/1b0ae8e2dcc0f82e9be6e45b01c69e2c1e54bb6e/ita/003_introduzione.md">Permalink</a>
-
-    <!-- blob contrib key: blob_contributors:v22:b422a5f6f4eaa94f259d85302ffb537e9c51b5891d53cb86b96d0ea7612e948c -->
-    
-
-    <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
-      
-<div class="position-relative">
-  <details class="details-reset details-overlay mr-0 mb-0 " id="branch-select-menu">
-    <summary class="btn css-truncate"
-            data-hotkey="w"
-            title="Switch branches or tags">
-      <svg class="octicon octicon-git-branch text-gray" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path></svg>
-      <span class="css-truncate-target" data-menu-button>introduzione</span>
-      <span class="dropdown-caret"></span>
-    </summary>
-
-    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/zeruhur/cepheus-engine-ita/refs/introduzione/ita/003_introduzione.md?source_action=show&amp;source_controller=blob" preload>
-      <div class="SelectMenu-modal">
-        <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
-          <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
-        </include-fragment>
-      </div>
-    </details-menu>
-  </details>
-
-</div>
-
-      <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/zeruhur/cepheus-engine-ita/tree/introduzione"><span>cepheus-engine-ita</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/zeruhur/cepheus-engine-ita/tree/introduzione/ita"><span>ita</span></a></span><span class="separator">/</span><strong class="final-path">003_introduzione.md</strong>
-      </h2>
-      <a href="/zeruhur/cepheus-engine-ita/find/introduzione"
-            class="js-pjax-capture-input btn mr-2 d-none d-md-block"
-            data-pjax
-            data-hotkey="t">
-        Go to file
-      </a>
-
-      <details id="blob-more-options-details" class="details-overlay details-reset position-relative">
-  <summary role="button" type="button" class="btn ">
-    <svg aria-label="More options" class="octicon octicon-kebab-horizontal" height="16" viewBox="0 0 16 16" version="1.1" width="16" role="img"><path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path></svg>
-</summary>  <div>
-    <ul class="dropdown-menu dropdown-menu-sw">
-            <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:315424275,&quot;originating_url&quot;:&quot;https://github.com/zeruhur/cepheus-engine-ita/blob/introduzione/ita/003_introduzione.md&quot;,&quot;user_id&quot;:51272598}}" data-hydro-click-hmac="0a98d06e6cccc8ea44c3a17743d656ec2a0fc02d293a2ba6d2c5efbebdeb15aa" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/zeruhur/cepheus-engine-ita/find/introduzione">
-                <span class="flex-auto">Go to file</span>
-                <span class="text-small text-gray" aria-hidden="true">T</span>
-</a>            </li>
-            <li data-toggle-for="blob-more-options-details">
-              <button type="button" data-toggle-for="jumpto-line-details-dialog" class="btn-link dropdown-item">
-                <span class="d-flex flex-items-baseline">
-                  <span class="flex-auto">Go to line</span>
-                  <span class="text-small text-gray" aria-hidden="true">L</span>
-                </span>
-              </button>
-            </li>
-            <li class="dropdown-divider" role="none"></li>
-            <li>
-              <clipboard-copy value="ita/003_introduzione.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
-                Copy path
-              </clipboard-copy>
-            </li>
-          </ul>
-</div></details>    </div>
-
-
-
-    <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/zeruhur/cepheus-engine-ita/contributors/introduzione/ita/003_introduzione.md" class="commit-loader">
-        <div class="Box-header Box-header--blue d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
-
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
-        </div>
-</include-fragment>    </div>
-
-
-
-
-
-
-    <div class="Box mt-3 position-relative
-      ">
-      
-<div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
-  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
-
-      534 lines (384 sloc)
-      <span class="file-info-divider"></span>
-    31.8 KB
-  </div>
-
-  <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
-
-    <div class="BtnGroup">
-      <a href="/zeruhur/cepheus-engine-ita/raw/introduzione/ita/003_introduzione.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/zeruhur/cepheus-engine-ita/blame/introduzione/ita/003_introduzione.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
-    </div>
-
-    <div>
-          <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
-             data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/zeruhur/cepheus-engine-ita?branch=introduzione&amp;filepath=ita%2F003_introduzione.md"
-             aria-label="Open this file in GitHub Desktop"
-             data-ga-click="Repository, open with desktop">
-              <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
-          </a>
-
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/zeruhur/cepheus-engine-ita/edit/introduzione/ita/003_introduzione.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0dIMZUKCoc+BhJmy9TA+d6TeaeMAq20T/lR6Yi8R97YcqJ27ZD9wzRphwq4VQ8eZQrjI+asLFDpmHVk2FOK0wA==" />
-            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Edit this file" data-hotkey="e" data-disable-with>
-              <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
-            </button>
-</form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/zeruhur/cepheus-engine-ita/delete/introduzione/ita/003_introduzione.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="usNceuHKHfWtPFRiN/Emx7g+rmuVialigVtwT9IMuVK3PDA0ZHNxUayy8NpY/zHSACO9u2VGnDscTlRiPQgDzQ==" />
-            <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Delete this file" data-disable-with>
-              <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
-            </button>
-</form>    </div>
-  </div>
-</div>
-
-      
-  <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-introduzione" class="anchor" aria-hidden="true" href="#introduzione"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>INTRODUZIONE</h1>
-<p>Benvenuti nel <em><strong>Cepheus Engine System Reference Document</strong></em>, che delinea le regole fondamentali usate da un Sistema di Gioco Aperto, basato su 2D6, di Fantascienza dell'Era Classica. Questa introduzione ti fornisce una panoramica di ciò che Cepheus Engine è e di come funziona, mentre i capitoli successivi ti mostrano come creare personaggi e imbarcarti in tue eccitanti avventure di fantascienza.</p>
-<h2><a id="user-content-che-cosè-il-gioco-di-ruolo" class="anchor" aria-hidden="true" href="#che-cosè-il-gioco-di-ruolo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Che cos'è il Gioco di Ruolo?</h2>
-<p>Se sei nuovo al gioco di ruolo, potresti chiederti: "Che cos'è un
-gioco di ruolo?"</p>
-<p>Un gioco di ruolo (a volte abbreviato in GdR) è un gioco in cui i giocatori assumono i ruoli di personaggi in un ambiente immaginario. I giocatori si assumono la responsabilità di recitare questi ruoli all'interno di una narrazione, o attraverso la recitazione letterale o attraverso un processo strutturato
-processo decisionale o sviluppo del personaggio. Le azioni intraprese all'interno di molti giochi riescono o falliscono secondo un sistema formale di regole e linee guida, come le regole del Cepheus Engine.</p>
-<p>Una sessione di gioco di Cepheus Engine play è condotta tramite il dialogo. Un giocatore, l'Arbitro, di solito arbitra qualsiasi decisione in base alle regole e presenta l'ambientazione del gioco, mentre ciascuno degli altri giocatori interpreta il ruolo di un singolo personaggio. Insieme, l'arbitro e i giocatori creano una storia, molto simile al modo in cui molti di noi erano soliti creare storie giocando a giochi di finzione da bambini, tranne che con più dadi e più struttura.</p>
-<h2><a id="user-content-che-cosè-il-cepheus-engine" class="anchor" aria-hidden="true" href="#che-cosè-il-cepheus-engine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Che cos'è il Cepheus Engine?</h2>
-<p>Il Cepheus Engine è semplicemente un insieme di regole per condurre un gioco basato sulla fantascienza classica. All'interno delle sue pagine troverai regole per creare personaggi, risolvere compiti, combattere altre creature e impegnarti in enormi battaglie spaziali, costruire mondi, goderti i rischi del commercio speculativo interstellare, esplorare nuovi mondi e una miriade di altre attività diverse. Sebbene nessun set di regole possa essere completo, il motore Cepheus cerca di fornire regole sufficienti per consentirti di creare quasi tutte le avventure di fantascienza.</p>
-<p>Il Cepheus Engine si ispira ai classici giochi di fantascienza dei primi giorni del gioco di ruolo e condivide molte somiglianze con questi sistemi di gioco. Il materiale di questi vecchi set di regole e quelli creati con il Cepheus Engine sono reciprocamente compatibili con solo un minimo di aggiustamenti richiesti.</p>
-<p>Per giocare, hai bisogno di una copia delle regole del Cepheus Engine; diversi dadi a sei facce, disponibili nei negozi di giochi e hobby (ne servono almeno due, ma più è meglio); e una matita e della carta.</p>
-<h2><a id="user-content-il-sistema-principale-di-risoluzione-delle-attività" class="anchor" aria-hidden="true" href="#il-sistema-principale-di-risoluzione-delle-attività"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Il sistema principale di risoluzione delle attività</h2>
-<p>Il Cepheus Engine utilizza un sistema princiapale di risoluzione delle attività per risolvere le azioni. Ogni volta che il tuo personaggio tenta un'azione con una possibilità di fallimento, procedi come segue:</p>
-<ol>
-<li>
-<p>Tira due dati a sei facce (abbreviato 2D6).</p>
-</li>
-<li>
-<p>Aggiungi ogni modificatore rilevante (per cose come caratteristiche, competenze, difficoltà e circostanze).</p>
-</li>
-<li>
-<p>Se il risultato eguaglia o supera 8, l'azione ha successo. Se il risultato è inferiore di 8, l'azione fallisce.</p>
-</li>
-</ol>
-<p>Questo semplice sitema è usato praticamente per tutto nel Cepheus Engine, con varianti basate sui modificatori aggiunti a un tiro e gli effetti di successo o fallimento.</p>
-<h2><a id="user-content-larbitro" class="anchor" aria-hidden="true" href="#larbitro"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>L'Arbitro</h2>
-<p>All'interno delle regole del Cepheus Engine, a uno dei giocatori viene chiesto di assumere il manto di arbitro. L'Arbitro è la persona che agirà da
-organizzatore, officiante per questioni riguardanti le regole, arbitro e moderatore di una sessione di gioco Cepheus Engine o di una campagna di Cepheus Engine in corso. Il ruolo dell'Arbitro è quello: di tessere insieme le storie dei personaggi giocanti degli altri partecipanti; di controllare gli aspetti non-giocanti del gioco; di creare ambienti in cui i giocatori possono interagire; di risolvere eventuali controversie dei giocatori.</p>
-<h2><a id="user-content-i-personaggi" class="anchor" aria-hidden="true" href="#i-personaggi"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I Personaggi</h2>
-<p>Un personaggio di un giocatore o un personaggio giocante (PG) è un personaggio immaginario in un gioco Cepheus Engine le cui azioni sono controllate direttamente da un giocatore piuttosto che dalle regole del gioco. I personaggi che non sono controllati da un giocatore sono chiamati personaggi non giocanti (NPG). Le azioni dei personaggi non giocanti sono generalmente gestite dall'Arbitro.</p>
-<p>Usando le regole del Cepheus Engine come linee guida, un giocatore creerà un personaggio che riflette il tipo di ruolo che vorrebbe avere nel gioco.
-Il personaggio è solitamente di una certa razza (a seconda di quelli disponibili nell'universo dell'Arbitro) e possiede una combinazione unica di competenze e livelli di esperienza. Gli attributi di un personaggio sono dati come valori numerici che possono cambiare man mano che il giocatore avanza e i personaggi crescono e si sviluppano nel corso delle loro avventure.</p>
-<h2><a id="user-content-caratteristiche" class="anchor" aria-hidden="true" href="#caratteristiche"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Caratteristiche</h2>
-<p>Tutti i personaggi hanno determinate caratteristiche di base che definiscono ciò che essi sono in grado di fare. Queste caratteristiche sono Forza, Destrezza, Resistenza, Intelligenza, Educazione e Posizione Sociale. Ognuno di loro ha un punteggio caratteristico numerico, in media 7 per un umano di normale capacità. I punteggi delle caratteristiche più alti conferiscono bonus (+1 o più) alla verifica di risoluzione delle attività, mentre punteggi delle caratteristiche più bassi concedono penalità (fino a -2). Come parte della creazione del tuo personaggio, decidi quanto esso sia forte, intelligente e resistente scegliendo l'appropriato punteggio di caratteristica. Vedi ** Capitolo 1: Creazione del personaggio ** per ulteriori informazioni.</p>
-<h2><a id="user-content-carriere" class="anchor" aria-hidden="true" href="#carriere"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Carriere</h2>
-<p>Come parte del loro sviluppo, i personaggi seguono determinati percorsi di vita chiamati carriere. Il Cepheus Engine offre una varietà di opzioni di carriera da perseguire per i personaggi, il che apre opportunità ai personaggi di ottenere livelli di competenze, potenziamenti delle caratteristiche e significativi benefici di congedo prima di entrare in gioco. Vedi il ** Capitolo 1: Creazione del personaggio ** per ulteriori informazioni.</p>
-<h2><a id="user-content-competenze" class="anchor" aria-hidden="true" href="#competenze"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Competenze</h2>
-<p>Le competenze rappresentano l'addestramento in un particolare tipo di compito o conoscenza, dalle manovre acrobatiche alla negoziazione, al pilotaggio di un'astronave, al programmare un computer. Una persona addestrata in atletica leggera è in grado arrampicarsi più velocemente e con più sicurezza di qualcuno che non lo è, per esempio. Le competenze sono misurate in livelli, che riflettono quanto addestramento un personaggio possiede nella competenza. Quando si registrano le competenze e i loro livelli associati, il nome della competenza viene scritto per primo, seguito da un trattino e quindi dal numero di livelli che il personaggio possiede in quella competenza. Per esempio, Gioco d'azzardo-2 significa che il personaggio ha due livelli nella competenza di Gioco d'azzardo.</p>
-<p>Ogni livello di competenza rappresenta circa due anni di addestramento e formazione in quella competenza. Per un confronto usando una terminologia di stampo accademico, potresti equiparare il livello uno a quello di una laurea breve (o analogo programma accademico triennale), il livello due a una laurea magistrale (o altro programma quinquennale), il livello tre a un Master, il livello quattro a un dottorato e così via. I livelli di competenze agiscono come bonus sulle risoluzioni delle attività quando il personaggio tenta un'azione connessa a una competenza. Come il tuo personaggio procede nella propria carriera, acquisice competenze. Vedi ** Capitolo 2: Competenze ** per maggiori informazioni su competenze specifiche.</p>
-<h2><a id="user-content-game-play" class="anchor" aria-hidden="true" href="#game-play"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Game Play</h2>
-<p>Giocare a una sessione utilizzando le regole del Cepheus Engine assomiglia a recitare verbalmente i capitoli di un romanzo di fantascienza. Le sessioni di gioco possono durare da brevi sessioni di un'ora o due, fino a maratone che coprono la maggior parte del fine settimana. Tuttavia, la sessione di gioco media tende a durare dalle tre alle cinque ore. Nel corso di una sessione, i personaggi giocanti proseguono le loro avventure. Alcune si risolvono rapidamente, all'interno di una singola sessione, mentre altre possono svolgersi in più atti spalmate su più sessioni.</p>
-<p>Ogni avventura è come una vera e propria storia, composta da una serie di scene che sono esplorate durante il gioco. In generale, la maggior parte delle scene consistono semplicemente nell'interazione dei giocatori con i personaggi non giocanti e l'universo creato dall'Arbitro. I giocatori descrivono le loro azioni e l'arbitro descrive i risultati di quelle azioni, in un scambio bidirezionale. Alcuni tipi di situazioni, come il combattimento personale o spaziale, hanno più struttura e più regole per aiutare i giocatori a risolvere i loro azioni in modalità che riflettono le competenze dei loro personaggi.</p>
-<h2><a id="user-content-temi-usuali-di-cepheus-engine" class="anchor" aria-hidden="true" href="#temi-usuali-di-cepheus-engine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Temi Usuali di Cepheus Engine</h2>
-<p>I giochi che utilizzano le regole del Cepheus Engine sono generalmente progettati attorno a un tema. Basate nell'era classica della fantascienza, queste regole si prestano a giochi che seguono alcuni temi comuni, che sono dettagliati nella tabella Temi Usuali di Cepheus Engine. Questo non è un elenco completo dei tipi di gioco che il Cepheus Engine è progettato per gestire; questo è semplicemente un elenco generale di temi usali da considerare.</p>
-<h4><a id="user-content-tabella-temi-usuali-di-cepheus-engine" class="anchor" aria-hidden="true" href="#tabella-temi-usuali-di-cepheus-engine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tabella: Temi Usuali di Cepheus Engine</h4>
-<table>
-<thead>
-<tr>
-<th>Tema</th>
-<th>Descrizione</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Coloniale</td>
-<td>Gli avventurieri sono ai confini dello spazio esplorato, aiutano a selezionare un nuovo mondo per una colonia e poi a stabilirlo. Queste campagne consentono a un gruppo di sviluppare ampiamente un unico mondo.</td>
-</tr>
-<tr>
-<td>Commercio</td>
-<td>Gli avventurieri vivono a bordo di un commerciante di frontiera o di un commerciante mercantile, guadagnandosi da vivere con il trasporto di merci, passeggeri, merci speculative e occasionali lavori. Queste campagne esplorano pesantemente le regole del commercio e del commercio.</td>
-</tr>
-<tr>
-<td>Vagabondaggio</td>
-<td>Gli avventurieri si spostano costantemente da un posto all'altro, senza una casa fissa o un lavoro, in cerca di lavoro attraverso lavori occasionali mentre esplorano l'universo che l'Arbitro ha creato. Queste campagne sono talvolta chiamate "campagne sandbox" perché esplorano un'area che è stata precedentemente creata e popolata dall'Arbitro.</td>
-</tr>
-<tr>
-<td>Spionaggio</td>
-<td>Gli avventurieri appartengono tutti allo stesso governo o agenzia di intelligence aziendale e si guadagnano da vivere andando in missioni di spionaggio contro i loro nemici. Queste campagne tendono ad essere più episodiche di altri temi comuni delle campagne.</td>
-</tr>
-<tr>
-<td>Esplorazione</td>
-<td>Gli avventurieri servono a bordo di una nave da ricognizione, guadagnandosi da vivere viaggiando attraverso regioni dello spazio precedentemente inesplorate, esplorando strani nuovi mondi e cercando nuova vita e nuove civiltà mentre vanno coraggiosamente dove nessun altro studente è mai giunto prima. Queste campagne fanno un uso massiccio delle regole per generare mondi.</td>
-</tr>
-<tr>
-<td>Mercenari</td>
-<td>Gli avventurieri appartengono tutti alla stessa unità mercenaria, guadagnandosi da vivere partecipando ad azioni militari nell'assunzione di una parte interessata al conflitto. Queste campagne fanno un uso significativo delle regole di combattimento personali, con una particolare attenzione agli scenari militari su larga scala.</td>
-</tr>
-<tr>
-<td>Politico</td>
-<td>Gli avventurieri sono pesantemente coinvolti nell'arena sociale e politica di una comunità politica interstellare, trattando con diplomatici, nobili e altre fazioni con interessi acquisiti nel controllo degli aspetti del governo. Queste campagne tendono a concentrarsi sulla diplomazia e sugli intrighi politici.</td>
-</tr>
-<tr>
-<td>Ribellione</td>
-<td>Gli avventurieri sono coinvolti in una fiorente guerra civile, cercando di preservare o rovesciare l'attuale governo. Queste campagne in genere iniziano con l'intrigo e terminano con l'azione.</td>
-</tr>
-</tbody>
-</table>
-<h2><a id="user-content-die-rolls" class="anchor" aria-hidden="true" href="#die-rolls"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Die Rolls</h2>
-<p>Using the Cepheus Engine, when you have to make a die roll to resolve an
-action, it will typically follow the core system of a 2D6 roll plus
-modifiers versus a target of 8+ (read as eight or higher). This is
-called a check. You always want to roll high on a check. Rolling 12
-before adding modifiers (where two sixes appear on the dice naturally)
-is not an automatic success, and rolling 2 before adding modifiers
-(where both dice show a one naturally) is not an automatic failure.</p>
-<h3><a id="user-content-difficulty-and-effect" class="anchor" aria-hidden="true" href="#difficulty-and-effect"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Difficulty and Effect</h3>
-<p>A check's Difficulty is a number set by the Referee that modifies your
+A check's Difficulty is a number set by the Referee that modifies your
 check result. When no Difficulty is given, the assumed Difficulty is +0.
 So, for a task with a Difficulty of +2, you must add +2 to the check
 result. You succeed on a total of 8 or better. The list of Difficulty
-ratings can be found in the Task Difficulty table</p>
-<h4><a id="user-content-table-task-difficulties" class="anchor" aria-hidden="true" href="#table-task-difficulties"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Table: Task Difficulties</h4>
-<table>
-<thead>
-<tr>
-<th>Difficulty</th>
-<th>DM</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Simple</td>
-<td>+6</td>
-</tr>
-<tr>
-<td>Easy</td>
-<td>+4</td>
-</tr>
-<tr>
-<td>Routine</td>
-<td>+2</td>
-</tr>
-<tr>
-<td>Average</td>
-<td>+0</td>
-</tr>
-<tr>
-<td>Difficult</td>
-<td>-2</td>
-</tr>
-<tr>
-<td>Very Difficult</td>
-<td>-4</td>
-</tr>
-<tr>
-<td>Formidable</td>
-<td>-6</td>
-</tr>
-</tbody>
-</table>
-<p>In some cases, the consequences of a check vary based on how much the
-check result is above or below the target of 8. The difference between
-the check result and the target of 8 is called the Effect. If the Effect
-is 6 or higher, the check is considered an Exceptional Success. When the
-Effect is -6 or lower, the check is considered an Exceptional Failure.
-See <strong>Chapter 2: Skills</strong> for more details.</p>
-<h4><a id="user-content-table-degrees-of-success" class="anchor" aria-hidden="true" href="#table-degrees-of-success"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Table: Degrees of Success</h4>
-<table>
-<thead>
-<tr>
-<th>Effect Range</th>
-<th>Degree of Success</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>-6 or lower</td>
-<td>Exceptional Failure</td>
-</tr>
-<tr>
-<td>-1 to -5</td>
-<td>Failure</td>
-</tr>
-<tr>
-<td>0 to +5</td>
-<td>Success</td>
-</tr>
-<tr>
-<td>+6 or higher</td>
-<td>Exceptional Success</td>
-</tr>
-</tbody>
-</table>
-<h3><a id="user-content-opposed-checks" class="anchor" aria-hidden="true" href="#opposed-checks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Opposed Checks</h3>
-<p>If two characters are opposing each other directly in a task, then the
-character who obtains the highest Effect wins. For ties on opposed
-checks, the character with the highest relevant characteristic score
-wins. If the characters tie on characteristic scores, they reroll.</p>
-<h3><a id="user-content-trying-again" class="anchor" aria-hidden="true" href="#trying-again"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Trying Again</h3>
-<p>In general, you can try a check again if you fail, and keep trying
-indefinitely. Some tasks, however, have consequences for failure. For
-example, failing an Athletics check while climbing a cliff might mean
-you fall, which might make it difficult to try again. Some tasks can't
-be attempted again once a check has failed. For most tasks, once you've
-succeeded, additional successes are meaningless. (Once you've discovered
-a computer account's password using the Computer skill, for instance,
-there's no further benefit from additional Computer checks to determine
-the account's password.)</p>
-<h3><a id="user-content-circumstance-modifiers" class="anchor" aria-hidden="true" href="#circumstance-modifiers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Circumstance Modifiers</h3>
-<p>Some circumstances make a check easier or harder, resulting in a bonus
-or penalty that is added to the check result. The Referee can alter the
-odds of success in two ways:</p>
-<ul>
-<li>
-<p>If a character has help, such as good tools, competent aids or other
-beneficial circumstances, he receives a +1 bonus to his skill check.</p>
-</li>
-<li>
-<p>If a character is hampered, such as having defective tools,
-incompetent assistance or other negative circumstances, he receives
-a -1 penalty to his skill check.</p>
-</li>
-</ul>
-<h3><a id="user-content-time-and-checks" class="anchor" aria-hidden="true" href="#time-and-checks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Time and Checks</h3>
-<p>Outside of stressful situations such as combat, performing a particular
-task often takes a random amount of time, depending on circumstances.
-For most tasks, roll 1D6 and multiply it by the increment that the
-Referee provides for that action. For example, breaking a flimsy wooden
-door down may only require 1D6 seconds, while performing delicate
-surgery might take 1D6 hours. More information on time increments can be
-found in <strong>Chapter 2: Skills</strong>.</p>
-<p>During combat, most actions are more refined to a finite period. Some of
-these actions are considered minor actions, while others are deemed
-significant actions. More information is provided in <strong>Chapter 5:
-Personal Combat</strong>.</p>
-<h3><a id="user-content-aiding-another" class="anchor" aria-hidden="true" href="#aiding-another"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Aiding Another</h3>
-<p>Sometimes characters work together and help each other out. In this
+ratings can be found in the Task Difficulty table
+
+#### Tabella: Difficoltà delle Attività
+
+| Difficoltà      | MD  |
+| --------------- | --- |
+| Semplice        | +6  |
+| Facile          | +4  |
+| Routine         | +2  |
+| Media           | +0  |
+| Difficile       | -2  |
+| Molto Difficile | -4  |
+| Formidabile     | -6  |
+
+In alcuni casi, le conseguenze di una verifica variano sulla base di quanto il risultato della verifica è superiore o inferiore all'obiettivo di 8. La differenza tra un risultato di verifica e l'obiettivo di 8 è chiamata Effetto. Se l'Effetto è 6 o superiore, la verifica è considerata un Successo Eccezionale. Quando l'Effetto è 6 o inferiore, la verifica è considerata un Fallimento Eccezionale.
+Vedi **Capitolo 2: Competenze** per maggiori dettagli.
+
+
+
+#### Tabella: Gradi di Successo
+
+| Gamma di Effetto | Grado di Successo      |
+| ---------------- | ---------------------- |
+| 6 o meno         | Fallimento Eccezionale |
+| -1 a -5          | Fallimento             |
+| 0 a +5           | Successo               |
+| 6 o più          | Successo Eccezionale   |
+
+### Verifiche di opposizione
+
+Se due personaggi sono contrapposti in un'attività, allora il personaggio che ottiene l'Effetto più alto vince. Per situazioni di parità, il personaggio con il punteggo più alto nella caratteristica rilevante vince. Se i personaggi pareggiano anche sulle caratteristiche, tirano di nuovo.
+
+### Provare di nuovo
+
+In generale, puoi tentare nuovamente una verifica se fallisci e puoi continuare a provare indefinitamente. Alcune attività, comunque, hanno conseguenze per il fallimento. Per esempio, fallire una verifica di Atletica mentre scali un dirupo significa che cadi, che rendere difficile un nuovo tentativo. Alcune attività non possono essere tentate nuovamente una volta che una verifica fallisce. Per molte attività, una volta che hai avuto successo, ulteriori successi sono insignificanti. (Una volta che hai scoperto la password di un account di un computer usando la tua competenza di Computer, per esempio, non c'è alcun beneficio nell'effettuare un'altra verifica usando Computer per determinare la password dell'account.)
+
+### Modificatori di circostanza
+
+Alcune circostanste rendono una verifica più facile o più difficile, risultando in un bonus o una penalità che è aggiunta al risultato della verifica. L'Arbitro può alterare le possibilità di successo in due modi:
+
+- Se il personaggio ha un vantaggio, come strumenti adeguati, aiuti competenti o altre circostanze benefiche, riceve un bonus di +1 alla sua verifica di competenza.
+
+- Se il personaggio è impedito, come avendo strumenti difettosi, assistenza incompetente o circostante negative, riceve la penalità di -1 alla sua verifica di competenza.
+
+### Tempo e verifiche
+
+Al di fuori di situazioni stressanti come combattimento, effettuare particolari attività spesso richiede un ammontare di tempo casuale, dipendente dalle circostanze.
+Per molte attività, tira 1D6 e moltiplica per l'incremento che l'Arbitro fornisce per l'azione. Per esempio, rompere una porta di legno sottile può richiedere 1D6 secondi, mentre effettuare un delicato intervento chirurgico può richiedere 1D6 ore. Maggiori informazioni sugli incrementi di tempo possono essere trovate nel **Capitolo 2: Competenze**.
+
+Durante i combattimenti, molte azioni sono spesso confinate in un periodo di tempo ristretto. Alcune di queste azioni sono considerate azioni minori, mentre altre sono considerate azioni significative. Maggiori informazioni sono fornite nel **Capitolo 5: Combattimento Corpo a Corpo**
+
+### Aiding Another
+
+Sometimes characters work together and help each other out. In this
 case, one character (usually the one with the highest total of modifiers
 on the check) is considered the leader of the effort and makes the check
 normally, while each helper makes the same check. The Effect of a
@@ -1353,12 +155,16 @@ result, DM+2 with an Exceptional Success) or a penalty (DM-1 with a
 failed result, DM-2 with an Exceptional Failure) to the leader's check
 result. In many cases, outside help isn't beneficial, or only a limited
 number of helpers can aid someone at once. The Referee limits aid as
-appropriate for the task and conditions.</p>
-<h2><a id="user-content-types-of-checks" class="anchor" aria-hidden="true" href="#types-of-checks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Types of Checks</h2>
-<p>There are two main types of checks: skill checks and characteristic
-checks.</p>
-<h3><a id="user-content-skill-checks" class="anchor" aria-hidden="true" href="#skill-checks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Skill Checks</h3>
-<p>A skill check determines what you can accomplish with a particular skill
+appropriate for the task and conditions.
+
+## Types of Checks
+
+There are two main types of checks: skill checks and characteristic
+checks.
+
+### Skill Checks
+
+A skill check determines what you can accomplish with a particular skill
 (sometimes whether you're trained in that skill or not). It is a roll of
 2D6, modified by your levels in the skill, the skill's key
 characteristic score modifier, and the Difficulty, against a target of 8
@@ -1366,509 +172,333 @@ or higher. Skill checks sometimes have gradations of success and failure
 based on the Effect of your check result (how much higher or lower your
 check result is when compared to the target of 8). When making a skill
 check, if a character does not have any levels in the required skill,
-then he suffers a –3 penalty for being unskilled.</p>
-<h3><a id="user-content-attack-rolls" class="anchor" aria-hidden="true" href="#attack-rolls"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Attack Rolls</h3>
-<p>An attack roll determines whether or not you hit an opponent in combat.
+then he suffers a –3 penalty for being unskilled.
+
+### Attack Rolls
+
+An attack roll determines whether or not you hit an opponent in combat.
 An attack roll is essentially a skill check, using your skill levels in
-combat skills as modifiers.</p>
-<h3><a id="user-content-characteristic-checks" class="anchor" aria-hidden="true" href="#characteristic-checks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Characteristic Checks</h3>
-<p>A characteristic check is like a skill check, but measures raw ability,
+combat skills as modifiers.
+
+### Characteristic Checks
+
+A characteristic check is like a skill check, but measures raw ability,
 like strength, endurance, or intelligence. These checks are used when
 the task is one not covered by an obvious skill, or where the
 character’s innate abilities are the most important influence on the
 result. To make a Characteristic check, you must roll 2D6 and add the
 appropriate characteristic score modifier. Characteristic checks tend to
 be all or nothing (you can either accomplish the task or you can't),
-although there are sometimes gradations of success or failure.</p>
-<h2><a id="user-content-the-combat-round" class="anchor" aria-hidden="true" href="#the-combat-round"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>The Combat Round</h2>
-<p>When things really start happening in a Cepheus Engine game, time is
+although there are sometimes gradations of success or failure.
+
+## The Combat Round
+
+When things really start happening in a Cepheus Engine game, time is
 broken down into six-second segments called rounds, or combat rounds,
 since they're most often used in fights. A round isn't very much time,
 just long enough for a character to do something. The types of actions
 your character can perform during a round are significant actions, minor
 actions, extended actions, free actions, and reactions. During a round
-you can do one of the following:</p>
-<ul>
-<li>
-<p>Initiate or continue an extended action.</p>
-</li>
-<li>
-<p>Take a significant action and a minor action.</p>
-</li>
-<li>
-<p>Take three minor actions, and forego taking a significant action
-this turn.</p>
-</li>
-</ul>
-<p>You can perform as many free actions and reactions in a round as you
+you can do one of the following:
+
+- Initiate or continue an extended action.
+
+- Take a significant action and a minor action.
+
+- Take three minor actions, and forego taking a significant action
+  this turn.
+
+You can perform as many free actions and reactions in a round as you
 wish, although the Referee may choose to limit them to a reasonable
-number to keep the game moving. See <strong>Chapter 5: Personal Combat</strong> for
-more information.</p>
-<h2><a id="user-content-pseudo-hexadecimal-notation" class="anchor" aria-hidden="true" href="#pseudo-hexadecimal-notation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Pseudo-Hexadecimal Notation</h2>
-<p>The Cepheus Engine uses a form of pseudo-hexadecimal notation as a type
+number to keep the game moving. See **Chapter 5: Personal Combat** for
+more information.
+
+## Pseudo-Hexadecimal Notation
+
+The Cepheus Engine uses a form of pseudo-hexadecimal notation as a type
 of shorthand in noting specific values of characteristic scores, world
 statistics, drive type designations and similar design elements. The
 pseudo-hexadecimal notation proceeds as normal for values from 0 to 15,
 but extends beyond F for 15, with G for 16, etc. The Cepheus Engine
 skips the use of the letters I and O, because they might be mistaken for
 the numbers 1 and 0. The Pseudo-Hexadecimal Notation table provides a
-quick reference for converting values for use in Cepheus Engine.</p>
-<h4><a id="user-content-table-pseudo-hexadecimal-notation" class="anchor" aria-hidden="true" href="#table-pseudo-hexadecimal-notation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Table: Pseudo-Hexadecimal Notation</h4>
-<table>
-<thead>
-<tr>
-<th>Actual Value</th>
-<th>PseudoHex</th>
-<th>Actual Value</th>
-<th>PseudoHex</th>
-<th>Actual Value</th>
-<th>PseudoHex</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>0</strong></td>
-<td>0</td>
-<td><strong>12</strong></td>
-<td>C</td>
-<td><strong>24</strong></td>
-<td>Q</td>
-</tr>
-<tr>
-<td><strong>1</strong></td>
-<td>1</td>
-<td><strong>13</strong></td>
-<td>D</td>
-<td><strong>25</strong></td>
-<td>R</td>
-</tr>
-<tr>
-<td><strong>2</strong></td>
-<td>2</td>
-<td><strong>14</strong></td>
-<td>E</td>
-<td><strong>26</strong></td>
-<td>S</td>
-</tr>
-<tr>
-<td><strong>3</strong></td>
-<td>3</td>
-<td><strong>15</strong></td>
-<td>F</td>
-<td><strong>27</strong></td>
-<td>T</td>
-</tr>
-<tr>
-<td><strong>4</strong></td>
-<td>4</td>
-<td><strong>16</strong></td>
-<td>G</td>
-<td><strong>28</strong></td>
-<td>U</td>
-</tr>
-<tr>
-<td><strong>5</strong></td>
-<td>5</td>
-<td><strong>17</strong></td>
-<td>H</td>
-<td><strong>29</strong></td>
-<td>V</td>
-</tr>
-<tr>
-<td><strong>6</strong></td>
-<td>6</td>
-<td><strong>18</strong></td>
-<td>J</td>
-<td><strong>30</strong></td>
-<td>W</td>
-</tr>
-<tr>
-<td><strong>7</strong></td>
-<td>7</td>
-<td><strong>19</strong></td>
-<td>K</td>
-<td><strong>31</strong></td>
-<td>X</td>
-</tr>
-<tr>
-<td><strong>8</strong></td>
-<td>8</td>
-<td><strong>20</strong></td>
-<td>L</td>
-<td><strong>32</strong></td>
-<td>Y</td>
-</tr>
-<tr>
-<td><strong>9</strong></td>
-<td>9</td>
-<td><strong>21</strong></td>
-<td>M</td>
-<td><strong>33</strong></td>
-<td>Z</td>
-</tr>
-<tr>
-<td><strong>10</strong></td>
-<td>A</td>
-<td><strong>22</strong></td>
-<td>N</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>11</strong></td>
-<td>B</td>
-<td><strong>23</strong></td>
-<td>P</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<h2><a id="user-content-important-terms" class="anchor" aria-hidden="true" href="#important-terms"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Important Terms</h2>
-<p>The Cepheus Engine uses certain words and abbreviations throughout the
+quick reference for converting values for use in Cepheus Engine.
+
+#### Table: Pseudo-Hexadecimal Notation
+
+| Actual Value | PseudoHex | Actual Value | PseudoHex | Actual Value | PseudoHex |
+| ------------ | --------- | ------------ | --------- | ------------ | --------- |
+| **0**        | 0         | **12**       | C         | **24**       | Q         |
+| **1**        | 1         | **13**       | D         | **25**       | R         |
+| **2**        | 2         | **14**       | E         | **26**       | S         |
+| **3**        | 3         | **15**       | F         | **27**       | T         |
+| **4**        | 4         | **16**       | G         | **28**       | U         |
+| **5**        | 5         | **17**       | H         | **29**       | V         |
+| **6**        | 6         | **18**       | J         | **30**       | W         |
+| **7**        | 7         | **19**       | K         | **31**       | X         |
+| **8**        | 8         | **20**       | L         | **32**       | Y         |
+| **9**        | 9         | **21**       | M         | **33**       | Z         |
+| **10**       | A         | **22**       | N         |              |           |
+| **11**       | B         | **23**       | P         |              |           |
+
+## Important Terms
+
+The Cepheus Engine uses certain words and abbreviations throughout the
 rules system. In order properly understand the Cepheus Engine rules,
 both players and Referees should become familiar with these terms. The
 following words, phrases and abbreviations are commonly used in The
-Cepheus Engine:</p>
-<p><strong>2D6</strong>: Two six-sided dice, used to resolve all actions in the Cepheus
-Engine.</p>
-<p><strong>Action</strong>: A character activity. There are significant actions, minor
-actions, extended actions, free actions, and reactions.</p>
-<p><strong>Adventure</strong>: A story created by the Referee and players, comprised of
-a series of related scenes or encounters.</p>
-<p><strong>Attack bonus</strong>: A modifier used to measure a character's combat skill.</p>
-<p><strong>Attack roll</strong>: A skill check used to determine whether an attack hits.</p>
-<p><strong>Attack</strong>: Any of numerous actions intended to harm, disable, or
-neutralize an opponent.</p>
-<p><strong>Bonus</strong>: A positive modifier to a die roll.</p>
-<p><strong>Campaign</strong>: A series of linked adventures.</p>
-<p><strong>Character</strong>: A fictional individual in the game. The players control
-characters, while the Referee controls non-player characters.</p>
-<p><strong>Characteristic modifier</strong>: A modifier determined by the value of the
-characteristic score, applied as a bonus or penalty to checks as needed.</p>
-<p><strong>Characteristic score</strong>: One of the six basic character traits --
+Cepheus Engine:
+
+**2D6**: Two six-sided dice, used to resolve all actions in the Cepheus
+Engine.
+
+**Action**: A character activity. There are significant actions, minor
+actions, extended actions, free actions, and reactions.
+
+**Adventure**: A story created by the Referee and players, comprised of
+a series of related scenes or encounters.
+
+**Attack bonus**: A modifier used to measure a character's combat skill.
+
+**Attack roll**: A skill check used to determine whether an attack hits.
+
+**Attack**: Any of numerous actions intended to harm, disable, or
+neutralize an opponent.
+
+**Bonus**: A positive modifier to a die roll.
+
+**Campaign**: A series of linked adventures.
+
+**Character**: A fictional individual in the game. The players control
+characters, while the Referee controls non-player characters.
+
+**Characteristic modifier**: A modifier determined by the value of the
+characteristic score, applied as a bonus or penalty to checks as needed.
+
+**Characteristic score**: One of the six basic character traits --
 Strength (Str), Dexterity (Dex), Endurance (End), Intelligence (Int),
-Education (Edu), and Social Standing (Soc).</p>
-<p><strong>Check (or Throw)</strong>: A method of deciding the result of a character's
+Education (Edu), and Social Standing (Soc).
+
+**Check (or Throw)**: A method of deciding the result of a character's
 action. Checks are based on a relevant ability, skill, or other trait.
 To make a check, roll 2D6 and add any relevant modifiers. If the check
 result equals or exceeds a target of 8 or the result of an opponent's
-check, it succeeds.</p>
-<p><strong>Coreward</strong>: An astrographical term indicating the direction of
-Sagittarius A* (pronounced "Sagittarius A-star", standard abbreviation
-Sgr A*), a bright and very compact astronomical radio source at the
-center of the Milky Way galaxy.</p>
-<p><strong>Credit (Cr)</strong>: The primary unit of currency used in the Cepheus
+check, it succeeds.
+
+**Coreward**: An astrographical term indicating the direction of
+Sagittarius A\* (pronounced "Sagittarius A-star", standard abbreviation
+Sgr A\*), a bright and very compact astronomical radio source at the
+center of the Milky Way galaxy.
+
+**Credit (Cr)**: The primary unit of currency used in the Cepheus
 Engine. For very large amounts of money, the kilocredit (KCr) represents
 one thousand credits and the megacredit (MCr) represents one million
-credits.</p>
-<p><strong>Critical hit (crit)</strong>: An attack inflicting extra damage. Critical
-hits are only involved in vehicular and space combat.</p>
-<p><strong>D66</strong>: A special die roll generated by rolling two six-sided dice of
+credits.
+
+**Critical hit (crit)**: An attack inflicting extra damage. Critical
+hits are only involved in vehicular and space combat.
+
+**D66**: A special die roll generated by rolling two six-sided dice of
 different colors (or rolling one die twice, noting each number rolled),
 multiplying the first die by 10 and then adding the second die, to
-create a number between 11 and 66.</p>
-<p><strong>Damage bonus</strong>: A modifier used to determine the damage of an attack.</p>
-<p><strong>Damage</strong>: Harm caused to a character by injury, illness, or some other
-source.</p>
-<p><strong>Dice modifier (DM)</strong>: A modifier applied to a check.</p>
-<p><strong>Die (plural is dice)</strong>: A small polyhedron, typically a cube, with
+create a number between 11 and 66.
+
+**Damage bonus**: A modifier used to determine the damage of an attack.
+
+**Damage**: Harm caused to a character by injury, illness, or some other
+source.
+
+**Dice modifier (DM)**: A modifier applied to a check.
+
+**Die (plural is dice)**: A small polyhedron, typically a cube, with
 each side having a different number on it, ranging from one to the
 number of sides of the polyhedron, thrown and used in gambling and other
 games involving chance. The Cepheus Engine uses six-sided dice
-exclusively to create random results during play.</p>
-<p><strong>Difficulty</strong>: A modifier applied to a check that is assigned by the
-Referee, reflecting the relative ease or difficulty of a given action.</p>
-<p><strong>Dominant race</strong>: A sentient species capable of interstellar travel via
+exclusively to create random results during play.
+
+**Difficulty**: A modifier applied to a check that is assigned by the
+Referee, reflecting the relative ease or difficulty of a given action.
+
+**Dominant race**: A sentient species capable of interstellar travel via
 jump drive technology, and that has used that technology to expand their
 presence over a significant region of space. Dominant Races typically
 control a fairly expansive interstellar government, and have settlements
 and significant populations more than ten parsecs away from their planet
-of origin.</p>
-<p><strong>Dying</strong>: Near death and unconscious. A dying character can take no
-actions.</p>
-<p><strong>Effect</strong>: The difference between a check result and the target of 8
-(i.e. how much higher or lower the result is).</p>
-<p><strong>Encounter</strong>: An unexpected or casual meeting with someone or
+of origin.
+
+**Dying**: Near death and unconscious. A dying character can take no
+actions.
+
+**Effect**: The difference between a check result and the target of 8
+(i.e. how much higher or lower the result is).
+
+**Encounter**: An unexpected or casual meeting with someone or
 something. A large part of the Referee’s job is the administration of
-encounters.</p>
-<p><strong>Explorer's Society</strong>: A private interstellar travel service which
+encounters.
+
+**Explorer's Society**: A private interstellar travel service which
 maintains exclusive resorts and facilities at various starports. Several
 interstellar organizations provide membership to the Explorer's Society
-as a reward for outstanding service.</p>
-<p><strong>Exceptional failure</strong>: Any check that fails by 6 or greater (i.e. has
-an Effect of -6 or worse).</p>
-<p><strong>Exceptional success</strong>: Any check that succeeds by 6 or greater (i.e.
-has an Effect of +6 or better).</p>
-<p><strong>Extended action</strong>: An action in combat that takes longer than a single
-combat round to complete.</p>
-<p><strong>Free action</strong>: An extremely fast activity, requiring very little time
-and effort.</p>
-<p><strong>Homeworld</strong>: <strong>1)</strong> The world that serves as a character’s place of
+as a reward for outstanding service.
+
+**Exceptional failure**: Any check that fails by 6 or greater (i.e. has
+an Effect of -6 or worse).
+
+**Exceptional success**: Any check that succeeds by 6 or greater (i.e.
+has an Effect of +6 or better).
+
+**Extended action**: An action in combat that takes longer than a single
+combat round to complete.
+
+**Free action**: An extremely fast activity, requiring very little time
+and effort.
+
+**Homeworld**: **1)** The world that serves as a character’s place of
 origin, usually the world on which the character was raised and which
 had the most impact on their development during their pre-adult life.
-<strong>2)</strong> The world of origin for an alien species, i.e. Earth is the
-homeworld for the human species.</p>
-<p><strong>Jump</strong>: A form of faster-than-light movement using Jump drives, which
+**2)** The world of origin for an alien species, i.e. Earth is the
+homeworld for the human species.
+
+**Jump**: A form of faster-than-light movement using Jump drives, which
 always takes one week to travel a number of parsecs equal to its Jump
-rating and consumes a vast amount of fuel.</p>
-<p><strong>Jump point</strong>: A point in space more than 100 diameters out from any
+rating and consumes a vast amount of fuel.
+
+**Jump point**: A point in space more than 100 diameters out from any
 nearby celestial body, chosen by a navigator as the point from which a
-ship will enter into Jump space.</p>
-<p><strong>Jump space</strong>: The alternate dimension through which starships travel
-when transitioning from one point in normal space to another.</p>
-<p><strong>Lesser race</strong>: A sentient species that has not developed jump drive
+ship will enter into Jump space.
+
+**Jump space**: The alternate dimension through which starships travel
+when transitioning from one point in normal space to another.
+
+**Lesser race**: A sentient species that has not developed jump drive
 technology on its own. While individuals of the Lesser races can and do
 engage in interstellar travel, settled populations of any given Lesser
 Race are rarely encountered further than ten parsecs from their
-homeworld.</p>
-<p><strong>Lethal damage</strong>: Damage that can potentially disable or kill a target.</p>
-<p><strong>Mainworld</strong>: The primary world of a star system; the world represented
-by the UWP in a list of worlds for a given region of space.</p>
-<p><strong>Melee attack</strong>: A physical attack in close combat.</p>
-<p><strong>Melee weapon</strong>: A handheld weapon designed for close combat.</p>
-<p><strong>Minor action</strong>: An action intended to move a distance or to manipulate
+homeworld.
+
+**Lethal damage**: Damage that can potentially disable or kill a target.
+
+**Mainworld**: The primary world of a star system; the world represented
+by the UWP in a list of worlds for a given region of space.
+
+**Melee attack**: A physical attack in close combat.
+
+**Melee weapon**: A handheld weapon designed for close combat.
+
+**Minor action**: An action intended to move a distance or to manipulate
 or move an object. You can take up to three minor actions per round, at
-the loss of a significant action.</p>
-<p><strong>Misjump</strong>: A mishap caused by an inaccurate jump, which results in
+the loss of a significant action.
+
+**Misjump**: A mishap caused by an inaccurate jump, which results in
 jumping to a random location with damage to the vessel and potentially
 the crew. Common causes for misjumps include bad Jump plots, damaged
 Jump drives, diverting energy into the Jump drive improperly, jumping
-from within the hundred-diameter limit and using unrefined fuel.</p>
-<p><strong>Modifier</strong>: Any bonus or penalty applied to a die roll.</p>
-<p><strong>Natural</strong>: A natural result on a roll or check is the actual number
+from within the hundred-diameter limit and using unrefined fuel.
+
+**Modifier**: Any bonus or penalty applied to a die roll.
+
+**Natural**: A natural result on a roll or check is the actual number
 appearing on the die, not the modified result obtained by adding bonuses
-or subtracting penalties.</p>
-<p><strong>Non-lethal damage</strong>: Damage that can potentially stun or knock out a
-target, but does no permanent harm.</p>
-<p><strong>Non-player character (NPC)</strong>: A character controlled by the Referee
-(as opposed to a character controlled by a player).</p>
-<p><strong>Non-starship</strong>: A spaceship without a jump drive, and thus incapable
-of interstellar travel on its own.</p>
-<p><strong>Patron</strong>: A non-player character who gives financial or other support
+or subtracting penalties.
+
+**Non-lethal damage**: Damage that can potentially stun or knock out a
+target, but does no permanent harm.
+
+**Non-player character (NPC)**: A character controlled by the Referee
+(as opposed to a character controlled by a player).
+
+**Non-starship**: A spaceship without a jump drive, and thus incapable
+of interstellar travel on its own.
+
+**Patron**: A non-player character who gives financial or other support
 to a person, organization, cause, or activity. Referees often use
-patrons as a tool to attempt to engage player characters in adventures.</p>
-<p><strong>Penalty</strong>: A negative modifier to a die roll.</p>
-<p><strong>Player character (PC)</strong>: A character controlled by a player, one of
-the protagonists of an adventure or campaign.</p>
-<p><strong>Psion</strong>: A character with psionic abilities.</p>
-<p><strong>Ranged attack</strong>: Any attack made at a distance.</p>
-<p><strong>Ranged weapon</strong>: A projectile or thrown weapon designed for attacking
-at a distance.</p>
-<p><strong>Reaction</strong>: An action taken in response to the action of another. You
+patrons as a tool to attempt to engage player characters in adventures.
+
+**Penalty**: A negative modifier to a die roll.
+
+**Player character (PC)**: A character controlled by a player, one of
+the protagonists of an adventure or campaign.
+
+**Psion**: A character with psionic abilities.
+
+**Ranged attack**: Any attack made at a distance.
+
+**Ranged weapon**: A projectile or thrown weapon designed for attacking
+at a distance.
+
+**Reaction**: An action taken in response to the action of another. You
 can perform as many reactions as you want per round in Personal Combat,
 but the number of Reactions that a vessel can undertake is based on
-Initiviative in Space Combat.</p>
-<p><strong>Referee</strong>: The player who portrays characters not controlled by the
+Initiviative in Space Combat.
+
+**Referee**: The player who portrays characters not controlled by the
 other players, arbitrates the rules, and makes up the story and setting
-for the game.</p>
-<p><strong>Rimward</strong>: An astrographical term indicating the direction opposite of
-Coreward, or directly away from the radio source of Sagittarius A*.</p>
-<p><strong>Round</strong>: A six-second unit of game time used to manage actions,
-usually in combat.</p>
-<p><strong>Significant action</strong>: An action intended to do something within about
+for the game.
+
+**Rimward**: An astrographical term indicating the direction opposite of
+Coreward, or directly away from the radio source of Sagittarius A\*.
+
+**Round**: A six-second unit of game time used to manage actions,
+usually in combat.
+
+**Significant action**: An action intended to do something within about
 3 seconds. You can perform a single significant action per round, or
-forego it to perform a total of three minor actions.</p>
-<p><strong>Seriously wounded</strong>: If you have lost at least one point from all
+forego it to perform a total of three minor actions.
+
+**Seriously wounded**: If you have lost at least one point from all
 three of your physical characteristics, you are considered seriously
 wounded. When conscious, you cannot move except to hobble or crawl along
 at 1.5 meters per combat round. You also lose your minor action in
 combat. You can only regain characteristic points equal to your
 Endurance DM per day of rest through natural healing. You require
-surgery.</p>
-<p><strong>Skill</strong>: An ability to perform a set action, such as navigating a
+surgery.
+
+**Skill**: An ability to perform a set action, such as navigating a
 starship, operating a rifle, or programming a computer. Skills are
 attained in levels (Navigation-1, Computer-2, etc); the higher the level
 of a skill, the more expertise a character has in that area. Many
-different individual skills are available to characters.</p>
-<p><strong>Small Craft</strong>: A vessel under 100 tons, capable of interplanetary
-travel.</p>
-<p><strong>Sophont</strong>: A sentient being with a base reasoning capacity roughly
-equivalent to or greater than that of an average human being.</p>
-<p><strong>Spinward</strong>: An astrographical term indicating the direction of the
-galaxy’s rotation.</p>
-<p><strong>Standard Day</strong>: A unit of time that is 24 hours long.</p>
-<p><strong>Standard Year</strong>: A unit of time that is 365 Standard Days in length.</p>
-<p><strong>Starport</strong>: A port where interstellar and interplanetary vessels load
-or unload, especially one where customs officers are stationed.</p>
-<p><strong>Starship</strong>: A spaceship with a jump drive, capable of interstellar
-travel on its own.</p>
-<p><strong>Target (also subject)</strong>: The intended recipient of an attack, action,
-or effect.</p>
-<p><strong>Trailing</strong>: An astrographical term indicating the direction opposite
-of the galaxy's rotation.</p>
-<p><strong>Trained</strong>: Having knowledge of, and therefore levels in, a skill.</p>
-<p><strong>Unarmed attack</strong>: A melee attack made with no weapon.</p>
-<p><strong>Universe</strong>: The setting presented by a Referee, in which characters
+different individual skills are available to characters.
+
+**Small Craft**: A vessel under 100 tons, capable of interplanetary
+travel.
+
+**Sophont**: A sentient being with a base reasoning capacity roughly
+equivalent to or greater than that of an average human being.
+
+**Spinward**: An astrographical term indicating the direction of the
+galaxy’s rotation.
+
+**Standard Day**: A unit of time that is 24 hours long.
+
+**Standard Year**: A unit of time that is 365 Standard Days in length.
+
+**Starport**: A port where interstellar and interplanetary vessels load
+or unload, especially one where customs officers are stationed.
+
+**Starship**: A spaceship with a jump drive, capable of interstellar
+travel on its own.
+
+**Target (also subject)**: The intended recipient of an attack, action,
+or effect.
+
+**Trailing**: An astrographical term indicating the direction opposite
+of the galaxy's rotation.
+
+**Trained**: Having knowledge of, and therefore levels in, a skill.
+
+**Unarmed attack**: A melee attack made with no weapon.
+
+**Universe**: The setting presented by a Referee, in which characters
 play out adventures and campaigns. A Referee may use a published setting
-for their adventures, or create their own with the Cepheus Engine rules.</p>
-<p><strong>Untrained</strong>: Having no ranks in a skill. Some skills cannot be used
-untrained. Unskilled skill checks suffer a DM-3 penalty.</p>
-<p><strong>Vessel</strong>: General term used to starships, small craft, or vehicles as
+for their adventures, or create their own with the Cepheus Engine rules.
+
+**Untrained**: Having no ranks in a skill. Some skills cannot be used
+untrained. Unskilled skill checks suffer a DM-3 penalty.
+
+**Vessel**: General term used to starships, small craft, or vehicles as
 a general inclusive group. Most commonly, it refers to any vehicle or
-ship capable of interplanetary or interstellar travel.</p>
-<p><strong>World</strong>: A generic term in the Cepheus Engine for any inhabitable
+ship capable of interplanetary or interstellar travel.
+
+**World**: A generic term in the Cepheus Engine for any inhabitable
 celestial body or similar location represented by a Universal World
-Profile.</p>
-</article>
-  </div>
-
-    </div>
-
-  
-
-
-  <details class="details-reset details-overlay details-overlay-dark" id="jumpto-line-details-dialog">
-    <summary data-hotkey="l" aria-label="Jump to line"></summary>
-    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
-        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
-        <button type="submit" class="btn" data-close-dialog>Go</button>
-</form>    </details-dialog>
-  </details>
-
-
-
-
-  </div>
-</div>
-
-    </main>
-  </div>
-
-  </div>
-
-          
-<div class="footer container-xl width-full p-responsive" role="contentinfo">
-    <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
-      <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://github.com">
-        <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
-</a>
-      <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0">&copy; 2020 GitHub, Inc.</li>
-          <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
-          <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
-            <li class="js-cookie-consent-preferences-link-container mr-3 mr-lg-0" hidden="hidden">
-  <button data-ga-click="Footer, go to cookie preferences, text:cookie preferences" class="btn-link js-cookie-consent-preferences-link" type="button">Cookie Preferences</button>
-</li>
-          <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
-          <li class="mr-3 mr-lg-0"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
-          <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:help" href="https://docs.github.com">Help</a></li>
-          <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
-          <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
-          <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
-          <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
-      </ul>
-    </div>
-  <div class="d-flex flex-justify-center pb-6">
-    <span class="f6 text-gray-light"></span>
-  </div>
-
-  
-</div>
-
-
-
-  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
-    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>
-    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
-      <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-    </button>
-    You can’t perform that action at this time.
-  </div>
-
-
-  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
-    >
-    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>
-    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
-    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
-  </div>
-    <template id="site-details-dialog">
-  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
-    <summary role="button" aria-label="Close dialog"></summary>
-    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
-      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
-        <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-      </button>
-      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
-    </details-dialog>
-  </details>
-</template>
-
-    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
-  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
-  </div>
-</div>
-
-      <div class="js-cookie-consent-banner" hidden>
-  <div class="hx_cookie-banner p-2 p-sm-3 p-md-4">
-    <div style="max-width: 1194px;" class="Box hx_cookie-banner-box box-shadow-medium mx-auto">
-    <div class="Box-body border-0 py-0 px-3 px-md-4">
-      <div class="js-main-cookie-banner hx_cookie-banner-main">
-          <div class="d-md-flex flex-items-center py-3">
-            <p class="f5 flex-1 mb-3 mb-md-0">
-              
-  We use <span class="text-bold">optional</span> third-party analytics cookies to understand how you use GitHub.com so we can build better products.
-
-              <span class="btn-link js-cookie-consent-learn-more">Learn more</span>.
-            </p>
-            <div class="d-flex d-md-block flex-wrap flex-sm-nowrap">
-              <button class="btn btn-outline flex-1 mr-1 mx-sm-1 m-md-0 ml-md-2 js-cookie-consent-accept">Accept</button>
-              <button class="btn btn-outline flex-1 ml-1 m-md-0 ml-md-2 js-cookie-consent-reject">Reject</button>
-            </div>
-          </div>
-        </div>
-
-        <div class="js-cookie-details hx_cookie-banner-details" hidden>
-          <div class="d-md-flex flex-items-center py-3">
-            <p class="f5 flex-1 mb-2 mb-md-0">
-              
-  We use <span class="text-bold">optional</span> third-party analytics cookies to understand how you use GitHub.com so we can build better products.
-
-              <br>
-              You can always update your selection by clicking <span class="text-bold">Cookie Preferences</span> at the bottom of the page.
-              For more information, see our <a href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement">Privacy Statement</a>.
-            </p>
-          </div>
-
-          <div class="d-md-flex flex-items-center py-3 border-top">
-            <div class="f5 flex-1 mb-2 mb-md-0">
-              <h5 class="mb-1">Essential cookies</h5>
-              <p class="f6 mb-md-0">We use essential cookies to perform essential website functions, e.g. they're used to log you in. 
-                <a href="https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies">Learn more</a>
-              </p>
-            </div>
-            <div class="text-right">
-              <h5 class="text-blue">Always active</h5>
-            </div>
-          </div>
-
-          <div class="d-md-flex flex-items-center py-3 border-top">
-            <div class="f5 flex-1 mb-2 mb-md-0">
-              <h5 class="mb-1">Analytics cookies</h5>
-              <p class="f6 mb-md-0">We use analytics cookies to understand how you use our websites so we can make them better, e.g. they're used to gather information about the pages you visit and how many clicks you need to accomplish a task. 
-                <a href="https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies">Learn more</a>
-              </p>
-            </div>
-            <div class="text-right">
-              <div class="BtnGroup mt-1 mt-md-0 ml-2">
-                <button class="btn btn-outline BtnGroup-item js-accept-analytics-cookies" type="button">Accept</button>
-                <button class="btn btn-outline BtnGroup-item js-reject-analytics-cookies" type="button">Reject</button>
-              </div>
-            </div>
-          </div>
-
-          <div class="text-right py-3 border-top">
-            <button class="btn btn-primary js-save-cookie-preferences" type="button" disabled>Save preferences</button>
-          </div>
-        </div>
-</div></div>  </div>
-</div>
-
-
-  </body>
-</html>
-
+Profile.
