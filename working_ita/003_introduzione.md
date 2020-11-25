@@ -4,29 +4,27 @@ Benvenuti nel ***Cepheus Engine System Reference Document***, che delinea le reg
 
 ## Che cos'è il Gioco di Ruolo?
 
-Se sei nuovo al gioco di ruolo, potresti chiederti: "Che cos'è un
-gioco di ruolo?"
+Se sei nuovo al gioco di ruolo, potresti chiederti: "Che cos'è un gioco di ruolo?"
 
-Un gioco di ruolo (a volte abbreviato in GdR) è un gioco in cui i giocatori assumono i ruoli di personaggi in un ambiente immaginario. I giocatori si assumono la responsabilità di recitare questi ruoli all'interno di una narrazione, o attraverso la recitazione letterale o attraverso un processo strutturato
-processo decisionale o sviluppo del personaggio. Le azioni intraprese all'interno di molti giochi riescono o falliscono secondo un sistema formale di regole e linee guida, come le regole del Cepheus Engine.
+Un gioco di ruolo (a volte abbreviato in GdR) è un gioco in cui i giocatori assumono i ruoli di personaggi in un ambiente immaginario. I giocatori si assumono la responsabilità di recitare questi ruoli all'interno di una narrazione, o attraverso la recitazione letterale o attraverso un processo strutturato processo decisionale o sviluppo del personaggio. Le azioni intraprese all'interno di molti giochi riescono o falliscono secondo un sistema formale di regole e linee guida, come le regole del Cepheus Engine.
 
-Una sessione di gioco di Cepheus Engine play è condotta tramite il dialogo. Un giocatore, l'Arbitro, di solito arbitra qualsiasi decisione in base alle regole e presenta l'ambientazione del gioco, mentre ciascuno degli altri giocatori interpreta il ruolo di un singolo personaggio. Insieme, l'arbitro e i giocatori creano una storia, molto simile al modo in cui molti di noi erano soliti creare storie giocando a giochi di finzione da bambini, tranne che con più dadi e più struttura.
+Una sessione di gioco di Cepheus Engine è condotta tramite il dialogo. Un giocatore, l'Arbitro, di solito modera qualsiasi decisione in base alle regole e presenta l'ambientazione del gioco, mentre ciascuno degli altri giocatori interpreta il ruolo di un singolo personaggio. Insieme, l'Arbitro e i giocatori creano una storia, molto simile al modo in cui molti di noi erano soliti creare storie giocando a giochi di finzione da bambini, tranne che con più dadi e più struttura.
 
 ## Che cos'è il Cepheus Engine?
 
-Il Cepheus Engine è semplicemente un insieme di regole per condurre un gioco basato sulla fantascienza classica. All'interno delle sue pagine troverai regole per creare personaggi, risolvere compiti, combattere altre creature e impegnarti in enormi battaglie spaziali, costruire mondi, goderti i rischi del commercio speculativo interstellare, esplorare nuovi mondi e una miriade di altre attività diverse. Sebbene nessun set di regole possa essere completo, il motore Cepheus cerca di fornire regole sufficienti per consentirti di creare quasi tutte le avventure di fantascienza.
+Il Cepheus Engine è semplicemente un insieme di regole per condurre un gioco basato sulla fantascienza classica. All'interno delle sue pagine troverai regole per creare personaggi, risolvere compiti, combattere altre creature e impegnarti in enormi battaglie spaziali, costruire mondi, goderti i rischi del commercio speculativo interstellare, esplorare nuovi mondi e una miriade di altre diverse attività. Sebbene nessun set di regole possa essere completo, il Cepheus Engine cerca di fornire regole sufficienti per consentirti di creare quasi tutte le avventure di fantascienza.
 
-Il Cepheus Engine si ispira ai classici giochi di fantascienza dei primi giorni del gioco di ruolo e condivide molte somiglianze con questi sistemi di gioco. Il materiale di questi vecchi set di regole e quelli creati con il Cepheus Engine sono reciprocamente compatibili con solo un minimo di aggiustamenti richiesti.
+Il Cepheus Engine si ispira ai classici giochi di fantascienza dei primi giorni del gioco di ruolo e condivide molte somiglianze con questi sistemi di gioco. Il materiale di questi vecchi set di regole e quelli creati con il Cepheus Engine sono reciprocamente compatibili solo con un minimo di aggiustamento.
 
 Per giocare, hai bisogno di una copia delle regole del Cepheus Engine; diversi dadi a sei facce, disponibili nei negozi di giochi e hobby (ne servono almeno due, ma più è meglio); e una matita e della carta.
 
 ## Il sistema principale di risoluzione delle attività
 
-Il Cepheus Engine utilizza un sistema princiapale di risoluzione delle attività per risolvere le azioni. Ogni volta che il tuo personaggio tenta un'azione con una possibilità di fallimento, procedi come segue:
+Il Cepheus Engine utilizza un sistema principale di risoluzione dei compiti per risolvere le azioni. Ogni volta che il tuo personaggio tenta un'azione con una possibilità di fallimento, procedi come segue:
 
 1. Tira due dati a sei facce (abbreviato 2D6).
 
-2. Aggiungi ogni modificatore rilevante (per cose come caratteristiche, competenze, difficoltà e circostanze).
+2. Aggiungi ogni modificatore rilevante (per cose come caratteristiche, abilità, difficoltà e circostanze).
 
 3. Se il risultato eguaglia o supera 8, l'azione ha successo. Se il risultato è inferiore di 8, l'azione fallisce.
 
@@ -34,68 +32,61 @@ Questo semplice sitema è usato praticamente per tutto nel Cepheus Engine, con v
 
 ## L'Arbitro
 
-All'interno delle regole del Cepheus Engine, a uno dei giocatori viene chiesto di assumere il manto di arbitro. L'Arbitro è la persona che agirà da
-organizzatore, officiante per questioni riguardanti le regole, arbitro e moderatore di una sessione di gioco Cepheus Engine o di una campagna di Cepheus Engine in corso. Il ruolo dell'Arbitro è quello: di tessere insieme le storie dei personaggi giocanti degli altri partecipanti; di controllare gli aspetti non-giocanti del gioco; di creare ambienti in cui i giocatori possono interagire; di risolvere eventuali controversie dei giocatori.
+All'interno delle regole del Cepheus Engine, a uno dei giocatori viene chiesto di assumere il manto di arbitro. L'Arbitro è la persona che agirà da organizzatore, giudice per questioni riguardanti le regole, arbitro e moderatore di una sessione di gioco Cepheus Engine o di una campagna di Cepheus Engine in corso. Il ruolo dell'Arbitro è quello di: tessere insieme le storie dei personaggi giocanti degli altri partecipanti; controllare gli aspetti non-giocanti del gioco; creare ambienti in cui i giocatori possono interagire; risolvere eventuali controversie dei giocatori.
 
 ## I Personaggi
 
-Un personaggio di un giocatore o un personaggio giocante (PG) è un personaggio immaginario in un gioco Cepheus Engine le cui azioni sono controllate direttamente da un giocatore piuttosto che dalle regole del gioco. I personaggi che non sono controllati da un giocatore sono chiamati personaggi non giocanti (NPG). Le azioni dei personaggi non giocanti sono generalmente gestite dall'Arbitro.
+Un personaggio di un giocatore o un personaggio giocante (PG) è un personaggio immaginario in una partita Cepheus Engine le cui azioni sono controllate direttamente da un giocatore anziché dalle regole del gioco. I personaggi che non sono controllati da un giocatore sono chiamati personaggi non giocanti (NPG). Le azioni dei personaggi non giocanti sono generalmente gestite dall'Arbitro.
 
 Usando le regole del Cepheus Engine come linee guida, un giocatore creerà un personaggio che riflette il tipo di ruolo che vorrebbe avere nel gioco.
-Il personaggio è solitamente di una certa razza (a seconda di quelli disponibili nell'universo dell'Arbitro) e possiede una combinazione unica di competenze e livelli di esperienza. Gli attributi di un personaggio sono dati come valori numerici che possono cambiare man mano che il giocatore avanza e i personaggi crescono e si sviluppano nel corso delle loro avventure.
+Il personaggio appartiene solitamente a una certa razza (a seconda di quelli disponibili nell'universo dell'Arbitro) e possiede una combinazione unica di abilità e livelli di esperienza. Gli attributi di un personaggio sono dati come valori numerici che possono cambiare man mano che il giocatore avanza e i personaggi crescono e si sviluppano nel corso delle loro avventure.
 
 ## Caratteristiche
 
-Tutti i personaggi hanno determinate caratteristiche di base che definiscono ciò che essi sono in grado di fare. Queste caratteristiche sono Forza, Destrezza, Resistenza, Intelligenza, Educazione e Posizione Sociale. Ognuno di loro ha un punteggio caratteristico numerico, in media 7 per un umano di normale capacità. I punteggi delle caratteristiche più alti conferiscono bonus (+1 o più) alla verifica di risoluzione delle attività, mentre punteggi delle caratteristiche più bassi concedono penalità (fino a -2). Come parte della creazione del tuo personaggio, decidi quanto esso sia forte, intelligente e resistente scegliendo l'appropriato punteggio di caratteristica. Vedi ** Capitolo 1: Creazione del personaggio ** per ulteriori informazioni.
+Tutti i personaggi hanno determinate caratteristiche di base che definiscono ciò che essi sono in grado di fare. Queste caratteristiche sono Forza, Destrezza, Resistenza, Intelligenza, Educazione e Posizione Sociale. Ognuno di loro ha un punteggio numerico specifico, in media 7 per un umano di normale capacità. I punteggi delle caratteristiche più alti conferiscono bonus (+1 o più) alla prova di risoluzione dei compiti, mentre punteggi delle caratteristiche più bassi concedono penalità (fino a -2). Come parte della creazione del tuo personaggio, decidi quanto esso sia forte, intelligente e resistente scegliendo l'appropriato punteggio di caratteristica. Vedi **Capitolo 1: Creazione del personaggio** per maggiori informazioni.
 
 ## Carriere
 
-Come parte del loro sviluppo, i personaggi seguono determinati percorsi di vita chiamati carriere. Il Cepheus Engine offre una varietà di opzioni di carriera da perseguire per i personaggi, il che apre opportunità ai personaggi di ottenere livelli di competenze, potenziamenti delle caratteristiche e significativi benefici di congedo prima di entrare in gioco. Vedi il ** Capitolo 1: Creazione del personaggio ** per ulteriori informazioni.
+Come parte del loro sviluppo, i personaggi seguono determinati percorsi di vita chiamati carriere. Il Cepheus Engine offre una varietà di opzioni di carriera da far perseguire ai personaggi, che apre opportunità ai personaggi di ottenere livelli di abilità, potenziamenti delle caratteristiche e significativi benefici di congedo prima di entrare in gioco. Vedi il **Capitolo 1: Creazione del personaggio** per ulteriori informazioni.
 
-## Competenze
+## Abilità
 
-Le competenze rappresentano l'addestramento in un particolare tipo di compito o conoscenza, dalle manovre acrobatiche alla negoziazione, al pilotaggio di un'astronave, al programmare un computer. Una persona addestrata in atletica leggera è in grado arrampicarsi più velocemente e con più sicurezza di qualcuno che non lo è, per esempio. Le competenze sono misurate in livelli, che riflettono quanto addestramento un personaggio possiede nella competenza. Quando si registrano le competenze e i loro livelli associati, il nome della competenza viene scritto per primo, seguito da un trattino e quindi dal numero di livelli che il personaggio possiede in quella competenza. Per esempio, Gioco d'azzardo-2 significa che il personaggio ha due livelli nella competenza di Gioco d'azzardo.
+Le abilità rappresentano l'addestramento in un particolare tipo di compito o conoscenza, dalle manovre acrobatiche alla negoziazione, al pilotaggio di un'astronave, al programmare un computer. Una persona addestrata in atletica leggera è in grado arrampicarsi più velocemente e con più sicurezza di qualcuno che non lo è, per esempio. Le abilità sono misurate in livelli, che riflettono quanto addestramento un personaggio possiede nella competenza. Quando si registrano le abilità e i loro livelli associati, il nome dell'abilità viene scritto per primo, seguito da un trattino e quindi dal numero di livelli che il personaggio possiede in quell'abilità. Per esempio, Gioco d'azzardo-2 significa che il personaggio ha due livelli nell'abilità di Gioco d'azzardo.
 
-Ogni livello di competenza rappresenta circa due anni di addestramento e formazione in quella competenza. Per un confronto usando una terminologia di stampo accademico, potresti equiparare il livello uno a quello di una laurea breve (o analogo programma accademico triennale), il livello due a una laurea magistrale (o altro programma quinquennale), il livello tre a un Master, il livello quattro a un dottorato e così via. I livelli di competenze agiscono come bonus sulle risoluzioni delle attività quando il personaggio tenta un'azione connessa a una competenza. Come il tuo personaggio procede nella propria carriera, acquisice competenze. Vedi **Capitolo 2: Competenze** per maggiori informazioni su competenze specifiche.
+Ogni livello di abilità rappresenta circa due anni di addestramento e formazione in quell'abilità. Per fare un confronto usando una terminologia di stampo accademico, potresti equiparare il livello uno a quello di una laurea breve (o analogo programma accademico triennale), il livello due a una laurea magistrale (o altro programma quinquennale), il livello tre a un Master, il livello quattro a un dottorato e così via. I livelli di abilità agiscono come bonus sulle risoluzioni dei compiti quando il personaggio tenta un'azione connessa a un'abilità. Come il tuo personaggio procede nella propria carriera, acquisice abilità. Vedi **Capitolo 2: Abilità** per maggiori informazioni su abilità specifiche.
 
-## Game Play
+## Partite
 
 Giocare a una sessione utilizzando le regole del Cepheus Engine assomiglia a recitare verbalmente i capitoli di un romanzo di fantascienza. Le sessioni di gioco possono durare da brevi sessioni di un'ora o due, fino a maratone che coprono la maggior parte del fine settimana. Tuttavia, la sessione di gioco media tende a durare dalle tre alle cinque ore. Nel corso di una sessione, i personaggi giocanti proseguono le loro avventure. Alcune si risolvono rapidamente, all'interno di una singola sessione, mentre altre possono svolgersi in più atti spalmate su più sessioni.
 
-Ogni avventura è come una vera e propria storia, composta da una serie di scene che sono esplorate durante il gioco. In generale, la maggior parte delle scene consistono semplicemente nell'interazione dei giocatori con i personaggi non giocanti e l'universo creato dall'Arbitro. I giocatori descrivono le loro azioni e l'arbitro descrive i risultati di quelle azioni, in un scambio bidirezionale. Alcuni tipi di situazioni, come il combattimento personale o spaziale, hanno più struttura e più regole per aiutare i giocatori a risolvere i loro azioni in modalità che riflettono le competenze dei loro personaggi.
+Ogni avventura è come una vera e propria storia, composta da una serie di scene che sono esplorate durante il gioco. In generale, la maggior parte delle scene consistono semplicemente nell'interazione dei giocatori con i personaggi non giocanti e l'universo creato dall'Arbitro. I giocatori descrivono le loro azioni e l'arbitro descrive i risultati di quelle azioni, in un scambio bidirezionale. Alcuni tipi di situazioni, come il combattimento corpo a corpo o spaziale, hanno più struttura e più regole per aiutare i giocatori a risolvere i loro azioni in modalità che riflettono le abilità dei loro personaggi.
 
 ## Temi Usuali di Cepheus Engine
 
-I giochi che utilizzano le regole del Cepheus Engine sono generalmente progettati attorno a un tema. Basate nell'era classica della fantascienza, queste regole si prestano a giochi che seguono alcuni temi comuni, che sono dettagliati nella tabella Temi Usuali di Cepheus Engine. Questo non è un elenco completo dei tipi di gioco che il Cepheus Engine è progettato per gestire; questo è semplicemente un elenco generale di temi usali da considerare.
+I giochi che utilizzano le regole del Cepheus Engine sono generalmente progettati attorno a un tema. Basate nell'era classica della fantascienza, queste regole si prestano a giochi che seguono alcuni temi comuni, che sono dettagliati nella tabella Temi Usuali di Cepheus Engine. Non è un elenco completo dei tipi di gioco che il Cepheus Engine è progettato per gestire; è semplicemente un elenco generico di temi usuali da prendere come riferimento.
 
 #### Tabella: Temi Usuali di Cepheus Engine
 
-| Tema          | Descrizione                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Coloniale     | Gli avventurieri sono ai confini dello spazio esplorato, aiutano a selezionare un nuovo mondo per una colonia e poi a stabilirlo. Queste campagne consentono a un gruppo di sviluppare ampiamente un unico mondo.                                                                                                                                                                     |
-| Commercio     | Gli avventurieri vivono a bordo di un commerciante di frontiera o di un commerciante mercantile, guadagnandosi da vivere con il trasporto di merci, passeggeri, merci speculative e occasionali lavori. Queste campagne esplorano pesantemente le regole del commercio e del commercio.                                                                                               |
-| Vagabondaggio | Gli avventurieri si spostano costantemente da un posto all'altro, senza una casa fissa o un lavoro, in cerca di lavoro attraverso lavori occasionali mentre esplorano l'universo che l'Arbitro ha creato. Queste campagne sono talvolta chiamate "campagne sandbox" perché esplorano un'area che è stata precedentemente creata e popolata dall'Arbitro.                              |
-| Spionaggio    | Gli avventurieri appartengono tutti allo stesso governo o agenzia di intelligence aziendale e si guadagnano da vivere andando in missioni di spionaggio contro i loro nemici. Queste campagne tendono ad essere più episodiche di altri temi comuni delle campagne.                                                                                                                   |
-| Esplorazione  | Gli avventurieri servono a bordo di una nave da ricognizione, guadagnandosi da vivere viaggiando attraverso regioni dello spazio precedentemente inesplorate, esplorando strani nuovi mondi e cercando nuova vita e nuove civiltà mentre vanno coraggiosamente dove nessun altro studente è mai giunto prima. Queste campagne fanno un uso massiccio delle regole per generare mondi. |
-| Mercenari     | Gli avventurieri appartengono tutti alla stessa unità mercenaria, guadagnandosi da vivere partecipando ad azioni militari nell'assunzione di una parte interessata al conflitto. Queste campagne fanno un uso significativo delle regole di combattimento personali, con una particolare attenzione agli scenari militari su larga scala.                                             |
-| Politico      | Gli avventurieri sono pesantemente coinvolti nell'arena sociale e politica di una comunità politica interstellare, trattando con diplomatici, nobili e altre fazioni con interessi acquisiti nel controllo degli aspetti del governo. Queste campagne tendono a concentrarsi sulla diplomazia e sugli intrighi politici.                                                              |
-| Ribellione    | Gli avventurieri sono coinvolti in una fiorente guerra civile, cercando di preservare o rovesciare l'attuale governo. Queste campagne in genere iniziano con l'intrigo e terminano con l'azione.                                                                                                                                                                                      |
+| Tema             | Descrizione                                                                                                                                                                                                                                                                                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Coloniale**    | Gli avventurieri sono ai confini dello spazio esplorato, aiutano a selezionare un nuovo mondo per una colonia e poi a stabilirlo. Queste campagne consentono a un gruppo di sviluppare ampiamente un unico mondo.                                                                                                                                                                     |
+| **Commercio**    | Gli avventurieri vivono a bordo di un commerciante di frontiera o di un commerciante mercantile, guadagnandosi da vivere con il trasporto di merci, passeggeri, merci speculative e occasionali lavori. Queste campagne esplorano pesantemente le regole del commercio e del commercio.                                                                                               |
+| **Raminghi**     | Gli avventurieri si spostano costantemente da un posto all'altro, senza una casa fissa o un lavoro, in cerca di lavoro attraverso lavori occasionali mentre esplorano l'universo che l'Arbitro ha creato. Queste campagne sono talvolta chiamate "campagne sandbox" perché esplorano un'area che è stata precedentemente creata e popolata dall'Arbitro.                              |
+| **Spionaggio**   | Gli avventurieri appartengono tutti allo stesso governo o agenzia di intelligence aziendale e si guadagnano da vivere andando in missioni di spionaggio contro i loro nemici. Queste campagne tendono ad essere più episodiche di altri temi comuni delle campagne.                                                                                                                   |
+| **Esplorazione** | Gli avventurieri servono a bordo di una nave da ricognizione, guadagnandosi da vivere viaggiando attraverso regioni dello spazio precedentemente inesplorate, esplorando strani nuovi mondi e cercando nuova vita e nuove civiltà mentre vanno coraggiosamente dove nessun altro studente è mai giunto prima. Queste campagne fanno un uso massiccio delle regole per generare mondi. |
+| **Mercenari**    | Gli avventurieri appartengono tutti alla stessa unità mercenaria, guadagnandosi da vivere partecipando ad azioni militari nell'assunzione di una parte interessata al conflitto. Queste campagne fanno un uso significativo delle regole di combattimento personali, con una particolare attenzione agli scenari militari su larga scala.                                             |
+| **Politico**     | Gli avventurieri sono pesantemente coinvolti nell'arena sociale e politica di una comunità politica interstellare, trattando con diplomatici, nobili e altre fazioni con interessi acquisiti nel controllo degli aspetti del governo. Queste campagne tendono a concentrarsi sulla diplomazia e sugli intrighi politici.                                                              |
+| **Ribellione**   | Gli avventurieri sono coinvolti in una fiorente guerra civile, cercando di preservare o rovesciare l'attuale governo. Queste campagne in genere iniziano con l'intrigo e terminano con l'azione.                                                                                                                                                                                      |
 
 ## Tiro dei dadi
 
-Usando il Cepheus Engine, quando devi fare un tiro di dado per risolvere un'azione, seguirà tipicamente il sistema principale di tiro di un 2D6 più modificatori da confrontare a un obiettivo di 8+ (leggi come "otto o più"). Questo è chiamato verifica. Vorrai sempre tirare alto per una verifica. Tirando 12 prima di aggiungere modificatori (quando due sei appaiono naturalmente sui dadi) non è un successo automatico e tirando un 2 prima di aggiungere modificatori (quando entrambi i dadi mostrano un uno naturale) non è automaticamente fallimento.
+Usando il Cepheus Engine, quando devi fare un tiro di dado per risolvere un'azione, seguirà tipicamente il sistema principale di tiro di un 2D6 più modificatori da confrontare a un obiettivo di 8+ (leggi come "otto o più"). Questo è chiamato prova. Vorrai sempre tirare alto per una prova. Tirando 12 prima di aggiungere modificatori (quando due sei appaiono naturalmente sui dadi) non è un successo automatico e tirando un 2 prima di aggiungere modificatori (quando entrambi i dadi mostrano un uno naturale) non è automaticamente fallimento.
 
 ### Difficoltà ed Effetto
 
-La Difficoltà di una verifica è un numero deciso dall'Arbitro che modifica il risultato della tua verifica. Quando non è fornita alcuna Difficoltà, è assunto che la Difficoltà sia +0. Quindi, per un'attività con Difficoltà di +2, devi aggiungere +2 al risultato della verifica. Hai successo su un totale di 8 o più. La lista dei valori di Difficoltà può essere trovata nella Tabella Difficoltà delle Attività
+La Difficoltà di una prova è un numero deciso dall'Arbitro che modifica il risultato della tua prova. Quando non è fornita alcuna Difficoltà, è assunto che la Difficoltà sia +0. Quindi, per un compito con Difficoltà di +2, devi aggiungere +2 al risultato della prova. Hai successo su un totale di 8 o più. La lista dei valori di Difficoltà può essere trovata nella Tabella Difficoltà dei Compiti.
 
-A check's Difficulty is a number set by the Referee that modifies your
-check result. When no Difficulty is given, the assumed Difficulty is +0.
-So, for a task with a Difficulty of +2, you must add +2 to the check
-result. You succeed on a total of 8 or better. The list of Difficulty
-ratings can be found in the Task Difficulty table
-
-#### Tabella: Difficoltà delle Attività
+#### Tabella: Difficoltà dei Compiti
 
 | Difficoltà      | MD  |
 | --------------- | --- |
@@ -107,8 +98,8 @@ ratings can be found in the Task Difficulty table
 | Molto Difficile | -4  |
 | Formidabile     | -6  |
 
-In alcuni casi, le conseguenze di una verifica variano sulla base di quanto il risultato della verifica è superiore o inferiore all'obiettivo di 8. La differenza tra un risultato di verifica e l'obiettivo di 8 è chiamata Effetto. Se l'Effetto è 6 o superiore, la verifica è considerata un Successo Eccezionale. Quando l'Effetto è 6 o inferiore, la verifica è considerata un Fallimento Eccezionale.
-Vedi **Capitolo 2: Competenze** per maggiori dettagli.
+In alcuni casi, le conseguenze di una prova variano sulla base di quanto il risultato della prova è superiore o inferiore all'obiettivo di 8. La differenza tra un risultato di prova e l'obiettivo di 8 è chiamata Effetto. Se l'Effetto è 6 o superiore, la prova è considerata un Successo Eccezionale. Quando l'Effetto è 6 o inferiore, la prova è considerata un Fallimento Eccezionale.
+Vedi **Capitolo 2: Abilità** per maggiori dettagli.
 
 #### Tabella: Gradi di Successo
 
@@ -119,319 +110,194 @@ Vedi **Capitolo 2: Competenze** per maggiori dettagli.
 | 0 a +5           | Successo               |
 | 6 o più          | Successo Eccezionale   |
 
-### Verifiche di opposizione
+### Prove di opposizione
 
-Se due personaggi sono contrapposti in un'attività, allora il personaggio che ottiene l'Effetto più alto vince. Per situazioni di parità, il personaggio con il punteggo più alto nella caratteristica rilevante vince. Se i personaggi pareggiano anche sulle caratteristiche, tirano di nuovo.
+Se due personaggi sono contrapposti in un compito, allora il personaggio che ottiene l'Effetto più alto vince. Per situazioni di parità, il personaggio con il punteggo più alto nella caratteristica rilevante vince. Se i personaggi pareggiano anche sulle caratteristiche, tirano di nuovo.
 
-### Provare di nuovo
+### Tentare di nuovo
 
-In generale, puoi tentare nuovamente una verifica se fallisci e puoi continuare a provare indefinitamente. Alcune attività, comunque, hanno conseguenze per il fallimento. Per esempio, fallire una verifica di Atletica mentre scali un dirupo significa che cadi, che rendere difficile un nuovo tentativo. Alcune attività non possono essere tentate nuovamente una volta che una verifica fallisce. Per molte attività, una volta che hai avuto successo, ulteriori successi sono insignificanti. (Una volta che hai scoperto la password di un account di un computer usando la tua competenza di Computer, per esempio, non c'è alcun beneficio nell'effettuare un'altra verifica usando Computer per determinare la password dell'account.)
+In generale, puoi tentare nuovamente una prova se fallisci e puoi continuare a tentare indefinitamente. Alcuni compiti, comunque, hanno conseguenze per il fallimento. Per esempio, fallire una prova di Atletica mentre scali un dirupo significa che cadi, il che rende difficile un nuovo tentativo. Alcuni compiti non possono essere tentati nuovamente una volta che una prova fallisce. Per molti compiti , una volta che hai avuto successo, ulteriori successi non sono significativi. (Una volta che hai scoperto la password di un account di un computer usando la tua abilità di Computer, per esempio, non c'è alcun beneficio nell'effettuare un'altra prova usando Computer per determinare la password dell'account.)
 
 ### Modificatori di circostanza
 
-Alcune circostanste rendono una verifica più facile o più difficile, risultando in un bonus o una penalità che è aggiunta al risultato della verifica. L'Arbitro può alterare le possibilità di successo in due modi:
+Alcune circostanste rendono una prova più facile o più difficile, risultando in un bonus o una penalità che è aggiunta al risultato della prova. L'Arbitro può alterare le possibilità di successo in due modi:
 
-- Se il personaggio ha un vantaggio, come strumenti adeguati, aiuti competenti o altre circostanze benefiche, riceve un bonus di +1 alla sua verifica di competenza.
+- Se il personaggio ha un vantaggio, come strumenti adeguati, aiuti competenti o altre circostanze benefiche, riceve un bonus di +1 alla sua prova di abilità.
 
-- Se il personaggio è impedito, come avendo strumenti difettosi, assistenza incompetente o circostante negative, riceve la penalità di -1 alla sua verifica di competenza.
+- Se il personaggio è impedito, come avendo strumenti difettosi, assistenza incompetente o circostante negative, riceve la penalità di -1 alla sua prova di abilità.
 
 ### Tempo e verifiche
 
-Al di fuori di situazioni stressanti come combattimento, effettuare particolari attività spesso richiede un ammontare di tempo casuale, dipendente dalle circostanze.
-Per molte attività, tira 1D6 e moltiplica per l'incremento che l'Arbitro fornisce per l'azione. Per esempio, rompere una porta di legno sottile può richiedere 1D6 secondi, mentre effettuare un delicato intervento chirurgico può richiedere 1D6 ore. Maggiori informazioni sugli incrementi di tempo possono essere trovate nel **Capitolo 2: Competenze**.
+Al di fuori di situazioni stressanti come combattimento, effettuare particolari compiti spesso richiede un ammontare di tempo casuale, dipendente dalle circostanze.
+Per molti compiti, tira 1D6 e moltiplica per l'incremento che l'Arbitro fornisce per l'azione. Per esempio, rompere una porta di legno sottile può richiedere 1D6 secondi, mentre effettuare un delicato intervento chirurgico può richiedere 1D6 ore. Maggiori informazioni sugli incrementi di tempo possono essere trovate nel **Capitolo 2: Abilità**.
 
 Durante i combattimenti, molte azioni sono spesso confinate in un periodo di tempo ristretto. Alcune di queste azioni sono considerate azioni minori, mentre altre sono considerate azioni significative. Maggiori informazioni sono fornite nel **Capitolo 5: Combattimento Corpo a Corpo**
 
-### Aiding Another
-
-Sometimes characters work together and help each other out. In this
-case, one character (usually the one with the highest total of modifiers
-on the check) is considered the leader of the effort and makes the check
-normally, while each helper makes the same check. The Effect of a
-helper's check result can provide either a bonus (DM+1 with a successful
-result, DM+2 with an Exceptional Success) or a penalty (DM-1 with a
-failed result, DM-2 with an Exceptional Failure) to the leader's check
-result. In many cases, outside help isn't beneficial, or only a limited
-number of helpers can aid someone at once. The Referee limits aid as
-appropriate for the task and conditions.
-
-## Types of Checks
-
-There are two main types of checks: skill checks and characteristic
-checks.
-
-### Skill Checks
-
-A skill check determines what you can accomplish with a particular skill
-(sometimes whether you're trained in that skill or not). It is a roll of
-2D6, modified by your levels in the skill, the skill's key
-characteristic score modifier, and the Difficulty, against a target of 8
-or higher. Skill checks sometimes have gradations of success and failure
-based on the Effect of your check result (how much higher or lower your
-check result is when compared to the target of 8). When making a skill
-check, if a character does not have any levels in the required skill,
-then he suffers a –3 penalty for being unskilled.
-
-### Attack Rolls
-
-An attack roll determines whether or not you hit an opponent in combat.
-An attack roll is essentially a skill check, using your skill levels in
-combat skills as modifiers.
-
-### Characteristic Checks
-
-A characteristic check is like a skill check, but measures raw ability,
-like strength, endurance, or intelligence. These checks are used when
-the task is one not covered by an obvious skill, or where the
-character’s innate abilities are the most important influence on the
-result. To make a Characteristic check, you must roll 2D6 and add the
-appropriate characteristic score modifier. Characteristic checks tend to
-be all or nothing (you can either accomplish the task or you can't),
-although there are sometimes gradations of success or failure.
-
-## The Combat Round
-
-When things really start happening in a Cepheus Engine game, time is
-broken down into six-second segments called rounds, or combat rounds,
-since they're most often used in fights. A round isn't very much time,
-just long enough for a character to do something. The types of actions
-your character can perform during a round are significant actions, minor
-actions, extended actions, free actions, and reactions. During a round
-you can do one of the following:
-
-- Initiate or continue an extended action.
-
-- Take a significant action and a minor action.
-
-- Take three minor actions, and forego taking a significant action
-  this turn.
-
-You can perform as many free actions and reactions in a round as you
-wish, although the Referee may choose to limit them to a reasonable
-number to keep the game moving. See **Chapter 5: Personal Combat** for
-more information.
-
-## Pseudo-Hexadecimal Notation
-
-The Cepheus Engine uses a form of pseudo-hexadecimal notation as a type
-of shorthand in noting specific values of characteristic scores, world
-statistics, drive type designations and similar design elements. The
-pseudo-hexadecimal notation proceeds as normal for values from 0 to 15,
-but extends beyond F for 15, with G for 16, etc. The Cepheus Engine
-skips the use of the letters I and O, because they might be mistaken for
-the numbers 1 and 0. The Pseudo-Hexadecimal Notation table provides a
-quick reference for converting values for use in Cepheus Engine.
-
-#### Table: Pseudo-Hexadecimal Notation
-
-| Actual Value | PseudoHex | Actual Value | PseudoHex | Actual Value | PseudoHex |
-| ------------ | --------- | ------------ | --------- | ------------ | --------- |
-| **0**        | 0         | **12**       | C         | **24**       | Q         |
-| **1**        | 1         | **13**       | D         | **25**       | R         |
-| **2**        | 2         | **14**       | E         | **26**       | S         |
-| **3**        | 3         | **15**       | F         | **27**       | T         |
-| **4**        | 4         | **16**       | G         | **28**       | U         |
-| **5**        | 5         | **17**       | H         | **29**       | V         |
-| **6**        | 6         | **18**       | J         | **30**       | W         |
-| **7**        | 7         | **19**       | K         | **31**       | X         |
-| **8**        | 8         | **20**       | L         | **32**       | Y         |
-| **9**        | 9         | **21**       | M         | **33**       | Z         |
-| **10**       | A         | **22**       | N         |              |           |
-| **11**       | B         | **23**       | P         |              |           |
-
-## Important Terms
-
-The Cepheus Engine uses certain words and abbreviations throughout the
-rules system. In order properly understand the Cepheus Engine rules,
-both players and Referees should become familiar with these terms. The
-following words, phrases and abbreviations are commonly used in The
-Cepheus Engine:
+### Aiutare gli altri
 
-**2D6**: Two six-sided dice, used to resolve all actions in the Cepheus
-Engine.
+Qualche volta i personaggi lavorano insieme e si aiutano reciprocamente. In questo caso, un personaggio (generalmente quello con il totale più alto dei modificatori usati nella prova) è considerato il leader dello sforzo ed esegue la prova normalmente, mentre ogni aiutante esegue la stessa prova. L'Effetto della prova di un aiutante può fornire sia un bonus (MD+1 con un successo, MD+2 con un Successo Eccezionale) che una penalità (MD-1 con un fallimento, MD-2 con un Fallimento Eccezionale) al risultato del leader nella prova. In molti casi, l'aiuto esterno non è di beneficio, o solo un numero limitato di aiutanti può assistere qualcuno. L'Arbitro limita l'assistenza come ritiene appropriato per compiti e condizioni.
 
-**Action**: A character activity. There are significant actions, minor
-actions, extended actions, free actions, and reactions.
+## Tipi di Prove
 
-**Adventure**: A story created by the Referee and players, comprised of
-a series of related scenes or encounters.
+Ci sono due tipi principali di prove: Prove di Abilità e Prove di Caratteristica.
 
-**Attack bonus**: A modifier used to measure a character's combat skill.
+### Prove di Abilità
 
-**Attack roll**: A skill check used to determine whether an attack hits.
+Una prova di abilità determina ciò che puoi compiere con una particolare abilità (a volte che tu sia addestrato o meno in quell'abilità). Il tiro è un 2D6, modificato dai tuoi livelli nell'abilità, il punteggio modificatore della caratteristica chiave dell'abilità e la Difficoltà, contro un obiettivo di 8 o più. Le prove di abilità qualche volta hanno gradi di sucesso o fallimento, basati sull'Effetto del risultato della prova (quanto più alto o più basso è il risultato della prova rispetto all'obiettivo di 8). Quando è eseguita una prova di abilità, se il personaggio non ha nessun livello nell'abilità richiesta, allora soffre una penalità di -3 per essere inesperto.
 
-**Attack**: Any of numerous actions intended to harm, disable, or
-neutralize an opponent.
+### Tiro di Attacco
 
-**Bonus**: A positive modifier to a die roll.
+Un tiro di attacco determina se riesci a colpire o meno un opponente in combattimento.
+Un tiro di attacco è essenzialmente una prova di abilità, usando i livelli di abilità di combattimento come modifiatori.
 
-**Campaign**: A series of linked adventures.
+### Prove di Caratteristica
 
-**Character**: A fictional individual in the game. The players control
-characters, while the Referee controls non-player characters.
+Una prova di caratteristica è come una prova di abilità, ma misura l'abilità di base, come forza, resistenza o intelligenza. Queste prove sono usate quando il compito non è coperto da abilità ovvie o quando le innate capacità del personaggio sono l'influenza maggiore sul risultato. Per effettuare una prova di abilità, devi tirare un 2D6 e aggiungere il punteggio modificatore della caratteristica più appropriata. Le prove di abilità tendono a essere "tutto o niente" (puoi portare a termine il compito oppure no), sebbene ci sono a volte gradi di successo o fallimento.
 
-**Characteristic modifier**: A modifier determined by the value of the
-characteristic score, applied as a bonus or penalty to checks as needed.
+## Il Round di Combattimento
 
-**Characteristic score**: One of the six basic character traits --
-Strength (Str), Dexterity (Dex), Endurance (End), Intelligence (Int),
-Education (Edu), and Social Standing (Soc).
+Quando le cose iniziano veramente a succede in una partita di Cepheus Engine, il tempo è spezzato in segmenti di sei secondi, chiamati round, o round di combattimento, dato che sono più spesso usati nella lotta. Un round non è moltissimo tempo, è lungo giusto a sufficienza per permettere a un personaggio  di fare qualcosa. I tipi di azione che il tuo personaggio può eseguire durante un round sono azioni significanti, azioni minori, azioni estese, azioni gratuite e reazioni. Durante un round puoi fare una delle seguenti:
 
-**Check (or Throw)**: A method of deciding the result of a character's
-action. Checks are based on a relevant ability, skill, or other trait.
-To make a check, roll 2D6 and add any relevant modifiers. If the check
-result equals or exceeds a target of 8 or the result of an opponent's
-check, it succeeds.
+- Iniziare o continuare un'azione estesa.
 
-**Coreward**: An astrographical term indicating the direction of
-Sagittarius A\* (pronounced "Sagittarius A-star", standard abbreviation
-Sgr A\*), a bright and very compact astronomical radio source at the
-center of the Milky Way galaxy.
+- Eseguire un'azione significante e un'azione minore.
 
-**Credit (Cr)**: The primary unit of currency used in the Cepheus
-Engine. For very large amounts of money, the kilocredit (KCr) represents
-one thousand credits and the megacredit (MCr) represents one million
-credits.
+- Eseguire tre azioni minori e rinunciare a eseguire un'azione significativa per questo turno.
 
-**Critical hit (crit)**: An attack inflicting extra damage. Critical
-hits are only involved in vehicular and space combat.
+Puoi eseguire quante azioni gratuite e reazioni vuoi, sebbene l'Arbitro può scegliere di limitarle a un numero ragionevole che consenta alla partita di continuare a muoversi. Vedi **Capitolo 5: Combattimento Corpo a Corpo** per maggiori informazioni.
 
-**D66**: A special die roll generated by rolling two six-sided dice of
-different colors (or rolling one die twice, noting each number rolled),
-multiplying the first die by 10 and then adding the second die, to
-create a number between 11 and 66.
+## Notazione Pseudo-Esadecimale
 
-**Damage bonus**: A modifier used to determine the damage of an attack.
+Il Cepheus Engine usa una fomra di notazione pseudo-esadecimale come scorciatoia per annotare specifici valori dei punteggi di caratteristica, statistiche planetarie, designazioni di tipologie di motore e simili elementi di ideazione. La notazione  pseudo-esadecimale procede normalmente per i valori da 0 a 15, ma si estende oltre F per 15, con G per 16, etc. Il Cepheus Engine salta le lettere I e O, perché potrebbero essere confuse con i numeri 1 e 0. La Tabella di Notazione Pseudo-esadecimale fornisce un riferimento rapido per convertire i valori nell'uso di Cepheus Engine.
 
-**Damage**: Harm caused to a character by injury, illness, or some other
-source.
+#### Tabella: Notazione Pseudo-esadecimale
 
-**Dice modifier (DM)**: A modifier applied to a check.
+| Valore effettivo | PseudoEsa | Valore effettivo | PseudoEsa | Valore effettivo | PseudoEsa |
+| ---------------- | --------- | ---------------- | --------- | ---------------- | --------- |
+| **0**            | 0         | **12**           | C         | **24**           | Q         |
+| **1**            | 1         | **13**           | D         | **25**           | R         |
+| **2**            | 2         | **14**           | E         | **26**           | S         |
+| **3**            | 3         | **15**           | F         | **27**           | T         |
+| **4**            | 4         | **16**           | G         | **28**           | U         |
+| **5**            | 5         | **17**           | H         | **29**           | V         |
+| **6**            | 6         | **18**           | J         | **30**           | W         |
+| **7**            | 7         | **19**           | K         | **31**           | X         |
+| **8**            | 8         | **20**           | L         | **32**           | Y         |
+| **9**            | 9         | **21**           | M         | **33**           | Z         |
+| **10**           | A         | **22**           | N         |                  |           |
+| **11**           | B         | **23**           | P         |                  |           |
 
-**Die (plural is dice)**: A small polyhedron, typically a cube, with
-each side having a different number on it, ranging from one to the
-number of sides of the polyhedron, thrown and used in gambling and other
-games involving chance. The Cepheus Engine uses six-sided dice
-exclusively to create random results during play.
+## Termini Importanti
 
-**Difficulty**: A modifier applied to a check that is assigned by the
-Referee, reflecting the relative ease or difficulty of a given action.
+Il Cepheus Engine usa certi termini e abbreviazioni per tutto il sistema di regole. Al fine di capire pienamente le regole del Cepheus Engine, sia i giocatori che l'Arbitro dovrebbero prendere confidenza con questi termini. Le seguenti parole, frasi e abbreviazioni sono comunemente usate nel Cepheus Engine.
 
-**Dominant race**: A sentient species capable of interstellar travel via
-jump drive technology, and that has used that technology to expand their
-presence over a significant region of space. Dominant Races typically
-control a fairly expansive interstellar government, and have settlements
-and significant populations more than ten parsecs away from their planet
-of origin.
+**2D6**: Due dadi a sei facce, usate per risolvere tutte le azioni nel Cepheus Engine.
 
-**Dying**: Near death and unconscious. A dying character can take no
-actions.
+**Azione**: Un'attività di un personaggio. Ci sono azioni significative, azioni minori, azioni estese, azioni gratuite e reazioni.
 
-**Effect**: The difference between a check result and the target of 8
-(i.e. how much higher or lower the result is).
+**Avventura**: Una storia creata dall'Arbitro e dai giocatori, composta da una serie di scene collegate e incontri.
 
-**Encounter**: An unexpected or casual meeting with someone or
-something. A large part of the Referee’s job is the administration of
-encounters.
+**Bonus di Attacco**: Un modificatore che è usato per misurare l'abilità di combattimento di un personaggio.
 
-**Explorer's Society**: A private interstellar travel service which
-maintains exclusive resorts and facilities at various starports. Several
-interstellar organizations provide membership to the Explorer's Society
-as a reward for outstanding service.
+**Tiro di Attacco**: Una prova di abilità usata per determinare se un attacco colpisce o meno.
 
-**Exceptional failure**: Any check that fails by 6 or greater (i.e. has
-an Effect of -6 or worse).
+**Attacco**: Qualsiasi delle numerose azioni intese per danneggiare, disarmare o neutralizzare un opponente.
 
-**Exceptional success**: Any check that succeeds by 6 or greater (i.e.
-has an Effect of +6 or better).
+**Bonus**: Un modificatore positivo al tiro di dado.
 
-**Extended action**: An action in combat that takes longer than a single
-combat round to complete.
+**Campagna**: Una serie di avventure collegate.
 
-**Free action**: An extremely fast activity, requiring very little time
-and effort.
+**Personaggi**: Persone di finzione nel gioco. I giocatori controllano i personaggi giocanti, mentre l'Arbitro contollai personaggi non giocanti.
 
-**Homeworld**: **1)** The world that serves as a character’s place of
-origin, usually the world on which the character was raised and which
-had the most impact on their development during their pre-adult life.
-**2)** The world of origin for an alien species, i.e. Earth is the
-homeworld for the human species.
+**Modificatore di Caratteristica**: Un modificatore determinato dal valore di punteggio di caratteristica, applicato quando necessario come bonus o penalità alle prove.
 
-**Jump**: A form of faster-than-light movement using Jump drives, which
-always takes one week to travel a number of parsecs equal to its Jump
-rating and consumes a vast amount of fuel.
+**Punteggio di Caratteristica**: Uno dei sei tratti di base di un personaggio -- Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Stato Sociale (Soc).
 
-**Jump point**: A point in space more than 100 diameters out from any
-nearby celestial body, chosen by a navigator as the point from which a
-ship will enter into Jump space.
+**Prova (o Tiro)**: Un metodo per decidere il risultato dell'azione di un personaggio. Le prove sono basate su competenze rilevanti, abilità o altri tratti. Per effettuare una prova, tira 2D6 e aggiungi ogni modificatore rilevante. Se il risultato della prova è uguale o superiore l'obiettivo di 8 o il risultato della prova dell'opponente, allora ha successo.
 
-**Jump space**: The alternate dimension through which starships travel
-when transitioning from one point in normal space to another.
+**(Verso il) Nucleo**: Un termine astrografico per indicare la direzione di Sagittarius A*(abbreviato Sgr A*), una fonte radio astronomica brillante e molto compatta al centro della Via Lattea.
 
-**Lesser race**: A sentient species that has not developed jump drive
-technology on its own. While individuals of the Lesser races can and do
-engage in interstellar travel, settled populations of any given Lesser
-Race are rarely encountered further than ten parsecs from their
-homeworld.
+**Crediti (Cr)**: La principale unità di valuta usata nel Cepheus Engine. Per ingenti somme di denaro, il kilocredito (KCr) rappresente un migliaio di crediti e il megacredito (MCr) rappresente un milione di crediti.
 
-**Lethal damage**: Damage that can potentially disable or kill a target.
+**Colpo critico (crit)**: Un attacco che infligge danno supplementare. I colpi critici sono solamente usati nel combattimento veicolare e spaziale.
 
-**Mainworld**: The primary world of a star system; the world represented
-by the UWP in a list of worlds for a given region of space.
+**D66**: Uno speciale tiro di dado generato dal tiro di due dadi a sei facce di differenti colori (o tirando lo stesso dato due volte, annontandone ciascuno dei valori), moltiplicando il primo dato per 10 e poi aggiungendo il secono dato, per creare un numero compreso da 11 e 66.
 
-**Melee attack**: A physical attack in close combat.
+**Bonus di Danno**: Un modificare usato per determinare il danno di un attacco.
 
-**Melee weapon**: A handheld weapon designed for close combat.
+**Danno**: Danno causato a un personaggio da ferite, malattia o altre fonte.
 
-**Minor action**: An action intended to move a distance or to manipulate
-or move an object. You can take up to three minor actions per round, at
-the loss of a significant action.
+**Modificatore ai Dadi (MD)**: Un modificatore applicato a una prova.
 
-**Misjump**: A mishap caused by an inaccurate jump, which results in
-jumping to a random location with damage to the vessel and potentially
-the crew. Common causes for misjumps include bad Jump plots, damaged
-Jump drives, diverting energy into the Jump drive improperly, jumping
-from within the hundred-diameter limit and using unrefined fuel.
+**Dado**: Un piccolo poliedro, tipicamente un cubo, con un numero diverso su ogni faccia, lanciato e usato nel gioco d'azzardo e altri giochi che prevedono la casualità. Il Cepheus Engine usa eclusivamente dadi a sei facce per generare risultati casuali durante il gioco.
 
-**Modifier**: Any bonus or penalty applied to a die roll.
+**Difficoltà**: Un modificare applicato a una prova che è assegnato dall'Arbitro e riflette la relativa difficoltà o facilità di una determinata azione.
 
-**Natural**: A natural result on a roll or check is the actual number
-appearing on the die, not the modified result obtained by adding bonuses
-or subtracting penalties.
+**Razza dominante**: Una specie senziente capace di viaggio interstellare attraverso la tecnologia del motore a balzo e che ha usato tale tecnologia per espandere la propria presenza su significative regioni di spazio. Le razze dominanti tipicamente controllano un governo interstellare abbastanza espansivo e hanno insediamenti e popolazione di grandi dimensioni a più di dieci parsec dal loro pianeta di origine.
 
-**Non-lethal damage**: Damage that can potentially stun or knock out a
-target, but does no permanent harm.
+**Morente**:  Vicino alla morte o incosciente. Un personaggio morente non può eseguire azioni.
 
-**Non-player character (NPC)**: A character controlled by the Referee
-(as opposed to a character controlled by a player).
+**Effetto**:  La differenza tra il risultato di una prova e l'obiettivo di 8 (p.e. quando alto o bass è il risultato).
 
-**Non-starship**: A spaceship without a jump drive, and thus incapable
-of interstellar travel on its own.
+**Incontro**: Un incontro inaspettato o casuale con qualcuno o qualcosa. Una larga parte del lavoro dell'Arbitro è amministrare gli incontri.
 
-**Patron**: A non-player character who gives financial or other support
-to a person, organization, cause, or activity. Referees often use
-patrons as a tool to attempt to engage player characters in adventures.
+**Società degli Esploratori**: Un servizio privato di viaggio interstellare che mantiene resort e strutture esclusive in vari astroporti. Parecchie organizzazioni interstellari garantiscono l'iscrizione alla Società degli Esploratori come ricompensa per un servizio di staordinario valore.
 
-**Penalty**: A negative modifier to a die roll.
+**Fallimento Eccezionale**: Ogni prova che ha un fallimento di 6 o più (p.e. ha un effetto di -6 o peggio).
 
-**Player character (PC)**: A character controlled by a player, one of
-the protagonists of an adventure or campaign.
+**Successo Eccezionale**: Ogni prova che ha un successo di 6 o più (p.e. ha un effetto di +6 o meglio).
 
-**Psion**: A character with psionic abilities.
+**Azione estesa**: Un'azione in combattimento che prende più tempo di un round di combattimento per essere completata.
 
-**Ranged attack**: Any attack made at a distance.
+**Azione gratuita**: Un'attività estremamente veloce, che richiede molto poco tempo e sforzo.
 
-**Ranged weapon**: A projectile or thrown weapon designed for attacking
-at a distance.
+**Mondo d'origine**: **1)** Il mondo di origine del personaggio, solitamente il mondo in cui il personaggio è cresciuto o che ha avuto il maggior impatto sul suo sviluppo durante l'età pre-adulta. **2)** Il mondo di origine di una specie aliena, p.e. la Terra è il mondo di origine della specie umana.
 
-**Reaction**: An action taken in response to the action of another. You
-can perform as many reactions as you want per round in Personal Combat,
-but the number of Reactions that a vessel can undertake is based on
-Initiviative in Space Combat.
+**Balzo**: Una forma di movimento più veloce della luce effettuato usando motori a Balzo, che impiegano sempre una settimana di viaggio per attraversare un numero di parsec uguali alla categoria di Balzo e che consuma ingenti quantità di carburante.
 
-**Referee**: The player who portrays characters not controlled by the
-other players, arbitrates the rules, and makes up the story and setting
-for the game.
+**Punto di Balzo**: Un punto nello spazio a più di 100 diametri oltre il più vicino corpo celeste, scelto dai navigatori come punto in cui la nave entra nello spazio di Balzo.
+
+**Spazio di Balzo**: La dimensione alternativa attraverso la quale un'astronave viaggia quando trasla da un punto all'altro nello spazio normale.
+
+**Razza minore**: Una specie senziante che ha non ha sviluppato da sola la tecnologia del motore a Balzo. Mentre individui di una razza minore possono ed effettuano viaggi interstellari, le popolazioni insediate di qualsiasi Razza Minore sono incontrate raramente oltre i dieci parsec dal loro mondo di origine.
+
+**Danno letale**: Danno che potenzialemente inabilita o uccide l'obiettivo.
+
+**Mainworld**: Il mondo principale di un sistema stellare, il mondo è rappresentato dal Profilo di Mondi Universale (PMU) in una lista di mondi per ogni regione mappata dello spazio.
+
+**Attacco da Mischia**: Un attacco fisico in combattimento ravvicinato.
+
+**Arma da Mischia**: Un'arma portatile, progettata per combattimenti ravvicinati.
+
+**Azione minore**: Un'azione intesa per muoversi a distanza o per manipolare o muovere un oggetto. Puoi eseguire fino a tre azioni per round, al costo di perdita di un'azione significativa.
+
+**Balzo sbagliato**: Un incidente causato da un Balzo poco accurato, che risulta nel balzare in una posizione casuale con danno per il vascello e potenzialmente per l'equipaggio. Le cause più comune per i balzi sbagliati includono pessimi piloti, motori danneggiati, introduzione impropria dell'energia nel motore di Balzo, balzare all'interno del limite di 100 diametri e usare carburante non raffinato.
+
+**Modificatore**: Qualsiasi bonus o penalità applicata al tiro.
+
+**Naturale**: Il risultato naturale di un tiro o di una prova è il numero che effettivamente appare sul dado, non il risultato modificato ottenuto aggiungendo bonus o sottraendo penalità.
+
+**Danno non letale**: Danno che può potenzialemente stordire o mettere al tappeto un obiettivo, ma non causa danno permanente.
+
+**Personaggio non giocante (PNG)**: Un personaggio controllato dall'Arbitro (al contrario di un personaggio controllato da un giocatore).
+
+**Nave non interstellare**: Un'astronave senza motore di Balzo e incapace quindi di volo interstellare indipendente.
+
+**Patrono**: Un personaggio non giocante che da sostegno finanziario o di altro tipo a persone, organizzazioni, cause o attività. Gli Arbitri spesso usano i patroni come strumento per coinvolgere i personaggi giocanti nelle avventure.
+
+**Penalità**:  Un modificatore negativo a un tiro di dado.
+
+**Personaggio giocante (PG)**: Un personaggio controllato da un giocatore, uno dei protagonisti di un'avventura o campagna.
+
+**Psionico**: Un personaggio con capacità psioniche.
+
+**Attacco a distanza**: Qualsiasi attacco eseguito a distanza.
+
+**Arma a distanza**: Un'arma a proiettili o da tiro, progettata per attaccare a distanza.
+
+**Reazione**: Un'azione eseguita in risposta all'azione di un altro. Puoi eseguire tutte le reazioni che vuoi in un turno di Combattimento corpo a corpo, ma il numero di Reazioni che un vascello può intraprendere è basato sull'iniziativa nel Combattimento Spaziale.
+
+**Arbitro**: Il giocatore che interpreta i personaggi non controllati dagli altri giocatori, arbitra le regole e genera la storia e l'ambientazione per la partita.
 
 **Rimward**: An astrographical term indicating the direction opposite of
 Coreward, or directly away from the radio source of Sagittarius A\*.
