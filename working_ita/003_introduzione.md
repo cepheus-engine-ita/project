@@ -299,70 +299,43 @@ Il Cepheus Engine usa certi termini e abbreviazioni per tutto il sistema di rego
 
 **Arbitro**: Il giocatore che interpreta i personaggi non controllati dagli altri giocatori, arbitra le regole e genera la storia e l'ambientazione per la partita.
 
-**Rimward**: An astrographical term indicating the direction opposite of
-Coreward, or directly away from the radio source of Sagittarius A\*.
+**(Verso il) Bordo**: Un termine astrografico che indica la direzione opposta al Nucleo o direttamente opposta alla fonte radio di Sagittarius A*.
 
-**Round**: A six-second unit of game time used to manage actions,
-usually in combat.
+**Round**: Un'unità di sei secondi di tempo di gioco usato per gestire le azioni, generalmente in combattimento.
 
-**Significant action**: An action intended to do something within about
-3 seconds. You can perform a single significant action per round, or
-forego it to perform a total of three minor actions.
+**Azione significativa**: Un'azione intesa a fare qualcosa nell'intorno dei 3 secondi. Puoi effettuare una singola azione significativa per round, oppure o rinunciarci per effettuare un totale di tre azioni minori.
 
-**Seriously wounded**: If you have lost at least one point from all
-three of your physical characteristics, you are considered seriously
-wounded. When conscious, you cannot move except to hobble or crawl along
-at 1.5 meters per combat round. You also lose your minor action in
-combat. You can only regain characteristic points equal to your
-Endurance DM per day of rest through natural healing. You require
-surgery.
+**Ferito gravemente**: Se hai perso almeno un punto in tutte e tre le caratteristiche fisiche, sei considerato ferito gravemente. Quando sei incosciente, non puoi muoverti ad eccezione di arrancare o strisciare per un massimo di 1,5 metri per round di combattimento. Perdi, inoltre, la tua azione minore in combattimento. Puoi solo riguadagnare punti di caratteristica pari al tuo MD di Resistanza al giorno di riposo attraverso la guarigione naturale. Hai bisogno di un intervento chirurgico.
 
-**Skill**: An ability to perform a set action, such as navigating a
-starship, operating a rifle, or programming a computer. Skills are
-attained in levels (Navigation-1, Computer-2, etc); the higher the level
-of a skill, the more expertise a character has in that area. Many
-different individual skills are available to characters.
+**Abilità**: Una capacità di eseguire un'azione predeterminata, come navigare con un'astronave, sparare con un fucile, o programmare un computer. Le abilità sono conseguite in livelli (Navigazione-1, Computer-2, etc); più alto è il livello dell'abilità, più esperienza ha un personaggio in quel settore. Sono disponibili diverse abilità individuali per i personaggi. 
 
-**Small Craft**: A vessel under 100 tons, capable of interplanetary
-travel.
+**Veicolo piccolo**: Un vascello sotto le 100 tonnellate, capace di navigazione interplanetaria.
 
-**Sophont**: A sentient being with a base reasoning capacity roughly
-equivalent to or greater than that of an average human being.
+**Sofonte**: Un essere senziente con una capacità di ragionamento di base sostanzialmente equivalente o superiore a quella di un essere umano medio.
 
-**Spinward**: An astrographical term indicating the direction of the
-galaxy’s rotation.
+**(In direzione) Rotatoria**: Un termine astrografico che indica la direzione della rotazione galattica.
 
-**Standard Day**: A unit of time that is 24 hours long.
+**Giorno Standard**: Un'unità di temo che dura 24 ore.
 
-**Standard Year**: A unit of time that is 365 Standard Days in length.
+**Anno Standard**: Un'unità di tempo lunga 365 Giorni Standard.
 
-**Starport**: A port where interstellar and interplanetary vessels load
-or unload, especially one where customs officers are stationed.
+**Astroporto**: Un porto dove vascelli interstellari e interplanetari caricano e scaricano, specialmente uno dove sono collocati gli ufficili doganali.
 
-**Starship**: A spaceship with a jump drive, capable of interstellar
-travel on its own.
+**Astronave**: Una nave spaziale con motore a balzo, capace di viaggi interstellari indipendenti.
 
-**Target (also subject)**: The intended recipient of an attack, action,
-or effect.
+**Obiettivo (o soggetto)**: Il destinatario previsto di un attacco, azione,
+o effetto.
 
-**Trailing**: An astrographical term indicating the direction opposite
-of the galaxy's rotation.
+**(In direzione) Antirotatoria**: Un termine astrografico che indica la direzione opposta alla rotazione galattica.
 
-**Trained**: Having knowledge of, and therefore levels in, a skill.
+**Addestrato**: Che ha conoscenza, e quindi livelli, di un'abilità.
 
-**Unarmed attack**: A melee attack made with no weapon.
+**Attacco disarmato**: Un attacco da mischia senza armi.
 
-**Universe**: The setting presented by a Referee, in which characters
-play out adventures and campaigns. A Referee may use a published setting
-for their adventures, or create their own with the Cepheus Engine rules.
+**Universo**: L'ambientazione presentata dall'Arbitro, in cui i personaggi mettono in atto avventure e campagne. Un Arbitro può usare ambientazioni pubblicate per le loro avventure o crearne di proprie con il Cepheus Engine.
 
-**Untrained**: Having no ranks in a skill. Some skills cannot be used
-untrained. Unskilled skill checks suffer a DM-3 penalty.
+**Senza addestramento**: Che non ha gradi in un'abilità. Alcune abilità non possono essere usate senza addestramento. Prove di abilità senza addestramento soffrono di una penalità MD-3.
 
-**Vessel**: General term used to starships, small craft, or vehicles as
-a general inclusive group. Most commonly, it refers to any vehicle or
-ship capable of interplanetary or interstellar travel.
+**Vascello**: Termine di uso generale usato per astronavi, veicoli piccoli, o veicoli in senso lato. Più comunemento, può riferirsi a qualsiasi veicolo o nave capace di navigazione interplanetaria o interstellare.
 
-**World**: A generic term in the Cepheus Engine for any inhabitable
-celestial body or similar location represented by a Universal World
-Profile.
+**Mondo**: Un termine generico che nel Cepheus Engine indica qualsiasi corpo celeste abitabile o posto simile rappresentato da un Profilo di Mondi Universale.
