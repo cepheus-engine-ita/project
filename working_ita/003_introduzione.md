@@ -110,8 +110,6 @@ ratings can be found in the Task Difficulty table
 In alcuni casi, le conseguenze di una verifica variano sulla base di quanto il risultato della verifica è superiore o inferiore all'obiettivo di 8. La differenza tra un risultato di verifica e l'obiettivo di 8 è chiamata Effetto. Se l'Effetto è 6 o superiore, la verifica è considerata un Successo Eccezionale. Quando l'Effetto è 6 o inferiore, la verifica è considerata un Fallimento Eccezionale.
 Vedi **Capitolo 2: Competenze** per maggiori dettagli.
 
-
-
 #### Tabella: Gradi di Successo
 
 | Gamma di Effetto | Grado di Successo      |
