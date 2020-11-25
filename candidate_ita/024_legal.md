@@ -95,12 +95,12 @@ Reserved.
    Contributions are Your original creation and/or You have sufficient
    rights to grant the rights conveyed by this License.
 
-6.Notice of License Copyright: You must update the COPYRIGHT NOTICE
-portion of this License to include the exact text of the COPYRIGHT
-NOTICE of any Open Game Content You are copying, modifying or
-distributing, and You must add the title, the copyright date, and the
-copyright holder’s name to the COPYRIGHT NOTICE of any original Open
-Game Content you Distribute.
+6. Notice of License Copyright: You must update the COPYRIGHT NOTICE
+   portion of this License to include the exact text of the COPYRIGHT
+   NOTICE of any Open Game Content You are copying, modifying or
+   distributing, and You must add the title, the copyright date, and the
+   copyright holder’s name to the COPYRIGHT NOTICE of any original Open
+   Game Content you Distribute.
 
 7. Use of Product Identity: You agree not to Use any Product Identity,
    including as an indication as to compatibility, except as expressly
