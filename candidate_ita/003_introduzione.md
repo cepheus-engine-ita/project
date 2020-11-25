@@ -6,7 +6,7 @@ Benvenuti nel ***Cepheus Engine System Reference Document***, che delinea le reg
 
 Se sei nuovo al gioco di ruolo, potresti chiederti: "Che cos'è un gioco di ruolo?"
 
-Un gioco di ruolo (a volte abbreviato in GdR) è un gioco in cui i giocatori assumono i ruoli di personaggi in un ambiente immaginario. I giocatori si assumono la responsabilità di recitare questi ruoli all'interno di una narrazione, o attraverso la recitazione letterale o attraverso un processo strutturato processo decisionale o sviluppo del personaggio. Le azioni intraprese all'interno di molti giochi riescono o falliscono secondo un sistema formale di regole e linee guida, come le regole del Cepheus Engine.
+Un gioco di ruolo (a volte abbreviato in GdR) è un gioco in cui i giocatori assumono i ruoli di personaggi in un ambiente immaginario. I giocatori si assumono la responsabilità di recitare questi ruoli all'interno di una narrazione, o attraverso la recitazione letterale o attraverso uno strutturato processo decisionale o sviluppo del personaggio. Le azioni intraprese all'interno di molti giochi riescono o falliscono secondo un sistema formale di regole e linee guida, come le regole del Cepheus Engine.
 
 Una sessione di gioco di Cepheus Engine è condotta tramite il dialogo. Un giocatore, l'Arbitro, di solito modera qualsiasi decisione in base alle regole e presenta l'ambientazione del gioco, mentre ciascuno degli altri giocatori interpreta il ruolo di un singolo personaggio. Insieme, l'Arbitro e i giocatori creano una storia, molto simile al modo in cui molti di noi erano soliti creare storie giocando a giochi di finzione da bambini, tranne che con più dadi e più struttura.
 
