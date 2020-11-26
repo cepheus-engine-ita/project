@@ -1,227 +1,143 @@
-# CHAPTER 1: CHARACTER CREATION
+# CAPITOLO 1: CREAZIONE DEI PERSONAGGI
 
-Cepheus Engine characters are rarely beginners fresh from the farm.
-There is no reason not to play a young and inexperienced character if
-you like, but since a broad range of skills is important to success in
-the game most players will want their character to be a little more
-experienced in the world.
+In Cepheus Engine i personaggi raramente sono principianti freschi di fattoria.
+Non c'è alcuna limitazione a giocare un personaggio giovane e inesperto, se lo vuoi, ma siccome una vasta gamma di abilità è importante per il successo durante il gioco, molti giocatori preferiranno che i loro personaggi abbiano un po' più di esperienza del mondo. 
 
-All characters begin at the age of majority, typically 18. Having
-generated characteristic scores and background skills, the character
-should begin serving terms in his or her chosen career. Each 4-year term
-spent in a career gives the character more experience in the universe,
-generally in the form of skills. Generate the results of each term
-before proceeding to the next. At the end of a period of service,
-characters roll for benefits gained upon "mustering out" (i.e. leaving
-the service). They may then begin adventuring.
+Tutti i personaggi iniziano all'età della maturità, tipicamente 18 anni. Una volta generati i punteggi per le caratteristiche e le abilità iniziali, il personaggio dovrebbe iniziare a servire periodi nella carriera scelta. Ogni periodo, che è di quattro anni, trascorso in una carriera garantisce al personaggio più esperienza dell'universo, generalmente nella forma di abilità. Genera i risultati di ciascun periodo prima di procedere al successivo. Una volta completata la carriera, i personaggi tirano per i benefici guadagnati con il "congedo" (p.e. lasciando il servizio). Possono quindi iniziare l'avventura.
 
-This chapter provides complete instructions for the generation of
-twenty-four distinct career paths.
+Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro differenti percorsi di carriera .
 
-## Character Creation Checklist
+## Checklist di Creazione Personaggio
 
-1\) Characteristics
+1. Caratteristiche
 
-> a\) Roll your six characteristics using 2D6, and place them in order
-> on your character sheet.
->
-> b\) Determine characteristic modifiers.
+    a. Deterina le sei caratteristiche tirando 2D6 e registrandole in ordine sulla tua scheda personaggio.
+    
+    b. Determina i modificatori di caratteristica.
+    
+2. Mondo d'origine (Opzionale)
 
-2\) Homeworld (Optional)
+    a. Determina il mondo d'origine.
+    
+    b. Segna le abilità iniziali. I personaggi guadagnano un numero di abilità di base a Livello 0, pari a 3 + il modificatore di Educazione. Le prime due devono essere prese dal tuo mondo d'origine (basate sui Codici di Commercio o il Livello di Legge del mondo); il resto sono presi dalla lista di educazione.
+    
+3. Carriera
 
-> a\) Determine homeworld.
->
-> b\) Gain background skills. Character gains a number of background
-> skills at Level 0 equal to 3 + their Education modifier. The first two
-> have to be taken from your homeworld (based on the world's trade codes
-> or law level); the rest are taken from the education list.
+    a. Scegli una carriera. Non puoi scegliere di nuovo una carriera che hai già lasciato, a meno che non sia Ramingo.
+    
+    b. Tira per qualificarti per quella carriera, come indicato nella descrizione della carriera. Se non è la tua prima carriera, soffri un MD-2 per ogni precedente carriera in cui hai servito.
+    
+    c. Se ti qualifichi per questa carriera, vai al punto 4.
+    
+    d. Se non ti qualifichi per quella carriera, puoi entrare nella carriera di Ramingo, o sottoporti alla Coscrizione. Puoi farti coscrivere solo una volta.
+    
+4. Addestramento di base
 
-3\) Career
+    Per il primo periodo nella tua prima carriera, acquisisci tutte le Abilità di Servizio a livello 0.
+    
+   Per il primo periodo nelle successive carriere, puoi scegliere qualsiasi altra Abilità di Servizio a livello 0.
 
-> a\) Choose a career. You cannot choose a career you’ve already left
-> except Drifter.
->
-> b\) Roll to qualify for that career, as indicated in the description
-> of the career. If this is not your first career, you suffer a –2 DM
-> for every previous career in which you have served.
->
-> c\) If you qualify for this career, go to step 4.
->
-> d\) If you do not qualify for that career, you can enter the Drifter
-> career or submit to the draft. You may only enter the draft once.
+5. Sopravvivenza
 
-4\) Basic training
+	Tira per la sopravvivenza, come indicati nella descrizione della carriera.
 
-> For your first term in your first career, you get every skill in the
-> service skills table at level 0.
->
-> For your first term in subsequent careers, you may pick any one skill
-> from the service skills table at level 0.
+	Se hai successo, vai al punto 8.
 
-5\) Survival
+	Se non hai successo, sei morto. In alternativa, gli eventi ti hanno condotto fuori da questa carriera. Tira sulla tabella degli Incidenti e vai al punto 10 (non ricevi benefici per questo periodo).
 
-> Roll for survival, as indicated in the description of the career.
->
-> If you succeed, go to step 8.
->
-> If you did not succeed, you have died. Alternately, events have forced
-> you from this career. Roll on the mishap table and go to step 10 (you
-> do not receive a benefit roll for this term.)
+6. Gradi e Promozione
 
-6\) Commission and Advancement
+	a. Inizi come un personaggio di Rango 0.
+    
+    b. Se la tua carriera offre una Prova su Gradi e sei di Rango 0, puoi scegliere di tirare per acquisire un Grado. Se hai successo, passi al Rango 1 della carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi abilità bonus dalla Tabella Ranghi per questa carriera.
+    
+    c. Se una carriera offre una Prova su Promozione e se di Rango 1 o superiore, puoi scegliere di tirare per la Promozione. Se hai successo, il tuo Rango incrementa di uno nella carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi bonus di abilità dalla Tabella Ranghi per questa carriera. Puoi tirare per una Promozione nello stesso periodo in cui hai ricevuto un Grado.
+    
+7. Abilità e Addestramento
 
-a\) You begin as a Rank 0 character.
+    a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della carattestica, applica la modifca al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello. 
+    
+    b. Se la tua carriera non prevede una Prova su Gradi o Promozioni, puoi tirare una seconda volta, selezionando una delle Tabelle Abilità o Addestramento prevista per questa carriera (che può essere la stessa tabella che hai già scelto per questo periodo oppure una differente).
 
-> b\) If your career offers a Commission check and you are Rank 0, you
-> can choose to roll for Commission. If you are successful, you are now
-> Rank 1 in your chosen career. Choose one of the skills and training
-> tables and roll on it for an extra skill. Take any bonus skills from
-> the ranks table for this career.
->
-> c\) If your career offers an Advancement check and you are Rank 1 or
-> higher, you can choose to roll for Advancement. If you are successful,
-> your Rank improves by one in your chosen career. Choose one of the
-> skills and training tables and roll on it for an extra skill. Take any
-> bonus skills from the ranks table for this career. You can roll for
-> Advancement in the same term that you succeed in a Commission roll.
+9. Invecchiamento
 
-7\) Skills and Training
+    a. Aumenta la tua età di 4 anni.
+    
+    b. Se il tuo personaggio ha 34 anni o di più, tira per l'Invecchiamento.
 
-> a\) Choose one of the Skills and Training tables for this career and
-> roll on it. If you gain a characteristic improvement as a result,
-> apply the change to your characteristic score immediately. If you gain
-> a skill as a result and you do not already have levels in that skill,
-> take it at level 1. If you already have the skill, increase your skill
-> by one level.
->
-> b\) If your career does not have a Commission or Advancement check,
-> you may roll a second time, choose one of the Skills and Training
-> tables for this career (which may be the same or different from the
-> first table chosen for this term.)
+9. Riarruolamento
 
-8\) Aging
+    a. Tira per il riarruolamento. Se fallisci, devi lasciare questa carriera. Se hai tirato un 12 naturale, non puoi lasciare questa carriera e devi continuare per un altro periodo, vai al punto 5.
+    
+    b. Se hai servito per un totale di sette periodi o più durante la creazione del personaggio, allora puoi andare in pensione, vai al punto 10.
+    
+    c. Se desideri continuare in questa carriera, vai al punto 5.
+    
+    d. Se desideri lasciare questa carriera, vai al punto 10.
 
-> a\) Increase your age by 4 years.
->
-> b\) If your character is 34 or older, roll for aging.
+10. Benefici
 
-9\) Re-enlistment
+    Se stai lasciando la carriera, tira per ottenere Benefici. Un personaggio ha diritto a un Beneficio per ciascun periodo di servizio in quella carriera. Puoi anche guadagnare ulteriori Tiri Beneficio se hai raggiunto un Rango più alto.
 
-> a\) Roll for re-enlistment. If you fail, you must leave this career.
-> If you roll a natural 12, you cannot leave this career and must
-> continue for another term, go to step 5.
->
-> b\) If you have served a total of seven terms or more in character
-> creation, then you must retire, go to step 10.
->
-> c\) If you wish to continue in this career, go to step 5.
->
-> d\) If you wish to leave this career, go to step 10.
+11. Prossima Carriera
 
-10\) Benefits
+    Se stai lasciando la tua carriera corrente e il totale del numero di periodi durante la creazione del personaggio è meno di sette, puoi andare al punto 3 per scegliere una nuova carriera oppure al punto 12 se desideri completare il tuo personaggio.
 
-> If you are leaving the career, roll for benefits. A character gets one
-> Benefit Roll for every full term served in that career. You also get
-> extra benefit rolls if you reached a higher rank.
+12. Compra l'equipaggiamento iniziale
 
-11\) Next Career
+    Compra il tuo equipaggaimento iniziare e, se te lo puoi permettere, magari un'astronave.
 
-> If you’re leaving your current career and your total number of terms
-> in character creation is less than seven, you may go to step 3 to
-> choose a new career or to step 12 if you wish to finish your
-> character.
+## Caratteristiche
 
-12\) Buy starting equipment
+Le Cararatteristiche misura le abilità più basilari di un personaggio: quanto è forte, agile, istruito o intelligente. I punteggi di caratteristica influenzano quasi tutto ciò che il personaggio fa. I personaggi più forti possono sollevare pesi maggiori, i più agili hanno un migliore equilibrio e così via.
 
-> Purchase your starting equipment and, if you can afford it, possibly a
-> starship.
+I personaggi hanno sei abilità: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc). Forza, Destrezza e Resistenza sono chiamate capacità fisiche, mentre Intelligenza, Educazione e Status Sociale sono capacità mentali vagamente definite. Ciascun punteggio sopra la media garantisce un bonus su certi tiri di dado, mentre capacità sotto la media causano una penalità a certi tiri di dado.
 
-## Characteristics
+Le sei caratteristiche del tuoi personaggio sono descritte brevemente di seguito:
 
-Characteristics measure a character’s most basic abilities: how strong,
-dexterous, educated or intelligent he is. Characteristic scores
-influence almost everything your character does. Stronger characters can
-lift greater weights, more dexterous characters have better balance, and
-so forth.
+- **Forza** (Str): La forza fisica di un personaggio, la sua forma fisica e potenza.
 
-Characters have six abilities: Strength (Str), Dexterity (Dex),
-Endurance (End), Intelligence (Int), Education (Edu), and Social
-Standing (Soc). Strength, Dexterity, and Endurance are called physical
-abilities, whereas Intelligence, Education, and Social Standing are
-loosely termed mental abilities. Each above-average ability score
-provides a bonus on certain die rolls; while below average abilities
-apply a penalty to some die rolls.
+- **Destrezza** (Dex): Coordinazione fisica e agilità, riflessi.
 
-The six characteristics for your character are briefly described as
-follows:
+- **Resistenza** (Res): La capacità di un personaggio di subire danni, energia e determinazione.
 
--   **Strength** (Str): A character’s physical strength, fitness and
-    forcefulness.
+- **Intelligenza** (Int): L'intelletto di un personaggio e la sua rapidità mentale.
 
--   **Dexterity** (Dex): Physical co-ordination and agility, reflexes.
+- **Educazione** (Edu): La misura di ciò che un personaggio ha appreso e delle sue esperienze.
 
--   **Endurance** (End): A character’s ability to sustain damage,
-    stamina and determination.
+- **Status Sociale** (Soc): La posizione sociale di un personaggio.
 
--   **Intelligence** (Int): A character’s intellect and quickness of
-    mind.
+### Status Sociale e Titoli Nobiliari
 
--   **Education** (Edu): A measure of a character’s learning and
-    experience.
+In un universo di Cepheus Engine in cui i personaggi, che hanno uno Status Sociale sufficientemente alto, sono considerati membri della nobiltà, specifici valori di Status Sociale sono spesso associati a precisi Titoli Nobiliari. La Tabella Titoli Nobiliari secondo Status Sociale presenta alcuni esempi, ma i valori effettivi possono variare da un universo all'altro.  Versioni di questi titoli tradizionalmente dati al genere femminile sono forniti tra parentesi.
 
--   **Social Standing** (Soc): A character’s place in society.
+#### Tabella: Titoli Nobiliari secondo Status Sociale
 
-### Social Standing and Noble Titles
+| Status Sociale |  | Titolo Nobiliare                    |
+|----------------|--|------------------------------—------|
+| 10 (A)         |  | Lord (Lady)                         |
+| 11 (B)         |  | Cavaliere (Dama)                    |
+| 12 (C)         |  | Barone (Baronessa), Baronetto       |
+| 13 (D)         |  | Marquis (Marquesa, Marchioness)     |
+| 14 (E)         |  | Conte (Contessa)                    |
+| 15 (F)         |  | Duca (Duchessa)                     |
+| 16 (G)         |  | Arciduca (Arciduchessa)             |
+| 17 (H)         |  | Principe della Corona (Principessa) |
+| 18 (J)         |  | Imperatore (Imperatrice)            |
 
-In a Cepheus Engine universe where characters of sufficiently high
-Social Standing characteristic scores are considered nobility, specific
-values of Social Standing are often associated with specific titles of
-nobility. The Titles of Nobility by Social Standing table captures some
-examples, but actual values may vary from universe to universe. Versions
-of these titles traditionally given to the female gender are provided in
-parentheses.
+### Forza Psionica, la Settima Caratteristica
 
-#### Table: Titles of Nobility by Social Standing
+Nel Cepheus Engine, i personaggi possono qualche volta possedere una settima caratteristica. Quando un personaggio impara la Psionica, è da generare anche la caratteristica di Forza Psionica (abbreviato Psi), che da potere al proprio talento psionico. Questa caratteristica non può essere tirata o considerata nella creazione di un personaggio senza l'autorizzazione dell'Arbitro. Per maggiori informazioni, vedi il **Capitolo 3: Psionica**.
 
-| Social Standing | Title of Nobility               |
-|-----------------|---------------------------------|
-| 10 (A)          | Lord (Lady)                     |
-| 11 (B)          | Knight (Knightess, Dame)        |
-| 12 (C)          | Baron (Baroness), Baronet       |
-| 13 (D)          | Marquis (Marquesa, Marchioness) |
-| 14 (E)          | Count (Countess)                |
-| 15 (F)          | Duke (Duchess)                  |
-| 16 (G)          | Archduke (Archduchess)          |
-| 17 (H)          | Crown Prince (Crown Princess)   |
-| 18 (J)          | Emperor (Empress)               |
+### Determinare i Punteggi di Caratteristica
 
-### Psionic Strength, the Seventh Characteristic
+Determinare i punteggi di caratteristica è è abbastanza semplice.  Tira le tue sei caratteristiche usando 2D6 e registrandoli nell'ordine standard: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc).
 
-Within the Cepheus Engine, characters can sometimes have a seventh
-characteristic score. When a character learns psionics, they generate a
-Psionic Strength characteristic (abbreviation Psi), which powers their
-psionic talents. This characteristic cannot be rolled or bought during
-character creation without the Referee’s permission. For more
-information on this topic, see **Chapter 3: Psionics**.
+**Regola Opzionale**: Con il consenso dell'Arbitro, tira 2D6 sei volte e assegna i risultati alle sei differenti caratteristiche basandoti su una particolare concezione di personaggio. Per esempio, se immagini il tuo personaggio come un ricercatore altamente istruito, allora potresti assegnare il tuo risultato più alto all'Educazione e assegnare il secondo risultato più alto all'Intelligenza.
 
-### Generating Characteristic Scores
+**Limiti dei Punteggi di Carattestica**: Per i personaggi giocanti, un punteggio di caratteristica non può tipicamente superare il massimo di 15, né può scendere permanentemente sotto ad 1, ad eccezione di particolari circostanze.
 
-Generating characteristics scores is fairly straightforward. Roll your
-six characteristics using 2D6, and record them in the standard order:
-Strength (Str), Dexterity (Dex), Endurance (End), Intelligence (Int),
-Education (Edu), and Social Standing (Soc).
-
-**Optional Rule**: With the Referee’s approval, roll 2D6 six times, and
-assign the results to the six different characteristic scores based on a
-particular character concept. For example, if you picture your character
-as a highly-educated researcher, then you might assign your highest
-result to Education, and assign your second highest to Intelligence.
-
-**Characteristic Score Limits**: For player characters, a characteristic
-score may not typically exceed a maximum of 15, nor may a score drop
-permanently below 1 except under certain circumstances.
-
-### Characteristic Modifiers
+### Modificatori di Caratteristica
 
 Once you have assigned your characteristic scores, you can determine
 your characteristic modifiers. These modifiers are applied to any check
@@ -232,14 +148,12 @@ characteristic score of 7 has a DM+0. Thus, a characteristic value of 2
 or less has a modifier of DM-2, characteristic values of 3 to 5 have a
 modifier of DM-1, and so on. The Characteristic Modifier by Score Range
 table provides a synopsis of these modifiers, already calculated for
-you.
+you. 
 
-#### 
-
-#### Table: Characteristic Modifier by Score Range
+#### Tabella: Modificatori di Caratteristica secondo Gamma di Punteggio
 
 | Score Range   | PseudoHex | Characteristic Modifier |
-|---------------|-----------|-------------------------|
+| ------------- | --------- | ----------------------- |
 | 0 through 2   | 0-2       | -2                      |
 | 3 through 5   | 3-5       | -1                      |
 | 6 through 8   | 6-8       | +0                      |
@@ -258,16 +172,16 @@ you.
 Over the course of play, your character's characteristic scores may
 change for the following reasons:
 
--   Aging can permanently lower physical characteristic scores.
+- Aging can permanently lower physical characteristic scores.
 
--   Physical damage, such as from combat, falling, disease or poison,
-    temporarily lowers physical characteristic scores.
+- Physical damage, such as from combat, falling, disease or poison,
+  temporarily lowers physical characteristic scores.
 
--   Mental trauma, such as head injuries and psionic attack, temporarily
-    lowers mental characteristic scores.
+- Mental trauma, such as head injuries and psionic attack, temporarily
+  lowers mental characteristic scores.
 
--   Certain medications, psionic enhancements, and other scenarios can
-    temporarily or permanently enhance specific characteristic scores.
+- Certain medications, psionic enhancements, and other scenarios can
+  temporarily or permanently enhance specific characteristic scores.
 
 Whenever a characteristic score changes, you will need to determine the
 new characteristic modifier.
@@ -309,19 +223,19 @@ Universal Persona Profile can be found below:
 The numbers represent the position of a pseudo-hexadecimal notation of
 an individual’s characteristic scores. These scores are, in order:
 
-1.  **Strength** (Str)
+1. **Strength** (Str)
 
-2.  **Dexterity** (Dex)
+2. **Dexterity** (Dex)
 
-3.  **Endurance** (End)
+3. **Endurance** (End)
 
-4.  **Intelligence** (Int)
+4. **Intelligence** (Int)
 
-5.  **Education** (Edu)
+5. **Education** (Edu)
 
-6.  **Social Standing** (Soc)
+6. **Social Standing** (Soc)
 
-7.  **Psionic Strength** (Psi)
+7. **Psionic Strength** (Psi)
 
 For example, if a character has the following characteristic scores:
 
@@ -377,12 +291,10 @@ description and trade codes. If you came from a planet already
 established in the Referee’s universe, then consult those sources for
 the planet’s description.
 
-#### 
-
 #### Table: Homeworld Skills by Planetary Description
 
 | Descriptor | Skill          |
-|------------|----------------|
+| ---------- | -------------- |
 | No Law     | Gun Combat-0   |
 | Low Law    | Gun Combat-0   |
 | Medium Law | Gun Combat-0   |
@@ -391,7 +303,7 @@ the planet’s description.
 #### Table: Homeworld Skills by Trade Code
 
 | Trade Code      | Skill        |
-|-----------------|--------------|
+| --------------- | ------------ |
 | Agricultural    | Animals-0    |
 | Asteroid        | Zero-G-0     |
 | Desert          | Survival-0   |
@@ -445,104 +357,104 @@ get over 8’.
 The following twenty-four career paths are detailed at the end of this
 chapter:
 
--   **Aerospace System Defense**: Member of a planetary armed military
-    force operating within a world's atmosphere and close orbit. Also
-    known as the "planetary air force".
+- **Aerospace System Defense**: Member of a planetary armed military
+  force operating within a world's atmosphere and close orbit. Also
+  known as the "planetary air force".
 
--   **Agent**: Individual that secretly collects and reports information
-    on the activities, movements and plans of a political or corporate
-    enemy or competitor. Also known as a spy or intelligence operative.
+- **Agent**: Individual that secretly collects and reports information
+  on the activities, movements and plans of a political or corporate
+  enemy or competitor. Also known as a spy or intelligence operative.
 
--   **Athlete**: Individual that has achieved celebrity status for their
-    proficiency in sports and other forms of physical exercise.
+- **Athlete**: Individual that has achieved celebrity status for their
+  proficiency in sports and other forms of physical exercise.
 
--   **Barbarian**: Individual from a primitive world (TL4 or less)
-    capable of surviving on their world without support from a
-    technologically advanced civilization.
+- **Barbarian**: Individual from a primitive world (TL4 or less)
+  capable of surviving on their world without support from a
+  technologically advanced civilization.
 
--   **Belter**: Individual that explores asteroid belts in search of
-    mineral deposits and salvageable material for profit.
+- **Belter**: Individual that explores asteroid belts in search of
+  mineral deposits and salvageable material for profit.
 
--   **Bureaucrat**: Official in a government department, charged with
-    following the details of administrative process.
+- **Bureaucrat**: Official in a government department, charged with
+  following the details of administrative process.
 
--   **Colonist**: Individual that moves to a new world or settles in a
-    new planetary colony.
+- **Colonist**: Individual that moves to a new world or settles in a
+  new planetary colony.
 
--   **Diplomat**: Individual that is appointed by a planetary or
-    interstellar government to conduct official negotiations and
-    maintain political, economic and social relations with another
-    polity or polities.
+- **Diplomat**: Individual that is appointed by a planetary or
+  interstellar government to conduct official negotiations and
+  maintain political, economic and social relations with another
+  polity or polities.
 
--   **Drifter**: Individual that continually moves from place to place,
-    without any fixed home or job.
+- **Drifter**: Individual that continually moves from place to place,
+  without any fixed home or job.
 
--   **Entertainer**: Individual that has achieved celebrity status for
-    their proficiency in publicly entertaining others.
+- **Entertainer**: Individual that has achieved celebrity status for
+  their proficiency in publicly entertaining others.
 
--   **Hunter**: Individual that kills or traps large game, almost always
-    large terrestrial mammals, for meat, other animal by-products (such
-    as horn or bone), trophy or sport.
+- **Hunter**: Individual that kills or traps large game, almost always
+  large terrestrial mammals, for meat, other animal by-products (such
+  as horn or bone), trophy or sport.
 
--   **Marine**: Member of an interstellar armed military force trained
-    to serve in a variety of environments, often carried on board
-    starships as an adjunct to an interstellar navy. Also known as the
-    "space marines".
+- **Marine**: Member of an interstellar armed military force trained
+  to serve in a variety of environments, often carried on board
+  starships as an adjunct to an interstellar navy. Also known as the
+  "space marines".
 
--   **Maritime System Defense**: Member of a planetary armed military
-    force operating within and on the surface of a world's oceans. Also
-    known as the "planetary wet navy".
+- **Maritime System Defense**: Member of a planetary armed military
+  force operating within and on the surface of a world's oceans. Also
+  known as the "planetary wet navy".
 
--   **Mercenary**: Professional soldier hired to serve in a foreign
-    military force or perform a specific military action.
+- **Mercenary**: Professional soldier hired to serve in a foreign
+  military force or perform a specific military action.
 
--   **Merchant**: Individual involved in wholesale interstellar trade,
-    particularly between individual worlds or polities.
+- **Merchant**: Individual involved in wholesale interstellar trade,
+  particularly between individual worlds or polities.
 
--   **Navy**: Member of an interstellar armed military force that
-    conducts military operations in interplanetary or interstellar
-    space. Also known as the "space navy".
+- **Navy**: Member of an interstellar armed military force that
+  conducts military operations in interplanetary or interstellar
+  space. Also known as the "space navy".
 
--   **Noble**: Member of an elite upper class, having high social or
-    political status.
+- **Noble**: Member of an elite upper class, having high social or
+  political status.
 
--   **Physician**: Individual that is skilled in the science of medicine
-    and is trained and licensed to treat sick and injured people.
+- **Physician**: Individual that is skilled in the science of medicine
+  and is trained and licensed to treat sick and injured people.
 
--   **Pirate**: Individual that attacks and steals from interplanetary
-    and interstellar ships in space.
+- **Pirate**: Individual that attacks and steals from interplanetary
+  and interstellar ships in space.
 
--   **Rogue**: Individual that makes their living through illicit means.
+- **Rogue**: Individual that makes their living through illicit means.
 
--   **Scientist**: Individual that is engaged in and has expert
-    knowledge of a science, especially a biological or physical science.
+- **Scientist**: Individual that is engaged in and has expert
+  knowledge of a science, especially a biological or physical science.
 
--   **Scout**: Member of an interplanetary exploratory service,
-    surveying unfamiliar territory in space.
+- **Scout**: Member of an interplanetary exploratory service,
+  surveying unfamiliar territory in space.
 
--   **Surface System Defense**: Member of a planetary armed military
-    force operating on the non-hydrographic surface of a world. Also
-    known as the "planetary army".
+- **Surface System Defense**: Member of a planetary armed military
+  force operating on the non-hydrographic surface of a world. Also
+  known as the "planetary army".
 
--   **Technician**: Individual that is skilled in mechanical or
-    industrial techniques or in a particular technical field.
+- **Technician**: Individual that is skilled in mechanical or
+  industrial techniques or in a particular technical field.
 
-### Qualifying and the Draft
+### Qualifica e la Coscrizione
 
 The Qualification check determines if you can successfully enter into
 your chosen career. Military careers use Enlistment as the description
 for this roll instead of qualification. If you fail this check then you
 cannot enter your chosen career this term. You must either submit to the
-Draft or take the Drifter career for this term. You suffer a DM–2 to
+Coscrizione or take the Drifter career for this term. You suffer a DM–2 to
 qualification rolls for each previous career you have entered. Once you
-leave a career you cannot return to it. The Draft and the Drifter career
-are exceptions to this rule – you can be Drafted into a career you were
+leave a career you cannot return to it. The Coscrizione and the Drifter career
+are exceptions to this rule – you can be Coscritto into a career you were
 previously in but got ejected from, and the Drifter career is always
 open.
 
-#### Table: The Draft
+#### Tabella: La Coscrizione
 
-| Roll | Draft Career                                   |
+| Roll | Carriera di Coscrizione                        |
 |------|------------------------------------------------|
 | 1    | Aerospace System Defense (Planetary Air Force) |
 | 2    | Marine                                         |
@@ -551,7 +463,7 @@ open.
 | 5    | Scout                                          |
 | 6    | Surface System Defense (Planetary Army)        |
 
-## Terms of Service
+## Periodi di Servizio
 
 Each step through the cycle of resolving your career path, you will go
 through a term of service that lasts approximately four years long. This
@@ -559,7 +471,7 @@ adds four years to the character’s age. Each time the character
 reenlists, or enters into a new career, it is for another term, or four
 additional years of service.
 
-## Basic Training
+## Addestramento di Base
 
 On the first term of a new career, you gain Basic Training as you learn
 the basics for your chosen career. For your first career only, you get
@@ -581,7 +493,7 @@ roll for the current term only.
 #### Table: Survival Mishaps
 
 | 1D6 | Mishap                                                                                                                                               |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Injured in action. (This is the same as a result of 2 on the Injury table.) Alternatively, roll twice on the Injury table and take the lower result. |
 | 2   | Honorably discharged from the service.                                                                                                               |
 | 3   | Honorably discharged from the service after a long legal battle. Legal issues create a debt of Cr10,000.                                             |
@@ -647,7 +559,7 @@ creation must roll on the Injury table.
 #### Table: Injury Table
 
 | 1D6 | Injury                                                                                                                           |
-|-----|----------------------------------------------------------------------------------------------------------------------------------|
+| --- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Nearly killed. Reduce one physical characteristic by 1D6, reduce both other physical characteristics by 2 (or one of them by 4). |
 | 2   | Severely injured. Reduce one physical characteristic by 1D6.                                                                     |
 | 3   | Missing eye or limb. Reduce Strength or Dexterity by 2.                                                                          |
@@ -732,7 +644,7 @@ number of terms as a negative Dice Modifier on this table.
 #### Table: Aging Table
 
 | 2D6 | Effects of Aging                                                                  |
-|-----|-----------------------------------------------------------------------------------|
+| --- | --------------------------------------------------------------------------------- |
 | –6  | Reduce three physical characteristics by 2, reduce one mental characteristic by 1 |
 | –5  | Reduce three physical characteristics by 2.                                       |
 | –4  | Reduce two physical characteristics by 2, reduce one physical characteristic by 1 |
@@ -801,7 +713,7 @@ adventurer.
 #### Table: Retirement Pay by Terms Served
 
 | Terms | Annual Retirement Pay      |
-|-------|----------------------------|
+| ----- | -------------------------- |
 | 5     | Cr10,000                   |
 | 6     | Cr12,000                   |
 | 7     | Cr14,000                   |
@@ -828,61 +740,61 @@ shares. Membership in the Explorers' Society is possible, and subsequent
 receipts of weapon benefits may be taken as skill levels instead. Note
 that characters of rank O5 or O6 gain +1 on Material Benefit rolls.
 
--   **Courier Vessel**: The character considered to be on detached duty
-    with the scout exploration service, and has been granted the use of
-    a surplus 100-ton TL9 Courier starship on a reserve basis. The scout
-    exploration service also provides free maintenance and fuel at any
-    scout base. All other ship expenses are the responsibility of the
-    character. While the character is at liberty to use the vessel as
-    they see fit, the vessel still belongs to the scout exploration
-    service, and thus cannot be abandoned or sold without consequences.
-    In exchange for the use of the ship, the character and the ship are
-    both considered to be available to return to active duty at a
-    moment's notice, should the scout exploration service have need.
+- **Courier Vessel**: The character considered to be on detached duty
+  with the scout exploration service, and has been granted the use of
+  a surplus 100-ton TL9 Courier starship on a reserve basis. The scout
+  exploration service also provides free maintenance and fuel at any
+  scout base. All other ship expenses are the responsibility of the
+  character. While the character is at liberty to use the vessel as
+  they see fit, the vessel still belongs to the scout exploration
+  service, and thus cannot be abandoned or sold without consequences.
+  In exchange for the use of the ship, the character and the ship are
+  both considered to be available to return to active duty at a
+  moment's notice, should the scout exploration service have need.
 
--   **Explorers' Society**: The character is a member of the prestigious
-    Explorers' Society. The Explorers' Society will provide members with
-    a free high passage ticket every two months, plus access to the
-    Society's information network and Society-run resorts. This benefit
-    can only be received once; any further receipt of this has no
-    additional benefit. After character creation, characters may
-    purchase membership into the Explorers’ Society. A successful
-    application for lifetime membership requires a Routine (-2) Admin
-    check modified by the character’s Social Standing, and if accepted,
-    a payment of Cr1,000,000. Failure on the application process
-    indicates the character has been black listed. If a character has
-    been black listed, the Explorers’ Society will no longer accept
-    membership applications from them. Membership is non-refundable and
-    non-transferrable.
+- **Explorers' Society**: The character is a member of the prestigious
+  Explorers' Society. The Explorers' Society will provide members with
+  a free high passage ticket every two months, plus access to the
+  Society's information network and Society-run resorts. This benefit
+  can only be received once; any further receipt of this has no
+  additional benefit. After character creation, characters may
+  purchase membership into the Explorers’ Society. A successful
+  application for lifetime membership requires a Routine (-2) Admin
+  check modified by the character’s Social Standing, and if accepted,
+  a payment of Cr1,000,000. Failure on the application process
+  indicates the character has been black listed. If a character has
+  been black listed, the Explorers’ Society will no longer accept
+  membership applications from them. Membership is non-refundable and
+  non-transferrable.
 
--   **Passage**: The character has a single ticket of the type named
-    (low, mid, high) for travel on a starship. It is good for one Jump
-    to any destination.
+- **Passage**: The character has a single ticket of the type named
+  (low, mid, high) for travel on a starship. It is good for one Jump
+  to any destination.
 
--   **Research Vessel**: A scientific foundation, an interstellar
-    corporation or some other equally affluent patron has granted the
-    character the use of a 200-ton TL9 Research Vessel. All ship
-    expenses, other than annual maintenance, are the responsibility of
-    the character. This ship still belongs to the patron, and therefore
-    cannot be sold or abandoned without consequences.
+- **Research Vessel**: A scientific foundation, an interstellar
+  corporation or some other equally affluent patron has granted the
+  character the use of a 200-ton TL9 Research Vessel. All ship
+  expenses, other than annual maintenance, are the responsibility of
+  the character. This ship still belongs to the patron, and therefore
+  cannot be sold or abandoned without consequences.
 
--   **Ship Shares**: Ship shares may be received as benefits. Each ship
-    share is worth approximately Cr2,000,000 toward the purchase of a
-    vessel. A starship can be purchased for one-fifth of its base value
-    with a 40-year loan attached to it. For every one-fifth of its base
-    value that is paid to the bank in either ship shares or cash, the
-    period of the loan is reduced by ten years. Ship shares may not be
-    redeemed for cash.
+- **Ship Shares**: Ship shares may be received as benefits. Each ship
+  share is worth approximately Cr2,000,000 toward the purchase of a
+  vessel. A starship can be purchased for one-fifth of its base value
+  with a 40-year loan attached to it. For every one-fifth of its base
+  value that is paid to the bank in either ship shares or cash, the
+  period of the loan is reduced by ten years. Ship shares may not be
+  redeemed for cash.
 
--   **Weapon**: The character leaves the service with an appropriate
-    weapon (gun or blade). Once a weapon is taken as a benefit,
-    additional receipts of the weapon may be taken as skill in that
-    weapon instead. An individual is always free to take additional
-    physical examples of the weapons instead of skill levels, if so
-    desired.
+- **Weapon**: The character leaves the service with an appropriate
+  weapon (gun or blade). Once a weapon is taken as a benefit,
+  additional receipts of the weapon may be taken as skill in that
+  weapon instead. An individual is always free to take additional
+  physical examples of the weapons instead of skill levels, if so
+  desired.
 
 | Career            | Athlete            | Aerospace Defense                | Agent                     | Barbarian          | Belter          | Bureaucrat            |
-|-------------------|--------------------|----------------------------------|---------------------------|--------------------|-----------------|-----------------------|
+| ----------------- | ------------------ | -------------------------------- | ------------------------- | ------------------ | --------------- | --------------------- |
 | Qualifications    | End 8+             | End 5+                           | Soc 6+                    | End 5+             | Int 4+          | Soc 6+                |
 | Survival          | Dex 5+             | Dex 5+                           | Int 6+                    | Str 6+             | Dex 7+          | Edu 4+                |
 | Commission        | --                 | Edu 6+                           | Edu 7+                    | --                 | --              | Soc 5+                |
@@ -914,7 +826,7 @@ that characters of rank O5 or O6 gain +1 on Material Benefit rolls.
 | 7                 | 100000             | 50000                            | 50000                     | 10000              | 50000           | 50000                 |
 
 | Career              | Athlete              | Aerospace Defense    | Agent                | Barbarian            | Belter               | Bureaucrat           |
-|---------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+| ------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | Skills and Training | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development |
 | 1                   | +1 Dex               | +1 Str               | +1 Dex               | +1 Str               | +1 Str               | +1 Dex               |
 | 2                   | +1 Int               | +1 Dex               | +1 End               | +1 Dex               | +1 Dex               | +1 End               |
@@ -945,7 +857,7 @@ that characters of rank O5 or O6 gain +1 on Material Benefit rolls.
 | 6                   | Sciences             | Tactics              | Leadership           | Broker               | Tactics              | Admin                |
 
 | Career            | Colonist                       | Diplomat                    | Drifter     | Entertainer        | Hunter          | Marine               |
-|-------------------|--------------------------------|-----------------------------|-------------|--------------------|-----------------|----------------------|
+| ----------------- | ------------------------------ | --------------------------- | ----------- | ------------------ | --------------- | -------------------- |
 | Qualifications    | End 5+                         | Soc 6+                      | Dex 5+      | Soc 8+             | End 5+          | Int 6+               |
 | Survival          | End 6+                         | Edu 5+                      | End 5+      | Int 4+             | Str 8+          | End 6+               |
 | Commission        | Int 7+                         | Int 7+                      | --          | --                 | --              | Edu 6+               |
@@ -977,7 +889,7 @@ that characters of rank O5 or O6 gain +1 on Material Benefit rolls.
 | 7                 | 50000                          | 100000                      | 10000       | 100000             | 100000          | 50000                |
 
 | Career              | Colonist             | Diplomat             | Drifter              | Entertainer          | Hunter               | Marine               |
-|---------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+| ------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | Skills and Training | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development |
 | 1                   | +1 Str               | +1 Dex               | +1 Str               | +1 Dex               | +1 Str               | +1 Str               |
 | 2                   | +1 Dex               | +1 End               | +1 Dex               | +1 Int               | +1 Dex               | +1 Dex               |
@@ -1008,7 +920,7 @@ that characters of rank O5 or O6 gain +1 on Material Benefit rolls.
 | 6                   | Animals              | Leadership           | Tactics              | Sciences             | Animals              | Tactics              |
 
 | Career            | Maritime Defense              | Mercenary                | Merchant                  | Navy                       | Noble                    | Physician                   |
-|-------------------|-------------------------------|--------------------------|---------------------------|----------------------------|--------------------------|-----------------------------|
+| ----------------- | ----------------------------- | ------------------------ | ------------------------- | -------------------------- | ------------------------ | --------------------------- |
 | Qualifications    | End 5+                        | Int 4+                   | Int 4+                    | Int 6+                     | Soc 8+                   | Edu 6+                      |
 | Survival          | End 5+                        | End 6+                   | Int 5+                    | Int 5+                     | Soc 4+                   | Int 4+                      |
 | Commission        | Int 6+                        | Int 7+                   | Int 5+                    | Soc 7+                     | Edu 5+                   | Int 5+                      |
@@ -1040,7 +952,7 @@ that characters of rank O5 or O6 gain +1 on Material Benefit rolls.
 | 7                 | 50000                         | 100000                   | 100000                    | 50000                      | 100000                   | 100000                      |
 
 | Career              | Maritime Defense     | Mercenary            | Merchant             | Navy                 | Noble                | Physician            |
-|---------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+| ------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | Skills and Training | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development |
 | 1                   | +1 Str               | +1 Str               | +1 Str               | +1 Str               | +1 Dex               | +1 Str               |
 | 2                   | +1 Dex               | +1 Dex               | +1 Dex               | +1 Dex               | +1 Int               | +1 Dex               |
@@ -1071,7 +983,7 @@ that characters of rank O5 or O6 gain +1 on Material Benefit rolls.
 | 6                   | Tactics              | Tactics              | Tactics              | Tactics              | Sciences             | Sciences             |
 
 | Career            | Pirate                 | Rogue                        | Scientist                          | Scout              | Surface Defense          | Technician                |
-|-------------------|------------------------|------------------------------|------------------------------------|--------------------|--------------------------|---------------------------|
+| ----------------- | ---------------------- | ---------------------------- | ---------------------------------- | ------------------ | ------------------------ | ------------------------- |
 | Qualifications    | Dex 5+                 | Dex 5+                       | Edu 6+                             | Int 6+             | End 5+                   | Edu 6+                    |
 | Survival          | Dex 6+                 | Dex 4+                       | Edu 5+                             | End 7+             | Edu 5+                   | Dex 4+                    |
 | Commission        | Str 7+                 | Str 6+                       | Int 7+                             | --                 | End 6+                   | Edu 5+                    |
@@ -1103,7 +1015,7 @@ that characters of rank O5 or O6 gain +1 on Material Benefit rolls.
 | 7                 | 100000                 | 50000                        | 50000                              | 50000              | 50000                    | 50000                     |
 
 | Career              | Pirate               | Rogue                | Scientist            | Scout                | Surface Defense      | Technician           |
-|---------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+| ------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | Skills and Training | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development |
 | 1                   | +1 Str               | +1 Str               | +1 Str               | +1 Str               | +1 Str               | +1 Str               |
 | 2                   | +1 Dex               | +1 Dex               | +1 Dex               | +1 Dex               | +1 Dex               | +1 Dex               |
@@ -1299,177 +1211,177 @@ aging at 42, stand 155+(2D6x5) centimeters tall, and have a mass of
 Many of the races in this section possess unusual racial traits, which
 are described below.
 
--   **Amphibious**: A member of this species is adapted to life
-    underwater as well as on land. It can breathe underwater, or hold
-    its breath for a long period (Endurancex10 minutes on average). Its
-    Dexterity is halved on land.
+- **Amphibious**: A member of this species is adapted to life
+  underwater as well as on land. It can breathe underwater, or hold
+  its breath for a long period (Endurancex10 minutes on average). Its
+  Dexterity is halved on land.
 
--   **Anti-Psionic**: Members of this species are innately anti-psionic.
-    The character’s Psionic Strength rating always equals zero, and they
-    cannot be trained in psionics. In addition, the character cannot
-    suffer the mental effects of psionics, including telepathy and
-    psionic assault. A species cannot have this alien trait if they
-    already have the Psionic alien trait.
+- **Anti-Psionic**: Members of this species are innately anti-psionic.
+  The character’s Psionic Strength rating always equals zero, and they
+  cannot be trained in psionics. In addition, the character cannot
+  suffer the mental effects of psionics, including telepathy and
+  psionic assault. A species cannot have this alien trait if they
+  already have the Psionic alien trait.
 
--   **Aquatic**: The alien is adapted to life underwater. It can breathe
-    underwater, or hold its breath for a long period (Endurancex10
-    minutes on average). If amphibious, its Dexterity is halved on land.
-    If the species is not amphibious, then it cannot operate out of
-    water without mechanical aid or telepresence.
+- **Aquatic**: The alien is adapted to life underwater. It can breathe
+  underwater, or hold its breath for a long period (Endurancex10
+  minutes on average). If amphibious, its Dexterity is halved on land.
+  If the species is not amphibious, then it cannot operate out of
+  water without mechanical aid or telepresence.
 
--   **Armored**: The alien possess thick fur, scales, a bony exoskeleton
-    or other natural protection that gives it one point of natural
-    armor.
+- **Armored**: The alien possess thick fur, scales, a bony exoskeleton
+  or other natural protection that gives it one point of natural
+  armor.
 
--   **Atmospheric Requirements**: The species requires an unusual
-    combination of gasses to breathe, and cannot survive in most
-    atmospheres without artificial aid.
+- **Atmospheric Requirements**: The species requires an unusual
+  combination of gasses to breathe, and cannot survive in most
+  atmospheres without artificial aid.
 
--   **Bad First Impression**: Members of this species possess an almost
-    universally unpleasant appearance or physical trait that invokes an
-    instinctive reaction in races other than their own. Most races will
-    automatically have an Unfriendly attitude towards these characters,
-    although this is overcome after an individual has interacted with
-    the character for a few minutes, based on the character’s
-    personality and the circumstances of their interaction.
+- **Bad First Impression**: Members of this species possess an almost
+  universally unpleasant appearance or physical trait that invokes an
+  instinctive reaction in races other than their own. Most races will
+  automatically have an Unfriendly attitude towards these characters,
+  although this is overcome after an individual has interacted with
+  the character for a few minutes, based on the character’s
+  personality and the circumstances of their interaction.
 
--   **Caste**: Members of this species have a genetic structure for
-    social hierarchy. When dealing with races that use Social Standing
-    or Charisma, all social attribute DMs, whether positive or negative,
-    are halved.
+- **Caste**: Members of this species have a genetic structure for
+  social hierarchy. When dealing with races that use Social Standing
+  or Charisma, all social attribute DMs, whether positive or negative,
+  are halved.
 
--   **Cold-Blooded**: Members of this species are sensitive to cold
-    climates. If exposed to extreme cold without protective equipment,
-    the character suffers a DM–2 to initiative. The character suffers
-    1D6 damage for every ten minutes of exposure.
+- **Cold-Blooded**: Members of this species are sensitive to cold
+  climates. If exposed to extreme cold without protective equipment,
+  the character suffers a DM–2 to initiative. The character suffers
+  1D6 damage for every ten minutes of exposure.
 
--   **Engineered**: The species has been altered by some external factor
-    to adapt to changed circumstances or a different environment.
-    Medical treatment of Engineered species by a facility of a lower
-    Technology Level than that at which the species was created receives
-    a negative DM equal to the difference.
+- **Engineered**: The species has been altered by some external factor
+  to adapt to changed circumstances or a different environment.
+  Medical treatment of Engineered species by a facility of a lower
+  Technology Level than that at which the species was created receives
+  a negative DM equal to the difference.
 
--   **Fast Metabolism**: Creatures with a fast metabolism require more
-    food than most species, and their life support costs are doubled. In
-    combat, fast-metabolism creatures gain a +2 initiative bonus.
-    Fast-metabolism creatures halve their Endurance for the purposes of
-    determining fatigue.
+- **Fast Metabolism**: Creatures with a fast metabolism require more
+  food than most species, and their life support costs are doubled. In
+  combat, fast-metabolism creatures gain a +2 initiative bonus.
+  Fast-metabolism creatures halve their Endurance for the purposes of
+  determining fatigue.
 
--   **Feral**: Feral species are uncivilised, regardless of their
-    technological knowledge. Feral species roll Education on 1d6 only.
+- **Feral**: Feral species are uncivilised, regardless of their
+  technological knowledge. Feral species roll Education on 1d6 only.
 
--   **Flyer**: This species can fly using wings. Characters of this
-    species gain the Athletics skill at Level 0 and can travel at a
-    speed noted in their description. Flying creatures that are aloft
-    must spend one minor action every round on movement or stall and
-    fall out of the air. Winged flight is tiring and can only be
-    sustained for a number of hours equal to the creature’s Endurance
-    before requiring a like amount of rest.
+- **Flyer**: This species can fly using wings. Characters of this
+  species gain the Athletics skill at Level 0 and can travel at a
+  speed noted in their description. Flying creatures that are aloft
+  must spend one minor action every round on movement or stall and
+  fall out of the air. Winged flight is tiring and can only be
+  sustained for a number of hours equal to the creature’s Endurance
+  before requiring a like amount of rest.
 
--   **Great Leaper**: Members of this species can jump great distances.
-    As a significant action, a member of this species may make an
-    Athletics skill check. If successful, it jumps four squares, plus a
-    number of squares equal to the Effect of the skill check. In
-    addition, members of this species are treated as having the
-    Athletics skill at level 0.
+- **Great Leaper**: Members of this species can jump great distances.
+  As a significant action, a member of this species may make an
+  Athletics skill check. If successful, it jumps four squares, plus a
+  number of squares equal to the Effect of the skill check. In
+  addition, members of this species are treated as having the
+  Athletics skill at level 0.
 
--   **Heat Endurance**: Members of this species do not suffer hourly
-    damage from the effects of hot weather and exposure.
+- **Heat Endurance**: Members of this species do not suffer hourly
+  damage from the effects of hot weather and exposure.
 
--   **Heavy Gravity Adaptation**: Members of this species evolved on a
-    world with a higher gravity and do not have to acclimatize to
-    high-gravity environments.
+- **Heavy Gravity Adaptation**: Members of this species evolved on a
+  world with a higher gravity and do not have to acclimatize to
+  high-gravity environments.
 
--   **Hive Mentality**: Members of this species are driven by a hive
-    mentality, and often pursue actions that support the greater good of
-    their current identified family group, even at the risk of their own
-    personal safety. Characters must make an Intelligence check to avoid
-    risking their own safety when doing so would help their family
-    group. The difficulty of the Intelligence check varies based on the
-    degree of perceived benefit to the family group (this is usually an
-    Average task (DM+0), although circumstances can arise where the
-    difficulty ranges from Routine (DM+2) to Difficult (DM–2).)
+- **Hive Mentality**: Members of this species are driven by a hive
+  mentality, and often pursue actions that support the greater good of
+  their current identified family group, even at the risk of their own
+  personal safety. Characters must make an Intelligence check to avoid
+  risking their own safety when doing so would help their family
+  group. The difficulty of the Intelligence check varies based on the
+  degree of perceived benefit to the family group (this is usually an
+  Average task (DM+0), although circumstances can arise where the
+  difficulty ranges from Routine (DM+2) to Difficult (DM–2).)
 
--   **Large**: The species is considerably larger than the average for
-    sophonts. Large creatures generally have a Strength and Endurance of
-    3d6 or even 4d6, and a Dexterity of 1d6. Life support requirements
-    for Large creatures are doubled. Some Large creatures are described
-    as Huge. Attacks against Huge creatures receive a +1 DM to hit.
+- **Large**: The species is considerably larger than the average for
+  sophonts. Large creatures generally have a Strength and Endurance of
+  3d6 or even 4d6, and a Dexterity of 1d6. Life support requirements
+  for Large creatures are doubled. Some Large creatures are described
+  as Huge. Attacks against Huge creatures receive a +1 DM to hit.
 
--   **Low Gravity Adaptation**: Members of this species evolved on a
-    world with a lower gravity and do not have to acclimatize to
-    low-gravity environments.
+- **Low Gravity Adaptation**: Members of this species evolved on a
+  world with a lower gravity and do not have to acclimatize to
+  low-gravity environments.
 
--   **Low-Light Vision**: Members of this species can see twice as far
-    as a human in starlight, moonlight, torchlight, and similar
-    conditions of poor illumination. They retain the ability to
-    distinguish color and detail under these conditions.
+- **Low-Light Vision**: Members of this species can see twice as far
+  as a human in starlight, moonlight, torchlight, and similar
+  conditions of poor illumination. They retain the ability to
+  distinguish color and detail under these conditions.
 
--   **Natural Pilot**: Members of this species have an innate
-    understanding of multi-dimensional space, and so receive a DM+2 to
-    their Piloting and Navigation checks.
+- **Natural Pilot**: Members of this species have an innate
+  understanding of multi-dimensional space, and so receive a DM+2 to
+  their Piloting and Navigation checks.
 
--   **Natural Swimmer**: Members of this species are natural swimmers
-    and gain a +2 DM on all skill checks related to swimming.
+- **Natural Swimmer**: Members of this species are natural swimmers
+  and gain a +2 DM on all skill checks related to swimming.
 
--   **Natural Weapon**: The species has a natural weapon, such as claws,
-    a strong bite or a poisonous stinger. Such weapons are usable at
-    Personal range and deal +1 damage. The creature gains Natural
-    Weapons at level 0.
+- **Natural Weapon**: The species has a natural weapon, such as claws,
+  a strong bite or a poisonous stinger. Such weapons are usable at
+  Personal range and deal +1 damage. The creature gains Natural
+  Weapons at level 0.
 
--   **Naturally Curious**: Members of this species are driven by a
-    natural sense of curiosity, and are easily dragged into any
-    adventure. They have to check out everything and always want to know
-    what’s behind a potential mystery. Characters must make an
-    Intelligence check to avoid acting on their curious impulses. The
-    difficulty of the Intelligence check varies based on the degree of
-    perceived mystery (this is usually an Average task (DM+0), although
-    circumstances can arise where the difficulty ranges from Routine
-    (DM+2) to Difficult (DM–2).)
+- **Naturally Curious**: Members of this species are driven by a
+  natural sense of curiosity, and are easily dragged into any
+  adventure. They have to check out everything and always want to know
+  what’s behind a potential mystery. Characters must make an
+  Intelligence check to avoid acting on their curious impulses. The
+  difficulty of the Intelligence check varies based on the degree of
+  perceived mystery (this is usually an Average task (DM+0), although
+  circumstances can arise where the difficulty ranges from Routine
+  (DM+2) to Difficult (DM–2).)
 
--   **No Fine Manipulators**: The species has no fingers or other
-    prehensile appendages, preventing them from easily picking things
-    up, pushing small buttons, reaching into tight spaces, and so on.
+- **No Fine Manipulators**: The species has no fingers or other
+  prehensile appendages, preventing them from easily picking things
+  up, pushing small buttons, reaching into tight spaces, and so on.
 
--   **Notable (Characteristic)**: Some species are notably dexterous,
-    intelligent, tough or strong. Characters from such races have a
-    positive Dice Modifier when rolling for that characteristic (+2
-    unless otherwise specified), and their racial maximum for that
-    characteristic is increased by the same amount.
+- **Notable (Characteristic)**: Some species are notably dexterous,
+  intelligent, tough or strong. Characters from such races have a
+  positive Dice Modifier when rolling for that characteristic (+2
+  unless otherwise specified), and their racial maximum for that
+  characteristic is increased by the same amount.
 
--   **Psionic**: All members of the species are Psionic, and may
-    determine their Psionic Strength and talents at the start of
-    character generation.
+- **Psionic**: All members of the species are Psionic, and may
+  determine their Psionic Strength and talents at the start of
+  character generation.
 
--   **Small**: Small species generally have a Strength and Endurance of
-    only 1D6, and a Dexterity of 3D6. The minimum size for a sophont is
-    about half that of a human.
+- **Small**: Small species generally have a Strength and Endurance of
+  only 1D6, and a Dexterity of 3D6. The minimum size for a sophont is
+  about half that of a human.
 
--   **Slow Metabolism**: Creatures with a slow metabolism require less
-    food than most species, and their life support costs are halved. In
-    combat, slow-metabolism creatures suffer a –2 initiative penalty.
+- **Slow Metabolism**: Creatures with a slow metabolism require less
+  food than most species, and their life support costs are halved. In
+  combat, slow-metabolism creatures suffer a –2 initiative penalty.
 
--   **Uplifted**: This species was originally non-sentient, but has been
-    raised to a higher intelligence by another species. Uplifted races
-    generally become client species of their patron. Two common uplifted
-    animals are apes and dolphins:
+- **Uplifted**: This species was originally non-sentient, but has been
+  raised to a higher intelligence by another species. Uplifted races
+  generally become client species of their patron. Two common uplifted
+  animals are apes and dolphins:
+  
+  - ***Uplifted apes*** have Notable Strength and Endurance (+2) but
+    all other characteristics are Weak (–2). They have the Uplifted
+    trait.
+  
+  - ***Uplifted dolphins*** have Notable Strength (+4) and Notable
+    Endurance (+2) but Weak Intelligence, Education and Social
+    Standing (–2). They have the Uplifted, Aquatic (fully aquatic,
+    air-breathers) and No Fine Manipulators traits.
 
-    -   ***Uplifted apes*** have Notable Strength and Endurance (+2) but
-        all other characteristics are Weak (–2). They have the Uplifted
-        trait.
+- **Water Dependent**: Although members of this species are
+  amphibious, they can only survive out of the water for 1 hour per 2
+  points of Endurance (after that, refer to the drowning rules).
 
-    -   ***Uplifted dolphins*** have Notable Strength (+4) and Notable
-        Endurance (+2) but Weak Intelligence, Education and Social
-        Standing (–2). They have the Uplifted, Aquatic (fully aquatic,
-        air-breathers) and No Fine Manipulators traits.
-
--   **Water Dependent**: Although members of this species are
-    amphibious, they can only survive out of the water for 1 hour per 2
-    points of Endurance (after that, refer to the drowning rules).
-
--   **Weak (Characteristic)**: The opposite of Notable (Characteristic),
-    some species are weaker, less resilient or less well educated than
-    others. Characters from such races have a negative Dice Modifier
-    when rolling for that characteristic (–2 unless otherwise
-    specified), and their racial maximum for that characteristic is
-    decreased by the same amount.
+- **Weak (Characteristic)**: The opposite of Notable (Characteristic),
+  some species are weaker, less resilient or less well educated than
+  others. Characters from such races have a negative Dice Modifier
+  when rolling for that characteristic (–2 unless otherwise
+  specified), and their racial maximum for that characteristic is
+  decreased by the same amount.
