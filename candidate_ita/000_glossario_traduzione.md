@@ -46,7 +46,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Lesser race                         | Razza minore                            |
 | Lethal damage                       | Danno letale                            |
 | Mainworld                           | Mondo principale                        |
-| Melee attack                        | Attacco da mischia                      |
+| Melee attack                        | Attacco in mischia                      |
 | Melee weapon                        | Arma da mischia                         |
 | Minor action                        | Azione minore                           |
 | Misjump                             | Balzo fuori rotta                       |
@@ -54,7 +54,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Mustering-out                       | Congedo                                 |
 | Natural                             | Naturale                                |
 | Non-lethal damage                   | Danno non letale                        |
-| Non-player character (NPC)          | Personaggio non giocante (NPG)          |
+| Non-player character (NPC)          | Personaggio non giocante (PNG)          |
 | Non-starship                        | Nave non interstellare                  |
 | Patron                              | Patrono                                 |
 | Penalty                             | Penalità                                |

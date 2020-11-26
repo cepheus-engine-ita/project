@@ -215,9 +215,9 @@ Il Cepheus Engine usa certi termini e abbreviazioni per tutto il sistema di rego
 
 **Attacco a Distanza**: Qualsiasi attacco eseguito a distanza.
 
-**Attacco da Mischia**: Un attacco fisico in combattimento ravvicinato.
-
 **Attacco disarmato**: Un attacco da mischia senza armi.
+
+**Attacco in Mischia**: Un attacco fisico in combattimento ravvicinato.
 
 **Avventura**: Una storia creata dall'Arbitro e dai giocatori, composta da una serie di scene collegate e incontri.
 
