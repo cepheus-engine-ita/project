@@ -49,7 +49,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Melee attack                        | Attacco da mischia                      |
 | Melee weapon                        | Arma da mischia                         |
 | Minor action                        | Azione minore                           |
-| Misjump                             | Balzi sbagliati                         |
+| Misjump                             | Balzo fuori rotta                       |
 | Modifier                            | Modificatore                            |
 | Mustering-out                       | Congedo                                 |
 | Natural                             | Naturale                                |

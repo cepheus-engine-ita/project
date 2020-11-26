@@ -271,7 +271,7 @@ Il Cepheus Engine usa certi termini e abbreviazioni per tutto il sistema di rego
 
 **Azione minore**: Un'azione intesa per muoversi a distanza o per manipolare o muovere un oggetto. Puoi eseguire fino a tre azioni per round, al costo di perdita di un'azione significativa.
 
-**Balzo sbagliato**: Un incidente causato da un Balzo poco accurato, che risulta nel balzare in una posizione casuale con danno per il vascello e potenzialmente per l'equipaggio. Le cause più comune per i balzi sbagliati includono pessimi piloti, motori danneggiati, introduzione impropria dell'energia nel motore di Balzo, balzare all'interno del limite di 100 diametri e usare carburante non raffinato.
+**Balzo fuori rotta**: Un incidente causato da un Balzo poco accurato, che risulta nel balzare in una posizione casuale con danno per il vascello e potenzialmente per l'equipaggio. Le cause più comuni per i balzi fuori rotta includono: pessimi piloti, motori danneggiati, introduzione impropria dell'energia nel motore di Balzo, balzare all'interno del limite di 100 diametri e usare carburante non raffinato.
 
 **Modificatore**: Qualsiasi bonus o penalità applicata al tiro.
 
