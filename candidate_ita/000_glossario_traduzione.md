@@ -29,7 +29,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Dice                                | Dadi                                    |
 | Difficulty                          | Difficoltà                              |
 | Dominant race                       | Razza dominante                         |
-| Dying                               | Morente                                 |
+| Dying                               | Moribondo                                 |
 | Drifter                             | Ramingo                                 |
 | Effect                              | Effetto                                 |
 | Encounter                           | Incontro                                |

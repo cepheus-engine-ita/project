@@ -193,149 +193,149 @@ Il Cepheus Engine usa certi termini e abbreviazioni per tutto il sistema di rego
 
 **2D6**: Due dadi a sei facce, usate per risolvere tutte le azioni nel Cepheus Engine.
 
-**Azione**: Un'attività di un personaggio. Ci sono azioni significative, azioni minori, azioni estese, azioni gratuite e reazioni.
+**Abilità**: Una capacità di eseguire un'azione predeterminata, come navigare con un'astronave, sparare con un fucile, o programmare un computer. Le abilità sono conseguite in livelli (Navigazione-1, Computer-2, etc); più alto è il livello dell'abilità, più esperienza ha un personaggio in quel settore. Sono disponibili diverse abilità individuali per i personaggi. 
 
-**Avventura**: Una storia creata dall'Arbitro e dai giocatori, composta da una serie di scene collegate e incontri.
+**Addestrato**: Che ha conoscenza, e quindi livelli, di un'abilità.
 
-**Bonus di Attacco**: Un modificatore che è usato per misurare l'abilità di combattimento di un personaggio.
+**Anno Standard**: Un'unità di tempo lunga 365 Giorni Standard.
 
-**Tiro di Attacco**: Una prova di abilità usata per determinare se un attacco colpisce o meno.
+**(In direzione) Antirotatoria**: Un termine astrografico che indica la direzione opposta alla rotazione galattica.
 
-**Attacco**: Qualsiasi delle numerose azioni intese per danneggiare, disarmare o neutralizzare un opponente.
-
-**Bonus**: Un modificatore positivo al tiro di dado.
-
-**Campagna**: Una serie di avventure collegate.
-
-**Personaggi**: Persone di finzione nel gioco. I giocatori controllano i personaggi giocanti, mentre l'Arbitro contollai personaggi non giocanti.
-
-**Modificatore di Caratteristica**: Un modificatore determinato dal valore di punteggio di caratteristica, applicato quando necessario come bonus o penalità alle prove.
-
-**Punteggio di Caratteristica**: Uno dei sei tratti di base di un personaggio -- Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Stato Sociale (Soc).
-
-**Prova (o Tiro)**: Un metodo per decidere il risultato dell'azione di un personaggio. Le prove sono basate su competenze rilevanti, abilità o altri tratti. Per effettuare una prova, tira 2D6 e aggiungi ogni modificatore rilevante. Se il risultato della prova è uguale o superiore l'obiettivo di 8 o il risultato della prova dell'opponente, allora ha successo.
-
-**(Verso il) Nucleo**: Un termine astrografico per indicare la direzione di Sagittarius A*(abbreviato Sgr A*), una fonte radio astronomica brillante e molto compatta al centro della Via Lattea.
-
-**Crediti (Cr)**: La principale unità di valuta usata nel Cepheus Engine. Per ingenti somme di denaro, il kilocredito (KCr) rappresente un migliaio di crediti e il megacredito (MCr) rappresente un milione di crediti.
-
-**Colpo critico (crit)**: Un attacco che infligge danno supplementare. I colpi critici sono solamente usati nel combattimento veicolare e spaziale.
-
-**D66**: Uno speciale tiro di dado generato dal tiro di due dadi a sei facce di differenti colori (o tirando lo stesso dato due volte, annontandone ciascuno dei valori), moltiplicando il primo dato per 10 e poi aggiungendo il secono dato, per creare un numero compreso da 11 e 66.
-
-**Bonus di Danno**: Un modificare usato per determinare il danno di un attacco.
-
-**Danno**: Danno causato a un personaggio da ferite, malattia o altre fonte.
-
-**Modificatore ai Dadi (MD)**: Un modificatore applicato a una prova.
-
-**Dado**: Un piccolo poliedro, tipicamente un cubo, con un numero diverso su ogni faccia, lanciato e usato nel gioco d'azzardo e altri giochi che prevedono la casualità. Il Cepheus Engine usa eclusivamente dadi a sei facce per generare risultati casuali durante il gioco.
-
-**Difficoltà**: Un modificare applicato a una prova che è assegnato dall'Arbitro e riflette la relativa difficoltà o facilità di una determinata azione.
-
-**Razza dominante**: Una specie senziente capace di viaggio interstellare attraverso la tecnologia del motore a balzo e che ha usato tale tecnologia per espandere la propria presenza su significative regioni di spazio. Le razze dominanti tipicamente controllano un governo interstellare abbastanza espansivo e hanno insediamenti e popolazione di grandi dimensioni a più di dieci parsec dal loro pianeta di origine.
-
-**Morente**:  Vicino alla morte o incosciente. Un personaggio morente non può eseguire azioni.
-
-**Effetto**:  La differenza tra il risultato di una prova e l'obiettivo di 8 (p.e. quando alto o bass è il risultato).
-
-**Incontro**: Un incontro inaspettato o casuale con qualcuno o qualcosa. Una larga parte del lavoro dell'Arbitro è amministrare gli incontri.
-
-**Società degli Esploratori**: Un servizio privato di viaggio interstellare che mantiene resort e strutture esclusive in vari astroporti. Parecchie organizzazioni interstellari garantiscono l'iscrizione alla Società degli Esploratori come ricompensa per un servizio di staordinario valore.
-
-**Fallimento Eccezionale**: Ogni prova che ha un fallimento di 6 o più (p.e. ha un effetto di -6 o peggio).
-
-**Successo Eccezionale**: Ogni prova che ha un successo di 6 o più (p.e. ha un effetto di +6 o meglio).
-
-**Azione estesa**: Un'azione in combattimento che prende più tempo di un round di combattimento per essere completata.
-
-**Azione gratuita**: Un'attività estremamente veloce, che richiede molto poco tempo e sforzo.
-
-**Mondo d'origine**: **1)** Il mondo di origine del personaggio, solitamente il mondo in cui il personaggio è cresciuto o che ha avuto il maggior impatto sul suo sviluppo durante l'età pre-adulta. **2)** Il mondo di origine di una specie aliena, p.e. la Terra è il mondo di origine della specie umana.
-
-**Balzo**: Una forma di movimento più veloce della luce effettuato usando motori a Balzo, che impiegano sempre una settimana di viaggio per attraversare un numero di parsec uguali alla categoria di Balzo e che consuma ingenti quantità di carburante.
-
-**Punto di Balzo**: Un punto nello spazio a più di 100 diametri oltre il più vicino corpo celeste, scelto dai navigatori come punto in cui la nave entra nello spazio di Balzo.
-
-**Spazio di Balzo**: La dimensione alternativa attraverso la quale un'astronave viaggia quando trasla da un punto all'altro nello spazio normale.
-
-**Razza minore**: Una specie senziante che ha non ha sviluppato da sola la tecnologia del motore a Balzo. Mentre individui di una razza minore possono ed effettuano viaggi interstellari, le popolazioni insediate di qualsiasi Razza Minore sono incontrate raramente oltre i dieci parsec dal loro mondo di origine.
-
-**Danno letale**: Danno che potenzialemente inabilita o uccide l'obiettivo.
-
-**Mainworld**: Il mondo principale di un sistema stellare, il mondo è rappresentato dal Profilo di Mondi Universale (PMU) in una lista di mondi per ogni regione mappata dello spazio.
-
-**Attacco da Mischia**: Un attacco fisico in combattimento ravvicinato.
+**Arbitro**: Il giocatore che interpreta i personaggi non controllati dagli altri giocatori, arbitra le regole e genera la storia e l'ambientazione per la partita.
 
 **Arma da Mischia**: Un'arma portatile, progettata per combattimenti ravvicinati.
 
+**Arma a Distanza**: Un'arma a proiettili o da tiro, progettata per attaccare a distanza.
+
+**Astronave**: Una nave spaziale con motore a balzo, capace di viaggi interstellari indipendenti.
+
+**Astroporto**: Un porto dove vascelli interstellari e interplanetari caricano e scaricano, specialmente uno dove sono collocati gli ufficili doganali.
+
+**Attacco**: Qualsiasi delle numerose azioni intese per danneggiare, disarmare o neutralizzare un opponente.
+
+**Attacco a Distanza**: Qualsiasi attacco eseguito a distanza.
+
+**Attacco da Mischia**: Un attacco fisico in combattimento ravvicinato.
+
+**Attacco disarmato**: Un attacco da mischia senza armi.
+
+**Avventura**: Una storia creata dall'Arbitro e dai giocatori, composta da una serie di scene collegate e incontri.
+
+**Azione**: Un'attività di un personaggio. Ci sono azioni significative, azioni minori, azioni estese, azioni gratuite e reazioni.
+
+**Azione estesa**: Un'azione in combattimento che prende più tempo di un round di combattimento per essere completata.
+
 **Azione minore**: Un'azione intesa per muoversi a distanza o per manipolare o muovere un oggetto. Puoi eseguire fino a tre azioni per round, al costo di perdita di un'azione significativa.
+
+**Azione gratuita**: Un'attività estremamente veloce, che richiede molto poco tempo e sforzo.
+
+**Azione significativa**: Un'azione intesa a fare qualcosa nell'intorno dei 3 secondi. Puoi effettuare una singola azione significativa per round, oppure o rinunciarci per effettuare un totale di tre azioni minori.
+
+**Balzo**: Una forma di movimento più veloce della luce effettuato usando motori a Balzo, che impiegano sempre una settimana di viaggio per attraversare un numero di parsec uguali alla categoria di Balzo e che consuma ingenti quantità di carburante.
 
 **Balzo fuori rotta**: Un incidente causato da un Balzo poco accurato, che risulta nel balzare in una posizione casuale con danno per il vascello e potenzialmente per l'equipaggio. Le cause più comuni per i balzi fuori rotta includono: pessimi piloti, motori danneggiati, introduzione impropria dell'energia nel motore di Balzo, balzare all'interno del limite di 100 diametri e usare carburante non raffinato.
 
-**Modificatore**: Qualsiasi bonus o penalità applicata al tiro.
+**Bonus**: Un modificatore positivo al tiro di dado.
 
-**Naturale**: Il risultato naturale di un tiro o di una prova è il numero che effettivamente appare sul dado, non il risultato modificato ottenuto aggiungendo bonus o sottraendo penalità.
+**Bonus di Attacco**: Un modificatore che è usato per misurare l'abilità di combattimento di un personaggio.
+
+**Bonus di Danno**: Un modificare usato per determinare il danno di un attacco.
+
+**(Verso il) Bordo**: Un termine astrografico che indica la direzione opposta al Nucleo o direttamente opposta alla fonte radio di Sagittarius A*.
+
+**Campagna**: Una serie di avventure collegate.
+
+**Colpo critico (crit)**: Un attacco che infligge danno supplementare. I colpi critici sono solamente usati nel combattimento veicolare e spaziale.
+
+**Crediti (Cr)**: La principale unità di valuta usata nel Cepheus Engine. Per ingenti somme di denaro, il kilocredito (KCr) rappresente un migliaio di crediti e il megacredito (MCr) rappresente un milione di crediti.
+
+**D66**: Uno speciale tiro di dado generato dal tiro di due dadi a sei facce di differenti colori (o tirando lo stesso dato due volte, annontandone ciascuno dei valori), moltiplicando il primo dato per 10 e poi aggiungendo il secono dato, per creare un numero compreso da 11 e 66.
+
+**Dado**: Un piccolo poliedro, tipicamente un cubo, con un numero diverso su ogni faccia, lanciato e usato nel gioco d'azzardo e altri giochi che prevedono la casualità. Il Cepheus Engine usa eclusivamente dadi a sei facce per generare risultati casuali durante il gioco.
+
+**Danno**: Danno causato a un personaggio da ferite, malattia o altre fonte.
 
 **Danno non letale**: Danno che può potenzialemente stordire o mettere al tappeto un obiettivo, ma non causa danno permanente.
 
-**Personaggio non giocante (PNG)**: Un personaggio controllato dall'Arbitro (al contrario di un personaggio controllato da un giocatore).
+**Danno letale**: Danno che potenzialemente inabilita o uccide l'obiettivo.
+
+**Difficoltà**: Un modificare applicato a una prova che è assegnato dall'Arbitro e riflette la relativa difficoltà o facilità di una determinata azione.
+
+**Effetto**:  La differenza tra il risultato di una prova e l'obiettivo di 8 (p.e. quando alto o bass è il risultato).
+
+**Fallimento Eccezionale**: Ogni prova che ha un fallimento di 6 o più (p.e. ha un effetto di -6 o peggio).
+
+**Ferito gravemente**: Se hai perso almeno un punto in tutte e tre le caratteristiche fisiche, sei considerato ferito gravemente. Quando sei incosciente, non puoi muoverti ad eccezione di arrancare o strisciare per un massimo di 1,5 metri per round di combattimento. Perdi, inoltre, la tua azione minore in combattimento. Puoi solo riguadagnare punti di caratteristica pari al tuo MD di Resistanza al giorno di riposo attraverso la guarigione naturale. Hai bisogno di un intervento chirurgico.
+
+**Giorno Standard**: Un'unità di temo che dura 24 ore.
+
+**Incontro**: Un incontro inaspettato o casuale con qualcuno o qualcosa. Una larga parte del lavoro dell'Arbitro è amministrare gli incontri.
+
+**Modificatore**: Qualsiasi bonus o penalità applicata al tiro.
+
+**Modificatore ai Dadi (MD)**: Un modificatore applicato a una prova.
+
+**Modificatore di Caratteristica**: Un modificatore determinato dal valore di punteggio di caratteristica, applicato quando necessario come bonus o penalità alle prove.
+
+**Mondo**: Un termine generico che nel Cepheus Engine indica qualsiasi corpo celeste abitabile o posto simile rappresentato da un Profilo di Mondi Universale.
+
+**Mondo d'origine**: **1)** Il mondo di origine del personaggio, solitamente il mondo in cui il personaggio è cresciuto o che ha avuto il maggior impatto sul suo sviluppo durante l'età pre-adulta. **2)** Il mondo di origine di una specie aliena, p.e. la Terra è il mondo di origine della specie umana.
+
+**Mondo principale**: Il mondo principale di un sistema stellare, il mondo è rappresentato dal Profilo di Mondi Universale (PMU) in una lista di mondi per ogni regione mappata dello spazio.
+
+**Moribondo**:  Vicino alla morte o incosciente. Un personaggio morente non può eseguire azioni.
+
+**Naturale**: Il risultato naturale di un tiro o di una prova è il numero che effettivamente appare sul dado, non il risultato modificato ottenuto aggiungendo bonus o sottraendo penalità.
 
 **Nave non interstellare**: Un'astronave senza motore di Balzo e incapace quindi di volo interstellare indipendente.
+
+**(Verso il) Nucleo**: Un termine astrografico per indicare la direzione di Sagittarius A*(abbreviato Sgr A*), una fonte radio astronomica brillante e molto compatta al centro della Via Lattea.
+
+**Obiettivo (o soggetto)**: Il destinatario previsto di un attacco, azione,
+o effetto.
 
 **Patrono**: Un personaggio non giocante che da sostegno finanziario o di altro tipo a persone, organizzazioni, cause o attività. Gli Arbitri spesso usano i patroni come strumento per coinvolgere i personaggi giocanti nelle avventure.
 
 **Penalità**:  Un modificatore negativo a un tiro di dado.
 
+**Personaggi**: Persone di finzione nel gioco. I giocatori controllano i personaggi giocanti, mentre l'Arbitro contollai personaggi non giocanti.
+
 **Personaggio giocante (PG)**: Un personaggio controllato da un giocatore, uno dei protagonisti di un'avventura o campagna.
+
+**Personaggio non giocante (PNG)**: Un personaggio controllato dall'Arbitro (al contrario di un personaggio controllato da un giocatore).
+
+**Prova (o Tiro)**: Un metodo per decidere il risultato dell'azione di un personaggio. Le prove sono basate su competenze rilevanti, abilità o altri tratti. Per effettuare una prova, tira 2D6 e aggiungi ogni modificatore rilevante. Se il risultato della prova è uguale o superiore l'obiettivo di 8 o il risultato della prova dell'opponente, allora ha successo.
 
 **Psionico**: Un personaggio con capacità psioniche.
 
-**Attacco a distanza**: Qualsiasi attacco eseguito a distanza.
+**Punteggio di Caratteristica**: Uno dei sei tratti di base di un personaggio -- Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Stato Sociale (Soc).
 
-**Arma a distanza**: Un'arma a proiettili o da tiro, progettata per attaccare a distanza.
+**Punto di Balzo**: Un punto nello spazio a più di 100 diametri oltre il più vicino corpo celeste, scelto dai navigatori come punto in cui la nave entra nello spazio di Balzo.
+
+**Razza dominante**: Una specie senziente capace di viaggio interstellare attraverso la tecnologia del motore a balzo e che ha usato tale tecnologia per espandere la propria presenza su significative regioni di spazio. Le razze dominanti tipicamente controllano un governo interstellare abbastanza espansivo e hanno insediamenti e popolazione di grandi dimensioni a più di dieci parsec dal loro pianeta di origine.
+
+**Razza minore**: Una specie senziante che ha non ha sviluppato da sola la tecnologia del motore a Balzo. Mentre individui di una razza minore possono ed effettuano viaggi interstellari, le popolazioni insediate di qualsiasi Razza Minore sono incontrate raramente oltre i dieci parsec dal loro mondo di origine.
 
 **Reazione**: Un'azione eseguita in risposta all'azione di un altro. Puoi eseguire tutte le reazioni che vuoi in un turno di Combattimento corpo a corpo, ma il numero di Reazioni che un vascello può intraprendere è basato sull'iniziativa nel Combattimento Spaziale.
 
-**Arbitro**: Il giocatore che interpreta i personaggi non controllati dagli altri giocatori, arbitra le regole e genera la storia e l'ambientazione per la partita.
-
-**(Verso il) Bordo**: Un termine astrografico che indica la direzione opposta al Nucleo o direttamente opposta alla fonte radio di Sagittarius A*.
+**(In direzione) Rotatoria**: Un termine astrografico che indica la direzione della rotazione galattica.
 
 **Round**: Un'unità di sei secondi di tempo di gioco usato per gestire le azioni, generalmente in combattimento.
 
-**Azione significativa**: Un'azione intesa a fare qualcosa nell'intorno dei 3 secondi. Puoi effettuare una singola azione significativa per round, oppure o rinunciarci per effettuare un totale di tre azioni minori.
+**Senza addestramento**: Che non ha gradi in un'abilità. Alcune abilità non possono essere usate senza addestramento. Prove di abilità senza addestramento soffrono di una penalità MD-3.
 
-**Ferito gravemente**: Se hai perso almeno un punto in tutte e tre le caratteristiche fisiche, sei considerato ferito gravemente. Quando sei incosciente, non puoi muoverti ad eccezione di arrancare o strisciare per un massimo di 1,5 metri per round di combattimento. Perdi, inoltre, la tua azione minore in combattimento. Puoi solo riguadagnare punti di caratteristica pari al tuo MD di Resistanza al giorno di riposo attraverso la guarigione naturale. Hai bisogno di un intervento chirurgico.
-
-**Abilità**: Una capacità di eseguire un'azione predeterminata, come navigare con un'astronave, sparare con un fucile, o programmare un computer. Le abilità sono conseguite in livelli (Navigazione-1, Computer-2, etc); più alto è il livello dell'abilità, più esperienza ha un personaggio in quel settore. Sono disponibili diverse abilità individuali per i personaggi. 
-
-**Veicolo piccolo**: Un vascello sotto le 100 tonnellate, capace di navigazione interplanetaria.
+**Società degli Esploratori**: Un servizio privato di viaggio interstellare che mantiene resort e strutture esclusive in vari astroporti. Parecchie organizzazioni interstellari garantiscono l'iscrizione alla Società degli Esploratori come ricompensa per un servizio di staordinario valore.
 
 **Sofonte**: Un essere senziente con una capacità di ragionamento di base sostanzialmente equivalente o superiore a quella di un essere umano medio.
 
-**(In direzione) Rotatoria**: Un termine astrografico che indica la direzione della rotazione galattica.
+**Spazio di Balzo**: La dimensione alternativa attraverso la quale un'astronave viaggia quando trasla da un punto all'altro nello spazio normale.
 
-**Giorno Standard**: Un'unità di temo che dura 24 ore.
+**Successo Eccezionale**: Ogni prova che ha un successo di 6 o più (p.e. ha un effetto di +6 o meglio).
 
-**Anno Standard**: Un'unità di tempo lunga 365 Giorni Standard.
-
-**Astroporto**: Un porto dove vascelli interstellari e interplanetari caricano e scaricano, specialmente uno dove sono collocati gli ufficili doganali.
-
-**Astronave**: Una nave spaziale con motore a balzo, capace di viaggi interstellari indipendenti.
-
-**Obiettivo (o soggetto)**: Il destinatario previsto di un attacco, azione,
-o effetto.
-
-**(In direzione) Antirotatoria**: Un termine astrografico che indica la direzione opposta alla rotazione galattica.
-
-**Addestrato**: Che ha conoscenza, e quindi livelli, di un'abilità.
-
-**Attacco disarmato**: Un attacco da mischia senza armi.
+**Tiro di Attacco**: Una prova di abilità usata per determinare se un attacco colpisce o meno.
 
 **Universo**: L'ambientazione presentata dall'Arbitro, in cui i personaggi mettono in atto avventure e campagne. Un Arbitro può usare ambientazioni pubblicate per le loro avventure o crearne di proprie con il Cepheus Engine.
 
-**Senza addestramento**: Che non ha gradi in un'abilità. Alcune abilità non possono essere usate senza addestramento. Prove di abilità senza addestramento soffrono di una penalità MD-3.
-
 **Vascello**: Termine di uso generale usato per astronavi, veicoli piccoli, o veicoli in senso lato. Più comunemento, può riferirsi a qualsiasi veicolo o nave capace di navigazione interplanetaria o interstellare.
 
-**Mondo**: Un termine generico che nel Cepheus Engine indica qualsiasi corpo celeste abitabile o posto simile rappresentato da un Profilo di Mondi Universale.
+**Veicolo piccolo**: Un vascello sotto le 100 tonnellate, capace di navigazione interplanetaria.
