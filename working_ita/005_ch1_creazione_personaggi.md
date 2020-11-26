@@ -113,17 +113,17 @@ In un universo di Cepheus Engine in cui i personaggi, che hanno uno Status Socia
 
 #### Tabella: Titoli Nobiliari secondo Status Sociale
 
-| Status Sociale |  | Titolo Nobiliare                    |
-|----------------|--|------------------------------—------|
-| 10 (A)         |  | Lord (Lady)                         |
-| 11 (B)         |  | Cavaliere (Dama)                    |
-| 12 (C)         |  | Barone (Baronessa), Baronetto       |
-| 13 (D)         |  | Marquis (Marquesa, Marchioness)     |
-| 14 (E)         |  | Conte (Contessa)                    |
-| 15 (F)         |  | Duca (Duchessa)                     |
-| 16 (G)         |  | Arciduca (Arciduchessa)             |
-| 17 (H)         |  | Principe della Corona (Principessa) |
-| 18 (J)         |  | Imperatore (Imperatrice)            |
+| Status Sociale | Titolo Nobiliare                    |
+|----------------|-------------------------------------|
+| 10 (A)         | Lord (Lady)                         |
+| 11 (B)         | Cavaliere (Dama)                    |
+| 12 (C)         | Barone (Baronessa), Baronetto       |
+| 13 (D)         | Marquis (Marquesa, Marchioness)     |
+| 14 (E)         | Conte (Contessa)                    |
+| 15 (F)         | Duca (Duchessa)                     |
+| 16 (G)         | Arciduca (Arciduchessa)             |
+| 17 (H)         | Principe della Corona (Principessa) |
+| 18 (J)         | Imperatore (Imperatrice)            |
 
 ### Forza Psionica, la Settima Caratteristica
 
@@ -152,20 +152,20 @@ you.
 
 #### Tabella: Modificatori di Caratteristica secondo Gamma di Punteggio
 
-| Score Range   | PseudoHex | Characteristic Modifier |
-| ------------- | --------- | ----------------------- |
-| 0 through 2   | 0-2       | -2                      |
-| 3 through 5   | 3-5       | -1                      |
-| 6 through 8   | 6-8       | +0                      |
-| 9 through 11  | 9-B       | +1                      |
-| 12 through 14 | C-E       | +2                      |
-| 15 through 17 | F-H       | +3                      |
-| 18 through 20 | J-L       | +4                      |
-| 21 through 23 | M-P       | +5                      |
-| 24 through 26 | Q-S       | +6                      |
-| 27 through 29 | T-V       | +7                      |
-| 30 through 32 | W-Y       | +8                      |
-| 33 or higher  | Z         | +9                      |
+| Gamma di Punteggio | PseudoEsa |  Modificatore di Caratteristica |
+|--------------------|-----------|---------------------------------|
+| 0 through 2        | 0-2       | -2                              |
+| 3 through 5        | 3-5       | -1                              |
+| 6 through 8        | 6-8       | +0                              |
+| 9 through 11       | 9-B       | +1                              |
+| 12 through 14      | C-E       | +2                              |
+| 15 through 17      | F-H       | +3                              |
+| 18 through 20      | J-L       | +4                              |
+| 21 through 23      | M-P       | +5                              |
+| 24 through 26      | Q-S       | +6                              |
+| 27 through 29      | T-V       | +7                              |
+| 30 through 32      | W-Y       | +8                              |
+| 33 or higher       | Z         | +9                              |
 
 ### Altering Characteristic Scores
 
