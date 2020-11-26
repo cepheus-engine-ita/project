@@ -14,7 +14,7 @@ Una sessione di gioco di Cepheus Engine è condotta tramite il dialogo. Un gioca
 
 Il Cepheus Engine è semplicemente un insieme di regole per condurre un gioco basato sulla fantascienza classica. All'interno delle sue pagine troverai regole per creare personaggi, risolvere compiti, combattere altre creature e impegnarti in enormi battaglie spaziali, costruire mondi, goderti i rischi del commercio speculativo interstellare, esplorare nuovi mondi e una miriade di altre diverse attività. Sebbene nessun set di regole possa essere completo, il Cepheus Engine cerca di fornire regole sufficienti per consentirti di creare quasi tutte le avventure di fantascienza.
 
-Il Cepheus Engine si ispira ai classici giochi di fantascienza dei primi giorni del gioco di ruolo e condivide molte somiglianze con questi sistemi di gioco. Il materiale di questi vecchi set di regole e quelli creati con il Cepheus Engine sono reciprocamente compatibili solo con un minimo di aggiustamento.
+Il Cepheus Engine si ispira ai classici giochi di fantascienza dei primi giorni del gioco di ruolo e condivide molte somiglianze con questi sistemi di gioco. Il materiale di questi vecchi set di regole e quelli creati con il Cepheus Engine sono reciprocamente compatibili solo con un minimo di adattamento.
 
 Per giocare, hai bisogno di una copia delle regole del Cepheus Engine; diversi dadi a sei facce, disponibili nei negozi di giochi e hobby (ne servono almeno due, ma più è meglio); e una matita e della carta.
 
