@@ -10,81 +10,43 @@ Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro 
 ## Checklist di Creazione Personaggio
 
 1. Caratteristiche
-
-    a. Deterina le sei caratteristiche tirando 2D6 e registrandole in ordine sulla tua scheda personaggio.
-    
-    b. Determina i modificatori di caratteristica.
-    
+    a. Deterina le sei caratteristiche tirando 2D6 e registrandole in ordine sulla tua scheda personaggio.    
+    b. Determina i modificatori di caratteristica.    
 2. Mondo d'origine (Opzionale)
-
-    a. Determina il mondo d'origine.
-    
-    b. Segna le abilità iniziali. I personaggi guadagnano un numero di abilità di base a Livello 0, pari a 3 + il modificatore di Educazione. Le prime due devono essere prese dal tuo mondo d'origine (basate sui Codici di Commercio o il Livello di Legge del mondo); il resto sono presi dalla lista di educazione.
-    
+    a. Determina il mondo d'origine.    
+    b. Segna le abilità iniziali. I personaggi guadagnano un numero di abilità di base a Livello 0, pari a 3 + il modificatore di Educazione. Le prime due devono essere prese dal tuo mondo d'origine (basate sui Codici di Commercio o il Livello di Legge del mondo); il resto sono presi dalla lista di educazione.    
 3. Carriera
-
-    a. Scegli una carriera. Non puoi scegliere di nuovo una carriera che hai già lasciato, a meno che non sia Ramingo.
-    
-    b. Tira per qualificarti per quella carriera, come indicato nella descrizione della carriera. Se non è la tua prima carriera, soffri un MD-2 per ogni precedente carriera in cui hai servito.
-    
-    c. Se ti qualifichi per questa carriera, vai al punto 4.
-    
-    d. Se non ti qualifichi per quella carriera, puoi entrare nella carriera di Ramingo, o sottoporti alla Coscrizione. Puoi farti coscrivere solo una volta.
-    
+    a. Scegli una carriera. Non puoi scegliere di nuovo una carriera che hai già lasciato, a meno che non sia Ramingo.    
+    b. Tira per qualificarti per quella carriera, come indicato nella descrizione della carriera. Se non è la tua prima carriera, soffri un MD-2 per ogni precedente carriera in cui hai servito.    
+    c. Se ti qualifichi per questa carriera, vai al punto 4.    
+    d. Se non ti qualifichi per quella carriera, puoi entrare nella carriera di Ramingo, o sottoporti alla Coscrizione. Puoi farti coscrivere solo una volta.    
 4. Addestramento di base
-
-    Per il primo periodo nella tua prima carriera, acquisisci tutte le Abilità di Servizio a livello 0.
-    
+   Per il primo periodo nella tua prima carriera, acquisisci tutte le Abilità di Servizio a livello 0.
    Per il primo periodo nelle successive carriere, puoi scegliere qualsiasi altra Abilità di Servizio a livello 0.
-
 5. Sopravvivenza
-
 	Tira per la sopravvivenza, come indicati nella descrizione della carriera.
-
 	Se hai successo, vai al punto 8.
-
 	Se non hai successo, sei morto. In alternativa, gli eventi ti hanno condotto fuori da questa carriera. Tira sulla tabella degli Incidenti e vai al punto 10 (non ricevi benefici per questo periodo).
-
 6. Gradi e Promozione
-
-	a. Inizi come un personaggio di Rango 0.
-    
-    b. Se la tua carriera offre una Prova su Gradi e sei di Rango 0, puoi scegliere di tirare per acquisire un Grado. Se hai successo, passi al Rango 1 della carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi abilità bonus dalla Tabella Ranghi per questa carriera.
-    
-    c. Se una carriera offre una Prova su Promozione e se di Rango 1 o superiore, puoi scegliere di tirare per la Promozione. Se hai successo, il tuo Rango incrementa di uno nella carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi bonus di abilità dalla Tabella Ranghi per questa carriera. Puoi tirare per una Promozione nello stesso periodo in cui hai ricevuto un Grado.
-    
+	a. Inizi come un personaggio di Rango 0.    
+    b. Se la tua carriera offre una Prova su Gradi e sei di Rango 0, puoi scegliere di tirare per acquisire un Grado. Se hai successo, passi al Rango 1 della carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi abilità bonus dalla Tabella Ranghi per questa carriera.    
+    c. Se una carriera offre una Prova su Promozione e se di Rango 1 o superiore, puoi scegliere di tirare per la Promozione. Se hai successo, il tuo Rango incrementa di uno nella carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi bonus di abilità dalla Tabella Ranghi per questa carriera. Puoi tirare per una Promozione nello stesso periodo in cui hai ricevuto un Grado.    
 7. Abilità e Addestramento
-
-    a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della carattestica, applica la modifca al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello. 
-    
+    a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della carattestica, applica la modifca al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello.     
     b. Se la tua carriera non prevede una Prova su Gradi o Promozioni, puoi tirare una seconda volta, selezionando una delle Tabelle Abilità o Addestramento prevista per questa carriera (che può essere la stessa tabella che hai già scelto per questo periodo oppure una differente).
-
 9. Invecchiamento
-
-    a. Aumenta la tua età di 4 anni.
-    
+    a. Aumenta la tua età di 4 anni.    
     b. Se il tuo personaggio ha 34 anni o di più, tira per l'Invecchiamento.
-
 9. Riarruolamento
-
-    a. Tira per il riarruolamento. Se fallisci, devi lasciare questa carriera. Se hai tirato un 12 naturale, non puoi lasciare questa carriera e devi continuare per un altro periodo, vai al punto 5.
-    
-    b. Se hai servito per un totale di sette periodi o più durante la creazione del personaggio, allora puoi andare in pensione, vai al punto 10.
-    
-    c. Se desideri continuare in questa carriera, vai al punto 5.
-    
+    a. Tira per il riarruolamento. Se fallisci, devi lasciare questa carriera. Se hai tirato un 12 naturale, non puoi lasciare questa carriera e devi continuare per un altro periodo, vai al punto 5.    
+    b. Se hai servito per un totale di sette periodi o più durante la creazione del personaggio, allora puoi andare in pensione, vai al punto 10.    
+    c. Se desideri continuare in questa carriera, vai al punto 5.    
     d. Se desideri lasciare questa carriera, vai al punto 10.
-
 10. Benefici
-
     Se stai lasciando la carriera, tira per ottenere Benefici. Un personaggio ha diritto a un Beneficio per ciascun periodo di servizio in quella carriera. Puoi anche guadagnare ulteriori Tiri Beneficio se hai raggiunto un Rango più alto.
-
 11. Prossima Carriera
-
     Se stai lasciando la tua carriera corrente e il totale del numero di periodi durante la creazione del personaggio è meno di sette, puoi andare al punto 3 per scegliere una nuova carriera oppure al punto 12 se desideri completare il tuo personaggio.
-
 12. Compra l'equipaggiamento iniziale
-
     Compra il tuo equipaggaimento iniziare e, se te lo puoi permettere, magari un'astronave.
 
 ## Caratteristiche
@@ -96,15 +58,10 @@ I personaggi hanno sei abilità: Forza (For), Destrezza (Dex), Resistenza (Res),
 Le sei caratteristiche del tuoi personaggio sono descritte brevemente di seguito:
 
 - **Forza** (Str): La forza fisica di un personaggio, la sua forma fisica e potenza.
-
 - **Destrezza** (Dex): Coordinazione fisica e agilità, riflessi.
-
 - **Resistenza** (Res): La capacità di un personaggio di subire danni, energia e determinazione.
-
 - **Intelligenza** (Int): L'intelletto di un personaggio e la sua rapidità mentale.
-
 - **Educazione** (Edu): La misura di ciò che un personaggio ha appreso e delle sue esperienze.
-
 - **Status Sociale** (Soc): La posizione sociale di un personaggio.
 
 ### Status Sociale e Titoli Nobiliari
@@ -139,143 +96,88 @@ Determinare i punteggi di caratteristica è è abbastanza semplice.  Tira le tue
 
 ### Modificatori di Caratteristica
 
-Once you have assigned your characteristic scores, you can determine
-your characteristic modifiers. These modifiers are applied to any check
-when you do something related to that characteristic. An ability score
-modifier is calculated by dividing the ability score by three, dropping
-all fractions, and then subtracting one, so that the average
-characteristic score of 7 has a DM+0. Thus, a characteristic value of 2
-or less has a modifier of DM-2, characteristic values of 3 to 5 have a
-modifier of DM-1, and so on. The Characteristic Modifier by Score Range
-table provides a synopsis of these modifiers, already calculated for
-you. 
+Una volta che hai assegnato i Punteggi di Caratteristica, puoi determinare i Modificatori di Caratteristica. Questi modificatori sono applicati a qualsiasi Prova quando fai qualcosa che riguarda quella caratteristica. Un Modificatore di Caratteristica è calcolato dividendo il punteggio della caratteristica per tre, togliendo le eventuali frazioni e quindi sottraendo uno, in modo che il punteggio medio di 7 abbia un MD+0. In questo modo, una caratteristica di 2 o meno ha un modificatore di MD-2, caratteristiche con valori tra 3 e 5 hanno modificatori MD-1 e così via. La Tabella Modificatori di Caratteristica secondo Gamma di Punteggio fornisce una sintesi di questi modificatori, già pronti all'uso.
 
 #### Tabella: Modificatori di Caratteristica secondo Gamma di Punteggio
 
-| Gamma di Punteggio | PseudoEsa |  Modificatore di Caratteristica |
-|--------------------|-----------|---------------------------------|
-| 0 through 2        | 0-2       | -2                              |
-| 3 through 5        | 3-5       | -1                              |
-| 6 through 8        | 6-8       | +0                              |
-| 9 through 11       | 9-B       | +1                              |
-| 12 through 14      | C-E       | +2                              |
-| 15 through 17      | F-H       | +3                              |
-| 18 through 20      | J-L       | +4                              |
-| 21 through 23      | M-P       | +5                              |
-| 24 through 26      | Q-S       | +6                              |
-| 27 through 29      | T-V       | +7                              |
-| 30 through 32      | W-Y       | +8                              |
-| 33 or higher       | Z         | +9                              |
+| Gamma di Punteggio | PseudoEsa | Modificatori di Caratteristica |
+|--------------------|-----------|--------------------------------|
+| 0 fino a 2         | 0-2       | -2                             |
+| 3 fino a 5         | 3-5       | -1                             |
+| 6 fino a 8         | 6-8       | +0                             |
+| 9 fino a 11        | 9-B       | +1                             |
+| 12 fino a 14       | C-E       | +2                             |
+| 15 fino a 17       | F-H       | +3                             |
+| 18 fino a 20       | J-L       | +4                             |
+| 21 fino a 23       | M-P       | +5                             |
+| 24 fino a 26       | Q-S       | +6                             |
+| 27 fino a 29       | T-V       | +7                             |
+| 30 fino a 32       | W-Y       | +8                             |
+| 33 o più           | Z         | +9                             |
 
-### Altering Characteristic Scores
+### Alterare i Punteggi di Caratteristica
 
-Over the course of play, your character's characteristic scores may
-change for the following reasons:
+Durante la partita, i punteggi di caratteristica dei personaggi potrebbero cambiare per uno dei seguenti motivi:
 
-- Aging can permanently lower physical characteristic scores.
+- L'invecchiamento può abbassare in modo permanente i punteggi di caratteristica fisica.
+- Il danno fisico, come quello da combattimento, le cadure, le malattie o il veleno, può abbassare in modo temporaneo i punteggi di caratteristica fisica.
+- Il trauma mentale, come ferite alla testa o un attacco psionico, può abbassare in modo temporaneo i punteggi di caratteristica mentale.
+- Alcune medicine, potenziamenti psionici e altri casi possono migliorare temporanemanente o permanentemente specifici punteggi di caratteristica.
 
-- Physical damage, such as from combat, falling, disease or poison,
-  temporarily lowers physical characteristic scores.
+Ogni volta che un punteggio di caratteristica cambia, dovrà determinare il suo nuovo modificatore.
 
-- Mental trauma, such as head injuries and psionic attack, temporarily
-  lowers mental characteristic scores.
+### Riguardo a Genere e Razza
 
-- Certain medications, psionic enhancements, and other scenarios can
-  temporarily or permanently enhance specific characteristic scores.
+Le regole principali del Cepheus Engine non fanno alcuna distinzione tra differenti membri della stessa specie, sia di genere che di razza. Nell'ambito della letteratura classica di fantascienza, gli eroi potevano giungere con diverse sfaccettatura e capacità e non erano quasi mai impediti dal proprio genere o dal colore della propria pelle.
 
-Whenever a characteristic score changes, you will need to determine the
-new characteristic modifier.
+Le specie aliene possono avere scelte aggiuntive per il genere che possono avere un impatto sui punteggi di caratteristica e garantiscono specifiche abilità o tratti basati sulla scelta del genere. Per esempio, se una specie insettoide ha quattro generi (regina, soldato, lavoratore e drone), ognuno potrebbe garantire bonus o penalità di caratteristica differenti che avranno impatto sulla creazione del personaggio. La definizione di specie aliena risiede nell'ambito dei poteri della creatività dell'Arbitro, in quanto influisce sulla natura della propria campagna e del proprio universo.
 
-### On Gender and Race
+### Riguardo alle Specie Aliene e allo Status Sociale
 
-The core Cepheus Engine rules make no distinctions between different
-members of the same species, regardless of gender or race. In the realm
-of classic science fiction literature, heroes came in many different
-flavors and capacities, and were generally unhindered by their gender or
-the color of their skin.
+Le specie aliene potrebbero avere diversi criteri per lo Status Sociale: Casta o Carisma. Quando si ha a che fare con una razza che ha un diverso concetto di Status Sociale, tutti gli MD per lo Status Sociale o il suo equivaliente alien, sia positivi che negativi, sono dimezzati.
 
-Alien species may have additional gender choices that can impact a
-character’s characteristic scores and grant specific abilities or traits
-based on gender selection. For example, if an insectoid species has four
-genders (queen, soldier, worker and drone), each might grant different
-characteristic bonuses or penalties that impact character creation. The
-definition of alien species lies in the realm of the Referee’s powers of
-creativity, as befits the nature of their campaign and universe.
+## Il Profilo di Personalità Universale (PPU)
 
-### On Alien Species and Social Standing
+Il Cepheus Engine utilizza un formato conciso che incapsula i dati riguardanti i punteggi di caratteristica di un singolo personaggio in un modo che, con un po' di pratica, possa essere letto velocemente e con facilità. La specifica di un Profilo di Personalità Universale può essere trovato qui sotto:
 
-Alien species may have different criteria for Social Standing: Caste or
-Charisma. When dealing with a race that has a different concept of
-Social Standing, all DMs from Social Standing or its alien equivalent –
-whether positive or negative – are halved.
+> 123456, o 123456-7 per personaggi psionici
 
-## The Universal Persona Profile (UPP)
+### Spiegazione
 
-The Cepheus Engine utilizes a concise format to encapsulate data on an
-individual character’s characteristic scores in a manner that, with a
-little practice, can be quickly and easily read. The specifics of the
-Universal Persona Profile can be found below:
+I numeri rappresentano la posizione dei punteggi di caratteristica di un personaggi in una notazione pseudo-esadecimale. Questi punteggi sono, in ordine:
 
-123456, or 123456-7 for psionic characters
+1. **Forza** (For)
+2. **Destrezza** (Dex)
+3. **Resistenza** (Res)
+4. **Intelligenza** (Int)
+5. **Educazione** (Edu)
+6. **Status Sociale** (Soc)
+7. **Forza Psionica** (Psi)
 
-### The Explanation
+Per esempio, se un personaggio ha le seguenti caratteristiche:
 
-The numbers represent the position of a pseudo-hexadecimal notation of
-an individual’s characteristic scores. These scores are, in order:
+> Forza 6, Destrezza 8, Resistenza 7, Intelligenza 11, Educazione 9, Status Sociale 12
 
-1. **Strength** (Str)
+Il suo PPU sarà 687B9C. Se il personaggio ha in seguito testato la Psionia e ha scoperto uno Forza Psionica di 4, il PPU diventerà 687B9C-4.
 
-2. **Dexterity** (Dex)
+## Formato Universale del Personaggio
 
-3. **Endurance** (End)
+Il seguente formato è usato per rappresentare le statistiche di base del personaggio nelle regole del Cepheus Engine.
 
-4. **Intelligence** (Int)
+> \[Nome del Personaggio, con rango e titolo nobiliare, se pertinente\]    
+\[PPU del Personaggio\]    Età \[Età del Personaggio\]
+> \[Carriera, con numero di periodi tra parentesi\]    Cr\[Fondi in dotazione del Personaggio\]
+> \[Lista delle Abilità, in ordine alfabetico, con il livello di abilità elencato dopo il nome dell'abilità\]
+> \[Tratti della Specie, se non umano; opzionale\]
+> \[Equipaggiamento, se disponibile; elencare solo le proprietà significative\]
 
-5. **Education** (Edu)
+Di seguito un esempio di una celebrità umana conosciuta in tutto il sistema che ha appassionato i fan dei suoi olovideo per almeno due decenni con i suoi eroici film di azione:
 
-6. **Social Standing** (Soc)
-
-7. **Psionic Strength** (Psi)
-
-For example, if a character has the following characteristic scores:
-
-Strength 6, Dexterity 8, Endurance 7, Intelligence 11, Education 9,
-Social Standing 12
-
-Then the character’s UPP would be 687B9C. If the character later tested
-for Psionics, and ended up with a Psionic Strength of 4, the UPP would
-then become 687B9C-4.
-
-## Universal Character Format
-
-The following format is used to represent a character’s basic game
-statistics in the Cepheus Engine rules.
-
-\[Character Name, with rank and/or noble title, if appropriate\]
-\[Character UPP\] Age \[Character Age\]
-
-\[Character Careers, with terms listed in parentheses\] Cr\[Character
-Funds\]
-
-\[Character Skill List, in alphabetical order, with skill levels listed
-after skill names\]
-
-\[Species Traits, if not human; optional\]
-
-\[Character Equipment, if available; list only significant property\]
-
-Here is an example of a system-wide human celebrity that has been
-entertaining his holovid fans for almost two decades with his heroic
-action movies:
-
-Bruce Ayala 786A9A Age 38
-
-Entertainer (5 terms) Cr70,000
-
-Athletics-1, Admin-1, Advocate-1, Bribery-1, Carousing-3, Computer-2,
-Gambling-0, Grav Vehicle-0, Liaison-2, Linguistics-0, Streetwise-0
-
-High passage (x2)
+> Bruce Ayala    786A9A    Età 38
+> Intrattenitore (5 periodi)    Cr70,000
+> Atletica-1, Amministrazione-1, Avvocato-1, Corruzione-1, Baldoria-3, Computer-2,
+Gioco d'azzardo-0, Veicoli Grav-0, Intermediario-2, Lingue-0, Legge della Strada-0
+> Passaggio Alto (x2)
 
 ## Background Skills
 
@@ -283,24 +185,20 @@ Before embarking on your careers, you get a number of background skills
 equal to 3 + your Education DM (1 to 5, depending on your Education
 score).
 
-### Homeworld Skills
+### Abilità del Mondo d'origine
 
-Growing up on your homeworld gave you skills that depend on the planet’s
-nature. You can select any skill that matches your homeworld’s planetary
-description and trade codes. If you came from a planet already
-established in the Referee’s universe, then consult those sources for
-the planet’s description.
+Crescere sul tuo mondo d'origine ti ha dotato di abilità che dipendono dalla natura del pianeta. Puoi selezionare qualsiasi abilità compatibile con la descrizione e i codici di commercio del tuo mondo d'origine. Se provieni da un pianeta già concepito nell'universo dell'Arbitro, consulta quella fonte per la descrizione del pianeta.
 
-#### Table: Homeworld Skills by Planetary Description
+#### Tabella: Abilità del Mondo d'origine secondo Descrizione Planetaria
 
-| Descriptor | Skill          |
-| ---------- | -------------- |
-| No Law     | Gun Combat-0   |
-| Low Law    | Gun Combat-0   |
-| Medium Law | Gun Combat-0   |
-| High Law   | Melee Combat-0 |
+| Descrizione   | Abilità        |
+|---------------|----------------|
+| Nessuna Legge | Armi da Fuoco-0   |
+| Legge Bassa   | Armi da Fuoco-0   |
+| Legge Media   | Armi da Fuoco-0   |
+| Legge Alta    | Mischia-0 |
 
-#### Table: Homeworld Skills by Trade Code
+#### Tabella: Abilità del Mondo d'origine secondo Codice di Commercio
 
 | Trade Code      | Skill        |
 | --------------- | ------------ |

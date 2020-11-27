@@ -308,7 +308,7 @@ o effetto.
 
 **Psionico**: Un personaggio con capacità psioniche.
 
-**Punteggio di Caratteristica**: Uno dei sei tratti di base di un personaggio -- Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Stato Sociale (Soc).
+**Punteggio di Caratteristica**: Uno dei sei tratti di base di un personaggio -- Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc).
 
 **Punto di Balzo**: Un punto nello spazio a più di 100 diametri oltre il più vicino corpo celeste, scelto dai navigatori come punto in cui la nave entra nello spazio di Balzo.
 

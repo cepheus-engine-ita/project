@@ -3,7 +3,7 @@
 La consistenza di traduzione dei termini in tutti i testi del SRD è garantita da questa tabella di raccordo dei termini utilizzati:
 
 | Termine Originale                   | Termine Tradotto                        |
-|:----------------------------------- |:--------------------------------------- |
+|-------------------------------------|-----------------------------------------|
 | 2D6                                 | 2D6                                     |
 | Action                              | Azione                                  |
 | Adventure                           | Avventura                               |
@@ -29,7 +29,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Dice                                | Dadi                                    |
 | Difficulty                          | Difficoltà                              |
 | Dominant race                       | Razza dominante                         |
-| Dying                               | Moribondo                                 |
+| Dying                               | Moribondo                               |
 | Drifter                             | Ramingo                                 |
 | Effect                              | Effetto                                 |
 | Encounter                           | Incontro                                |
