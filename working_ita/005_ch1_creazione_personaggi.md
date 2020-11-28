@@ -217,36 +217,17 @@ Crescere sul tuo mondo d'origine ti ha dotato di abilità che dipendono dalla na
 
 ### Abilità dell'Educazione di Base
 
+Un'educazione formale ti fornisce delle competenze di base in varie scienze e discipline accademiche. Qualsiasi personaggio può scegliere dalla seguente lista:
 
-A formal education gives you a basic level of competence in various
-sciences and academic disciplines. Any character may choose from the
-following list:
-
-> Amministrazione-0, Avvocato-0, Animali-0, Baldoria-0, Comms-0, Computer-0,
+> Amministrazione-0, Avvocato-0, Animali-0, Baldoria-0, Comunicazioni-0, Computer-0,
 > Elettronica-0, Ingegneria-0, Scienze Biologiche-0, Lingue-0,
 > Meccanico-0, Medico-0, Scienze Fisiche-0, Scienze Sociali-0, Scienze Spaziali-0.
 
-## Careers
+## Carriere
 
-Characters in the Cepheus Engine do not start at the age of majority and
-jump immediately into play with only their background skills. Instead,
-characters gain experience by pursuing one of twenty-four different
-careers. The random nature of career paths (also known as prior history
-or prior careers) leads to characters of all levels of experience, and
-from all walks of life. A character gains more skills the longer they
-stay in character creation, but not without risk of aging. Player
-choices will have great impact on the final disposition of a character.
+I Personaggi nel Cepheus Engine non iniziano come persone appena maggiorenni che si buttano immeditamente in gioco con le sole abilità iniziali. Invece, i personaggi acquisiscono esperienza intraprendendo una delle ventiquattro differenti carriere. La natura casuale dei percorsi di carriera (anche conosciuta come storia precedente o precedente carriera) porta ad avere personaggi con diversi livelli di esperienza e con diversi cammini di vita. Un personaggio acquisisce maggiori abilità quanto più rimangono nel processo di creazione, ma non esenti dal rischio di invecchiare. Le scelte dei giocatori avranno grande impatto sul risultato finale.
 
-At many points during a career, a character will have to make a throw of
-some sort. Most of these throws are characteristic throws – roll 2D6,
-add the DM from the listed characteristic, and try to get a total higher
-than the listed value. A throw of Int 8+ means ‘roll 2D6, add your
-Intelligence DM, and you succeed if you roll an 8 or more’. A few throws
-are skill checks, where you add any levels in that skill and the DM from
-an appropriate characteristic, if specified. For example, a throw of
-Gambling 8+ would mean ‘roll 2D6, add your Gambling skill and the DM
-from an appropriate characteristic such as Dexterity, if specified, and
-get over 8’.
+Durante la carriera, un personaggio dovrà più volte lanciare i dadi. Molti di questi lanci riguardano le caratteristiche - lancia 2D6, aggiungi l'MD della caratteristica elencata e cerca di avere un totale superiore al valore indicato. Un tiro di Int 8+ significa "tira 2D6, aggiungi l'MD di Intelligenza e hai successo se tiri 8 o più". Alcuni tiri sono Prove di Abilità, nelle quali aggiungi qualsiasi livello in quell'abilità e l'MD di una caratteristica appropriata, se specificato. Per esempio, un tiro di Gioco d'Azzardo 8+ significa "tira 2D6, aggiungi la tua abilità Gioco d'Azzardo e l'MD della caratteristica appropriata come Destrezza, se specificato e supera 8".
 
 ### Career Descriptions
 
@@ -397,7 +378,7 @@ roll for the current term only.
 | 5   | Dishonorably discharged from the service after serving an extra 4 years in prison for a crime. Lose all benefits.                                    |
 | 6   | Medically discharged from the service. Roll on the Injury table.                                                                                     |
 
-## Commission and Advancement
+## Gradi e Promozione
 
 Within military careers, a Commission check represents an opportunity to
 join the ranks of the commissioned officers. In non-military careers,
@@ -423,7 +404,7 @@ to advance in the same term in which you are commissioned.
 Commissions and advancement are not available in the Athlete, Barbarian,
 Belter, Drifter, Entertainer, Hunter and Scout careers.
 
-## Skills and Training
+## Abilità e Addestramento
 
 Each career has skill tables associated with it – Personal Development,
 Service Skills, Specialist Skills and Advanced Education. In each term
@@ -435,7 +416,7 @@ Because the Athlete, Barbarian, Belter, Drifter, Entertainer, Hunter and
 Scout careers do not have commission or advancement checks, characters
 get to make two rolls for skills instead of one every term.
 
-### Cascade Skills
+### Abilità a Cascata
 
 Some skills are "cascade skills" meaning that they have specializations
 – specialized forms of that skill. When a cascade skill is selected, the
@@ -447,7 +428,7 @@ Zero-level skills. A character may have multiple specializations in a
 skill, such as Natural Weapons-2 and Slashing Weapons-1, under Melee
 Combat.
 
-## Injuries
+## Infortuni
 
 Characters that are wounded in combat or accidents during character
 creation must roll on the Injury table.
