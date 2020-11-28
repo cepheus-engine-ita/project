@@ -130,39 +130,40 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Tactics                             | Tattica                     |
 | Zero-G                              | G-Zero                      |
 
-| Weapon Skills                | Abilità nelle Armi |
-|------------------------------|--------------------|
-| Gun Combat (Cascade Skill)   | Armi da Fuoco (Abilità a Cascata)      |
+| Weapon Skills                | Abilità nelle Armi                |
+|------------------------------|-----------------------------------|
+| Gun Combat (Cascade Skill)   | Armi da Fuoco (Abilità a Cascata) |
 | Archery                      | Tiro con l'Arco                   |
-| Energy Pistol                | Pistole a Energia                   |
-| Energy Rifle                 | Fucile a Energia                   |
-| Shotgun                      | Doppietta                   |
-| Slug Pistol                  | Pistola a Proiettili                   |
-| Slug Rifle                   | Fucile a Proiettili                   |
-| Gunnery (Cascade Skill)      | Artiglieria (Abilità a Cascata)                   |
-| Bay Weapons                  | Armi di Batteria                   |
-| Heavy Weapons                | Armi Pesanti    |
-| Screens                      | Schermi       |
-| Spinal Mounts                | Armi montate sul dorso         |
-| Turret Weapons               | Torrette                   |
-| Melee Combat (Cascade Skill) | Mischia (Abilità a Cascata)                   |
-| Bludgeoning Weapons          | Armi Contundenti                   |
-| Natural Weapons              | Armi Naturali        |
-| Piercing Weapons             | Armi Perforanti                  |
-| Slashing Weapons             | Armi da Taglio                   |
+| Energy Pistol                | Pistole a Energia                 |
+| Energy Rifle                 | Fucile a Energia                  |
+| Shotgun                      | Doppietta                         |
+| Slug Pistol                  | Pistola a Proiettili              |
+| Slug Rifle                   | Fucile a Proiettili               |
+| Gunnery (Cascade Skill)      | Artiglieria (Abilità a Cascata)   |
+| Bay Weapons                  | Armi di Batteria                  |
+| Heavy Weapons                | Armi Pesanti                      |
+| Screens                      | Schermi                           |
+| Spinal Mounts                | Armi montate sul dorso            |
+| Turret Weapons               | Torrette                          |
+| Melee Combat (Cascade Skill) | Mischia (Abilità a Cascata)       |
+| Bludgeoning Weapons          | Armi Contundenti                  |
+| Natural Weapons              | Armi Naturali                     |
+| Piercing Weapons             | Armi Perforanti                   |
+| Slashing Weapons             | Armi da Taglio                    |
 
-| Transport Skills           | Abilità di Trasporto|
-|----------------------------| --------------------|
-| Vehicle (Cascade Skill)    | Veicoli (Abilità a Cascata) |
+
+| Transport Skills           | Abilità di Trasporto           |
+|----------------------------|--------------------------------|
+| Vehicle (Cascade Skill)    | Veicoli (Abilità a Cascata)    |
 | Aircraft (Cascade Skill)   | Aeremobili (Abilità a Cascata) |
-| Grav Vehicle               | Grav |
-| Rotor Aircraft             | Rotore |
-| Winged Aircraft            | Ala |
-| Mole                       | Talpa |
-| Tracked Vehicle            | Cingolato |
-| Watercraft (Cascade Skill) | Marinaio (Abilità A Cascata) |
-| Motorboats                 | Imbarcazioni a motore |
-| Ocean Ships                | Navi Oceaniche |
-| Sailing Ships              | Vela |
-| Submarine                  | Sottomarini |
-| Wheeled Vehicle            | Ruote |
+| Grav Vehicle               | Grav                           |
+| Rotor Aircraft             | Rotore                         |
+| Winged Aircraft            | Ala                            |
+| Mole                       | Talpa                          |
+| Tracked Vehicle            | Cingolato                      |
+| Watercraft (Cascade Skill) | Marinaio (Abilità A Cascata)   |
+| Motorboats                 | Imbarcazioni a motore          |
+| Ocean Ships                | Navi Oceaniche                 |
+| Sailing Ships              | Vela                           |
+| Submarine                  | Sottomarini                    |
+| Wheeled Vehicle            | Ruote                          |
