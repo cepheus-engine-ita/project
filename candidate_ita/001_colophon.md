@@ -9,7 +9,9 @@ Cepheus Engine e Samardan Press sono marchi registrati di Jason “Flynn” Kemp
 **Revisione**: Jeff Hopper
 
 **Versione italiana**: Roberto Bisceglie, Pieralberto Cavallo  
-**Con contributi di**: Francisco Pettigiani, Luca Volpino
+**Con contributi di**: Francisco Pettigiani  
+**Terminologia e Glossario**: Luca Volpino  
+
 
 **Designazione di Open Game Content**
 
