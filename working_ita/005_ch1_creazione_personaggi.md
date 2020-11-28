@@ -179,11 +179,9 @@ Di seguito un esempio di una celebrità umana conosciuta in tutto il sistema che
 Gioco d'azzardo-0, Veicoli Grav-0, Intermediario-2, Lingue-0, Legge della Strada-0
 > Passaggio Alto (x2)
 
-## Background Skills
+## Abilità iniziali
 
-Before embarking on your careers, you get a number of background skills
-equal to 3 + your Education DM (1 to 5, depending on your Education
-score).
+Prima di imbarcarti nella tua carriera, hai a disposizione un numero di abilità iniziali pari a 3 più l'MD di Educazione (da 1 a 5, a seconda del tuo punteggio di Educazione).
 
 ### Abilità del Mondo d'origine
 
@@ -191,42 +189,42 @@ Crescere sul tuo mondo d'origine ti ha dotato di abilità che dipendono dalla na
 
 #### Tabella: Abilità del Mondo d'origine secondo Descrizione Planetaria
 
-| Descrizione   | Abilità        |
-|---------------|----------------|
-| Nessuna Legge | Armi da Fuoco-0   |
-| Legge Bassa   | Armi da Fuoco-0   |
-| Legge Media   | Armi da Fuoco-0   |
-| Legge Alta    | Mischia-0 |
+| Descrizione       | Abilità         |
+|-------------------|-----------------|
+| Senza Legge       | Armi da Fuoco-0 |
+| Legge Blanda      | Armi da Fuoco-0 |
+| Legge Moderata    | Armi da Fuoco-0 |
+| Legge Restrittiva | Mischia-0       |
 
 #### Tabella: Abilità del Mondo d'origine secondo Codice di Commercio
 
-| Trade Code      | Skill        |
-| --------------- | ------------ |
-| Agricultural    | Animals-0    |
-| Asteroid        | Zero-G-0     |
-| Desert          | Survival-0   |
-| Fluid Oceans    | Watercraft-0 |
-| Garden          | Animals-0    |
-| High Technology | Computer-0   |
-| High Population | Streetwise-0 |
-| Ice-Capped      | Zero-G-0     |
-| Industrial      | Broker-0     |
-| Low Technology  | Survival-0   |
-| Poor            | Animals-0    |
-| Rich            | Carousing-0  |
-| Water World     | Watercraft-0 |
-| Vacuum          | Zero-G-0     |
+| Trade Code          | Skill                |
+|---------------------|----------------------|
+| Alta Tecnologia     | Computer-0           |
+| Agricolo            | Animali-0            |
+| Asteroide           | G-Zero-0             |
+| Bassa Tecnologia    | Sopravvivenza-0      |
+| Coperto da Ghiacci  | G-Zero-0             |
+| Densamente Popolato | Legge della Strada-0 |
+| Desertico           | Sopravvivenza-0      |
+| Giardino            | Animali-0            |
+| Industriale         | Intermediario-0      |
+| Mondo d'Acqua       | Navigazione-0        |
+| Oceani Fludi        | Navigazione-0        |
+| Povero              | Animali-0            |
+| Ricco               | Baldoria-0           |
+| Vuoto               | G-Zero-0             |
 
-### Primary Education Skills
+### Abilità dell'Educazione di Base
+
 
 A formal education gives you a basic level of competence in various
 sciences and academic disciplines. Any character may choose from the
 following list:
 
-> Admin-0, Advocate-0, Animals-0, Carousing-0, Comms-0, Computer-0,
-> Electronics-0, Engineering-0, Life Sciences-0, Linguistics-0,
-> Mechanics-0, Medicine-0, Physical Sciences-0, Social Sciences-0, Space
-> Sciences-0.
+> Amministrazione-0, Avvocato-0, Animali-0, Baldoria-0, Comms-0, Computer-0,
+> Elettronica-0, Ingegneria-0, Scienze Biologiche-0, Lingue-0,
+> Meccanico-0, Medico-0, Scienze Fisiche-0, Scienze Sociali-0, Scienze Spaziali-0.
 
 ## Careers
 
