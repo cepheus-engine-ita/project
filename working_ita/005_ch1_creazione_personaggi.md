@@ -229,117 +229,49 @@ I Personaggi nel Cepheus Engine non iniziano come persone appena maggiorenni che
 
 Durante la carriera, un personaggio dovrà più volte lanciare i dadi. Molti di questi lanci riguardano le caratteristiche - lancia 2D6, aggiungi l'MD della caratteristica elencata e cerca di avere un totale superiore al valore indicato. Un tiro di Int 8+ significa "tira 2D6, aggiungi l'MD di Intelligenza e hai successo se tiri 8 o più". Alcuni tiri sono Prove di Abilità, nelle quali aggiungi qualsiasi livello in quell'abilità e l'MD di una caratteristica appropriata, se specificato. Per esempio, un tiro di Gioco d'Azzardo 8+ significa "tira 2D6, aggiungi la tua abilità Gioco d'Azzardo e l'MD della caratteristica appropriata come Destrezza, se specificato e supera 8".
 
-### Career Descriptions
+### Descrizione delle Carriere
 
-The following twenty-four career paths are detailed at the end of this
-chapter:
+Le seguenti ventiquattro carriere sono dettagliate alla fine di questo capitolo:
 
-- **Aerospace System Defense**: Member of a planetary armed military
-  force operating within a world's atmosphere and close orbit. Also
-  known as the "planetary air force".
-
-- **Agent**: Individual that secretly collects and reports information
-  on the activities, movements and plans of a political or corporate
-  enemy or competitor. Also known as a spy or intelligence operative.
-
-- **Athlete**: Individual that has achieved celebrity status for their
-  proficiency in sports and other forms of physical exercise.
-
-- **Barbarian**: Individual from a primitive world (TL4 or less)
-  capable of surviving on their world without support from a
-  technologically advanced civilization.
-
-- **Belter**: Individual that explores asteroid belts in search of
-  mineral deposits and salvageable material for profit.
-
-- **Bureaucrat**: Official in a government department, charged with
-  following the details of administrative process.
-
-- **Colonist**: Individual that moves to a new world or settles in a
-  new planetary colony.
-
-- **Diplomat**: Individual that is appointed by a planetary or
-  interstellar government to conduct official negotiations and
-  maintain political, economic and social relations with another
-  polity or polities.
-
-- **Drifter**: Individual that continually moves from place to place,
-  without any fixed home or job.
-
-- **Entertainer**: Individual that has achieved celebrity status for
-  their proficiency in publicly entertaining others.
-
-- **Hunter**: Individual that kills or traps large game, almost always
-  large terrestrial mammals, for meat, other animal by-products (such
-  as horn or bone), trophy or sport.
-
-- **Marine**: Member of an interstellar armed military force trained
-  to serve in a variety of environments, often carried on board
-  starships as an adjunct to an interstellar navy. Also known as the
-  "space marines".
-
-- **Maritime System Defense**: Member of a planetary armed military
-  force operating within and on the surface of a world's oceans. Also
-  known as the "planetary wet navy".
-
-- **Mercenary**: Professional soldier hired to serve in a foreign
-  military force or perform a specific military action.
-
-- **Merchant**: Individual involved in wholesale interstellar trade,
-  particularly between individual worlds or polities.
-
-- **Navy**: Member of an interstellar armed military force that
-  conducts military operations in interplanetary or interstellar
-  space. Also known as the "space navy".
-
-- **Noble**: Member of an elite upper class, having high social or
-  political status.
-
-- **Physician**: Individual that is skilled in the science of medicine
-  and is trained and licensed to treat sick and injured people.
-
-- **Pirate**: Individual that attacks and steals from interplanetary
-  and interstellar ships in space.
-
-- **Rogue**: Individual that makes their living through illicit means.
-
-- **Scientist**: Individual that is engaged in and has expert
-  knowledge of a science, especially a biological or physical science.
-
-- **Scout**: Member of an interplanetary exploratory service,
-  surveying unfamiliar territory in space.
-
-- **Surface System Defense**: Member of a planetary armed military
-  force operating on the non-hydrographic surface of a world. Also
-  known as the "planetary army".
-
-- **Technician**: Individual that is skilled in mechanical or
-  industrial techniques or in a particular technical field.
+- **Agente**: Persona che segretamente raccoglie e riferisce informazioni sulle attività, movimenti e piani di un nemico o concorrente in ambito politico o industriale. Conosciuto anche come spia od operativo di intelligence.
+- **Atleta**: Persona che ha raggiunto lo status di celebrità per la loro competenza negli sport e altre forme di esercizio fisico.
+- **Barbaro**: Persona che proviene da un pianeta primitivo (LT4 o meno), capace di sopravvivere sul loro mondo senza aiuto di una civiltà tecnologicamente avanzata.
+- **Burocrate**: Ufficiale in un dipartimento governativo, incaricato di seguire i dettagli del funzionamento amministrativo.
+- **Cacciatore**: Persona che uccide o cattura grande selvaggina, quasi sempre grandi mammiferi terrestri, per ottenere carne, altri prodotti di origine animale (come corna o ossa), trofei o per sport.
+- **Cinturiano**: Persona che esplora per profitto le fasce di aesteroidi in cerca di depositi minerari e materiale di recupero.
+- **Colono**: Persona che trasloca su un nuovo mondo o si insedia in una colonia planetaria.
+- **Corpo di Difesa Aerospaziale**: Membro di una forza armata planetaria che opera entro i limiti dell’atmosfera di quel mondo e nella sua orbita bassa. Conosciuto anche come “Areonautica Planetaria”.
+- **Corpo di Difesa Marittima**: Membro di una forza armata planetaria che opera sotto o sopra la superficie degli oceani di quel mondo. Conosciuto anche come “Marina planetaria”.
+- **Corpo di Difesa Terrestre**: Membro di una forza armata planetaria che opera sulla superficie non bagnata di quel mondo. Conosciuto anche come “Esercito Planetario”.
+- **Diplomatico**: Persona che è investito da un governo planetario o interstellare di condurre negoziati ufficiali e di mantenere relazioni politiche, economiche e sociali con altre entità politiche.
+- **Esploratore**: Membro di un servizio di esplorazione interplanetaria, impegnato nella ricognizione di territori sconosciuti nello spazio.
+- **Intrattenitore**: Persona che ha raggiunto lo status di celebrità per la loro competenza nell’intrattenere il pubblico.
+- **Malvivente**: Persona che si guadagna da vivere attraverso mezzi illeciti.
+- **Marina**: Membro di una forza armata interstellare che conduce operazioni militari nello spazio interplanetario o interstelllare. Conosciuta anche come “Marina spaziale”.
+- **Marine**: Membro di una forza armata interstellare addestrato a servire in una varietà di ambienti, spesso trasportarto a bordo di astronavi come complemento alla marina interstellare. Conosciuto anche come “marine spaziale”.
+- **Medico**: Persona che è abile nella scienza medica ed è addestrata e autorizzata a trattare le persone malate o ferite.
+- **Mercante**: Persona coinvolta nel commercio interstellare, in particolare tra singoli mondi o entità politiche.
+- **Mercenario**: Soldato professionista ingaggiato per servire in una forza armata straniera o per eseguire specifiche azioni militari.
+- **Nobile**: Membro di un classe elevata di elite, che possiede alto status sociale e politico.
+- **Pirata**: Persona che attacca o ruba dalle astronavi interplanetarie o interstellari in pieno spazio.
+- **Ramingo**: Persona che si muove continuamente da un posto all’altro, senza alcuna fissa dimora o impiego.
+- **Scienziato**: Persona che si è impegnato nella scienza e ne possiede conoscienza ed esperienza, specialmente di biologia o fisica.
+- **Tecnico**: Persona abile nelle tecniche meccaniche o industriali o in un particolare campo tecnico.
 
 ### Qualifica e la Coscrizione
 
-The Qualification check determines if you can successfully enter into
-your chosen career. Military careers use Enlistment as the description
-for this roll instead of qualification. If you fail this check then you
-cannot enter your chosen career this term. You must either submit to the
-Coscrizione or take the Drifter career for this term. You suffer a DM–2 to
-qualification rolls for each previous career you have entered. Once you
-leave a career you cannot return to it. The Coscrizione and the Drifter career
-are exceptions to this rule – you can be Coscritto into a career you were
-previously in but got ejected from, and the Drifter career is always
-open.
+La Prova di Qualifica determina se puoi entrare con successo nella carriera prescelta. Le carriere militari usano Arruolamento come descrizione per questo tiro anziché Qualifica.  Se fallisci questa prova, non puoi entrare nella carriera prescelta in questo periodo. Devi immediatamente presentarti alla Coscrizione o diventare Ramingo per questo periodo. Soffri un MD-2 ai tiri di qualifica per ciascuna precedente carriera che hai seguito. Una volta che lasci una carriera, non puoi più rientrarvi. La Coscrizione e la carriera di Ramingo sono eccezioni a questa regola: puoi essere Coscritto in una carriera in cui sei stato precedentemente ma dalla quale sei stato cacciato; la carriera di Ramingo invece è sempre disponibile.
 
 #### Tabella: La Coscrizione
 
-| Roll | Carriera di Coscrizione                        |
+| Tiro | Carriera di Coscrizione                        |
 |------|------------------------------------------------|
-| 1    | Aerospace System Defense (Planetary Air Force) |
+| 1    | Corpo di Difesa Aerospaziale (Areonautica Planetaria) |
 | 2    | Marine                                         |
-| 3    | Maritime System Defense (Planetary Navy)       |
-| 4    | Navy                                           |
-| 5    | Scout                                          |
-| 6    | Surface System Defense (Planetary Army)        |
-
+| 3    | Corpo di Difesa Marittina (Marina Planetaria)       |
+| 4    | Marina                                           |
+| 5    | Esploratori                                          |
+| 6    | Corpo di Difesa Terrestre (Esercito Planetario)        |
 ## Periodi di Servizio
 
 Each step through the cycle of resolving your career path, you will go
