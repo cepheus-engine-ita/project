@@ -87,3 +87,83 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Untrained                           | Senza addestramento                     |
 | Vessel                              | Vascello                                |
 | World                               | Mondo                                   |
+
+## Tabella di Traduzione delle Abilità
+
+| Basic Skills                        | Abilità di Base             |
+|-------------------------------------|-----------------------------|
+| Admin                               | Amministrazione             |
+| Advocate                            | Avvocato                    |
+| Animals (Cascade Skill)             | Animali (Abilità a Cascata) |
+| Farming                             | Allevamento                 |
+| Riding                              | Cavalcare                   |
+| Survival                            | Sopravvivenza               |
+| Veterinary Medicine                 | Veterinaria                 |
+| Athletics                           | Atletica                    |
+| Battle Dress                        | Tenuta da Battaglia         |
+| Bribery                             | Corruzione                  |
+| Broker                              | Intermediario               |
+| Carousing                           | Baldoria                    |
+| Comms                               | Comunicazioni               |
+| Computer                            | Computer                    |
+| Demolitions                         | Demolizioni                 |
+| Electronics                         | Elettronica                 |
+| Engineering                         | Ingegnere                   |
+| Gambling                            | Gioco d'Azzardo             |
+| Gravitics                           | Gravitonica                 |
+| Jack-of-All-Trades (Jack o' Trades) | Tuttofare                   |
+| Leadership                          | Comando                     |
+| Linguistics                         | Lingue                      |
+| Liaison                             | Collegamento                |
+| Mechanics                           | Meccanico                   |
+| Medicine                            | Medico                      |
+| Navigation                          | Navigazione                 |
+| Piloting                            | Pilotare                    |
+| Recon                               | Ricognizione                |
+| Sciences (Cascade Skill)            | Scienze (Abilità a Cascata) |
+| Life Sciences                       | Scienze Biologiche          |
+| Physical Sciences                   | Scienze Fisiche             |
+| Social Sciences                     | Scienze Sociali             |
+| Space Sciences                      | Scienze Spaziali            |
+| Steward                             | Steward                     |
+| Streetwise                          | Legge della Strada          |
+| Tactics                             | Tattica                     |
+| Zero-G                              | G-Zero                      |
+
+| Weapon Skills                | Abilità nelle Armi                |
+|------------------------------|-----------------------------------|
+| Gun Combat (Cascade Skill)   | Armi da Fuoco (Abilità a Cascata) |
+| Archery                      | Tiro con l'Arco                   |
+| Energy Pistol                | Pistole a Energia                 |
+| Energy Rifle                 | Fucile a Energia                  |
+| Shotgun                      | Doppietta                         |
+| Slug Pistol                  | Pistola a Proiettili              |
+| Slug Rifle                   | Fucile a Proiettili               |
+| Gunnery (Cascade Skill)      | Artiglieria (Abilità a Cascata)   |
+| Bay Weapons                  | Armi di Batteria                  |
+| Heavy Weapons                | Armi Pesanti                      |
+| Screens                      | Schermi                           |
+| Spinal Mounts                | Armi montate sul dorso            |
+| Turret Weapons               | Torrette                          |
+| Melee Combat (Cascade Skill) | Mischia (Abilità a Cascata)       |
+| Bludgeoning Weapons          | Armi Contundenti                  |
+| Natural Weapons              | Armi Naturali                     |
+| Piercing Weapons             | Armi Perforanti                   |
+| Slashing Weapons             | Armi da Taglio                    |
+
+
+| Transport Skills           | Abilità di Trasporto           |
+|----------------------------|--------------------------------|
+| Vehicle (Cascade Skill)    | Veicoli (Abilità a Cascata)    |
+| Aircraft (Cascade Skill)   | Aeremobili (Abilità a Cascata) |
+| Grav Vehicle               | Grav                           |
+| Rotor Aircraft             | Rotore                         |
+| Winged Aircraft            | Ala                            |
+| Mole                       | Talpa                          |
+| Tracked Vehicle            | Cingolato                      |
+| Watercraft (Cascade Skill) | Marinaio (Abilità A Cascata)   |
+| Motorboats                 | Imbarcazioni a motore          |
+| Ocean Ships                | Navi Oceaniche                 |
+| Sailing Ships              | Vela                           |
+| Submarine                  | Sottomarini                    |
+| Wheeled Vehicle            | Ruote                          |
