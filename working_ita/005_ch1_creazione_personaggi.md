@@ -342,8 +342,6 @@ danno. Il recupero di una caratteristica perduta costa 5.000 Crediti per punto.
 
 Se il tuo personaggio è stato ferito al servizio di un patrono o di un’organizzazione, una parte delle sue cure mediche potrebbe essere pagato da quel patrono. Tira 2d6 sulla seguente tabella, sommando il tuo Rango come MD. Il risultato è la parte delle cure mediche pagata dal datore di lavoro.
 
-
-
 #### Tabella: Costi Medici
 
 | Carriera                                                                                                                              | Tiro di 4+ | Tiro di 8+ | Tiro di 12+ |
@@ -363,19 +361,16 @@ questa tabella.
 
 #### Tabella: Tabella dell'Invecchiamento
 
-| 2D6 | Effetti dell’Invecchiamento                                                          |
-| --- | ------------------------------------------------------------------------------------ |
-| –6  | Riducete tre caratteristiche fisiche di 2,
-riducete una caratteristica mentale di 1. |
-| –5  | Riducete tre caratteristiche fisiche di 2                                            |
-| –4  | Riducete due caratteristiche fisiche di 2,
-riducete una caratteristica fisica di 1.  |
-| –3  | Riducete una caratteristica fisica di 2,
-riducete due caratteristiche fisiche di 1   |
-| –2  | Riducete tre caratteristiche fisiche di 1.                                           |
-| –1  | Riducete due caratteristiche fisiche di 1.                                           |
-| 0   | Riducete una caratteristica fisica di 1.                                             |
-| 1+  | Nessun effetto.                                                                      |
+| 2D6 | Effetti dell’Invecchiamento                                                         |
+|-----|-------------------------------------------------------------------------------------|
+| –6  | Riducete tre caratteristiche fisiche di 2,riducete una caratteristica mentale di 1. |
+| –5  | Riducete tre caratteristiche fisiche di 2                                           |
+| –4  | Riducete due caratteristiche fisiche di 2,riducete una caratteristica fisica di 1.  |
+| –3  | Riducete una caratteristica fisica di 2,riducete due caratteristiche fisiche di 1   |
+| –2  | Riducete tre caratteristiche fisiche di 1.                                          |
+| –1  | Riducete due caratteristiche fisiche di 1.                                          |
+| 0   | Riducete una caratteristica fisica di 1.                                            |
+| 1+  | Nessun effetto.                                                                     |
 
 ### Crisi d’Invecchiamento
 
@@ -397,8 +392,6 @@ Al termine di ciascun periodo, il personaggio deve decidere se desideri continua
 
 Un personaggio che ha servito per 7 o più periodi durante la creazione deve ritirarsi e non può più proseguire in altre carriere a meno che non abbia tirato un 12 naturale durante il Riarruolamento e debba servire per un altro periodo di servizio.
 
-
-
 **Regola Opzionale**: L'Arbitro potrebbe decidere di modificare il numero massimo di periodi dallo standard di 7 a un altro. Per esempio, l'Arbitro potrebbe valutare che un personaggio costruito con un massimo di 3 o 4 periodi sia nel pieno della propria vita, ma non abbia un'esperienza tale per cui non colga l'opportunità di avventurarsi, se si presenta l'occasione.
 
 **Regola Opzionale**: In alcuni universi, l'Arbitro potrebbe decidere di rimuovere del tutto il numero di periodi massimo per la creazione dei personaggi.
@@ -408,7 +401,7 @@ Un personaggio che ha servito per 5 o più periodi in un solo servizio, riceve u
 #### Tabella: Pensione per Periodi di Servizio
 
 | Periodi | Pensione                       |
-| ------- | ------------------------------ |
+|---------|--------------------------------|
 | 5       | Cr10,000                       |
 | 6       | Cr12,000                       |
 | 7       | Cr14,000                       |
@@ -417,373 +410,300 @@ Un personaggio che ha servito per 5 o più periodi in un solo servizio, riceve u
 
 ## Benefici del Congedo
 
-Characters who end their careers receive one benefit per term served in
-which they did not lose benefits. An additional benefit is gained if the
-character held rank O4, and two for rank O5. A character with rank O6
-gains three extra benefits.
+I personaggi che termimano le proprie carriere ricevono un beneficio per ciascun periodo di servizio nei quali non hanno perso tali benefici. Un ulteriorio beneficio è ottenuto se il personaggio ha Rango 4, due per il Rango 5. Un personaggio con Rango 6, ottiene tre ultriori benefici.
 
-### Cash Benefits
+### Benefici in Denaro
 
-Up to 3 benefit rolls can be taken on the Cash table. All others must be
-taken in material benefits. Characters with Gambling skill or who have
-retired gain +1 on Cash Benefit rolls.
+Fino a 3 tiri beneficio possono essere effettuati sulla tabella Denaro. Tutti gli altri benefici devono essere di tipo materiale. I personaggi con l'abilità Gioco d'Azzardo o che hanno raggiunto la Pensione, ottengono +1 sui tiri dei Benefici in Denaro.
 
-### Material Benefits
+### Benefici Materiali
 
-Material benefits may be characteristics alterations, passages or ship
-shares. Membership in the Explorers' Society is possible, and subsequent
-receipts of weapon benefits may be taken as skill levels instead. Note
-that characters of rank O5 or O6 gain +1 on Material Benefit rolls.
+I Benefici Materiali possono essere alternazioni della caratteristiche o Quote di Nave. L'assocazione alla Società degli Esploratori è possibile e ulteriori benefici corrisposti in armamentario possono essere invece ottenuti come livelli di abilità. Nota che i personaggi con un Rango 5 o 6, ottengono +1 sui tiri di Benefici Materiali.
 
-- **Courier Vessel**: The character considered to be on detached duty
-  with the scout exploration service, and has been granted the use of
-  a surplus 100-ton TL9 Courier starship on a reserve basis. The scout
-  exploration service also provides free maintenance and fuel at any
-  scout base. All other ship expenses are the responsibility of the
-  character. While the character is at liberty to use the vessel as
-  they see fit, the vessel still belongs to the scout exploration
-  service, and thus cannot be abandoned or sold without consequences.
-  In exchange for the use of the ship, the character and the ship are
-  both considered to be available to return to active duty at a
-  moment's notice, should the scout exploration service have need.
+- **Vascello da Esplorazione**: Il personaggio si considera in in servizio indipendente
+  con il corpo degli Esploratori e gli è stato concesso l'uso di una nave stellare TL9 Courier da 100 tonnellate in eccedenza con clausola di riserva. Il Corpo degli Esploratori ha inoltre garantito manutenzione e carburante gratuiti in ogni Base di Esploratori. Tutti le altre spese riguardanti la nave sono responsabilità del personaggio. Mentre il personaggio ha la libertà di usare il vascello come preferisce, il vascello è ancora proprietà del Corpo degli Esploratori e quindi non può essere abbandonato o venduto senza conseguenze. In cambio dell'usufrutto della nave, il personaggio e la nave sono entrambi considerati disponibile a tornare in servizio in ogni momento, se il Corpo dovesse averne la necessità.
 
-- **Explorers' Society**: The character is a member of the prestigious
-  Explorers' Society. The Explorers' Society will provide members with
-  a free high passage ticket every two months, plus access to the
-  Society's information network and Society-run resorts. This benefit
-  can only be received once; any further receipt of this has no
-  additional benefit. After character creation, characters may
-  purchase membership into the Explorers’ Society. A successful
-  application for lifetime membership requires a Routine (-2) Admin
-  check modified by the character’s Social Standing, and if accepted,
-  a payment of Cr1,000,000. Failure on the application process
-  indicates the character has been black listed. If a character has
-  been black listed, the Explorers’ Society will no longer accept
-  membership applications from them. Membership is non-refundable and
-  non-transferrable.
+- **Società degli Esploratori**: Il personaggio è membro della prestigiosa Società degli Esploratori. La Società degli Esploratori garantirà un Passaggio Alto gratuito ogni due mesi, oltre all'accesso alla rete d'informazione della Società e ai resort mantenuti dalla Società. Questo beneficio può essere ottenuto solo una volta; riceverlo altre volte non garantirà ulteriori benefici.  Dopo la generazione del personaggio, i personaggi possono acquistare l'associazione alla Società degli Esploratori. Una domanda di associazione richiede il successo in una Prova di Amministrazione di Routine (-2), modificata dallo Status Sociale. Una volta accettata la domanda, è richiesto un pagamento di Cr1,000,000. Se la domanda fallisce, il personaggio è inserito in black list e non verranno più accettate ulteriori domande di associazione da parte sua. L'associazione non è rimborsabile né trasferibile.
 
-- **Passage**: The character has a single ticket of the type named
-  (low, mid, high) for travel on a starship. It is good for one Jump
-  to any destination.
+- **Passaggio**: Il personaggio ha un solo biglietto del tipo indicato (basso, medio, alto) per un viaggio su un'astronave. E' valido per un Balzo verso qualsiasi destinazione.
 
-- **Research Vessel**: A scientific foundation, an interstellar
-  corporation or some other equally affluent patron has granted the
-  character the use of a 200-ton TL9 Research Vessel. All ship
-  expenses, other than annual maintenance, are the responsibility of
-  the character. This ship still belongs to the patron, and therefore
-  cannot be sold or abandoned without consequences.
+- **Vascello da Ricerca**: Una fondazione scientifica o una corporazione interstellare o qualche altro influente patrono ha garantito al personaggio l'uso di un Vascello di Ricerca da 200 tonnellate. Tutte le spese per la nave, oltre che la manutenzione annuale, sono responsabilità del personaggio. Questa nave appartiene comunque al patrono e quindi non può essere venduta o abbandonata senza conseguenze.
 
-- **Ship Shares**: Ship shares may be received as benefits. Each ship
-  share is worth approximately Cr2,000,000 toward the purchase of a
-  vessel. A starship can be purchased for one-fifth of its base value
-  with a 40-year loan attached to it. For every one-fifth of its base
-  value that is paid to the bank in either ship shares or cash, the
-  period of the loan is reduced by ten years. Ship shares may not be
-  redeemed for cash.
+- **Quote di Nave**: Le Quote di nave possono essere ricevute come beneficio. Ciascuna quota vale approssimativamente Cr2,000,000 per l'acquisto di un vascello. Un'astronave può essere comprata con un anticipo pari a un quinto del suo valore e con un mutuo quarantennale. Per ciascun quinto del valore corrisposto alla banca sia come quote di nave o denaro liquido, la durata del mutuo è ridotta di 10 anni. Le quote di nave non possono essere convertire in denaro liquido.
 
-- **Weapon**: The character leaves the service with an appropriate
-  weapon (gun or blade). Once a weapon is taken as a benefit,
-  additional receipts of the weapon may be taken as skill in that
-  weapon instead. An individual is always free to take additional
-  physical examples of the weapons instead of skill levels, if so
-  desired.
+- **Arma**: Il personaggio lascia il servizio con un'arma adeguata (pistola o lama). Una volta che l'arma è ottenuta come beneficio, riceverlo altre volte può far ottenere abilità in quell'arma. Una persona è sempre libera di prendere altri esemplari dell'arma anziché livelli di abilità, se lo desidera.
 
-| Career            | Athlete            | Aerospace Defense                | Agent                     | Barbarian          | Belter          | Bureaucrat            |
-| ----------------- | ------------------ | -------------------------------- | ------------------------- | ------------------ | --------------- | --------------------- |
-| Qualifications    | End 8+             | End 5+                           | Soc 6+                    | End 5+             | Int 4+          | Soc 6+                |
-| Survival          | Dex 5+             | Dex 5+                           | Int 6+                    | Str 6+             | Dex 7+          | Edu 4+                |
-| Commission        | --                 | Edu 6+                           | Edu 7+                    | --                 | --              | Soc 5+                |
-| Advancement       | --                 | Edu 7+                           | Edu 6+                    | --                 | --              | Int 8+                |
-| Re-enlistment     | 6+                 | 5+                               | 6+                        | 5+                 | 5+              | 5+                    |
-| Ranks and Skills  | Athlete            | Aerospace                        | Agent                     | Barbarian          | Belter          | Bureaucrat            |
-| 0                 | \[Athletics-1\]    | Airman \[Aircraft-1\]            | Agent \[Streetwise-1\]    | \[Melee Combat-1\] | \[Zero-G-1\]    | Assistant \[Admin-1\] |
-| 1                 | --                 | Flight Officer                   | Special Agent             | --                 | --              | Clerk                 |
-| 2                 | --                 | Flight Lieutenant                | Sp Agent in Charge        | --                 | --              | Supervisor            |
-| 3                 | --                 | Squadron Leader \[Leadership-1\] | Unit Chief                | --                 | --              | Manager               |
-| 4                 | --                 | Wing Commander                   | Section Chief \[Admin-1\] | --                 | --              | Chief \[Advocate-1\]  |
-| 5                 | --                 | Group Captain                    | Assistant Directory       | --                 | --              | Director              |
-| 6                 | --                 | Air Commodore                    | Director                  | --                 | --              | Minister              |
-| Material Benefits |                    |                                  |                           |                    |                 |                       |
-| 1                 | Low Passage        | Low Passage                      | Low Passage               | Low Passage        | Low Passage     | Low Passage           |
-| 2                 | +1 Int             | +1 Edu                           | +1 Int                    | +1 Int             | +1 Int          | +1 Edu                |
-| 3                 | Weapon             | Weapon                           | Weapon                    | Weapon             | Weapon          | +1 Int                |
-| 4                 | High Passage       | Mid Passage                      | Mid Passage               | Weapon             | Mid Passage     | Mid Passage           |
-| 5                 | Explorers' Society | Weapon                           | +1 Soc                    | +1 End             | 1D6 Ship Shares | Mid Passage           |
-| 6                 | High Passage       | High Passage                     | High Passage              | Mid Passage        | High Passage    | High Passage          |
-| 7                 | --                 | +1 Soc                           | Explorers' Society        | --                 | --              | +1 Soc                |
-| Cash Benefits     |                    |                                  |                           |                    |                 |                       |
-| 1                 | 2000               | 1000                             | 1000                      | 0                  | 1000            | 1000                  |
-| 2                 | 10000              | 5000                             | 5000                      | 1000               | 5000            | 5000                  |
-| 3                 | 20000              | 10000                            | 10000                     | 2000               | 5000            | 10000                 |
-| 4                 | 20000              | 10000                            | 10000                     | 5000               | 5000            | 10000                 |
-| 5                 | 50000              | 20000                            | 20000                     | 5000               | 10000           | 20000                 |
-| 6                 | 100000             | 50000                            | 50000                     | 10000              | 20000           | 50000                 |
-| 7                 | 100000             | 50000                            | 50000                     | 10000              | 50000           | 50000                 |
+| Carriera            | Agente                             | Atleta                    | Barbaro         | Burocrate                        | Cacciatore          | Cinturiano        |
+|---------------------|------------------------------------|---------------------------|-----------------|----------------------------------|---------------------|-------------------|
+| Qualifiche          | Soc 6+                             | Res 8+                    | Res 5+          | Soc 6+                           | Res 5+              | Int 4+            |
+| Sopravvivenza       | Int 6+                             | Dex 5+                    | For 6+          | Edu 4+                           | For 8+              | Dex 7+            |
+| Grado               | Edu 7+                             | --                        | --              | Soc 5+                           | --                  | --                |
+| Promozione          | Edu 6+                             | --                        | --              | Int 8+                           | --                  | --                |
+| Riarruolamento      | 6+                                 | 6+                        | 5+              | 5+                               | 6+                  | 5+                |
+| Ranghi e Abilità    | Agente                             | Atleta                    | Barbaro         | Burocrate                        | Cacciatore          | Cinturiano        |
+| 0                   | Agente \[Legge della Strada-1\]    | \[Atletica-1\]            | \[Mischia-1\]   | Assistente \[Amministrazione-1\] | \[Sopravvivenza-1\] | \[G-Zero-1\]      |
+| 1                   | Agente Speciale                    | --                        | --              | Quadro                           | --                  | --                |
+| 2                   | Agente Speciale Incaricato         | --                        | --              | Supervisore                      | --                  | --                |
+| 3                   | Capo Unità                         | --                        | --              | Manager                          | --                  | --                |
+| 4                   | Capo Sezione \[Amministrazione-1\] | --                        | --              | Capo \[Avvocato-1\]              | --                  | --                |
+| 5                   | Direttore Associato                | --                        | --              | Direttore                        | --                  | --                |
+| 6                   | Direttore                          | --                        | --              | Ministro                         | --                  | --                |
+| Benefici Materiali  |                                    |                           |                 |                                  |                     |                   |
+| 1                   | Passaggio Basso                    | Passaggio Basso           | Passaggio Basso | Passaggio Basso                  | Passaggio Basso     | Passaggio Basso   |
+| 2                   | +1 Int                             | +1 Int                    | +1 Int          | +1 Edu                           | +1 Int              | +1 Int            |
+| 3                   | Arma                               | Arma                      | Arma            | +1 Int                           | Arma                | Arma              |
+| 4                   | Passaggio Medio                    | Passaggio Alto            | Arma            | Passaggio Medio                  | Passaggio Alto      | Passaggio Medio   |
+| 5                   | +1 Soc                             | Società degli Esploratori | +1 Res          | Passaggio Medio                  | 1D6 Quote di Nave   | 1D6 Quote di Nave |
+| 6                   | Passaggio Alto                     | Passaggio Alto            | Passaggio Medio | Passaggio Alto                   | Passaggio Alto      | Passaggio Alto    |
+| 7                   | Società degli Esploratori          | --                        | --              | +1 Soc                           | --                  | --                |
+| Beneifici in Denaro |                                    |                           |                 |                                  |                     |                   |
+| 1                   | 1000                               | 2000                      | 0               | 1000                             | 1000                | 1000              |
+| 2                   | 5000                               | 10000                     | 1000            | 5000                             | 5000                | 5000              |
+| 3                   | 10000                              | 20000                     | 2000            | 10000                            | 10000               | 5000              |
+| 4                   | 10000                              | 20000                     | 5000            | 10000                            | 20000               | 5000              |
+| 5                   | 20000                              | 50000                     | 5000            | 20000                            | 20000               | 10000             |
+| 6                   | 50000                              | 100000                    | 10000           | 50000                            | 50000               | 20000             |
+| 7                   | 50000                              | 100000                    | 10000           | 50000                            | 100000              | 50000             |
 
-| Career              | Athlete              | Aerospace Defense    | Agent                | Barbarian            | Belter               | Bureaucrat           |
-| ------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| Skills and Training | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development |
-| 1                   | +1 Dex               | +1 Str               | +1 Dex               | +1 Str               | +1 Str               | +1 Dex               |
-| 2                   | +1 Int               | +1 Dex               | +1 End               | +1 Dex               | +1 Dex               | +1 End               |
-| 3                   | +1 Edu               | +1 End               | +1 Int               | +1 End               | +1 End               | +1 Int               |
-| 4                   | +1 Soc               | Athletics            | +1 Edu               | +1 Int               | Zero-G               | +1 Edu               |
-| 5                   | Carousing            | Melee Combat         | Athletics            | Athletics            | Melee Combat         | Athletics            |
-| 6                   | Melee Combat         | Vehicle              | Carousing            | Gun Combat           | Gambling             | Carousing            |
-|                     | Service Skills       | Service Skills       | Service Skills       | Service Skills       | Service Skills       | Service Skills       |
-| 1                   | Athletics            | Electronics          | Admin                | Mechanics            | Comms                | Admin                |
-| 2                   | Admin                | Gun Combat           | Computer             | Gun Combat           | Demolitions          | Computer             |
-| 3                   | Carousing            | Gunnery              | Streetwise           | Melee Combat         | Gun Combat           | Carousing            |
-| 4                   | Computer             | Melee Combat         | Bribery              | Recon                | Gunnery              | Bribery              |
-| 5                   | Gambling             | Survival             | Leadership           | Survival             | Prospecting          | Leadership           |
-| 6                   | Vehicle              | Aircraft             | Vehicle              | Animals              | Piloting             | Vehicle              |
-|                     | Specialist           | Specialist           | Specialist           | Specialist           | Specialist           | Specialist           |
-| 1                   | Zero-G               | Comms                | Gun Combat           | Gun Combat           | Zero-G               | Admin                |
-| 2                   | Athletics            | Gravitics            | Melee Combat         | Jack o’ Trades       | Computer             | Computer             |
-| 3                   | Athletics            | Gun Combat           | Bribery              | Melee Combat         | Electronics          | Perception           |
-| 4                   | Computer             | Gunnery              | Leadership           | Recon                | Prospecting          | Leadership           |
-| 5                   | Leadership           | Recon                | Recon                | Animals              | Sciences             | Steward              |
-| 6                   | Gambling             | Piloting             | Survival             | Tactics              | Vehicle              | Vehicle              |
-|                     | Adv Education        | Adv Education        | Adv Education        | Adv Education        | Adv Education        | Adv Education        |
-| 1                   | Advocate             | Advocate             | Advocate             | Advocate             | Advocate             | Advocate             |
-| 2                   | Computer             | Computer             | Computer             | Linguistics          | Engineering          | Computer             |
-| 3                   | Liaison              | Jack o’ Trades       | Liaison              | Medicine             | Medicine             | Liaison              |
-| 4                   | Linguistics          | Medicine             | Linguistics          | Leadership           | Navigation           | Linguistics          |
-| 5                   | Medicine             | Leadership           | Medicine             | Tactics              | Comms                | Medicine             |
-| 6                   | Sciences             | Tactics              | Leadership           | Broker               | Tactics              | Admin                |
+| Carriera                | Agente              | Atleta              | Barbaro             | Burocrate           | Cacciatore          | Cinturiano          |
+|-------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
+| 1                       | +1 Dex              | +1 Dex              | +1 For              | +1 Dex              | +1 For              | +1 For              |
+| 2                       | +1 Res              | +1 Int              | +1 Dex              | +1 Res              | +1 Dex              | +1 Dex              |
+| 3                       | +1 Int              | +1 Edu              | +1 Res              | +1 Int              | +1 Res              | +1 Res              |
+| 4                       | +1 Edu              | +1 Soc              | +1 Int              | +1 Edu              | +1 Int              | G-Zero              |
+| 5                       | Atletica            | Baldoria            | Atletica            | Atletica            | Atletica            | Mischia             |
+| 6                       | Baldoria            | Mischia             | Armi da Fuoco       | Baldoria            | Armi da Fuoco       | Gioco d’Azzardo     |
+|                         | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio |
+| 1                       | Amministrazione     | Atletica            | Meccanico           | Amministrazione     | Meccanico           | Comunicazioni       |
+| 2                       | Computer            | Amministrazione     | Armi da Fuoco       | Computer            | Armi da Fuoco       | Demolizioni         |
+| 3                       | Legge della Strada  | Baldoria            | Mischia             | Baldoria            | Mischia             | Armi da Fuoco       |
+| 4                       | Corruzione          | Computer            | Ricognizione        | Corruzione          | Ricognizione        | Artiglieria         |
+| 5                       | Comando             | Gioco d’Azzardo     | Sopravvivenza       | Comando             | Sopravvivenza       | Prospecting         |
+| 6                       | Veicoli             | Veicoli             | Animali             | Veicoli             | Veicoli             | Pilotare            |
+|                         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         |
+| 1                       | Armi da Fuoco       | G-Zero              | Armi da Fuoco       | Amministrazione     | Amministrazione     | G-Zero              |
+| 2                       | Mischia             | Atletica            | Tuttofare           | Computer            | Comunicazioni       | Computer            |
+| 3                       | Corruzione          | Atletica            | Mischia             | Perception          | Elettronica         | Elettronica         |
+| 4                       | Comando             | Computer            | Ricognizione        | Comando             | Ricognizione        | Prospecting         |
+| 5                       | Ricognizione        | Comando             | Animali             | Steward             | Animali             | Scienze             |
+| 6                       | Sopravvivenza       | Gioco d’Azzardo     | Tattica             | Veicoli             | Veicoli             | Veicoli             |
+|                         | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata |
+| 1                       | Avvocato            | Avvocato            | Avvocato            | Avvocato            | Avvocato            | Avvocato            |
+| 2                       | Computer            | Computer            | Lingue              | Computer            | Lingue              | Ingegnere           |
+| 3                       | Collegamento        | Collegamento        | Medicina            | Collegamento        | Medicina            | Medicina            |
+| 4                       | Lingue              | Lingue              | Comando             | Lingue              | Collegamento        | Navigazione         |
+| 5                       | Medicina            | Medicina            | Tattica             | Medicina            | Tattica             | Comunicazioni       |
+| 6                       | Comando             | Scienze             | Intermediario       | Amministrazione     | Animali             | Tattica             |
 
-| Career            | Colonist                       | Diplomat                    | Drifter     | Entertainer        | Hunter          | Marine               |
-| ----------------- | ------------------------------ | --------------------------- | ----------- | ------------------ | --------------- | -------------------- |
-| Qualifications    | End 5+                         | Soc 6+                      | Dex 5+      | Soc 8+             | End 5+          | Int 6+               |
-| Survival          | End 6+                         | Edu 5+                      | End 5+      | Int 4+             | Str 8+          | End 6+               |
-| Commission        | Int 7+                         | Int 7+                      | --          | --                 | --              | Edu 6+               |
-| Advancement       | Edu 6+                         | Soc 7+                      | --          | --                 | --              | Soc 7+               |
-| Re-enlistment     | 5+                             | 5+                          | 5+          | 6+                 | 6+              | 6+                   |
-| Ranks and Skills  | Colonist                       | Diplomat                    | Drifter     | Entertainer        | Hunter          | Marine               |
-| 0                 | Citizen \[Survival-1\]         | Attaché \[Liaison-1\]       | --          | \[Carousing-1\]    | \[Survival-1\]  | Trooper \[Zero-G-1\] |
-| 1                 | District Leader                | Third Secretary             | --          | --                 | --              | Lieutenant           |
-| 2                 | District Delegate              | Second Secretary            | --          | --                 | --              | Captain              |
-| 3                 | Council Advisor \[Liaision-1\] | First Secretary \[Admin-1\] | --          | --                 | --              | Major \[Tactics-1\]  |
-| 4                 | Councilor                      | Counselor                   | --          | --                 | --              | Lt Colonel           |
-| 5                 | Lieutenant Governor            | Minister                    | --          | --                 | --              | Colonel              |
-| 6                 | Governor                       | Ambassador                  | --          | --                 | --              | Brigadier            |
-| Material Benefits |                                |                             |             |                    |                 |                      |
-| 1                 | Low Passage                    | Low Passage                 | Low Passage | Low Passage        | Low Passage     | Low Passage          |
-| 2                 | +1 Int                         | +1 Edu                      | +1 Int      | +1 Edu             | +1 Int          | +1 Edu               |
-| 3                 | Weapon                         | Mid Passage                 | Weapon      | +1 Soc             | Weapon          | Weapon               |
-| 4                 | Mid Passage                    | High Passage                | Weapon      | High Passage       | High Passage    | Mid Passage          |
-| 5                 | Mid Passage                    | +1 Soc                      | Mid Passage | Explorers' Society | 1D6 Ship Shares | +1 Soc               |
-| 6                 | High Passage                   | High Passage                | Mid Passage | High Passage       | High Passage    | High Passage         |
-| 7                 | +1 Soc                         | Explorers' Society          | --          | --                 | --              | Explorers' Society   |
-| Cash Benefits     |                                |                             |             |                    |                 |                      |
-| 1                 | 1000                           | 1000                        | 0           | 2000               | 1000            | 1000                 |
-| 2                 | 5000                           | 5000                        | 1000        | 10000              | 5000            | 5000                 |
-| 3                 | 5000                           | 10000                       | 2000        | 20000              | 10000           | 10000                |
-| 4                 | 5000                           | 20000                       | 5000        | 20000              | 20000           | 10000                |
-| 5                 | 10000                          | 20000                       | 5000        | 50000              | 20000           | 20000                |
-| 6                 | 20000                          | 50000                       | 10000       | 100000             | 50000           | 50000                |
-| 7                 | 50000                          | 100000                      | 10000       | 100000             | 100000          | 50000                |
+| Carriera            | Colono                                  | Difesa Aerospaziale          | Difesa Marittima                 | Difesa Terrestre            | Diplomatico                            | Esploratore               |
+|---------------------|-----------------------------------------|------------------------------|----------------------------------|-----------------------------|----------------------------------------|---------------------------|
+| Qualifiche          | Res 5+                                  | Res 5+                       | Res 5+                           | Res 5+                      | Soc 6+                                 | Int 6+                    |
+| Sopravvivenza       | Res 6+                                  | Dex 5+                       | Res 5+                           | Edu 5+                      | Edu 5+                                 | End 7+                    |
+| Grado               | Int 7+                                  | Edu 6+                       | Int 6+                           | Res 6+                      | Int 7+                                 | --                        |
+| Promozione          | Edu 6+                                  | Edu 7+                       | Edu 7+                           | Edu 7+                      | Soc 7+                                 | --                        |
+| Riarruolamento      | 5+                                      | 5+                           | 5+                               | 5+                          | 5+                                     | 6+                        |
+| Ranghi e Abilità    | Colono                                  | Aerospazio                   | Marina planetaria                | Esercito Terrestre          | Diplomatico                            | Esploratore               |
+| 0                   | Cittadino \[Sopravvivenza-1\]           | Aviatore \[Aircraft-1\]      | Marinaio \[Marinaio-1\]          | Soldato \[Armi da Fuoco-1\] | Attaché \[Collegamento-1\]             | \[Pilota-1\]              |
+| 1                   | Capo Distretto                          | Ufficiale di volo            | Guardiamarina                    | Tenente                     | Terzo Segretario                       | --                        |
+| 2                   | Delegato di Distretto                   | Tenente                      | Tenente                          | Capitano                    | Secondo Segretario                     | --                        |
+| 3                   | Consulente del Consiglio \[Liaision-1\] | Capo Squadrone \[Comando-1\] | Tenente Comandante \[Comando-1\] | Maggiore \[Comando-1\]      | Primo Segretario \[Amministrazione-1\] | --                        |
+| 4                   | Consigliere                             | Tenente Colonnello           | Comandante                       | Tenente Colonnello          | Consigliere                            | --                        |
+| 5                   | Vice-Governatore                        | Comandante                   | Capitano                         | Colonnello                  | Ministro                               | --                        |
+| 6                   | Governatore                             | Commodoro dell’aria          | Ammiraglio                       | Generale                    | Ambasciatore                           | --                        |
+| Benefici Materiali  |                                         |                              |                                  |                             |                                        |                           |
+| 1                   | Passaggio Basso                         | Passaggio Basso              | Passaggio Basso                  | Passaggio Basso             | Passaggio Basso                        | Passaggio Basso           |
+| 2                   | +1 Int                                  | +1 Edu                       | +1 Edu                           | +1 Int                      | +1 Edu                                 | +1 Edu                    |
+| 3                   | Arma                                    | Arma                         | Arma                             | Arma                        | Passaggio Medio                        | Ar,a                      |
+| 4                   | Passaggio Medio                         | Passaggio Medio              | Passaggio Medio                  | Passaggio Medio             | Passaggio Alto                         | Passaggio Medio           |
+| 5                   | Passaggio Medio                         | Arma                         | Arma                             | Arma                        | +1 Soc                                 | Società degli Esploratori |
+| 6                   | Passaggio Alto                          | Passaggio Alto               | Passaggio Alto                   | Passaggio Alto              | Passaggio Alto                         | Vascello da Esplorazione  |
+| 7                   | +1 Soc                                  | +1 Soc                       | +1 Soc                           | +1 Soc                      | Società degli Esploratori              | --                        |
+| Beneifici in Denaro |                                         |                              |                                  |                             |                                        |                           |
+| 1                   | 1000                                    | 1000                         | 1000                             | 1000                        | 1000                                   | 1000                      |
+| 2                   | 5000                                    | 5000                         | 5000                             | 5000                        | 5000                                   | 5000                      |
+| 3                   | 5000                                    | 10000                        | 10000                            | 10000                       | 10000                                  | 10000                     |
+| 4                   | 5000                                    | 10000                        | 10000                            | 10000                       | 20000                                  | 10000                     |
+| 5                   | 10000                                   | 20000                        | 20000                            | 20000                       | 20000                                  | 20000                     |
+| 6                   | 20000                                   | 50000                        | 50000                            | 50000                       | 50000                                  | 50000                     |
+| 7                   | 50000                                   | 50000                        | 50000                            | 50000                       | 100000                                 | 50000                     |
 
-| Career              | Colonist             | Diplomat             | Drifter              | Entertainer          | Hunter               | Marine               |
-| ------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| Skills and Training | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development |
-| 1                   | +1 Str               | +1 Dex               | +1 Str               | +1 Dex               | +1 Str               | +1 Str               |
-| 2                   | +1 Dex               | +1 End               | +1 Dex               | +1 Int               | +1 Dex               | +1 Dex               |
-| 3                   | +1 End               | +1 Int               | +1 End               | +1 Edu               | +1 End               | +1 End               |
-| 4                   | +1 Int               | +1 Edu               | Melee Combat         | +1 Soc               | +1 Int               | +1 Int               |
-| 5                   | Athletics            | Athletics            | Bribery              | Carousing            | Athletics            | +1 Edu               |
-| 6                   | Gun Combat           | Carousing            | Gambling             | Melee Combat         | Gun Combat           | Melee Combat         |
-|                     | Service Skills       | Service Skills       | Service Skills       | Service Skills       | Service Skills       | Service Skills       |
-| 1                   | Mechanics            | Admin                | Streetwise           | Athletics            | Mechanics            | Comms                |
-| 2                   | Gun Combat           | Computer             | Mechanics            | Admin                | Gun Combat           | Demolitions          |
-| 3                   | Animals              | Carousing            | Gun Combat           | Carousing            | Melee Combat         | Gun Combat           |
-| 4                   | Electronics          | Bribery              | Melee Combat         | Bribery              | Recon                | Gunnery              |
-| 5                   | Survival             | Liaison              | Recon                | Gambling             | Survival             | Melee Combat         |
-| 6                   | Vehicle              | Vehicle              | Vehicle              | Vehicle              | Vehicle              | Battle Dress         |
-|                     | Specialist           | Specialist           | Specialist           | Specialist           | Specialist           | Specialist           |
-| 1                   | Athletics            | Carousing            | Electronics          | Computer             | Admin                | Electronics          |
-| 2                   | Carousing            | Linguistics          | Melee Combat         | Carousing            | Comms                | Gun Combat           |
-| 3                   | Jack o’ Trades       | Bribery              | Bribery              | Bribery              | Electronics          | Melee Combat         |
-| 4                   | Engineering          | Liaison              | Streetwise           | Liaison              | Recon                | Survival             |
-| 5                   | Animals              | Steward              | Gambling             | Gambling             | Animals              | Recon                |
-| 6                   | Vehicle              | Vehicle              | Recon                | Recon                | Vehicle              | Vehicle              |
-|                     | Adv Education        | Adv Education        | Adv Education        | Adv Education        | Adv Education        | Adv Education        |
-| 1                   | Advocate             | Advocate             | Computer             | Advocate             | Advocate             | Advocate             |
-| 2                   | Linguistics          | Computer             | Engineering          | Computer             | Linguistics          | Computer             |
-| 3                   | Medicine             | Liaison              | Jack o’ Trades       | Carousing            | Medicine             | Gravitics            |
-| 4                   | Liaison              | Linguistics          | Medicine             | Linguistics          | Liaison              | Medicine             |
-| 5                   | Admin                | Medicine             | Liaison              | Medicine             | Tactics              | Navigation           |
-| 6                   | Animals              | Leadership           | Tactics              | Sciences             | Animals              | Tactics              |
+| Carriera                | Colono              | Difesa Aerospaziale | Difesa Marittina    | Difesa Terrestre    | Diplomatico         | Esploratore         |
+|-------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
+| 1                       | +1 For              | +1 For              | +1 For              | +1 For              | +1 Dex              | +1 For              |
+| 2                       | +1 Dex              | +1 Dex              | +1 Dex              | +1 Dex              | +1 Res              | +1 Dex              |
+| 3                       | +1 Res              | +1 Res              | +1 Res              | +1 Res              | +1 Int              | +1 End              |
+| 4                       | +1 Int              | Atletica            | Atletica            | Atletica            | +1 Edu              | Tuttofaro           |
+| 5                       | Atletica            | Mischia             | Mischia             | Mischia             | Atletica            | +1 Edu              |
+| 6                       | Armi da Fuoco       | Veicoli             | Veicoli             | Veicoli             | Baldoria            | Mischia             |
+|                         | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio |
+| 1                       | Meccanico           | Elettronica         | Meccanico           | Meccanico           | Amministrazione     | Comunicazioni       |
+| 2                       | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Computer            | Elettronica         |
+| 3                       | Animali             | Artiglieria         | Artiglieria         | Artiglieria         | Baldoria            | Armi da Fuoco       |
+| 4                       | Elettronica         | Mischia             | Mischia             | Mischia             | Corruzione          | Artigliera          |
+| 5                       | Sopravvivenza       | Sopravvivenza       | Sopravvivenza       | Ricognizione        | Collegamento        | Ricognizione        |
+| 6                       | Veicoli             | Aircraft            | Marinaio            | Tenuta da Battaglia | Veicoli             | Pilota              |
+|                         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         |
+| 1                       | Atletica            | Comunicazioni       | Comunicazioni       | Comunicazioni       | Baldoria            | Ingegnere           |
+| 2                       | Baldoria            | Gravitonica         | Elettronica         | Demolizioni         | Lingue              | Artigliera          |
+| 3                       | Tuttofare           | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Corruzione          | Demolizioni         |
+| 4                       | Ingegnere           | Artiglieria         | Demolizioni         | Mischia             | Collegamento        | Navigazione         |
+| 5                       | Animali             | Ricognizione        | Ricognizione        | Sopravvivenza       | Steward             | Medicina            |
+| 6                       | Veicoli             | Pilotare            | Marinaio            | Veicoli             | Veicoli             | Veicoli             |
+|                         | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata |
+| 1                       | Avvocato            | Avvocato            | Avvocato            | Avvocato            | Avvocato            | Avvocato            |
+| 2                       | Lingue              | Computer            | Computer            | Computer            | Computer            | Computer            |
+| 3                       | Medicina            | Tuttofare           | Tuttofare           | Tuttofare           | Collegamento        | Lingue              |
+| 4                       | Collegamento        | Medicina            | Medicina            | Medicina            | Lingue              | Medicina            |
+| 5                       | Amministrazione     | Comando             | Comando             | Comando             | Medicina            | Navigazione         |
+| 6                       | Animali             | Tattica             | Tattica             | Tattica             | Comando             | Tattica             |
 
-| Career            | Maritime Defense              | Mercenary                | Merchant                  | Navy                       | Noble                    | Physician                   |
-| ----------------- | ----------------------------- | ------------------------ | ------------------------- | -------------------------- | ------------------------ | --------------------------- |
-| Qualifications    | End 5+                        | Int 4+                   | Int 4+                    | Int 6+                     | Soc 8+                   | Edu 6+                      |
-| Survival          | End 5+                        | End 6+                   | Int 5+                    | Int 5+                     | Soc 4+                   | Int 4+                      |
-| Commission        | Int 6+                        | Int 7+                   | Int 5+                    | Soc 7+                     | Edu 5+                   | Int 5+                      |
-| Advancement       | Edu 7+                        | Int 6+                   | Edu 8+                    | Edu 6+                     | Int 8+                   | Edu 8+                      |
-| Re-enlistment     | 5+                            | 5+                       | 4+                        | 5+                         | 6+                       | 5+                          |
-| Ranks and Skills  | Maritime                      | Mercenary                | Merchant                  | Navy                       | Noble                    | Medical                     |
-| 0                 | Seaman \[Watercraft-1\]       | Private \[Gun Combat-1\] | Crewman \[Steward-1\]     | Starman \[Zero-G-1\]       | Courtier \[Carousing-1\] | Intern \[Medicine-1\]       |
-| 1                 | Ensign                        | Lieutenant               | Deck Cadet                | Midshipman                 | Knight                   | Resident                    |
-| 2                 | Lieutenant                    | Captain                  | Fourth Officer            | Lieutenant                 | Baron                    | Senior Resident             |
-| 3                 | Lt Commander \[Leadership-1\] | Major \[Tactics-1\]      | Third Officer \[Pilot-1\] | Lt Commander \[Tactics-1\] | Marquis                  | Chief Resident              |
-| 4                 | Commander                     | Lt Colonel               | Second Officer            | Commander                  | Count \[Advocate-1\]     | Attending Phys. \[Admin-1\] |
-| 5                 | Captain                       | Colonel                  | First Officer             | Captain                    | Duke                     | Service Chief               |
-| 6                 | Admiral                       | Brigadier                | Captain                   | Commodore                  | Archduke                 | Hospital Admin.             |
-| Material Benefits |                               |                          |                           |                            |                          |                             |
-| 1                 | Low Passage                   | Low Passage              | Low Passage               | Low Passage                | High Passage             | Low Passage                 |
-| 2                 | +1 Edu                        | +1 Int                   | +1 Edu                    | +1 Edu                     | +1 Edu                   | +1 Edu                      |
-| 3                 | Weapon                        | Weapon                   | Weapon                    | Weapon                     | +1 Int                   | +1 Int                      |
-| 4                 | Mid Passage                   | High Passage             | High Passage              | Mid Passage                | High Passage             | High Passage                |
-| 5                 | Weapon                        | +1 Soc                   | 1D6 Ship Shares           | +1 Soc                     | Explorers' Society       | Explorers' Society          |
-| 6                 | High Passage                  | High Passage             | High Passage              | High Passage               | High Passage             | High Passage                |
-| 7                 | +1 Soc                        | 1D6 Ship Shares          | Explorers' Society        | Explorers' Society         | 1D6 Ship Shares          | +1 Soc                      |
-| Cash Benefits     |                               |                          |                           |                            |                          |                             |
-| 1                 | 1000                          | 1000                     | 1000                      | 1000                       | 2000                     | 2000                        |
-| 2                 | 5000                          | 5000                     | 5000                      | 5000                       | 10000                    | 10000                       |
-| 3                 | 10000                         | 10000                    | 10000                     | 10000                      | 20000                    | 20000                       |
-| 4                 | 10000                         | 20000                    | 20000                     | 10000                      | 20000                    | 20000                       |
-| 5                 | 20000                         | 20000                    | 20000                     | 20000                      | 50000                    | 50000                       |
-| 6                 | 50000                         | 50000                    | 50000                     | 50000                      | 100000                   | 100000                      |
-| 7                 | 50000                         | 100000                   | 100000                    | 50000                      | 100000                   | 100000                      |
+| Carriera            | Intrattenitore            | Malvivente                            | Marina                           | Marine                    | Mercante                    | Medico                               |
+|---------------------|---------------------------|---------------------------------------|----------------------------------|---------------------------|-----------------------------|--------------------------------------|
+| Qualifiche          | Soc 8+                    | Dex 5+                                | Int 6+                           | Int 6+                    | Int 4+                      | Edu 6+                               |
+| Sopravvivenza       | Int 4+                    | Dex 4+                                | Int 5+                           | Res 6+                    | Int 5+                      | Int 4+                               |
+| Grado               | --                        | For 6+                                | Soc 7+                           | Edu 6+                    | Int 5+                      | Int 5+                               |
+| Promozione          | --                        | Int 7+                                | Edu 6+                           | Soc 7+                    | Edu 8+                      | Edu 8+                               |
+| Riarruolamento      | 6+                        | 4+                                    | 5+                               | 6+                        | 4+                          | 5+                                   |
+| Ranghi e Abilità    | Intrattenitore            | Malvivente                            | Marina                           | Marine                    | Mercante                    | Medico                               |
+| 0                   | \[Baldoria-1\]            | Indipendente \[Legge della Strada-1\] | Stellare \[G-Zero-1\]            | Fante \[G-Zero-1\]        | Marinaio \[Steward-1\]      | Stagista \[Medicina-1\]              |
+| 1                   | --                        | Associato                             | Guardiamarina                    | Tenente                   | Cadetto                     | Specializzando                       |
+| 2                   | --                        | Soldato \[Armi da Fuoco-1\]           | Tenente                          | Capitano                  | Quarto Ufficiale            | Specializzando Senior                |
+| 3                   | --                        | Tenente                               | Tenente Comandante \[Tattica-1\] | Maggiore \[Tattica-1\]    | Terzo Ufficiale \[Pilot-1\] | Specializzando Capo                  |
+| 4                   | --                        | Sottoboss                             | Comandante                       | Tenente Colonnello        | Secondo Ufficiale           | Medico Curante \[Amministrazione-1\] |
+| 5                   | --                        | Consigliere                           | Capitano                         | Colonello                 | Primo Ufficiale             | Capo Servizio                        |
+| 6                   | --                        | Boss                                  | Commodoro                        | Brigadiere                | Capitano                    | Amministratore ospedaliero           |
+| Benefici Materiali  |                           |                                       |                                  |                           |                             |                                      |
+| 1                   | Passaggio Basso           | Passaggio Basso                       | Passaggio Basso                  | Passaggio Basso           | Passaggio Basso             | Passaggio Basso                      |
+| 2                   | +1 Edu                    | +1 Int                                | +1 Edu                           | +1 Edu                    | +1 Edu                      | +1 Edu                               |
+| 3                   | +1 Soc                    | Arma                                  | Arma                             | Arma                      | Arma                        | +1 Int                               |
+| 4                   | Passaggio Alto            | Passaggio Medio                       | Passaggio Medio                  | Passaggio Medio           | Passaggio Alto              | Passaggio Alto                       |
+| 5                   | Società degli Esploratori | Arma                                  | +1 Soc                           | +1 Soc                    | 1D6 Quote di Nave           | Società degli Esploratori            |
+| 6                   | Passaggio Alto            | Passaggio Alto                        | Passaggio Alto                   | Passaggio Alto            | Passaggio Alto              | Passaggio Alto                       |
+| 7                   | --                        | +1 Soc                                | Società degli Esploratori        | Società degli Esploratori | Società degli Esploratori   | +1 Soc                               |
+| Beneifici in Denaro |                           |                                       |                                  |                           |                             |                                      |
+| 1                   | 2000                      | 1000                                  | 1000                             | 1000                      | 1000                        | 2000                                 |
+| 2                   | 10000                     | 5000                                  | 5000                             | 5000                      | 5000                        | 10000                                |
+| 3                   | 20000                     | 5000                                  | 10000                            | 10000                     | 10000                       | 20000                                |
+| 4                   | 20000                     | 5000                                  | 10000                            | 10000                     | 20000                       | 20000                                |
+| 5                   | 50000                     | 10000                                 | 20000                            | 20000                     | 20000                       | 50000                                |
+| 6                   | 100000                    | 20000                                 | 50000                            | 50000                     | 50000                       | 100000                               |
+| 7                   | 100000                    | 50000                                 | 50000                            | 50000                     | 100000                      | 100000                               |
 
-| Career              | Maritime Defense     | Mercenary            | Merchant             | Navy                 | Noble                | Physician            |
-| ------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| Skills and Training | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development |
-| 1                   | +1 Str               | +1 Str               | +1 Str               | +1 Str               | +1 Dex               | +1 Str               |
-| 2                   | +1 Dex               | +1 Dex               | +1 Dex               | +1 Dex               | +1 Int               | +1 Dex               |
-| 3                   | +1 End               | +1 End               | +1 End               | +1 End               | +1 Edu               | +1 End               |
-| 4                   | Athletics            | Zero-G               | Zero-G               | +1 Int               | +1 Soc               | +1 Int               |
-| 5                   | Melee Combat         | Melee Combat         | Melee Combat         | +1 Edu               | Carousing            | +1 Edu               |
-| 6                   | Vehicle              | Gambling             | Steward              | Melee Combat         | Melee Combat         | Gun Combat           |
-|                     | Service Skills       | Service Skills       | Service Skills       | Service Skills       | Service Skills       | Service Skills       |
-| 1                   | Mechanics            | Comms                | Comms                | Comms                | Athletics            | Admin                |
-| 2                   | Gun Combat           | Mechanics            | Engineering          | Engineering          | Admin                | Computer             |
-| 3                   | Gunnery              | Gun Combat           | Gun Combat           | Gun Combat           | Carousing            | Mechanics            |
-| 4                   | Melee Combat         | Melee Combat         | Melee Combat         | Gunnery              | Leadership           | Medicine             |
-| 5                   | Survival             | Gambling             | Broker               | Melee Combat         | Gambling             | Leadership           |
-| 6                   | Watercraft           | Battle Dress         | Vehicle              | Vehicle              | Vehicle              | Sciences             |
-|                     | Specialist           | Specialist           | Specialist           | Specialist           | Specialist           | Specialist           |
-| 1                   | Comms                | Gravitics            | Carousing            | Gravitics            | Computer             | Computer             |
-| 2                   | Electronics          | Gun Combat           | Gunnery              | Jack o’ Trades       | Carousing            | Carousing            |
-| 3                   | Gun Combat           | Gunnery              | Jack o’ Trades       | Melee Combat         | Gun Combat           | Electronics          |
-| 4                   | Demolitions          | Melee Combat         | Medicine             | Navigation           | Melee Combat         | Medicine             |
-| 5                   | Recon                | Recon                | Navigation           | Leadership           | Liaison              | Medicine             |
-| 6                   | Watercraft           | Vehicle              | Piloting             | Piloting             | Animals              | Sciences             |
-|                     | Adv Education        | Adv Education        | Adv Education        | Adv Education        | Adv Education        | Adv Education        |
-| 1                   | Advocate             | Advocate             | Advocate             | Advocate             | Advocate             | Advocate             |
-| 2                   | Computer             | Engineering          | Engineering          | Computer             | Computer             | Computer             |
-| 3                   | Jack o’ Trades       | Medicine             | Medicine             | Engineering          | Liaison              | Jack o’ Trades       |
-| 4                   | Medicine             | Navigation           | Navigation           | Medicine             | Linguistics          | Linguistics          |
-| 5                   | Leadership           | Sciences             | Sciences             | Navigation           | Medicine             | Medicine             |
-| 6                   | Tactics              | Tactics              | Tactics              | Tactics              | Sciences             | Sciences             |
+| Carriera                | Intrattenitore      | Malvivente          | Marina              | Marine              | Mercante            | Medico              |
+|-------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
+| 1                       | +1 Dex              | +1 For              | +1 For              | +1 For              | +1 For              | +1 For              |
+| 2                       | +1 Int              | +1 Dex              | +1 Dex              | +1 Dex              | +1 Dex              | +1 Dex              |
+| 3                       | +1 Edu              | +1 Res              | +1 Res              | +1 Res              | +1 Res              | +1 Res              |
+| 4                       | +1 Soc              | Mischia             | +1 Int              | +1 Int              | G-Zero              | +1 Int              |
+| 5                       | Baldoria            | Corruzione          | +1 Edu              | +1 Edu              | Mischia             | +1 Edu              |
+| 6                       | Mischia             | Gioco d’Azzardo     | Mischia             | Mischia             | Steward             | Armi da Fuoco       |
+|                         | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio |
+| 1                       | Atletica            | Legge della Strada  | Comunicazioni       | Comunicazioni       | Comunicazioni       | Amministrazione     |
+| 2                       | Amministrazione     | Meccanico           | Ingegnere           | Demolizioni         | Ingegnere           | Computer            |
+| 3                       | Baldoria            | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Meccanico           |
+| 4                       | Corruzione          | Mischia             | Artiglieria         | Artiglieria         | Mischia             | Medicina            |
+| 5                       | Gioco d’Azzardo     | Ricognizione        | Mischia             | Mischia             | Intermediario       | Comando             |
+| 6                       | Veicoli             | Veicoli             | Veicoli             | Tenuta da Battaglia | Veicoli             | Scienze             |
+|                         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         |
+| 1                       | Computer            | Computer            | Gravitonica         | Elettronica         | Baldoria            | Computer            |
+| 2                       | Baldoria            | Elettronica         | Tuttofare           | Armi da Fuoco       | Artiglieria         | Baldoria            |
+| 3                       | Corruzione          | Corruzione          | Mischia             | Mischia             | Tuttofare           | Elettronica         |
+| 4                       | Collegamento        | Intermediario       | Navigazione         | Sopravvivenza       | Medicina            | Medicina            |
+| 5                       | Gioco d’Azzardo     | Ricognizione        | Comando             | Ricognizione        | Navigazione         | Medicina            |
+| 6                       | Ricognizione        | Veicoli             | Pilotare            | Veicoli             | Pilotare            | Scienze             |
+|                         | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata |
+| 1                       | Avvocato            | Computer            | Avvocato            | Avvocato            | Avvocato            | Avvocato            |
+| 2                       | Computer            | Gravitonica         | Computer            | Computer            | Ingegnere           | Computer            |
+| 3                       | Baldoria            | Tuttofare           | Ingegnere           | Gravitonica         | Medicina            | Tuttofare           |
+| 4                       | Lingue              | Medicina            | Medicina            | Medicina            | Navigazione         | Lingue              |
+| 5                       | Medicina            | Avvocato            | Navigazione         | Navigazione         | Scienze             | Medicina            |
+| 6                       | Scienze             | Tattica             | Tattica             | Tattica             | Tattica             | Scienze             |
 
-| Career            | Pirate                 | Rogue                        | Scientist                          | Scout              | Surface Defense          | Technician                |
-| ----------------- | ---------------------- | ---------------------------- | ---------------------------------- | ------------------ | ------------------------ | ------------------------- |
-| Qualifications    | Dex 5+                 | Dex 5+                       | Edu 6+                             | Int 6+             | End 5+                   | Edu 6+                    |
-| Survival          | Dex 6+                 | Dex 4+                       | Edu 5+                             | End 7+             | Edu 5+                   | Dex 4+                    |
-| Commission        | Str 7+                 | Str 6+                       | Int 7+                             | --                 | End 6+                   | Edu 5+                    |
-| Advancement       | Int 6+                 | Int 7+                       | Int 6+                             | --                 | Edu 7+                   | Int 8+                    |
-| Re-enlistment     | 5+                     | 4+                           | 5+                                 | 6+                 | 5+                       | 5+                        |
-| Ranks and Skills  | Pirate                 | Rogue                        | Scientist                          | Scout              | Surface                  | Technician                |
-| 0                 | Crewman \[Gunnery-1\]  | Independent \[Streetwise-1\] | Instructor \[Sciences-1\]          | \[Pilot-1\]        | Private \[Gun Combat-1\] | Technician \[Computer-1\] |
-| 1                 | Corporal               | Associate                    | Adjunct Professor                  | --                 | Lieutenant               | Team Lead                 |
-| 2                 | Lieutenant \[Pilot-1\] | Soldier \[Gun Combat-1\]     | Research Professor                 | --                 | Captain                  | Supervisor                |
-| 3                 | Lt Commander           | Lieutenant                   | Assistant Professor \[Computer-1\] | --                 | Major \[Leadership-1\]   | Manager                   |
-| 4                 | Commander              | Underboss                    | Associate Professor                | --                 | Lt Colonel               | Director \[Admin-1\]      |
-| 5                 | Captain                | Consigliere                  | Professor                          | --                 | Colonel                  | Vice-President            |
-| 6                 | Commodore              | Boss                         | Distinguished Professor            | --                 | General                  | Executive Officer         |
-| Material Benefits |                        |                              |                                    |                    |                          |                           |
-| 1                 | Low Passage            | Low Passage                  | Low Passage                        | Low Passage        | Low Passage              | Low Passage               |
-| 2                 | +1 Int                 | +1 Int                       | +1 Edu                             | +1 Edu             | +1 Int                   | +1 Edu                    |
-| 3                 | Weapon                 | Weapon                       | +1 Int                             | Weapon             | Weapon                   | +1 Int                    |
-| 4                 | High Passage           | Mid Passage                  | Mid Passage                        | Mid Passage        | Mid Passage              | Mid Passage               |
-| 5                 | +1 Soc                 | Weapon                       | +1 Soc                             | Explorers' Society | Weapon                   | Mid Passage               |
-| 6                 | High Passage           | High Passage                 | High Passage                       | Courier Vessel     | High Passage             | High Passage              |
-| 7                 | 1D6 Ship Shares        | +1 Soc                       | Research Vessel                    | --                 | +1 Soc                   | +1 Soc                    |
-| Cash Benefits     |                        |                              |                                    |                    |                          |                           |
-| 1                 | 1000                   | 1000                         | 1000                               | 1000               | 1000                     | 1000                      |
-| 2                 | 5000                   | 5000                         | 5000                               | 5000               | 5000                     | 5000                      |
-| 3                 | 10000                  | 5000                         | 10000                              | 10000              | 10000                    | 10000                     |
-| 4                 | 20000                  | 5000                         | 10000                              | 10000              | 10000                    | 10000                     |
-| 5                 | 20000                  | 10000                        | 20000                              | 20000              | 20000                    | 20000                     |
-| 6                 | 50000                  | 20000                        | 50000                              | 50000              | 50000                    | 50000                     |
-| 7                 | 100000                 | 50000                        | 50000                              | 50000              | 50000                    | 50000                     |
+| Carriera            | Mercenario                  | Nobile                    | Pirata                     | Ramingo         | Scienziato                 | Tecnico                         |
+|---------------------|-----------------------------|---------------------------|----------------------------|-----------------|----------------------------|---------------------------------|
+| Qualifiche          | Int 4+                      | Soc 8+                    | Dex 5+                     | Dex 5+          | Edu 6+                     | Edu 6+                          |
+| Sopravvivenza       | Res 6+                      | Soc 4+                    | Dex 6+                     | Res 5+          | Edu 5+                     | Dex 4+                          |
+| Grado               | Int 7+                      | Edu 5+                    | For 7+                     | --              | Int 7+                     | Edu 5+                          |
+| Promozione          | Int 6+                      | Int 8+                    | Int 6+                     | --              | Int 6+                     | Int 8+                          |
+| Riarruolamento      | 5+                          | 6+                        | 5+                         | 5+              | 5+                         | 5+                              |
+| Ranghi e Abilità    | Mercenario                  | Nobile                    | Pirate                     | Ramingo         | Scienziato                 | Technician                      |
+| 0                   | Soldato \[Armi da Fuoco-1\] | Cortigiano \[Baldoria-1\] | Marinaio \[Artiglieria-1\] | --              | Istruttore \[Scienze-1\]   | Tecnico \[Computer-1\]          |
+| 1                   | Tenente                     | Cavaliere                 | Caporale                   | --              | Professore Aggiunto        | Capo Squadra                    |
+| 2                   | Capitano                    | Barone                    | Tenente \[Pilot-1\]        | --              | Assegnista di Ricerca      | Supervisore                     |
+| 3                   | Maggiore \[Tattica-1\]      | Marchese                  | Tenente Comandante         | --              | Ricercatore \[Computer-1\] | Manager                         |
+| 4                   | Tenente Colonnello          | Conte \[Avvocato-1\]      | Comandante                 | --              | Professore Associato       | Direttore \[Amministrazione-1\] |
+| 5                   | Colonello                   | Duca                      | Capitano                   | --              | Professore                 | Vice Presidente                 |
+| 6                   | Brigadiere                  | Arciduca                  | Commodoro                  | --              | Professore Emerito         | Amministratore Delegato         |
+| Benefici Materiali  |                             |                           |                            |                 |                            |                                 |
+| 1                   | Passaggio Basso             | Passaggio Alto            | Passaggio Basso            | Passaggio Basso | Passaggio Basso            | Passaggio Basso                 |
+| 2                   | +1 Int                      | +1 Edu                    | +1 Int                     | +1 Int          | +1 Edu                     | +1 Edu                          |
+| 3                   | Arma                        | +1 Int                    | Arma                       | Arma            | +1 Int                     | +1 Int                          |
+| 4                   | Passaggio Alto              | Passaggio Alto            | Passaggio Alto             | Arma            | Passaggio Medio            | Passaggio Medio                 |
+| 5                   | +1 Soc                      | Società degli Esploratori | +1 Soc                     | Passaggio Medio | +1 Soc                     | Passaggio Medio                 |
+| 6                   | Passaggio Alto              | Passaggio Alto            | Passaggio Alto             | Passaggio Medio | Passaggio Alto             | Passaggio Alto                  |
+| 7                   | 1D6 Quote di Nave           | 1D6 Quote di Nave         | 1D6 Quote di Nave          | --              | Vascello di Ricerca        | +1 Soc                          |
+| Beneifici in Denaro |                             |                           |                            |                 |                            |                                 |
+| 1                   | 1000                        | 2000                      | 1000                       | 0               | 1000                       | 1000                            |
+| 2                   | 5000                        | 10000                     | 5000                       | 1000            | 5000                       | 5000                            |
+| 3                   | 10000                       | 20000                     | 10000                      | 2000            | 10000                      | 10000                           |
+| 4                   | 20000                       | 20000                     | 20000                      | 5000            | 10000                      | 10000                           |
+| 5                   | 20000                       | 50000                     | 20000                      | 5000            | 20000                      | 20000                           |
+| 6                   | 50000                       | 100000                    | 50000                      | 10000           | 50000                      | 50000                           |
+| 7                   | 100000                      | 100000                    | 100000                     | 10000           | 50000                      | 50000                           |
 
-| Career              | Pirate               | Rogue                | Scientist            | Scout                | Surface Defense      | Technician           |
-| ------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| Skills and Training | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development | Personal Development |
-| 1                   | +1 Str               | +1 Str               | +1 Str               | +1 Str               | +1 Str               | +1 Str               |
-| 2                   | +1 Dex               | +1 Dex               | +1 Dex               | +1 Dex               | +1 Dex               | +1 Dex               |
-| 3                   | +1 End               | +1 End               | +1 End               | +1 End               | +1 End               | +1 End               |
-| 4                   | Melee Combat         | Melee Combat         | +1 Int               | Jack o’ Trades       | Athletics            | +1 Int               |
-| 5                   | Bribery              | Bribery              | +1 Edu               | +1 Edu               | Melee Combat         | +1 Edu               |
-| 6                   | Gambling             | Gambling             | Gun Combat           | Melee Combat         | Vehicle              | Gun Combat           |
-|                     | Service Skills       | Service Skills       | Service Skills       | Service Skills       | Service Skills       | Service Skills       |
-| 1                   | Streetwise           | Streetwise           | Admin                | Comms                | Mechanics            | Admin                |
-| 2                   | Electronics          | Mechanics            | Computer             | Electronics          | Gun Combat           | Computer             |
-| 3                   | Gun Combat           | Gun Combat           | Electronics          | Gun Combat           | Gunnery              | Mechanics            |
-| 4                   | Melee Combat         | Melee Combat         | Medicine             | Gunnery              | Melee Combat         | Medicine             |
-| 5                   | Recon                | Recon                | Bribery              | Recon                | Recon                | Electronics          |
-| 6                   | Vehicle              | Vehicle              | Sciences             | Piloting             | Battle Dress         | Sciences             |
-|                     | Specialist           | Specialist           | Specialist           | Specialist           | Specialist           | Specialist           |
-| 1                   | Zero-G               | Computer             | Navigation           | Engineering          | Comms                | Computer             |
-| 2                   | Comms                | Electronics          | Admin                | Gunnery              | Demolitions          | Electronics          |
-| 3                   | Engineering          | Bribery              | Sciences             | Demolitions          | Gun Combat           | Gravitics            |
-| 4                   | Gunnery              | Broker               | Sciences             | Navigation           | Melee Combat         | Linguistics          |
-| 5                   | Navigation           | Recon                | Animals              | Medicine             | Survival             | Engineering          |
-| 6                   | Piloting             | Vehicle              | Vehicle              | Vehicle              | Vehicle              | Animals              |
-|                     | Adv Education        | Adv Education        | Adv Education        | Adv Education        | Adv Education        | Adv Education        |
-| 1                   | Computer             | Computer             | Advocate             | Advocate             | Advocate             | Advocate             |
-| 2                   | Gravitics            | Gravitics            | Computer             | Computer             | Computer             | Computer             |
-| 3                   | Jack o’ Trades       | Jack o’ Trades       | Jack o’ Trades       | Linguistics          | Jack o’ Trades       | Jack o’ Trades       |
-| 4                   | Medicine             | Medicine             | Linguistics          | Medicine             | Medicine             | Linguistics          |
-| 5                   | Advocate             | Advocate             | Medicine             | Navigation           | Leadership           | Medicine             |
-| 6                   | Tactics              | Tactics              | Sciences             | Tactics              | Tactics              | Sciences             |
+| Carriera                | Mercenario          | Nobile              | Pirata              | Ramingo             | Scienziato          | Tecnico             |
+|-------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
+| 1                       | +1 For              | +1 Dex              | +1 For              | +1 For              | +1 For              | +1 For              |
+| 2                       | +1 Dex              | +1 Int              | +1 Dex              | +1 Dex              | +1 Dex              | +1 Dex              |
+| 3                       | +1 Res              | +1 Edu              | +1 Res              | +1 Res              | +1 Res              | +1 Res              |
+| 4                       | G-Zero              | +1 Soc              | Mischia             | Mischia             | +1 Int              | +1 Int              |
+| 5                       | Mischia             | Baldoria            | Corruzione          | Corruzione          | +1 Edu              | +1 Edu              |
+| 6                       | Gioco d’Azzardo     | Mischia             | Gioco d’Azzardo     | Gioco d’Azzardo     | Armi da Fuoco       | Armi da Fuoco       |
+|                         | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio |
+| 1                       | Comunicazioni       | Atletica            | Legge della Strada  | Legge della Strada  | Amministrazione     | Amministrazione     |
+| 2                       | Meccanico           | Amministrazione     | Elettronica         | Meccanico           | Computer            | Computer            |
+| 3                       | Armi da Fuoco       | Baldoria            | Armi da Fuoco       | Armi da Fuoco       | Elettronica         | Meccanico           |
+| 4                       | Mischia             | Comando             | Mischia             | Mischia             | Medicina            | Medicina            |
+| 5                       | Gioco d’Azzardo     | Gioco d’Azzardo     | Ricognizione        | Ricognizione        | Corruzione          | Elettronica         |
+| 6                       | Tenuta da Battaglia | Veicoli             | Veicoli             | Veicoli             | Scienze             | Scienze             |
+|                         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         |
+| 1                       | Gravitonica         | Computer            | G-Zero              | Elettronica         | Navigazione         | Computer            |
+| 2                       | Armi da Fuoco       | Baldoria            | Comunicazioni       | Mischia             | Amministrazione     | Elettronica         |
+| 3                       | Artiglieria         | Armi da Fuoco       | Ingegnere           | Corruzione          | Scienze             | Gravitonica         |
+| 4                       | Mischia             | Mischia             | Artiglieria         | Legge della Strada  | Scienze             | Lingue              |
+| 5                       | Ricognizione        | Collegamento        | Navigazione         | Gioco d’Azzardo     | Animali             | Ingegnere           |
+| 6                       | Veicoli             | Animali             | Pilotare            | Ricognizione        | Veicoli             | Animali             |
+|                         | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata |
+| 1                       | Avvocato            | Avvocato            | Computer            | Computer            | Avvocato            | Avvocato            |
+| 2                       | Ingegnere           | Computer            | Gravitonica         | Ingegnere           | Computer            | Computer            |
+| 3                       | Medicina            | Collegamento        | Tuttofare           | Tuttofare           | Tuttofare           | Tuttofare           |
+| 4                       | Navigazione         | Lingue              | Medicina            | Medicina            | Lingue              | Lingue              |
+| 5                       | Scienze             | Medicina            | Avvocato            | Collegamento        | Medicina            | Medicina            |
+| 6                       | Tattica             | Scienze             | Tattica             | Tattica             | Scienze             | Scienze             |
 
-## Final Details
+## Dettagli Conclusivi
 
-It takes more than a set of characteristic scores and skill levels to
-create a fun character. By adding some final details at the end of
-character creation, you might find the experience of playing the
-character far more rewarding.
+Ci vuole più di un insieme di caratteristiche e abilità per creare un personaggio divertente. Aggiungendo alcuni dettagli al termine della creazione, potresti trovare l'esperienza di gioco più gratificante.
 
-### Name
+### Nome
 
-At the very least, every character needs a name, preferably one that
-fits the style of your gaming group and the Referee’s universe. Consider
-choosing a name based on actual “real world” names, on fictional
-characters or one you’ve simply made up entirely. If you are stuck, try
-choosing two of your favorite science fiction characters, and taking
-parts of each of their names to create a unique name for your character.
+Ogni personaggio ha bisogno di almeno un nome, magari uno adatto allo stile di gioco del tuo gruppo e all'universo dell'Arbitro. Considera di scegliere un nome basato su nomi reali o personaggi fittizzi o uno di tua completa invenzione. Se sei bloccato, prova a scegliere due personaggi tra i tuoi preferiti nella fantascienza e prendi parti di ciascuno dei loro nomi per creare qualcosa di unico per il tuo personaggio. 
 
-### Gender
+### Genere
 
-In most games, that means choosing either male or female, but some
-Referees or universes may offer other options. There’s nothing that says
-you have to play a character of your own gender. Many consider it a
-roleplaying challenge to try to portray a different gender in a
-realistic manner.
+Nella maggior parte dei giochi vuol dire scegliere tra maschio e femmina, ma alcuni Arbitri o universi possono offrire opzioni diverse. Non c'è nulla che ti obblighi a giocare un personaggio del tuo stesso genere. Molti considerano una sfida cercare di rappresentare un genere differente in modo realistico.
 
-### Appearance
+### Aspetto
 
-Choosing details such as your character’s height, weight, hair color,
-wardrobe preferences and so forth make it easier to describe your
-character, which helps everyone visualize your character in their minds
-as they play. Distinctive features often give your character a way of
-standing out.
+Scegliere dettagli come l'altezza, il peso, il colore dei capelli, le preferenze di abbigliamento e così via, rende più facile descrivere il tuo personaggio e aiuta tutti a immaginarlo nelle proprie menti mentre giocano. Caratteristiche distintive spesso danno al tuo personaggio spessore.
 
-### Personal Goals
+### Obiettivi Personali
 
-Time and experience has shown that characters with personal goals are
-far more rewarding to play in the long run. A personal goal should be
-something that takes more than a single adventure to resolve. Good
-examples might include learning the secrets of ancient civilizations,
-mastering the psionic arts, or securing political power. Personal goals
-often provide the Referee with an opportunity to develop story arcs
-based on that character, because the goals inform the Referee about what
-the character (and presumably the player) is interested in pursuing.
-It’s okay if the character’s goals change over time. In fact, that’s a
-great sign of character growth and development.
+Il tempo e l'esperienza hanno dimostrato che i personaggi con obiettivi personali sono molto più gratificanti da giocare nel lungo periodo. Un obiettivo personale dovrebbe essere qualcosa che non si rivolva in una singola avventura. Buoni esempi includono imparare i segreti di antiche civiltà, padroneggiare le arti Psioniche o aquisire potere politico. Gli obiettivi personali sono spesso forniscono all'Arbitro l'opportunità di sviluppare archi narrativi basati su quel personaggio, dato che gli obiettivi dicono all'Arbitro cosa il personaggio (e si presume il giocatore) sia interessato a perseguire. Va bene se gli obiettivi del personaggio cambiano nel tempo. Infatti, questo è un buon segno della crescita e dello sviluppo del personaggio.
 
 ## On Alien Species
 

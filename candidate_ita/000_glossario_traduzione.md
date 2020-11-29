@@ -116,7 +116,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Linguistics                         | Lingue                      |
 | Liaison                             | Collegamento                |
 | Mechanics                           | Meccanico                   |
-| Medicine                            | Medico                      |
+| Medicine                            | Medicina                    |
 | Navigation                          | Navigazione                 |
 | Piloting                            | Pilotare                    |
 | Recon                               | Ricognizione                |
