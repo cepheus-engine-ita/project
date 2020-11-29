@@ -24,17 +24,17 @@ Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro 
    Per il primo periodo nella tua prima carriera, acquisisci tutte le Abilità di Servizio a livello 0.
    Per il primo periodo nelle successive carriere, puoi scegliere qualsiasi altra Abilità di Servizio a livello 0.
 5. Sopravvivenza
-	Tira per la sopravvivenza, come indicati nella descrizione della carriera.
-	Se hai successo, vai al punto 8.
-	Se non hai successo, sei morto. In alternativa, gli eventi ti hanno condotto fuori da questa carriera. Tira sulla tabella degli Incidenti e vai al punto 10 (non ricevi benefici per questo periodo).
+    Tira per la sopravvivenza, come indicati nella descrizione della carriera.
+    Se hai successo, vai al punto 8.
+    Se non hai successo, sei morto. In alternativa, gli eventi ti hanno condotto fuori da questa carriera. Tira sulla tabella degli Incidenti e vai al punto 10 (non ricevi benefici per questo periodo).
 6. Gradi e Promozione
-	a. Inizi come un personaggio di Rango 0.    
+    a. Inizi come un personaggio di Rango 0.    
     b. Se la tua carriera offre una Prova su Gradi e sei di Rango 0, puoi scegliere di tirare per acquisire un Grado. Se hai successo, passi al Rango 1 della carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi abilità bonus dalla Tabella Ranghi per questa carriera.    
     c. Se una carriera offre una Prova su Promozione e se di Rango 1 o superiore, puoi scegliere di tirare per la Promozione. Se hai successo, il tuo Rango incrementa di uno nella carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi bonus di abilità dalla Tabella Ranghi per questa carriera. Puoi tirare per una Promozione nello stesso periodo in cui hai ricevuto un Grado.    
 7. Abilità e Addestramento
     a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della carattestica, applica la modifca al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello.     
     b. Se la tua carriera non prevede una Prova su Gradi o Promozioni, puoi tirare una seconda volta, selezionando una delle Tabelle Abilità o Addestramento prevista per questa carriera (che può essere la stessa tabella che hai già scelto per questo periodo oppure una differente).
-9. Invecchiamento
+8. Invecchiamento
     a. Aumenta la tua età di 4 anni.    
     b. Se il tuo personaggio ha 34 anni o di più, tira per l'Invecchiamento.
 9. Riarruolamento
@@ -71,7 +71,7 @@ In un universo di Cepheus Engine in cui i personaggi, che hanno uno Status Socia
 #### Tabella: Titoli Nobiliari secondo Status Sociale
 
 | Status Sociale | Titolo Nobiliare                    |
-|----------------|-------------------------------------|
+| -------------- | ----------------------------------- |
 | 10 (A)         | Lord (Lady)                         |
 | 11 (B)         | Cavaliere (Dama)                    |
 | 12 (C)         | Barone (Baronessa), Baronetto       |
@@ -101,7 +101,7 @@ Una volta che hai assegnato i Punteggi di Caratteristica, puoi determinare i Mod
 #### Tabella: Modificatori di Caratteristica secondo Gamma di Punteggio
 
 | Gamma di Punteggio | PseudoEsa | Modificatori di Caratteristica |
-|--------------------|-----------|--------------------------------|
+| ------------------ | --------- | ------------------------------ |
 | 0 fino a 2         | 0-2       | -2                             |
 | 3 fino a 5         | 3-5       | -1                             |
 | 6 fino a 8         | 6-8       | +0                             |
@@ -165,7 +165,7 @@ Il suo PPU sarà 687B9C. Se il personaggio ha in seguito testato la Psionia e ha
 Il seguente formato è usato per rappresentare le statistiche di base del personaggio nelle regole del Cepheus Engine.
 
 > \[Nome del Personaggio, con rango e titolo nobiliare, se pertinente\]    
-\[PPU del Personaggio\]    Età \[Età del Personaggio\]
+> \[PPU del Personaggio\]    Età \[Età del Personaggio\]
 > \[Carriera, con numero di periodi tra parentesi\]    Cr\[Fondi in dotazione del Personaggio\]
 > \[Lista delle Abilità, in ordine alfabetico, con il livello di abilità elencato dopo il nome dell'abilità\]
 > \[Tratti della Specie, se non umano; opzionale\]
@@ -176,7 +176,7 @@ Di seguito un esempio di una celebrità umana conosciuta in tutto il sistema che
 > Bruce Ayala    786A9A    Età 38
 > Intrattenitore (5 periodi)    Cr70,000
 > Atletica-1, Amministrazione-1, Avvocato-1, Corruzione-1, Baldoria-3, Computer-2,
-Gioco d'azzardo-0, Veicoli Grav-0, Intermediario-2, Lingue-0, Legge della Strada-0
+> Gioco d'azzardo-0, Veicoli Grav-0, Intermediario-2, Lingue-0, Legge della Strada-0
 > Passaggio Alto (x2)
 
 ## Abilità iniziali
@@ -190,7 +190,7 @@ Crescere sul tuo mondo d'origine ti ha dotato di abilità che dipendono dalla na
 #### Tabella: Abilità del Mondo d'origine secondo Descrizione Planetaria
 
 | Descrizione       | Abilità         |
-|-------------------|-----------------|
+| ----------------- | --------------- |
 | Senza Legge       | Armi da Fuoco-0 |
 | Legge Blanda      | Armi da Fuoco-0 |
 | Legge Moderata    | Armi da Fuoco-0 |
@@ -199,7 +199,7 @@ Crescere sul tuo mondo d'origine ti ha dotato di abilità che dipendono dalla na
 #### Tabella: Abilità del Mondo d'origine secondo Codice di Commercio
 
 | Trade Code          | Skill                |
-|---------------------|----------------------|
+| ------------------- | -------------------- |
 | Alta Tecnologia     | Computer-0           |
 | Agricolo            | Animali-0            |
 | Asteroide           | G-Zero-0             |
@@ -264,272 +264,158 @@ La Prova di Qualifica determina se puoi entrare con successo nella carriera pres
 
 #### Tabella: La Coscrizione
 
-| Tiro | Carriera di Coscrizione                        |
-|------|------------------------------------------------|
-| 1    | Corpo di Difesa Aerospaziale (Areonautica Planetaria) |
-| 2    | Marine                                         |
-| 3    | Corpo di Difesa Marittina (Marina Planetaria)       |
-| 4    | Marina                                           |
-| 5    | Esploratori                                          |
-| 6    | Corpo di Difesa Terrestre (Esercito Planetario)        |
-## Periodi di Servizio
+| Tiro                   | Carriera di Coscrizione                               |
+| ---------------------- | ----------------------------------------------------- |
+| 1                      | Corpo di Difesa Aerospaziale (Areonautica Planetaria) |
+| 2                      | Marine                                                |
+| 3                      | Corpo di Difesa Marittina (Marina Planetaria)         |
+| 4                      | Marina                                                |
+| 5                      | Esploratori                                           |
+| 6                      | Corpo di Difesa Terrestre (Esercito Planetario)       |
+| ## Periodi di Servizio |                                                       |
 
-Each step through the cycle of resolving your career path, you will go
-through a term of service that lasts approximately four years long. This
-adds four years to the character’s age. Each time the character
-reenlists, or enters into a new career, it is for another term, or four
-additional years of service.
+Per ogni passo del tuo percorso di carriera, affronterai un periodo di servizio che dura approssimativamente quattro anni. Questi si aggiungono all'età del personaggio. Ogni vola che il personaggio si arruola nuovamente o che entra in una nuova carriera, lo fa per un altro periodo, ovvero quattro anni di servizio in più.
 
 ## Addestramento di Base
 
-On the first term of a new career, you gain Basic Training as you learn
-the basics for your chosen career. For your first career only, you get
-all the skills listed in the Service Skills table at Level 0 as your
-basic training. For any subsequent careers, you may pick any one skill
-listed in the Service Skills table at Level 0 as your basic training.
+Durante il primo periodo di una nuova carriera, concludi l'Addestramento di Base mentre impari le basi della tua carriera prescelta. Solo per la tua prima carriera, ottieni come addestramento di base tutte le abilità elencate nella tabella Abilità di Servizio al Livello 0. Per ciascuna delle carriere successive, puoi scegliere solo una delle abilità elencate nella tabella Abilità di Servizio a Livello 0.
 
-## Survival
+## Sopravvivenza
 
-Each career has a survival roll. If you fail this roll, your character
-is dead, and you must create a new one. A natural 2 is always a failure.
+Ogni carriera prevede un tiro di sopravvivenza. Se fallisci questo tiro, il tuo personaggio è morto e devi crearne un nuovo. Un 2 naturale è sempre un fallimento.
 
-**Optional Rule**: With the Referee’s approval, you can keep the
-character that fails a survival roll and roll on the Survival Mishaps
-table instead. This mishap is always enough to force you to leave the
-service after half a term, or two years of service. You lose the benefit
-roll for the current term only.
+**Regola Opzionale**: Con l'approvazione dell'Arbitro, puoi tenere il personaggio che fallisce un tiro di sopravvivenza, tirando sulla tabella Incidenti di Sopravvivenza. Questo incidente è sempre sufficiente per forzarti a lasciare il servizio a metà periodo, ovvero dopo due anni. Perdi qualsiasi tiro di beneficio solo per il periodo corrente.
 
-#### Table: Survival Mishaps
+#### Tabella: Incidenti di Sopravvivenza
 
-| 1D6 | Mishap                                                                                                                                               |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Injured in action. (This is the same as a result of 2 on the Injury table.) Alternatively, roll twice on the Injury table and take the lower result. |
-| 2   | Honorably discharged from the service.                                                                                                               |
-| 3   | Honorably discharged from the service after a long legal battle. Legal issues create a debt of Cr10,000.                                             |
-| 4   | Dishonorably discharged from the service. Lose all benefits.                                                                                         |
-| 5   | Dishonorably discharged from the service after serving an extra 4 years in prison for a crime. Lose all benefits.                                    |
-| 6   | Medically discharged from the service. Roll on the Injury table.                                                                                     |
+| 1D6                   | Mishap                                                                                                                                                                                                                              |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                     | Ferito in Azione. (Questo vale come un risultato di 2 sulla tabella degli Infortuni.) In alternativa, tira due volte sulla tabella degli Infortuni e tieni il risultato più basso.                                                  |
+| 2                     | Congedato con onore dal servizio                                                                                                                                                                                                    |
+| 3                     | Congedato con onore dal servizio dopo una lunga battaglia legale. Le vicissitudini legali ti hanno indebitato per Cr10.000.Honorably discharged from the service after a long legal battle. Legal issues create a debt of Cr10,000. |
+| 4                     | Congedato con disonore dal servizio. Perdi tutti i benefici.                                                                                                                                                                        |
+| 5                     | Congedato con disonore dal servizio dopo aver trascorso altri 4 anni in prigione per crimini. Perdi tutti i benefici.                                                                                                               |
+| 6                     | Congedato per motivi di salute dal servizio. Tira sulla tabella degli Infortuni                                                                                                                                                     |
+| ## Gradi e Promozione |                                                                                                                                                                                                                                     |
 
-## Gradi e Promozione
+Nelle carriere militari, una Prova di assegnazione del Grado rappresenta un'opportunità di unirsi ai Ranghi degli ufficiali incaricati. Nelle carriere non militari, la Prova di assegnazione del Grado rappresenta l'opportunità di ottenere una posizione all'interno della gerarchia tipica della carriera prescelta. Alcune carriere non hanno una gerarchia prestabilita e quindi non hanno la Prova di assegnazione del Grado. Un personaggio che guadagna un Grado diventa ufficiale di Rango 1 in quella carriera e da quel momento usa la tabella Ranghi da Ufficiale. Inoltre, ottieni un tiro aggiuntivo su una qualsiasi delle Tabelle Abilità e Addestramento per questa carriera. Un personaggio può tentare un tiro di assegnazione del Grado una sola volta per periodo e sottoporsi alla prova è facoltativo. Un Coscritto non può tentare una Prova di assegnazione del Grado durante il primo periodo di servizio.
 
-Within military careers, a Commission check represents an opportunity to
-join the ranks of the commissioned officers. In non-military careers,
-the Commission check represents an opportunity to gain a position within
-the hierarchy common to your chosen career. Some careers do not have an
-established hierarchy, as such, and so do not offer Commission checks. A
-character that succeeds at a Commission roll becomes a Rank 1 officer in
-that career, and uses the officer Rank table from then on. In addition,
-you gain an extra roll on any of the Skills and Training Tables for this
-career. A character may attempt a Commission roll once per term, and
-trying for commission is optional. A draftee may not attempt a
-Commission check in the first term of service.
+Ogni carriera che ha una Prova di assegnazione del Grado ha anche un tiro di Promozione, che rappresenta la capacità del tuo personaggio di avanzare nei ranghi della gerarchia tipica della carriera prescelta. Se ha un Rango 1 o superiore, puoi tentare un tiro di Promozione ad ogni periodo. Se hai successo, passi al rango superiore e ottieni un tiro ulteriore su una qualsiasi Tabella Abilità e Addestramento per questa carriera. Inoltre, ottieni i benefici elencati per il tuo nuovo rango. Puoi tentare la promozione solo una volta per periodo e puoi farlo nello stesso periodo in cui ha guadagnato un Grado.
 
-Each career that has a commission check also has an Advancement roll,
-representing your character’s ability to advance with the ranks of your
-chosen career’s hierarchy. If you are Rank 1 or higher, you may attempt
-an Advancement roll each term. If you are successful, then you move to
-the next rank and gain an extra roll on any of the Skills and Training
-Tables for this career. You also get any benefits listed for your new
-rank. You may only attempt to advance once per term, and you may attempt
-to advance in the same term in which you are commissioned.
-
-Commissions and advancement are not available in the Athlete, Barbarian,
-Belter, Drifter, Entertainer, Hunter and Scout careers.
+Gradi e Promozioni non sono previsti per Atleti, Barbari, Cinturiani, Raminghi, Intrattenitori, Cacciatori ed Esploratori.
 
 ## Abilità e Addestramento
 
-Each career has skill tables associated with it – Personal Development,
-Service Skills, Specialist Skills and Advanced Education. In each term
-you spend in a career, pick one of these tables and roll 1D6 to see
-which skill you increase. You may only roll on the Advanced Education
-table if your character has Education 8+.
+Ogni carriera ha tabelle abilità associate ad essa - Sviluppo Personale, Abilità di Servizio, Abilità Specialistiche ed Educazione Avanzata. In ciascun periodo trascorso in una carriera, scegli una di queste tabelle e tira 1D6 per vedere quale abilità puoi incrementare. Puoi tirare sulla tabella Educazione Avanzata solamente se il personaggio ha Educazione 8+.
 
-Because the Athlete, Barbarian, Belter, Drifter, Entertainer, Hunter and
-Scout careers do not have commission or advancement checks, characters
-get to make two rolls for skills instead of one every term.
+Siccome Atleti, Barbari, Cinturiani, Raminghi, Intratternitori, Cacciatori ed Esploratori non hanno prove di assegnazione del Grado o di Promozione, i personaggi ottengono, per ciascun periodo, due tiri per le abilità invece che solo un tiro.
 
 ### Abilità a Cascata
 
-Some skills are "cascade skills" meaning that they have specializations
-– specialized forms of that skill. When a cascade skill is selected, the
-character must immediately decide on a specialization. Each cascade
-skill will list one or more specializations that may be chosen from.
-Upon taking a level in a cascade skill specialization, all other
-specializations of that skill without skill levels are treated as
-Zero-level skills. A character may have multiple specializations in a
-skill, such as Natural Weapons-2 and Slashing Weapons-1, under Melee
-Combat.
+Alcune abilità sono "abilità a cascata", ovvero hanno forme specializzate di quell'abilità. Quando si ottiene un'abilità a cascata, il personaggio deve immediatamente scegliere una specializzazione. Ogni abilità a cascata indica una o più specializzazioni che possono essere scelte. Una volta che un livello è ottenuto nella specializzazione dell'abilità a cascata, tutte le altre specializzazioni di quell'abilità sono considerate abilità di Livello 0. Un personaggio può avere specializzazioni in un'abilità, per esempio Armi Naturali-2 e Armi da Taglio-1, sotto l'abilità Mischia.
 
-## Infortuni
+## Ferite
 
-Characters that are wounded in combat or accidents during character
-creation must roll on the Injury table.
+I personaggi feriti in combattimento o in incidenti durante la creazione, devono tirare sulla Tabella delle Ferite.
 
-#### Table: Injury Table
+#### Tabella: Tabella delle Ferite
 
-| 1D6 | Injury                                                                                                                           |
-| --- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Nearly killed. Reduce one physical characteristic by 1D6, reduce both other physical characteristics by 2 (or one of them by 4). |
-| 2   | Severely injured. Reduce one physical characteristic by 1D6.                                                                     |
-| 3   | Missing eye or limb. Reduce Strength or Dexterity by 2.                                                                          |
-| 4   | Scarred. You are scarred and injured. Reduce any one physical characteristic by 2.                                               |
-| 5   | Injured. Reduce any physical characteristic by 1.                                                                                |
-| 6   | Lightly injured. No permanent effect.                                                                                            |
+| 1D6 | Infortuni                                                                                                                      |
+|:---:| ------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Quasi ucciso. Riduci una caratteristica fisica di 1D6, riduci le altre due caratteristiche fische di 2 (o una delle tre di 4). |
+| 2   | Gravemente ferito. Riduci una caratteristica fisica di 1D6.                                                                    |
+| 3   | Perdi un'occhio o un'estremità. Riduci la Forza o la Destrezza di 2.                                                           |
+| 4   | Sfregiato. Se sfregiato e ferito. RIduci una qualsiasi caratteristica di 2.                                                    |
+| 5   | Ferito. Riduci una qualsiasi caratteristica di 1.                                                                              |
+| 6   | Leggermente ferito. Nessun effetto permanente.                                                                                 |
 
-### Injury Crisis
+### Crisi da Ferita
 
-If any characteristic is reduced to 0, then the character suffers an
-injury crisis. The character dies unless he can pay 1D6x10,000 Credits
-for medical care, which will bring any characteristics back up to 1. The
-character automatically fails any Qualification checks from now on – he
-must either continue in the career he is in or become a Drifter if he
-wishes to take any more terms.
+Se una qualsiasi caratteristica è ridotta a 0, il personaggio subisce una crisi da ferita. Il personaggio muore, a meno che possa pagare 1d6x10.000 crediti per le cure mediche,
+che riporteranno qualsiasi caratteristica a 1. Il personaggio fallisce automaticamente qualsiasi tiro di Qualificazione da ora in poi e deve continuare nella carriera in cui si trova, oppure diventare un Ramingo se desidera prendere ulteriori periodi.
 
-### Medical Care
+### Cure Mediche
 
-If your character has been injured, then medical care may be able to
-undo the effects of damage. The restoration of a lost characteristic
-costs Cr5,000 per point.
+Se il vostro personaggio è stato ferito, le cure
+mediche potrebbero essere in grado di annullare gli effetti del
+danno. Il recupero di una caratteristica perduta costa 5.000 Crediti per punto.
 
-If your character was injured in the service of a patron or
-organization, then a portion of his medical care may be paid for by that
-patron. Roll 2D6 on the table below, adding your Rank as a DM. The
-result is how much of his medical care is paid for by his employer.
+Se il tuo personaggio è stato ferito al servizio di un patrono o di un’organizzazione, una parte delle sue cure mediche potrebbe essere pagato da quel patrono. Tira 2d6 sulla seguente tabella, sommando il tuo Rango come MD. Il risultato è la parte delle cure mediche pagata dal datore di lavoro.
 
-#### Table: Medical Bills
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Career</th>
-<th>Roll of 4+</th>
-<th>Roll of 8+</th>
-<th>Roll of 12+</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Aerospace System Defense, Marine, Maritime System Defense, Navy,</p>
-<p>Scout, Surface System Defense</p></td>
-<td>75%</td>
-<td>100%</td>
-<td>100%</td>
-</tr>
-<tr class="even">
-<td><p>Agent, Athlete, Bureaucrat, Diplomat, Entertainer, Hunter, Mercenary,</p>
-<p>Merchant, Noble, Physician, Pirate, Scientist, Technician</p></td>
-<td>50%</td>
-<td>75%</td>
-<td>100%</td>
-</tr>
-<tr class="odd">
-<td>Barbarian, Belter, Colonist, Drifter, Rogue</td>
-<td>0%</td>
-<td>50%</td>
-<td>75%</td>
-</tr>
-</tbody>
-</table>
 
-### Medical Debt
+#### Tabella: Costi Medici
 
-During finishing touches, you must pay any outstanding costs from
-medical care or anagathic drugs out of your Benefits before anything
-else.
+| Carriera                                                                                                                              | Tiro di 4+ | Tiro di 8+ | Tiro di 12+ |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----------- |
+| Corpo di Difesa Areospaziale, Marine, Sistema di Difesa Marittina, Marina, Esploratore, Sistema di Difesa Terrestre                   | 75%        | 100%       | 100%        |
+| Agente, Atleta, Burocrate, Diplomatico, Intrattenitore, Cacciatore, Mercenario, Mercante, Nobile, Medico, Pirata, Scienziato, Tecnico | 50%        | 75%        | 100%        |
+| Barbaro, Cinturiano, Colono, Ramingo, Malvivente                                                                                      | 0%         | 50%        | 75%         |
 
-## Aging
+### Debito Medico
 
-The effects of aging begin when a character reaches 34 years of age. At
-the end of the fourth term, and at the end of every term thereafter, the
-character must roll 2D6 on the Aging Table. Apply the character’s total
-number of terms as a negative Dice Modifier on this table.
+Durante i ritocchi finali, devi pagare qualsiasi costo rimanente per le cure mediche o le droghe anagatiche con i tuoi Benefici, prima di qualsiasi altra cosa.
 
-#### Table: Aging Table
+## Invecchiamento
 
-| 2D6 | Effects of Aging                                                                  |
-| --- | --------------------------------------------------------------------------------- |
-| –6  | Reduce three physical characteristics by 2, reduce one mental characteristic by 1 |
-| –5  | Reduce three physical characteristics by 2.                                       |
-| –4  | Reduce two physical characteristics by 2, reduce one physical characteristic by 1 |
-| –3  | Reduce one physical characteristic by 2, reduce two physical characteristic by 1  |
-| –2  | Reduce three physical characteristics by 1                                        |
-| –1  | Reduce two physical characteristics by 1                                          |
-| 0   | Reduce one physical characteristic by 1                                           |
-| 1+  | No effect                                                                         |
+Gli effetti dell’invecchiamento cominciano quando un personaggio raggiunge i 34 anni d’età (il quarto periodo di carriera). Alla fine del quarto periodo, e alla fine di ogni periodo seguente, il personaggio deve tirare 2d6 sulla Tabella d’Invecchiamento. Applica il totale dei periodi del personaggio come Modificatore ai Dadi negativo su
+questa tabella.
 
-### Aging Crisis
+#### Tabella: Tabella dell'Invecchiamento
 
-If any characteristic is reduced to 0 by aging, then the character
-suffers an aging crisis. The character dies unless he can pay 1D6x10,000
-Credits for medical care, which will bring any characteristics back up
-to 1. The character automatically fails any Qualification checks from
-now on – he must either continue in the career he is in or become a
-Drifter if he wishes to take any more terms.
+| 2D6 | Effetti dell’Invecchiamento                                                          |
+| --- | ------------------------------------------------------------------------------------ |
+| –6  | Riducete tre caratteristiche fisiche di 2,
+riducete una caratteristica mentale di 1. |
+| –5  | Riducete tre caratteristiche fisiche di 2                                            |
+| –4  | Riducete due caratteristiche fisiche di 2,
+riducete una caratteristica fisica di 1.  |
+| –3  | Riducete una caratteristica fisica di 2,
+riducete due caratteristiche fisiche di 1   |
+| –2  | Riducete tre caratteristiche fisiche di 1.                                           |
+| –1  | Riducete due caratteristiche fisiche di 1.                                           |
+| 0   | Riducete una caratteristica fisica di 1.                                             |
+| 1+  | Nessun effetto.                                                                      |
 
-### Anagathics
+### Crisi d’Invecchiamento
 
-While using anagathic drugs, the character effectively does not age –
-add the number of terms since the character started taking anagathics as
-a positive Dice Modifier to rolls on the aging table. If a character
-stops taking anagathics, then he must roll immediately on the aging
-table to simulate the shock that comes from his system beginning to age
-again.
+Se una qualsiasi caratteristica è ridotta a 0 dall’invecchiamento, il personaggio soffre una crisi d’invecchiamento. Il personaggio muore, a meno che possa pagare 1d6 x 10.000 crediti per le cure mediche, che riportano la caratteristica a 1. Il personaggio
+fallisce automaticamente qualsiasi tiro di Qualificazione da adesso in poi – deve o continuare la carriera in cui si trova, o diventare un Ramingo se desidera svolgere qualsiasi altro periodo.
 
-The risk of trying to obtain a reliable supply and the disruption to the
-character’s biochemistry means the character must make a second Survival
-check if he passes his first Survival check in a term. If either check
-is failed, the character suffers a mishap and is ejected from the
-career.
+### Anagatici:
 
-The drugs cost 1D6x2,500 Credits for each term that the character uses
-the drugs. These costs are paid out of the character’s eventual
-mustering-out cash benefits. If the character cannot pay these bills, he
-goes into debt.
+Quando usa droghe anagatiche, il personaggio in effetti non invecchia – somma il numero di periodi da quando il personaggio ha cominciato a prendere gli anagatici come Modificatore ai Dadi positivo ai tiri sulla tabella dell’invecchiamento.
+Se un personaggio smette di prendere anagatici, deve tirare immediatamente sulla tabella dell’invecchiamento per simulare lo shock derivato dal suo sistema che ricomincia ad invecchiare.
 
-## Reenlistment and Retirement
+Il rischio di ottenere un rifornimento affidabile e dello sconvolgimento della sua biochimica, il personaggio deve effettuare un secondo tiro di Sopravvivenza se supera il primo tiro di Sopravvivenza nel periodo. Se uno dei due tiri fallisce, il personaggio subisce un incidente ed è espulso dalla carriera.
 
-At the end of each term, the character must decide that they wish to
-continue on their career path or if they wish to muster out. If
-continuation is desired, the character must make a successful
-Reenlistment check as listed for their current profession or service. If
-the character rolls a natural 12, they cannot leave their current career
-and must continue for another term. If the check is not successful, then
-they cannot reenlist and the character must leave their current career.
+Le droghe costano 1d6x2.500 Crediti per ogni termine durante il quale il personaggio usa la droga. Questi costi sono pagati con gli eventuali benefici di congedo in denaro del personaggio. Se il personaggio non può pagare questi costi, si indebita.
 
-A character that has served 7 or more terms in character creation must
-retire and cannot undertake any more prior experience, unless they roll
-a natural 12 during Reenlistment and must serve another term of service.
+## Riarruolamento e Pensione
 
-**Optional Rule**: The Referee may want to change the maximum number of
-terms spent in character creation from 7 to something else. For example,
-the Referee may feel that characters built up to a maximum of 3 or even
-4 terms are in the prime of their life, but not so experienced that they
-won’t take up adventuring opportunities as they are presented.
+Al termine di ciascun periodo, il personaggio deve decidere se desideri continuare sul percorso della propria carriera o se desidera congedarsi. Se desidera continuare, il personaggio deve superare una Prova di Riarruolamento come definito nella loro attuale professione o servizio. Se il personaggio tira un 12 naturale, non possono lasciare la loro carriera attuale e devono continuare per un altro periodo. Se la prova non ha successo, non può riarruolarsi  e il personaggio deve lasciare l'attuale carriera.
 
-**Optional Rule**: In some universes, the Referee may elect to totally
-remove the maximum number of terms spent in character creation.
+Un personaggio che ha servito per 7 o più periodi durante la creazione deve ritirarsi e non può più proseguire in altre carriere a meno che non abbia tirato un 12 naturale durante il Riarruolamento e debba servire per un altro periodo di servizio.
 
-A character who has served 5 or more terms in a single service receives
-a yearly retirement pension, even if he or she later becomes an
-adventurer.
 
-#### Table: Retirement Pay by Terms Served
 
-| Terms | Annual Retirement Pay      |
-| ----- | -------------------------- |
-| 5     | Cr10,000                   |
-| 6     | Cr12,000                   |
-| 7     | Cr14,000                   |
-| 8     | Cr16,000                   |
-| 9+    | +Cr2,000 per term beyond 8 |
+**Regola Opzionale**: L'Arbitro potrebbe decidere di modificare il numero massimo di periodi dallo standard di 7 a un altro. Per esempio, l'Arbitro potrebbe valutare che un personaggio costruito con un massimo di 3 o 4 periodi sia nel pieno della propria vita, ma non abbia un'esperienza tale per cui non colga l'opportunità di avventurarsi, se si presenta l'occasione.
 
-## Mustering Out Benefits
+**Regola Opzionale**: In alcuni universi, l'Arbitro potrebbe decidere di rimuovere del tutto il numero di periodi massimo per la creazione dei personaggi.
+
+Un personaggio che ha servito per 5 o più periodi in un solo servizio, riceve una Pensione annuale, anche se in seguito diventa un avventuriero.
+
+#### Tabella: Pensione per Periodi di Servizio
+
+| Periodi | Pensione                       |
+| ------- | ------------------------------ |
+| 5       | Cr10,000                       |
+| 6       | Cr12,000                       |
+| 7       | Cr14,000                       |
+| 8       | Cr16,000                       |
+| 9+      | +Cr2,000 per periodo oltre l'8 |
+
+## Benefici del Congedo
 
 Characters who end their careers receive one benefit per term served in
 which they did not lose benefits. An additional benefit is gained if the
