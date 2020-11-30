@@ -362,7 +362,7 @@ questa tabella.
 #### Tabella: Tabella dell'Invecchiamento
 
 | 2D6 | Effetti dell’Invecchiamento                                                         |
-|-----|-------------------------------------------------------------------------------------|
+| --- | ----------------------------------------------------------------------------------- |
 | –6  | Riducete tre caratteristiche fisiche di 2,riducete una caratteristica mentale di 1. |
 | –5  | Riducete tre caratteristiche fisiche di 2                                           |
 | –4  | Riducete due caratteristiche fisiche di 2,riducete una caratteristica fisica di 1.  |
@@ -401,7 +401,7 @@ Un personaggio che ha servito per 5 o più periodi in un solo servizio, riceve u
 #### Tabella: Pensione per Periodi di Servizio
 
 | Periodi | Pensione                       |
-|---------|--------------------------------|
+| ------- | ------------------------------ |
 | 5       | Cr10,000                       |
 | 6       | Cr12,000                       |
 | 7       | Cr14,000                       |
@@ -434,7 +434,7 @@ I Benefici Materiali possono essere alternazioni della caratteristiche o Quote d
 - **Arma**: Il personaggio lascia il servizio con un'arma adeguata (pistola o lama). Una volta che l'arma è ottenuta come beneficio, riceverlo altre volte può far ottenere abilità in quell'arma. Una persona è sempre libera di prendere altri esemplari dell'arma anziché livelli di abilità, se lo desidera.
 
 | Carriera            | Agente                             | Atleta                    | Barbaro         | Burocrate                        | Cacciatore          | Cinturiano        |
-|---------------------|------------------------------------|---------------------------|-----------------|----------------------------------|---------------------|-------------------|
+| ------------------- | ---------------------------------- | ------------------------- | --------------- | -------------------------------- | ------------------- | ----------------- |
 | Qualifiche          | Soc 6+                             | Res 8+                    | Res 5+          | Soc 6+                           | Res 5+              | Int 4+            |
 | Sopravvivenza       | Int 6+                             | Dex 5+                    | For 6+          | Edu 4+                           | For 8+              | Dex 7+            |
 | Grado               | Edu 7+                             | --                        | --              | Soc 5+                           | --                  | --                |
@@ -466,7 +466,7 @@ I Benefici Materiali possono essere alternazioni della caratteristiche o Quote d
 | 7                   | 50000                              | 100000                    | 10000           | 50000                            | 100000              | 50000             |
 
 | Carriera                | Agente              | Atleta              | Barbaro             | Burocrate           | Cacciatore          | Cinturiano          |
-|-------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
 | 1                       | +1 Dex              | +1 Dex              | +1 For              | +1 Dex              | +1 For              | +1 For              |
 | 2                       | +1 Res              | +1 Int              | +1 Dex              | +1 Res              | +1 Dex              | +1 Dex              |
@@ -497,7 +497,7 @@ I Benefici Materiali possono essere alternazioni della caratteristiche o Quote d
 | 6                       | Comando             | Scienze             | Intermediario       | Amministrazione     | Animali             | Tattica             |
 
 | Carriera            | Colono                                  | Difesa Aerospaziale          | Difesa Marittima                 | Difesa Terrestre            | Diplomatico                            | Esploratore               |
-|---------------------|-----------------------------------------|------------------------------|----------------------------------|-----------------------------|----------------------------------------|---------------------------|
+| ------------------- | --------------------------------------- | ---------------------------- | -------------------------------- | --------------------------- | -------------------------------------- | ------------------------- |
 | Qualifiche          | Res 5+                                  | Res 5+                       | Res 5+                           | Res 5+                      | Soc 6+                                 | Int 6+                    |
 | Sopravvivenza       | Res 6+                                  | Dex 5+                       | Res 5+                           | Edu 5+                      | Edu 5+                                 | End 7+                    |
 | Grado               | Int 7+                                  | Edu 6+                       | Int 6+                           | Res 6+                      | Int 7+                                 | --                        |
@@ -529,7 +529,7 @@ I Benefici Materiali possono essere alternazioni della caratteristiche o Quote d
 | 7                   | 50000                                   | 50000                        | 50000                            | 50000                       | 100000                                 | 50000                     |
 
 | Carriera                | Colono              | Difesa Aerospaziale | Difesa Marittina    | Difesa Terrestre    | Diplomatico         | Esploratore         |
-|-------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
 | 1                       | +1 For              | +1 For              | +1 For              | +1 For              | +1 Dex              | +1 For              |
 | 2                       | +1 Dex              | +1 Dex              | +1 Dex              | +1 Dex              | +1 Res              | +1 Dex              |
@@ -560,7 +560,7 @@ I Benefici Materiali possono essere alternazioni della caratteristiche o Quote d
 | 6                       | Animali             | Tattica             | Tattica             | Tattica             | Comando             | Tattica             |
 
 | Carriera            | Intrattenitore            | Malvivente                            | Marina                           | Marine                    | Mercante                    | Medico                               |
-|---------------------|---------------------------|---------------------------------------|----------------------------------|---------------------------|-----------------------------|--------------------------------------|
+| ------------------- | ------------------------- | ------------------------------------- | -------------------------------- | ------------------------- | --------------------------- | ------------------------------------ |
 | Qualifiche          | Soc 8+                    | Dex 5+                                | Int 6+                           | Int 6+                    | Int 4+                      | Edu 6+                               |
 | Sopravvivenza       | Int 4+                    | Dex 4+                                | Int 5+                           | Res 6+                    | Int 5+                      | Int 4+                               |
 | Grado               | --                        | For 6+                                | Soc 7+                           | Edu 6+                    | Int 5+                      | Int 5+                               |
@@ -592,7 +592,7 @@ I Benefici Materiali possono essere alternazioni della caratteristiche o Quote d
 | 7                   | 100000                    | 50000                                 | 50000                            | 50000                     | 100000                      | 100000                               |
 
 | Carriera                | Intrattenitore      | Malvivente          | Marina              | Marine              | Mercante            | Medico              |
-|-------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
 | 1                       | +1 Dex              | +1 For              | +1 For              | +1 For              | +1 For              | +1 For              |
 | 2                       | +1 Int              | +1 Dex              | +1 Dex              | +1 Dex              | +1 Dex              | +1 Dex              |
@@ -623,7 +623,7 @@ I Benefici Materiali possono essere alternazioni della caratteristiche o Quote d
 | 6                       | Scienze             | Tattica             | Tattica             | Tattica             | Tattica             | Scienze             |
 
 | Carriera            | Mercenario                  | Nobile                    | Pirata                     | Ramingo         | Scienziato                 | Tecnico                         |
-|---------------------|-----------------------------|---------------------------|----------------------------|-----------------|----------------------------|---------------------------------|
+| ------------------- | --------------------------- | ------------------------- | -------------------------- | --------------- | -------------------------- | ------------------------------- |
 | Qualifiche          | Int 4+                      | Soc 8+                    | Dex 5+                     | Dex 5+          | Edu 6+                     | Edu 6+                          |
 | Sopravvivenza       | Res 6+                      | Soc 4+                    | Dex 6+                     | Res 5+          | Edu 5+                     | Dex 4+                          |
 | Grado               | Int 7+                      | Edu 5+                    | For 7+                     | --              | Int 7+                     | Edu 5+                          |
@@ -655,7 +655,7 @@ I Benefici Materiali possono essere alternazioni della caratteristiche o Quote d
 | 7                   | 100000                      | 100000                    | 100000                     | 10000           | 50000                      | 50000                           |
 
 | Carriera                | Mercenario          | Nobile              | Pirata              | Ramingo             | Scienziato          | Tecnico             |
-|-------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
 | 1                       | +1 For              | +1 Dex              | +1 For              | +1 For              | +1 For              | +1 For              |
 | 2                       | +1 Dex              | +1 Int              | +1 Dex              | +1 Dex              | +1 Dex              | +1 Dex              |
@@ -705,298 +705,90 @@ Scegliere dettagli come l'altezza, il peso, il colore dei capelli, le preferenze
 
 Il tempo e l'esperienza hanno dimostrato che i personaggi con obiettivi personali sono molto più gratificanti da giocare nel lungo periodo. Un obiettivo personale dovrebbe essere qualcosa che non si rivolva in una singola avventura. Buoni esempi includono imparare i segreti di antiche civiltà, padroneggiare le arti Psioniche o aquisire potere politico. Gli obiettivi personali sono spesso forniscono all'Arbitro l'opportunità di sviluppare archi narrativi basati su quel personaggio, dato che gli obiettivi dicono all'Arbitro cosa il personaggio (e si presume il giocatore) sia interessato a perseguire. Va bene se gli obiettivi del personaggio cambiano nel tempo. Infatti, questo è un buon segno della crescita e dello sviluppo del personaggio.
 
-## On Alien Species
+## Alieni
 
-Humans are assumed to be the standard species defined in these rules,
-and thus have no special abilities or disadvantages to distinguish
-themselves as a species from the basic rules assumptions for characters.
+Si presume che gli umani siano la specie standard di riferimento per queste regole e che quindi non abbiamo particolari abilità o svantaggi che li rendano distintivi a livello di specie nell'economia delle regole per i personaggi.
 
-The definition of alien species lies in the realm of the Referee’s
-powers of creativity, as befits the nature of their campaign and
-universe. This System Reference Document offers the following examples
-of alien species in an effort to demonstrate common archetypes found in
-many forms of classic science fiction. Some universes only have humans,
-while others have hundreds of alien species that characters can
-encounter. Your Referee is the final arbiter on whether these or any
-other alien species are present in your campaign.
+La definizione di specie aliena ricade nell'ambito creativo dell'Arbitro, dato che può beneficiare la natura della campagna e dell'universo. Questo SRD offre i seguenti esempi di specie aliene nel tentativo di dimostrare archetipi comuni rinvenibili in molte forma di fantascienza classica. Alcuni universo sono abitati solo da umani, mentre altri sono abitati da centinaia di specie aliene che i personaggi possono incontrare. Il tuo Arbitro ha la parola definitiva sulla presenza di altre specie aliene nella tua campagna.
 
-More specific information on the creation of alien species can be found
-in ***Flynn's Guide to Alien Creation***, a supplement published by
-Samardan Press.
+Maggiori informazioni di dettaglio sulla creazione di alieni possono essere trovati nella ***Flynn's Guide to Alien Creation***, un supplemento pubblicato da Samardan Press.
 
-### Avians
+### Avicoli
 
-Descended from Omnivore/Hunter flyers, Avians are a small winged
-sentient race capable of flight on smaller worlds. Avians are a
-homeothermic, bi-gendered species averaging 1.2 meters in height with a
-wingspan over 2.5 meters long from wingtip to wingtip, and have a
-typical mass of around 35 kilograms. The natural aptitude of the Avian
-race toward exceptional spatial awareness, both conceptually and
-physically, immediately lends itself to Piloting and Navigation.
+Discendenti di uccelli Onnivori/Rapaci, gli Avicoli sono una piccola razza di senzienti alati capaci di volare su piccoli mondi. Gli Avicoli sono una specie omeotermica e bisessuata, alta mediamente 1,2 metri con un'apertura alare di oltre 2,5 metri e hanno un peso di circa 35 chilogrammi. L'attitudine naturale degli Avicoli verso una consapevolezza eccezionale degli spazi, sia concettuale che fisico, li predispone verso Pilotaggio e Navigazione.
 
-#### Game Mechanics
+#### Meccaniche di Gioco
 
-Avians have Weak Strength (1D6), Notable Dexterity (3D6) and Weak
-Endurance (1D6). Avians also have the Flyer (9m), Low Gravity
-Adaptation, Natural Pilot, Slow Speed (4.5m) and Small traits. This
-winged race reaches maturity at 22, starts aging at 46, stands
-105+(2D6x2) centimeters tall, and have a mass of 20+(2D6x2) kilograms.
+Gli Avicoli hanno debole Forza (1D6), notevole Destrezza (3D6) e debole Resistenza (1D6). Gli Avicoli hanno anche i Tratti: Volante (9m), Adattamento alla Bassa Gravità, Pilota Nato, Bassa Velocità (4,5 m) e Piccolo. Questa specie alata raggiunge la maturarità a 22 anni, inizia a invecchiare a 46 anni, è alta 105+(2D6x2) centimetri e hanno un peso di 20+(2D6x2) chili.
 
-### Espers
+### Esper
 
-Espers are humans or near-human humanoids that have embraced the
-commonplace usage of psionics. Espers tend to be tall and slender in
-build, and their aloof and detached nature makes them inscrutable to
-other humans not of their culture. As a race, they have a tendency to be
-more mystical or philosophical than other species.
+Gli Esper sono umani o umanoidi che hanno abbracciato l'ampio uso della psionica. Gli esper tengono a essere alti e snelli, e la loro natura calma e distaccata li rende imperscrutabili agli umani di altre culture. Come razza, hanno la tendenza a essere più mistici e filosofici di altre specie.
 
-#### Game Mechanics
+#### Meccaniche di Gioco
 
-Espers follow the standard rules for human characters. In addition,
-Espers possess the Psionic trait.
+Gli Esper seguono le regole standard per la creazione di personaggi umani. In aggiunta, gli Esper possiedono il tratto Psionico.
 
-### Insectans
+### Insettani
 
-Descended from Carnivore/Chaser stock, the Insectans are an insectoid
-race that is hard for most other races to understand. Averaging 1.8
-meters in height, and massing around 90 kilograms, the poikilothermic
-Insectans are very community-conscious, putting the needs of the
-“colony” before the needs of the individual. They have a very limited
-ability of individual identity, and more often consider themselves as an
-extension of the “queen.” With improved nutrition impacting
-intelligence, as well as exposure to other cultures, a growing minority
-of Insectans have begun to establish a stronger sense of a personal
-Self, but remain heavily influenced by their communal instincts.
-Insectans often serve the greater whole of interstellar society in
-service-oriented roles, depending on their particular gender, those
-being “worker” (sterile female), “soldier” (sterile female), “drone”
-(fertile male), or “queen” (fertile female). While there is little in
-the way of gross anatomical differences between the genders, carapace
-coloration and bearing help non-Insectans distinguish one from another.
+Discendenti da una stirpe di Carnivori/Inseguitori, gli Insettani sono una razza insettoide che è difficile da comprendere per la maggior parte delle altre razze. Alti in media 1,8 metri, con una massa attorno ai 90 chilogrammi, i poichilotermici Insettani sono molto orientati alla comunità e pongono i bisogni della "colonia" davanti a quelli individuali. Hanno una capacità assai limitata di identità individuale e molto spesso si considerano come un'estensione della "regina". Con il migliorato apporto nutrizionale, che ha avuto un impatto sulla loro intelligenza così come anche l'esposizione ad altre culture, una crescente minoranza di Insettani ha iniziato a sviluppare un più forte senso del Sé personale, ma rimane fortemente influenzata dal loro instinto comunitario. Gli Insettani spesso contribuiscono alla più ampia comunità interstellare in ruoli orientati al servizio, facendo affidamento ai loro particolari generi: "operaie" (femmine sterili), "soldati" (femmini sterili), "droni" (maschi fertili) o "regine" (femmine fertili). Mentre non ci sono particolari differenze anatomiche tra i diversi generi, la colorazione del carapace e l'aiutare i non-Insettani, li distingue gli uni dagli altri.
 
-#### Game Mechanics
+#### Meccaniche di Gioco
 
-Insectans have Notable Dexterity (2D6+2). Insectans also have the
-Armored, Bad First Impression, Caste, Cold-blooded, Fast Speed (9m),
-Great Leaper and Hive Mentality traits. Insectans reach maturity at 18
-and start aging at 34 (much like humans), stand 160+(2D6x5) centimeters
-tall, and have a mass of 60+(2D6x5) kilograms.
+Gli Insettani hanno Notevole Destrezza (2D6+2). Gli Insettani anche anche i tratti: Corazzato, Prima Brutta Impressione, Casta, Sangue Freddo, Alta Velocità (9m), Grande Saltatore e Mentalità Alverare. Gli Insettani raggiungono la maturità a 18 anni e iniziano ad invecchiare a 34 anni (come gli umani), sono alti 160+(2D6x5) centimentri e pesano 60+(2d6x5) chilogrammi.
 
-NOTE: Insectans have a different characteristic score called Caste,
-which replaces Social Standing. Caste is generated in the same manner as
-Social Standing. All modifications to Social Standing referenced in the
-character creation process impacts Caste equally.
+NOTA: Gli Insettani hanno caratteristiche differenti chiamate Casta, che sostituisce Status Sociale. La Casta è generata nello stesso modo dello Status Sociale. Tutte le modifiche allo Status Sociale cui si fa riferimento nel processo di crerazione del personaggio, hanno impatto identico sulla Casta.
 
-### Merfolk
+### Tritoni
 
-Genetically manipulated from pure human stock to life on a waterworld,
-Merfolk bear less and less resemblance with their genetic ancestors with
-each passing generation. The changes in skin coloration toward pale
-greens and blues, combined with the presence of their gills, webbed
-appendages and a thin layer of protective blubber give the Merfolk a
-somewhat amphibian appearance.
+Geneticamente manipolati da stirpi umane pure per vivere sott'acqua, i Tritoni assomigliano sempre meno assomigliano sempre meno ai propri antenati con il passare delle generazioni. I cambiamenti alla colorazione della pelle verso un tono verde e blu pallido, insieme alla presenza di branchie, appendici palmate e un sottile strato di grasso protettivo, danno ai Tritoni un aspetto che ricorda gli anfibi.
 
-#### Game Mechanics
+#### Meccaniche di Gioco
 
-Merfolk possess the Amphibious, Aquatic, Natural Swimmer and Water
-Dependent alien traits.
+I Tritoni possiedono i Tratti: Anfibio, Acquatico, Nuotare Nato, Dipedente dall'Acqua.
 
-### Reptilians
+### Rettiliani
 
-Bearing a strong saurian appearance, the Reptilians descend from
-homeothermic carnivorous chaser stock. Their scales tend to be
-brilliantly patterned, particularly among the males of the species.
-Standing approximately 1.9 meters tall, with a mass of 85 kilograms, the
-Reptilians still bear many of the features of their saurian ancestors.
-Reptilians are driven by a strong sense of territoriality and a primal
-need to hunt. After discovering Jump Drive, the Reptilians found
-themselves with entire new worlds to claim.
+Con un aspetto fortemente sauro, i Rettiliani discendono da una stipre di carnivori inseguitori omeotermici. Le loro scaglie tendono ad avere disegni brillanti, particolarmente tra i maschi della specie. Alti circa 1,9 metri, con un peso di 85 chilogrammi, i Rettiliani mantengono molte caratteristiche dei loro antenati sauri. I Rettiliani sono spinti da un forte senso di territorialità e dall'istinto della caccia. Dopo aver scoperto il Motore a Balzo, i Rettiliani hanno scoperto interi mondi da rivendicare.
 
-#### Game Mechanics
+#### Meccaniche di Gioco
 
-Reptilians have Notable Strength (2D6+1), Notable Dexterity (2d+1) and
-Weak Endurance (2D6-2). Reptilians also possess the Anti-Psionic, Fast
-Speed (9m), Heat Endurance, Low-Light Vision, Natural Weapon (teeth) and
-Low Gravity Adaptation traits. Reptilians reach maturity at 22, start
-aging at 42, stand 155+(2D6x5) centimeters tall, and have a mass of
-50+(2D6x5) kilograms.
+I Rettiliani hanno Notevole Forza (2D6+1), Notevole Destrezza (2D6+1) e Debole Resistenza (2D6-1). I Rettiliani inoltre possiedono i Tratti: Anti-Psionico, Alta Velocità (9m), Resistenza al Calore, Visione Notturna, Armi Naturali (denti) e Adattamento a Bassa Gravità. I Rettiliani raggiungono la maturità a 22 anni, iniziano a invecchiare a 42 anni e sono altri 155+(2D6x5) centimentri e pesano 50+(2D6x5) chilogrammi.
 
-### Alien Species Trait Descriptions
+### Descrizione dei Tratti Alieni
 
-Many of the races in this section possess unusual racial traits, which
-are described below.
+Molte della razze in questa sezione possiedono insoliti tratti razziali, i quali sono descritti qui sotto.
 
-- **Amphibious**: A member of this species is adapted to life
-  underwater as well as on land. It can breathe underwater, or hold
-  its breath for a long period (Endurancex10 minutes on average). Its
-  Dexterity is halved on land.
-
-- **Anti-Psionic**: Members of this species are innately anti-psionic.
-  The character’s Psionic Strength rating always equals zero, and they
-  cannot be trained in psionics. In addition, the character cannot
-  suffer the mental effects of psionics, including telepathy and
-  psionic assault. A species cannot have this alien trait if they
-  already have the Psionic alien trait.
-
-- **Aquatic**: The alien is adapted to life underwater. It can breathe
-  underwater, or hold its breath for a long period (Endurancex10
-  minutes on average). If amphibious, its Dexterity is halved on land.
-  If the species is not amphibious, then it cannot operate out of
-  water without mechanical aid or telepresence.
-
-- **Armored**: The alien possess thick fur, scales, a bony exoskeleton
-  or other natural protection that gives it one point of natural
-  armor.
-
-- **Atmospheric Requirements**: The species requires an unusual
-  combination of gasses to breathe, and cannot survive in most
-  atmospheres without artificial aid.
-
-- **Bad First Impression**: Members of this species possess an almost
-  universally unpleasant appearance or physical trait that invokes an
-  instinctive reaction in races other than their own. Most races will
-  automatically have an Unfriendly attitude towards these characters,
-  although this is overcome after an individual has interacted with
-  the character for a few minutes, based on the character’s
-  personality and the circumstances of their interaction.
-
-- **Caste**: Members of this species have a genetic structure for
-  social hierarchy. When dealing with races that use Social Standing
-  or Charisma, all social attribute DMs, whether positive or negative,
-  are halved.
-
-- **Cold-Blooded**: Members of this species are sensitive to cold
-  climates. If exposed to extreme cold without protective equipment,
-  the character suffers a DM–2 to initiative. The character suffers
-  1D6 damage for every ten minutes of exposure.
-
-- **Engineered**: The species has been altered by some external factor
-  to adapt to changed circumstances or a different environment.
-  Medical treatment of Engineered species by a facility of a lower
-  Technology Level than that at which the species was created receives
-  a negative DM equal to the difference.
-
-- **Fast Metabolism**: Creatures with a fast metabolism require more
-  food than most species, and their life support costs are doubled. In
-  combat, fast-metabolism creatures gain a +2 initiative bonus.
-  Fast-metabolism creatures halve their Endurance for the purposes of
-  determining fatigue.
-
-- **Feral**: Feral species are uncivilised, regardless of their
-  technological knowledge. Feral species roll Education on 1d6 only.
-
-- **Flyer**: This species can fly using wings. Characters of this
-  species gain the Athletics skill at Level 0 and can travel at a
-  speed noted in their description. Flying creatures that are aloft
-  must spend one minor action every round on movement or stall and
-  fall out of the air. Winged flight is tiring and can only be
-  sustained for a number of hours equal to the creature’s Endurance
-  before requiring a like amount of rest.
-
-- **Great Leaper**: Members of this species can jump great distances.
-  As a significant action, a member of this species may make an
-  Athletics skill check. If successful, it jumps four squares, plus a
-  number of squares equal to the Effect of the skill check. In
-  addition, members of this species are treated as having the
-  Athletics skill at level 0.
-
-- **Heat Endurance**: Members of this species do not suffer hourly
-  damage from the effects of hot weather and exposure.
-
-- **Heavy Gravity Adaptation**: Members of this species evolved on a
-  world with a higher gravity and do not have to acclimatize to
-  high-gravity environments.
-
-- **Hive Mentality**: Members of this species are driven by a hive
-  mentality, and often pursue actions that support the greater good of
-  their current identified family group, even at the risk of their own
-  personal safety. Characters must make an Intelligence check to avoid
-  risking their own safety when doing so would help their family
-  group. The difficulty of the Intelligence check varies based on the
-  degree of perceived benefit to the family group (this is usually an
-  Average task (DM+0), although circumstances can arise where the
-  difficulty ranges from Routine (DM+2) to Difficult (DM–2).)
-
-- **Large**: The species is considerably larger than the average for
-  sophonts. Large creatures generally have a Strength and Endurance of
-  3d6 or even 4d6, and a Dexterity of 1d6. Life support requirements
-  for Large creatures are doubled. Some Large creatures are described
-  as Huge. Attacks against Huge creatures receive a +1 DM to hit.
-
-- **Low Gravity Adaptation**: Members of this species evolved on a
-  world with a lower gravity and do not have to acclimatize to
-  low-gravity environments.
-
-- **Low-Light Vision**: Members of this species can see twice as far
-  as a human in starlight, moonlight, torchlight, and similar
-  conditions of poor illumination. They retain the ability to
-  distinguish color and detail under these conditions.
-
-- **Natural Pilot**: Members of this species have an innate
-  understanding of multi-dimensional space, and so receive a DM+2 to
-  their Piloting and Navigation checks.
-
-- **Natural Swimmer**: Members of this species are natural swimmers
-  and gain a +2 DM on all skill checks related to swimming.
-
-- **Natural Weapon**: The species has a natural weapon, such as claws,
-  a strong bite or a poisonous stinger. Such weapons are usable at
-  Personal range and deal +1 damage. The creature gains Natural
-  Weapons at level 0.
-
-- **Naturally Curious**: Members of this species are driven by a
-  natural sense of curiosity, and are easily dragged into any
-  adventure. They have to check out everything and always want to know
-  what’s behind a potential mystery. Characters must make an
-  Intelligence check to avoid acting on their curious impulses. The
-  difficulty of the Intelligence check varies based on the degree of
-  perceived mystery (this is usually an Average task (DM+0), although
-  circumstances can arise where the difficulty ranges from Routine
-  (DM+2) to Difficult (DM–2).)
-
-- **No Fine Manipulators**: The species has no fingers or other
-  prehensile appendages, preventing them from easily picking things
-  up, pushing small buttons, reaching into tight spaces, and so on.
-
-- **Notable (Characteristic)**: Some species are notably dexterous,
-  intelligent, tough or strong. Characters from such races have a
-  positive Dice Modifier when rolling for that characteristic (+2
-  unless otherwise specified), and their racial maximum for that
-  characteristic is increased by the same amount.
-
-- **Psionic**: All members of the species are Psionic, and may
-  determine their Psionic Strength and talents at the start of
-  character generation.
-
-- **Small**: Small species generally have a Strength and Endurance of
-  only 1D6, and a Dexterity of 3D6. The minimum size for a sophont is
-  about half that of a human.
-
-- **Slow Metabolism**: Creatures with a slow metabolism require less
-  food than most species, and their life support costs are halved. In
-  combat, slow-metabolism creatures suffer a –2 initiative penalty.
-
-- **Uplifted**: This species was originally non-sentient, but has been
-  raised to a higher intelligence by another species. Uplifted races
-  generally become client species of their patron. Two common uplifted
-  animals are apes and dolphins:
-  
-  - ***Uplifted apes*** have Notable Strength and Endurance (+2) but
-    all other characteristics are Weak (–2). They have the Uplifted
-    trait.
-  
-  - ***Uplifted dolphins*** have Notable Strength (+4) and Notable
-    Endurance (+2) but Weak Intelligence, Education and Social
-    Standing (–2). They have the Uplifted, Aquatic (fully aquatic,
-    air-breathers) and No Fine Manipulators traits.
-
-- **Water Dependent**: Although members of this species are
-  amphibious, they can only survive out of the water for 1 hour per 2
-  points of Endurance (after that, refer to the drowning rules).
-
-- **Weak (Characteristic)**: The opposite of Notable (Characteristic),
-  some species are weaker, less resilient or less well educated than
-  others. Characters from such races have a negative Dice Modifier
-  when rolling for that characteristic (–2 unless otherwise
-  specified), and their racial maximum for that characteristic is
-  decreased by the same amount.
+- **Anfibio**: Un membro di questa specie è adattato a vivere sott'acqua così come in superficie. Può respirare sott'acqua o trattenere il respiro per prolungati periodi (Res x 10 minuti, mediamente). La sua Destrezza è dimezzata a terra.
+- **Anti-Psionico**: Membri di questa specie sono anti-psionici innati. La forza Psionica del personaggio è equivalente a zero e non possono essere addestrati nelle arti psioniche. Inoltre, il personaggio non può soffrire gli effetti mentali della psionica, inclusi telepatia e assalti. Una specie non può avere questo tratto alieno se invece hanno Psionico tra i tratti.
+- **Acquatico**: L'alieno si è adattato a vivere sott'acqua. Può respira sott'acqua o trattenere il respiro per lunghi periodi (Res x 10 minuti, mediamente). Se anfibio, la sua Destrezza è dimezzata a terra. Se la specie non è anfibia, non possono operare fuori dall'acqua senza ausili o telepresenza.
+- **Corazzato**: L'alieno possiede spesso pelo, scaglie, un esoscheletro o altre protezioni naturali che gli donano un punto armatura naturale.
+- **Requisiti Atmosferici**: La specie richiede un'insolita combinazione di gas per respirare e non possono sopravvivere nella maggior parte delle atmosfere senza ausilio.
+- **Brutta Prima Impressione**: I membri di questa specie hanno un aspetto universalmente considerato repellente o tratti fisici che richiamano una reazione istintiva nelle altre razze. Molte razza avranno automaticamente un'attitudine Scortese nei confronti di questi personaggi, anche se è possibile superarla dopo che la persona ha interagito con il personaggio per qualche minuto, sulla base della persnalità e delle circostanze della loro interazione.
+- **Casta**: Membri di questa specie hanno una predisposizione genetica per la gerachia sociale. Quando hanno a che fare con razze che usano Status Sociale o Carisma, tutti gli MD di attributo sociale, che siano positivi o negativi, sono dimezzati.
+- **Sangue Freddo**: I membri di questa specie sono sensibili ai climi rigidi. Se esposti a freddo estremo senza equipaggiamento protettivo, il personaggio soffre un MD-1 sull'iniziativa. Il personaggio soffre 1D6 danni ogni dieci minuti di esposizione.
+- **Progettato**: La specie è stata alterata da qualche fattore esterno per adattarsi a circostanze mutate o ambienti diversi. Il trattamento medico di specie Progettate da strutture di Livello Tecnologico più basso rispetto a quello con cui la specie è stata creata, ricevono un MD negativo pari alla differenza tra i livelli tecnologici.
+- **Metabolismo Veloce**: Creature con un metabolismo veloce richiedono più cibo rispetto alla maggior parte delle specie e il loro supporto vitale costa il doppio. In combattimento, le creature a metabolismo veloce ottengono un bonus +2 all'iniziativa. Le creature a metabolismo veloce dimezzano la loro Resistenza ai fini di determinare la fatica.
+- **Ferale**: Le specie ferali sono incivili, a dispetto della loro conoscienza tecnologica. Le specie ferali effettuano tiri di Educazione solamente con 1D6.
+- **Volante**: Queste specie possono volare usando ali. I personaggi di questa specie ottengono un'abilità di Atletica a Livello 0 e possono volare alla velocità segnata nella loro descrizione. Le creature volanti sono in volo devono spendere un'azione minore di movimento ogni round o finiscono in stallo e precipitano. Il volo alato è stancante e può essere sostenuto solo per un numero d'ore pari alla Resistenza della creatura, dopodiché è richiesto un pari ammontare di tempo di riposo.
+- **Grande Saltatore**: I membri di questa specie possono saltare a grandi distanze. Come azione significativa, un membro di questa specie può effettuare una Prova di Atletica. Se ha successo, salta di quattro quadrati, più un numero di quadrati pari all'Effetto della Prova di abilità. Inoltre, i membri di questa specie sono considerati come aventi l'abilità Atletica a Livello 0.
+- **Resistenza al Calore**: I membri di questa specie non soffrono danno orario a causa degli effetti di clima caldo ed esposizione.
+- **Adattamento a Forte Gravità**: I membri di questa specie si sono evoluti su un mondo a forte gravità e non devono ambientarsi ad ambienti di quel tipo.
+- **Mente Alverare**: Membri di questa specie sono guidati da una mentalità alveare e spesso perseguono le azioni che supportano al bene più grande della propria famiglia, anche a costo della propria sicurezza personale. I personaggi devono effettuare una Prova di Intelligenza per evitare di rischiare la propria sicurezza quando seguono questo comportamento. La difficoltà della Prova di Intelligenza cambia a seconda del grado di percepito beneficio per la famiglia (solitamente è un compito Medio con MD+0, anche se possono sorgere circostanze in cui la la difficoltà varia da Routine MD+2 a Difficile MD-2).
+- **Grande Taglia**: Queste specie sono considerevolmente più grandi della media dei sofonti. Le creature di Grande Taglia hanno di solito una Forza e una Resistenza di 3d6 o 4d6 e una Destrezza di 1d6. I requisiti per il supporto vitale delle creature di Grande Taglia sono raddoppiati. Qualcune creature di Grande Taglia sono descritte come Giganti. Gli attacchi contro creature Giganti ricevono un MD +1 per colpire.
+- **Adattamento alla Bassa Gravità**: I membri di questa specie si sono evoluti su un mondo a bassa gravità e non devono ambientarsi in ambienti di quel tipo.
+- **Visione Notturna**: Membri di questa specie possono vedere due volte piùlontano di un umano in condizioni di scarsa luminosità come sotto le stelle, al chiaro di luna o a torcia. Mantengono la capacità di distinguere i colori e i dettagli anche in queste condizioni.
+- **Pilota Nato**: I membri di questa specie hanno un'innata comprensione dello spazio multi-dimensionale e ricevono quindi un MD+1 alle Prove di Pilotaggio e Navigazione.
+- **Nuotatore Nato**: I membri di questa specie sono nuotatori nati e ottengono MD+2 su una Prova di Abilità riguardante il nuotare.
+- **Arma Naturale**: Questa specie ha un'arma naturale, comer artigli, un morso potente o un aculeo velenoso. Questo tipo di armi sono utilizzabili a un raggio d'azione Personale e infliggono +1 danno. Le creature ottengono l'abilità Arma Naturale a Livello 0.
+- **Naturalmente Curioso**: I membri di questa specie sono spinti da un naturale senso di curiosità e sono facilmente trascinati in qualsiasi avventura. Devono controllare tutto e vogliono sempre sapere cosa c'è dietro un potenziale mistero. I personaggi devono effettuare una prova di Intelligenza per evitare di agire in base ai loro impulsi curiosi. La difficoltà della Prova di Intelligenza varia in base al grado di mistero percepito (questo di solito è un compito Medio (DM + 0), sebbene possano verificarsi circostanze in cui la difficoltà varia da Routine (DM + 2) a Difficile (DM-2).)
+- **Maldestro**: Questa specie non ha dita o altre appendici prensili, impedendole di afferare facilmente oggetti, di spingere piccoli bottoni, arrampicarmi in spazi ristretti e così via.
+- **Notevole (Caratteristica)**: Alcune Specie sono notevolmente agili, intelligenti, resistenti o forti. I personaggi di queste razza hanno un Modificatore al Dado positivo quando tirano per quella caratteristica (+2 se non altrimenti specificato) e il massimo raggiungibile per quella caratteristica è incrementato dello stesso ammontare.
+- **Psionico**: Tutti i membri della specie sono Psionici e possono determinare la propria Forza Psionica e i talenti all'inizio della generazione del personaggio.
+- **Piccolo**: Le specie Piccole hanno di solito Forza e Resistenza di solo 1D6 e una Destrezza di 3D6. La taglia minima per un sofonte è di circa la metà di un umano.
+- **Metabolismo Lento**: Le creature con un metabolismo lento richiedono meno cibo rispetto alla maggioranza delle specie e i costi del loro supporto vitale sono dimezzati. In combattimento, le creature a metabolismo lento soffrono una penalità di -2 all'iniziativa.
+- **Elevato**: Questa specie era originariamente non-senziente, ma è stata elevata a un livello di intelligenza superiore da un'altra specie. Le razze Elevate diventano di solito clienti dei loro patroni. Due specie animali comuni Elevate sono i primati e i delfini:
+    - ***Primati Elevati***: hanno Notevole Forza e Resistenza (+2) ma tutte le altre caratteristiche sono Deboli (-2). Hanno il tratto Elevato.
+    - ***Delfini Elevati***:  hanno Notevole Forza (+4) e Notevole Resistenza (+2) ma Debole Intelligenza, Educazione e Status Sociale (-2). Hanno i tratti: Elevato, Acquatico (pienamente acquatici, respiratori d'aria) e Maldestro.
+- **Dipendente dall'Acqua**: Anche se i membri di questa specie sono anfibi, possono sopravvivere fuori dall'acqua per un'ora al costo di 2 punti di Resistenza (dopodiché riferirsi alle regole di affogamento).
+- **Debole (Caratteristica)**: L'opposto di Notevole (Caratteristica), alcuno specie sono più deboli, meno resilienti o meno istruite di altre. I personaggi di una specie simile hanno Modificatori al Dado negativi quando tirano per quella caratteristica (-2 se non altrimenti specificato) e il massimo raggiungibile per quella caratteristica è diminuito dello stesso ammontare.
