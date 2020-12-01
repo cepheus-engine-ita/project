@@ -74,193 +74,122 @@ La seguente è una lista delle abilità disponibili usate nelle regole fondament
 
 #### Tabella: Abilità Disponibili
 
-| Basic Skills                        | Weapon Skills                | Transport Skills           |
-| ----------------------------------- | ---------------------------- | -------------------------- |
-| Admin                               | Gun Combat (Cascade Skill)   | Vehicle (Cascade Skill)    |
-| Advocate                            | Archery                      | Aircraft (Cascade Skill)   |
-| Animals (Cascade Skill)             | Energy Pistol                | Grav Vehicle               |
-| Farming                             | Energy Rifle                 | Rotor Aircraft             |
-| Riding                              | Shotgun                      | Winged Aircraft            |
-| Survival                            | Slug Pistol                  | Mole                       |
-| Veterinary Medicine                 | Slug Rifle                   | Tracked Vehicle            |
-| Athletics                           | Gunnery (Cascade Skill)      | Watercraft (Cascade Skill) |
-| Battle Dress                        | Bay Weapons                  | Motorboats                 |
-| Bribery                             | Heavy Weapons                | Ocean Ships                |
-| Broker                              | Screens                      | Sailing Ships              |
-| Carousing                           | Spinal Mounts                | Submarine                  |
-| Comms                               | Turret Weapons               | Wheeled Vehicle            |
-| Computer                            | Melee Combat (Cascade Skill) |                            |
-| Demolitions                         | Bludgeoning Weapons          |                            |
-| Electronics                         | Natural Weapons              |                            |
-| Engineering                         | Piercing Weapons             |                            |
-| Gambling                            | Slashing Weapons             |                            |
-| Gravitics                           |                              |                            |
-| Jack-of-All-Trades (Jack o' Trades) |                              |                            |
-| Leadership                          |                              |                            |
-| Linguistics                         |                              |                            |
-| Liaison                             |                              |                            |
-| Mechanics                           |                              |                            |
-| Medicine                            |                              |                            |
-| Navigation                          |                              |                            |
-| Piloting                            |                              |                            |
-| Recon                               |                              |                            |
-| Sciences (Cascade Skill)            |                              |                            |
-| Life Sciences                       |                              |                            |
-| Physical Sciences                   |                              |                            |
-| Social Sciences                     |                              |                            |
-| Space Sciences                      |                              |                            |
-| Steward                             |                              |                            |
-| Streetwise                          |                              |                            |
-| Tactics                             |                              |                            |
-| Zero-G                              |                              |                            |
+| Abilità di Base             | Abilità nelle Armi                | Abilità di Trasporto           |
+| --------------------------- | --------------------------------- | ------------------------------ |
+| Amministrazione             | Armi Contundenti                  | Aeremobili (Abilità a Cascata) |
+| Avvocato                    | Armi da Fuoco (Abilità a Cascata) | Ala                            |
+| Animali (Abilità a Cascata) | Armi da Taglio                    | Cingolato                      |
+| Allevamento                 | Armi di Batteria                  | Grav                           |
+| Cavalcare                   | Armi montate sul dorso            | Imbarcazioni a motore          |
+| Sopravvivenza               | Armi Naturali                     | Marinaio (Abilità A Cascata)   |
+| Veterinaria                 | Armi Perforanti                   | Navi Oceaniche                 |
+| Atletica                    | Armi Pesanti                      | Rotore                         |
+| Tenuta da Battaglia         | Artiglieria (Abilità a Cascata)   | Ruote                          |
+| Corruzione                  | Doppietta                         | Sottomarini                    |
+| Intermediario               | Fucile a Energia                  | Talpa                          |
+| Baldoria                    | Fucile a Proiettili               | Veicoli (Abilità a Cascata)    |
+| Comunicazioni               | Mischia (Abilità a Cascata)       | Vela                           |
+| Computer                    | Pistola a Proiettili              |                                |
+| Demolizioni                 | Pistole a Energia                 |                                |
+| Elettronica                 | Schermi                           |                                |
+| Ingegnere                   | Tiro con l’Arco                   |                                |
+| Gioco d’Azzardo             | Torrette                          |                                |
+| Gravitonica                 |                                   |                                |
+| Tuttofare                   |                                   |                                |
+| Comando                     |                                   |                                |
+| Lingue                      |                                   |                                |
+| Collegamento                |                                   |                                |
+| Meccanico                   |                                   |                                |
+| Medicina                    |                                   |                                |
+| Navigazione                 |                                   |                                |
+| Pilotare                    |                                   |                                |
+| Ricognizione                |                                   |                                |
+| Scienze (Abilità a Cascata) |                                   |                                |
+| Scienze Biologiche          |                                   |                                |
+| Scienze Fisiche             |                                   |                                |
+| Scienze Sociali             |                                   |                                |
+| Scienze Spaziali            |                                   |                                |
+| Steward                     |                                   |                                |
+| Legge della Strada          |                                   |                                |
+| Tattica                     |                                   |                                |
+| G-Zero                      |                                   |                                |
 
 ## Descrizione delle Abilità
 
 Questa sezione descrive ciascuna abilità rinvenibile nel Cepheus Engine, inclusi gli usi più comuni. Potresti essere in grado di usare le abilità anche per compiti non descritti qui. L'Arbitro stabilisce la Difficoltà e decide i risultati in tutti i casi.
 
+### Amministrazione
 
+Il personaggio ha esperienza con le agenzie burocratiche e capisce i requisiti per averci a che fare e gestirle. Si considerino alcuni dei seguenti compiti: evitare le molestie della polizia; garantire la tempestiva di emissione delle licenze; l'approvazione delle domande; evitare un'ispezione ravvicinata di documenti; etc. In questi casi, un successo in una Prova di Abilità Amministrazione (con Difficoltà basata su sulla tabella Difficoltà di Base secondo Livello di Legge), fornirà un esito positivo alla situazione.
 
-### Admin
+**Burocrati e Amministratori**: Trattare con amministratori e burocrati è sempre un'attività che porta via tempo e un compito fastidioso, che in qualche modo sembra essere frequente nelle avventure di Cepheus Engine. Non sono richieste abilità speciali per gestire i burocrati, ma i personaggi con l'abilità Amministrazione avranno familiarità con il loro modo di fare e troveranno il compito più semplice e facile.
 
-The character has experience with bureaucratic agencies, and understands
-the requirements of dealing with and managing them. When attempting
-tasks like avoiding police harassment, ensuring the prompt issuance of
-licenses, approval of applications, avoidance of close inspection of
-papers, etc., a successful Admin skill check (with a Difficulty based on
-Base Difficulty by Law Level table), will provide a positive outcome to
-the situation.
+Offrire una bustarella e una Prova di Abilità usando Corruzione possono essere tentanti al posto dell'uso di abilità come Amministrazione e Avvocato. Vedi la descrizione dell'abilità **Corruzione** per maggiori informazioni.
 
-**Bureaucrats and Administrators**: Dealing with administrators and
-bureaucrats is always a time consuming and tedious chore, which somehow
-seems to play a common part in Cepheus Engine adventures. No special
-skills are needed to deal with bureaucrats, but characters with the
-Admin (or Advocate) skill will be familiar with their ways and find the
-task much smoother and easier.
+### Avvocato
 
-The offer of a bribe and a Bribery skill check may also be attempted in
-place of an ability or Admin or Advocate skill check. See the
-**Bribery** skill description for more information.
+Il personaggio ha familiarità con le principali leggi e regolamenti che governano il viaggio interstellare, il commercio e le relazioni. Questa abilità non fornisce la conoscenza della miriade di leggi di ciascun singolo mondo, né permette alla persona di professare come procuratore.
 
-### Advocate
+**Ispezioni dell nave**: Di solito, quando una nave arriva in un nuovo mondo, verrà ispezionata dalle autorità portuali per verificare l'aderenza con tutte le leggi e i regolamenti applicabili. Non è insolito inoltre per le pattuglie fermare e abbordare mercantili e altre navi nello spazio profondo. Quando un'ispezione del genere avviene, il personaggio può effettuare una Prova di Avvocato (con difficoltà basata sulla tabella Difficoltà di Base secondo i Livelli di Legge) per farsi trovare in regola e passare l'ispezione. Se dovesse esserci qualsiasi cosa di illegale a bordo, il personaggio soffrirà un MD-2 per la prova.
 
-The character is familiar with the general laws and regulations that
-govern interstellar travel, commerce and relations. This skill does not
-impart knowledge of the myriad of laws on each individual world, nor
-does it allow the person to act as an attorney.
+### Aeromobili (Abilità a Cascata)
 
-**Ship Inspections**: Typically, when a ship arrives at a new world, it
-will be inspected by the port authorities to check for compliance with
-all applicable laws and regulations. It is also not uncommon for patrol
-ships to stop and board merchant and other ships while in deep space.
-When such an inspection does occur, the character may make an Advocate
-check (with a Difficulty based on Base Difficulty by Law Level table) to
-be found in compliance and pass inspection. If there is anything illegal
-on board, the character suffers a -2 DM to the check.
+Le varie specialità di questa abilità coprono differenti tipi di veicoli per il volo. Quando questa abilità è ottenuta, il personaggio deve immediatamente scegliere una delle seguenti: Grav, Rotore o Ala.
 
-### Aircraft (Cascade Skill)
+### Animali (Abilità a Cascata)
 
-The various specialties of this skill cover different types of flying
-vehicles. When this skill is received, the character must immediately
-select one of the following: Grav Vehicle, Rotor Aircraft or Winged
-Aircraft.
+Le varie specialità di questa abilità coprono differenti aspetti della gestione degli animali. Quando questa abilità è ottenuta, il personaggio deve immediatamente scegliere una delle seguenti: Allevamento, Cavalcare, Sopravvivenza o Veterinaria.
 
-### Animals (Cascade Skill)
+### Tiro con l'Arco
 
-The various specialties of this skill cover different aspects of animal
-handling. When this skill is received, the character must immediately
-select one of the following: Farming, Riding, Survival, or Veterinary
-Medicine.
+Il personaggio è abile nell'uso di archi e balestre per cacciare o in combattimento.
 
-### Archery
+### Atletica
 
-The character is skilled at using bows and crossbows for hunting or in
-combat.
+Questa abilità copre la prestanza e l'allenamento fisico, in modo simile a quello di un atleta allenato. Questo include azioni che richiedono la coordinazione fisica, come scalare, giocoleria o lancio; azioni di resistenza, come corsa di lunga distanza o escursionismo; e atti di forza come sollevamento pesi e bodybuilding.
 
-### Athletics
+**Alieni con Ali**: Per specie aliene con ali, questa abilità è usata anche per riflettere la loro capacità nel volo.
 
-This skill covers physical fitness and training, similar to that of a
-trained athlete. This includes acts requiring physical coordination,
-such as climbing, juggling or throwing; acts of endurance, such as
-long-distance running or hiking; and acts of strength, such as
-weight-lifting or bodybuilding.
+### Tenuta da Battaglia
 
-**Aliens with Wings**: For alien species with wings, this skill is also
-used to reflect their ability to fly.
+Questa abilità permette al personaggio di operare avanzate armature da battaglia, una potente forza di armatura da combattimento che potenzia le capacità di chi le indossa in vari modi. Le forze militari di terra e numerosi mercenari, sono spesso addestrati nell'operare di base della tenuta da battaglia. Questa abilità copre anche la capacità di operare veicoli progettati come esoscheletri meccanici.
 
-### Battle Dress
+### Armi di Batteria
 
-This skill permits the character to operate advanced battle armor, a
-powered form of combat armor that enhances the wearer's capabilities in
-various ways. Ground-based military forces, and numerous mercenaries,
-are often trained in the basics of battle dress operation. This skill
-also covers the ability to operate vehicles designed as mechanical
-exoskeletons.
+Il peronsaggio è abile nell'operare le armi di batteria a bordo di una nave.
 
-### Bay Weapons
+### Armi Contundenti
 
-The character is skilled at operating bay weapons on board a ship.
+Il personaggio è abile nell'uso di armi contundenti, come mazze, staffe e chiavi inglesi molto grandi, nel combattimento corpo a corpo.
 
-### Bludgeoning Weapons
+### Corruzione
 
-The character is skilled at using bludgeoning weapons, such as clubs,
-staffs and really big wrenches, in personal combat.
+Il personaggio ha esperienza nel corrompere ufficiali più o meno gretti, in modo da aggirare i regolamenti o ignorare leggi ingombranti. L'ammontare della bustarella è spesso basata sul livello di violazione, come delinato nella tabella Prova di Corruzione secondo la Violazione.
 
-### Bribery
+#### Tabella: rova di Corruzione secondo la Violazione
 
-The character has experience in bribing petty and not-so petty officials
-in order to circumvent regulations or ignore cumbersome laws. The amount
-of a bribe is often based on the level of offense, as outlined in the
-Bribery Checks By Offense table.
+| Violazione                        | MD  | Bustarella Minima |
+| --------------------------------- | --- | ----------------- |
+| Reato o Infrazione Insignificante | +2  | 1D6xCr10          |
+| Reato o Infrazione Minore         | +0  | 1D6xCr50          |
+| Serious Crime or Infraction       | -2  | 1D6xCr100         |
+| Reato o Infrazione Capitale       | -4  | 1D6xCr500         |
 
-#### Table: Bribery Checks By Offense
+Se la bustarella è minore del minimo richiesto, il tentativo fallirà automaticamente. I personaggi possono offrire di più del minimo richiesto e ottengono un MD+1 per ogni multiplo di bustarella offerto. Se la prima offerta è rifiutata, un personaggio può tentare una seconda volta offrendo il doppio del valore della precedente bustarella. Se entrambi i tentativi falliscono, l'Arbitro dovrà richiedere ai personaggi una Prova di Status Sociale, con una Difficoltà basata sulla tabella Prova di Corruzione secondo la Violazione. Se anche questo fallisce, il personaggio sarà accusato di tentata corruzione.
 
-| Offense                       | DM  | Minimum Bribe |
-| ----------------------------- | --- | ------------- |
-| Petty Crime or Infraction     | +2  | 1D6xCr10      |
-| Misdemeanor, Minor Infraction | +0  | 1D6xCr50      |
-| Serious Crime or Infraction   | -2  | 1D6xCr100     |
-| Capital Crime or Infraction   | -4  | 1D6xCr500     |
+Per esempio, un personaggio che tenta di corrompere un ufficiali per ingorare un furtarello dovrà offrire una bustarella di Cr2000. Se il personaggio offre Cr4000 invece, potrà ottenere un MD+1 sulla prova. Se saranno offerti Cr6000, il personaggio otterrà MD+2 e così via.
 
-If the bribe is less than the minimum bribe required, the attempt will
-automatically fail. Characters may offer more than the minimum bribe
-required and receive a +1 DM for each multiple of the bribe offered. If
-the first offer is refused, a character may make a second attempt at
-twice the previous value of the bribe. If both attempts are refused
-(failed), the Referee should have the character make a Social Standing
-check, with a Difficulty based on Base Difficulty by Law Level table. If
-this also fails, the character will be brought up on charges of
-attempted bribery.
+### Intermediario
 
-For example, a character trying to bribe an official to ignore a minor
-smuggling infraction would have to offer a minimum bribe of Cr200. If
-the character offered Cr400 instead the character could gain a +1 DM on
-the check. If Cr600 were offered, the character could gain a +2 DM, etc.
+Un intermediario è abile nel localizzare fornitori e aquirenti e nel semplificare l'acquisto  e la rivendita di beni di commercio, rispetto alla regole di **Scambi e Commercio**.
 
-### Broker
+### Baldoria
 
-A broker is skilled in locating suppliers and buyers, and facilitating
-the purchase and resale of commercial goods, as per the **Trade and
-Commerce** rules.
+Questa abilità riflette l'arte di interagire e socializzare con gli altri. Il personaggio è abile nell'arte delle chiacchiere di convenineza e rendere gli altri confortevoli in loro presenza in quasi ogni situazione sociale, come feste, balli, inaugurazioni, giri per locali, etc.
 
-### Carousing
+### Comunicazioni
 
-This skill reflects the interpersonal art of interacting and socializing
-with others. The character is skilled in the art of small talk and
-making others feel at ease in their presence in almost any social
-situation, such as a party, ball, inauguration, bar hopping, etc.
-
-### Comms
-
-The character is trained in the use, repair, and maintenance of
-communications and sensor devices. While anyone can press the button and
-make a communicator function, this skill is necessary to understand why
-the device does not work, or how to use the device for purposes other
-than open transmission. When using sensors, this skill allows the
-character to interpret the long-range data of a ship's sensors and
-scanners. Skilled characters can boost an incoming or outgoing signal,
-create or break a secure channel, detect signals and anomalies, hide or
-piggyback on another signal, jam local communications, locate and assess
-potential threats, and analyze complex sensor data.
+Il personaggio è addestrato all'uso, la riparazione e la manutenzione di comunicatori e sensori. Mentre chiunque può premere il bottone e far funzionare un comunicatore, questa abilità è necessaria per comprendere come mai un dispositivo non funzioni o come usare il dispositivo per usi diversi dalla comunicazione. Quando si usano i sensori, questa abilità permette al personaggio di interpretare i dati di lungo raggio dei sensori e degli scanner di una nave. I persnaggi esperti possono potenziare un segnale in arrivo o in uscita, aprire o chiudere un canale sicuro, disturbare comunicazioni locali, localizzare e valutare potenziali minacce e analizzare dati complessi dei sensori .
 
 ### Computer
 
@@ -380,14 +309,14 @@ dedicated work. The character knows how to use the tools of the trade,
 how to perform routine tasks, how to supervise untrained helpers, and
 how to handle common problems.
 
-### Gun Combat (Cascade Skill)
+### Gun Combat (Abilità a Cascata)
 
 The various specialties of this skill cover different types of ranged
 personal weapons. When this skill is received, the character must
 immediately select one of the following: Archery, Energy Pistol, Energy
 Rifle, Shotgun, Slug Pistol, or Slug Rifle.
 
-### Gunnery (Cascade Skill)
+### Gunnery (Abilità a Cascata)
 
 The various specialties of this skill cover different types of
 devastating weapons commonly used against vehicles, spaceships and
@@ -483,7 +412,7 @@ short term care, long-term care, and specialized treatment for diseases,
 poisons and debilitating injuries. When treating a patient of a race
 other than their own, the character suffers a -2 DM.
 
-### Melee Combat (Cascade Skill)
+### Melee Combat (Abilità a Cascata)
 
 The various specialties of this skill cover different types of personal
 melee combat weapons. When this skill is received, the character must
@@ -562,7 +491,7 @@ routine maintenance on helicopters, hovercraft and other similar craft.
 Rotor aircraft can hover but may require skill checks to keep steady in
 the face of adverse environmental conditions.
 
-### Sciences (Cascade Skill)
+### Sciences (Abilità a Cascata)
 
 The various specialties of this skill cover different types of planetary
 transportation. When this skill is received, the character must
@@ -662,7 +591,7 @@ routine maintenance on tanks and other vehicles that move on tracks.
 The character is skilled at operating turret-mounted weapons on board a
 ship.
 
-### Vehicle (Cascade Skill)
+### Vehicle (Abilità a Cascata)
 
 The various specialties of this skill cover different types of planetary
 transportation. When this skill is received, the character must
@@ -676,7 +605,7 @@ of animals. This skill represents the character's ability to provide
 animals with emergency care, short term care, long-term care, and
 specialized treatment for diseases, poisons and debilitating injuries.
 
-### Watercraft (Cascade Skill)
+### Watercraft (Abilità a Cascata)
 
 The various specialties of this skill cover different types of
 watercraft and ocean travel. When this skill is received, the character
