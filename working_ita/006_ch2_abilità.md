@@ -1,121 +1,81 @@
-# CHAPTER 2: SKILLS
+# CAPITOLO 2: ABILITÀ
 
-Characters in Cepheus Engine games engage in a variety of activities,
-using their various skills to accomplish the challenges that confront
-them. Skills and their usage are described in this chapter.
+I personaggi in un gioco del Cepheus Engine sono coinvolti in una serie di attività, usando le loro diverse abilità per superare le sfide con cui si confrontano. Le abilità e il loro uso sono descritti in questo capitolo.
 
-## Skill Checks
+## Prove di Abilità
 
-Skill checks use the core task resolution system for the Cepheus Engine
-to resolve actions. Whenever your character attempts any action with a
-chance of failure, roll 2D6, add any skill levels, the appropriate
-characteristic score modifier, and your difficulty DM. If the result
-equals or exceeds 8, the action succeeds. If the result is lower than 8,
-the action fails. The basics of the task resolution system can be found
-in the **Introduction** chapter, under **Die Rolls**.
+Le Prove di Abilità usano il sistema di risoluzione fondamentale per il Cepheus Engine per risolvere le azioni. Ogni volta che il tuo personaggio tenti qualunque azione con una possibilità di fallire, tira 2D6, aggiungi i livelli dell'abilità, il modificatore di caratteristica adeguato e l'MD di Difficoltà. Se il risultato è pari a 8 o più, l'azione ha successo. Se il risultato è inferiore a 8, l'azione fallisce. Le basi del sistema di risoluzione dei compiti può essere trovato nell'**Introduzione**, al paragrafo **Tiri di dado**.
 
-### Task Description Format
+### Formato di Descrizione del Compito
 
-Task descriptions can be formally written in a specific format, as
-follows.
+Le descrizioni dei compiti possono essere formalmente scritte in uno specifico formato, come segue.
 
-*Task Description*: Required Skill, Characteristic, Time Increment,
-Difficulty.
+*Descrizione del Compito*: Abilità Richiesta, Caratteristica, Incremento di Tempo, Difficoltà.
 
-**Task Description**: Describes the action of the task itself. In print,
-this is often italicized to help it stand out.
+**Descrizione del Compito**: Descrive l'azione del compito stesso. Quando stampata, è spesso in corsivo per aiutare a distinguerla.
 
-**Required Skill**: The skill required for the task. Skill levels are
-added as a positive DM to the check. Unskilled characters suffer a -3 DM
-if they do not have this skill.
+**Abilità Richiesta**: L'abilità richiesta per il compito. I livelli di abilità sono aggiunti come MD positivo alla Prova. I personaggi inesperti soffrono un MD-3 se non hanno questa abilità.
 
-**Characteristic**: The characteristic modifier that is added to the
-check.
+**Caratteristica**: Il modificatore di caratteristica che è aggiunto alla Prova.
 
-**Time Increment**: The time range required to perform the task.
+**Incremento di Tempo**: L'intervallo di tempo richiesto per eseguire il compito.
 
-#### Informal Skill Check Descriptions
+#### Descrizioni informali
 
-Skill checks are also informally written by Difficulty followed by
-Required Skill throughout this System Reference Document. For example,
-repairing damage on a starship in mid-combat might be a Very Difficult
-(–4) Engineering task. When listed in this manner, the Referee gets to
-choose an appropriate Characteristic to modify the skill check, as well
-as the time increment involved, if it is not already obvious from
-context.
+Le Prova di Abilità sono anche essere scritte informalmente con la Difficoltà seguita dall'Abilità Richiesta in tutto il testo dell'SRD. Per esempio, riparare il danno di un'astronave in mezzo a un combattimento può essere un compito di Ingegneria Molto Difficile (-4). Quando scritti in questo modo, l'Arbitro deve scegliere la caratteristica adeguata a modificare quella prova di abilità, oltre che l'incremento di tempo richiesto, se non è immediatamente deducibile dal contesto.
 
-### Untrained and Zero-Level Skills
+### Inesperti e Abilità a Livello Zero
 
-Characters can perform some tasks without any training in a skill, using
-only raw talent (defined by their characteristic scores), but skilled
-characters tend to be better at such things. Unless the Referee says you
-cannot, you can always attempt tasks involving that skill even if you
-have no training in it.
+I personaggi possono eseguire alcuni compiti anche senza addestramento nell'abilità, usando solamente il talento naturale (definito dal punteggio delle loro caratteristiche), ma personaggi addestrati tengono a essere migliori in queste cose. Se l'Arbitro non dice espressamente che non è possibile, puoi sempre tentare un compito che richiede quell'abilità anche se non hai addestramento.
 
-If a character has no level in a skill, then he is untrained and will
-suffer a –3 Dice Modifier when trying to use that skill.
+Se un personaggio non ha livelli in quell'abilità, allora è inesperto e dovrà soffrire un Modificatore al Dado -3 quando proverà a usare quell'abilità.
 
-If a character has zero level in a skill (Skill 0), then he is competent
-in using that skill, but has little experience. He does not get any
-bonus from his skill ranks when using that skill but at least he avoids
-the penalty for being untrained.
+Se un personaggio ha l'abilità a Livello Zero, allora è competente nell'uso di quell'abilità, ma ha poca esperienza. Non riceve alcun bonus dalla sua abilità quando la usa, ma almeno evita la penalità che avrebbe un inesperto.
 
-### Going Faster or Slower
+### Andare più Veloce o più Lento
 
-You can choose, before you roll, to move up or down one or two rows on
-the Time Frames table. Moving up (reducing the time increment) gives you
-a –1 DM for every row you move; moving down and increasing the time
-taken gives you a +1 DM for every row you move. Your Referee will help
-adjudicate any issues that might arise from a change in the time frame.
+Se scegli, prima del tiro, puoi muoverti di una o due righe in su o in giù nella Tabella dei Tempi. Muovendoti in su (riducendo l'incremento di tempo) ottieni un MD -1 per ogni riga in cui ti sposti; muovendoti in giù e incrementando il tempo impiegato, ottieni un MD +1 per ogni riga in cui ti sposti. Il tuo Arbitro ti aiuterà ad aggiudicare ogni problema che potrebbe sorgere dal cambio dei Tempi.
 
-#### Table: Time Frames
+#### Tabella: Tempi
 
-| Time Frame      | Base Increment                                             |
-|-----------------|------------------------------------------------------------|
-| 1D6 seconds     | One second                                                 |
-| 1D6 rounds      | One personal combat round (6 seconds)                      |
-| 1D6 minutes     | One minute (60 seconds, or 10 personal combat rounds)      |
-| 1D6 kiloseconds | One kilosecond (\~16.67 minutes, or one space combat turn) |
-| 1D6 hours       | One hour (60 minutes)                                      |
-| 1D6 days        | One day (24 hours)                                         |
-| 1D6 weeks       | One week (7 days)                                          |
-| 1D6 months      | One common month (30-31 days)                              |
-| 1D6 quarter     | One quarter (3 common months)                              |
+| Tempo            | Incremento di base                                                     |
+| ---------------- | ---------------------------------------------------------------------- |
+| 1D6 secondi      | Un secondo                                                             |
+| 1D6 round        | Un round di combattimento corpo a corpo (6 secondi)                    |
+| 1D6 minuti       | Un minuto (60 secondi o 10 round di combattimento corpo a corpo)       |
+| 1D6 chilosecondi | Un chilosecondo (\~16.67 minuti, o un turno di combattimento spaziale) |
+| 1D6 ore          | Un'ora (60 minuti)                                                     |
+| 1D6 giorni       | Un giorno (24 ore)                                                     |
+| 1D6 settimane    | Una settimana (7 giorni)                                               |
+| 1D6 mesi         | Un mese comune (30-31 giorni)                                          |
+| 1D6 quadrimestri | Un quadrimestre (3 mesi comuni)                                        |
 
-### Multiple Actions
+### Azioni Multiple
 
-A character can try to do two or more things at once, like firing a
-spacecraft’s weapons while also flying, or disarming a bomb while hiding
-from guards. For every extra thing that the character is doing, he
-suffers a –2 DM to all skill checks.
+Un personaggio può provare a fare due o più cose contemporaneamente, come sparare con le armi di un'astronave mentre vola, o disarmare una bomba mentre si nasconde da delle guardie. Per ogni cose in più che il personaggio compie, soffre un MD -2 a quella Prova di Abilità.
 
-### Local Law Level
+### Livello di Legge Locale
 
-Some tasks are impacted by a world’s local Law Level, as presented in
-the Universal World Profile. For tasks that are impacted by the local
-laws, rules and regulations, the usual difficulty for tasks can be found
-in the Base Difficulty by Law Level table.
+Alcuni compiti sono influenzati dal Livello di Legge Locale di un mondo, come rappresentato nel Profilo Universale del Mondo. Per i compiti influenzati dalla legge locale, leggi e regolamenti, la difficoltà usuale dei compiti può essere consultata nella Tabella della Difficoltà di Base secondo i Livelli di Legge.
 
-#### Table: Base Difficulty by Law Level
+#### Tabella: Difficoltà di Base secondo i Livelli di Legge
 
-| Law Level | Difficulty            |
-|-----------|-----------------------|
-| 0         | Routine (DM+2)        |
-| 1-3       | Average (DM+0)        |
-| 4-6       | Difficult (DM-2)      |
-| 7-9       | Very Difficult (DM-4) |
-| 10+       | Formidable (DM-6)     |
+| Livello di Legge | Difficoltà             |
+| ---------------- | ---------------------- |
+| 0                | Routine (MD+2)         |
+| 1-3              | Media (MD+0)           |
+| 4-6              | Difficile (MD-2)       |
+| 7-9              | Molto Difficile (MD-4) |
+| 10+              | Formidabile (MD-6)     |
 
-## Available Skills List
+## Lista delle Abilità Disponibili
 
-The following is a list of the available skills used in the core Cepheus
-Engine rules. Referees may add other skills as needed to better fit the
-universe they have created.
+La seguente è una lista delle abilità disponibili usate nelle regole fondamentali del Cepheus Engine. Gli Arbitri possono aggiungere altre abilità secondo necessità in modo da adattarsi al meglio all'universo da loro creato.
 
-#### Table: Available Skills
+#### Tabella: Abilità Disponibili
 
 | Basic Skills                        | Weapon Skills                | Transport Skills           |
-|-------------------------------------|------------------------------|----------------------------|
+| ----------------------------------- | ---------------------------- | -------------------------- |
 | Admin                               | Gun Combat (Cascade Skill)   | Vehicle (Cascade Skill)    |
 | Advocate                            | Archery                      | Aircraft (Cascade Skill)   |
 | Animals (Cascade Skill)             | Energy Pistol                | Grav Vehicle               |
@@ -256,7 +216,7 @@ Bribery Checks By Offense table.
 #### Table: Bribery Checks By Offense
 
 | Offense                       | DM  | Minimum Bribe |
-|-------------------------------|-----|---------------|
+| ----------------------------- | --- | ------------- |
 | Petty Crime or Infraction     | +2  | 1D6xCr10      |
 | Misdemeanor, Minor Infraction | +0  | 1D6xCr50      |
 | Serious Crime or Infraction   | -2  | 1D6xCr100     |
@@ -383,7 +343,7 @@ initial bet. House always wins on a natural 2.
 #### Table: Gambling by Odds of Winning
 
 | Odds of Winning | DM  | Payoff | Maximum Bet |
-|-----------------|-----|--------|-------------|
+| --------------- | --- | ------ | ----------- |
 | Rigged          | -8  | Varies | Varies      |
 | Remote          | -6  | 1:10   | Cr5,000     |
 | Small           | -4  | 1:8    | Cr1,000     |
