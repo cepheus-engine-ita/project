@@ -114,12 +114,11 @@ La seguente è una lista delle abilità disponibili usate nelle regole fondament
 | Tactics                             |                              |                            |
 | Zero-G                              |                              |                            |
 
-## Skill Descriptions
+## Descrizione delle Abilità
 
-This section describes each skill found in the Cepheus Engine, including
-its common uses. You may be able to use skills for tasks other than
-those given here. The Referee sets the Difficulty and decides the
-results in all cases.
+Questa sezione descrive ciascuna abilità rinvenibile nel Cepheus Engine, inclusi gli usi più comuni. Potresti essere in grado di usare le abilità anche per compiti non descritti qui. L'Arbitro stabilisce la Difficoltà e decide i risultati in tutti i casi.
+
+
 
 ### Admin
 
