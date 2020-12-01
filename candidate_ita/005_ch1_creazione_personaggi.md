@@ -1,16 +1,16 @@
 # CAPITOLO 1: CREAZIONE DEI PERSONAGGI
 
-In Cepheus Engine i personaggi raramente sono principianti alle prime armi.
+In Cepheus Engine i personaggi raramente sono principianti freschi di fattoria.
 Non c'è alcuna limitazione a giocare un personaggio giovane e inesperto, se lo vuoi, ma siccome una vasta gamma di abilità è importante per il successo durante il gioco, molti giocatori preferiranno che i loro personaggi abbiano un po' più di esperienza del mondo. 
 
-Tutti i personaggi iniziano all'età della maturità, tipicamente 18 anni. Una volta generati i punteggi per le caratteristiche e le abilità iniziali, il personaggio dovrebbe iniziare a servire periodi nella carriera scelta. Ogni periodo, che è di quattro anni, trascorso in una carriera garantisce al personaggio più esperienza dell'universo, generalmente nella forma di abilità. Genera i risultati di ciascun periodo prima di procedere al successivo. Una volta completata la carriera, i personaggi tirano per i benefici guadagnati con il "congedo" (p.e. lasciando il servizio). Possono quindi iniziare l'avventura.
+Tutti i personaggi iniziano all'età della maturità, tipicamente 18 anni. Una volta generati i punteggi per le caratteristiche e le abilità iniziali, il personaggio dovrebbe iniziare a servire periodi nella carriera prescelta. Ogni periodo, che è di quattro anni, trascorso in una carriera garantisce al personaggio più esperienza dell'universo, generalmente nella forma di abilità. Genera i risultati di ciascun periodo prima di procedere al successivo. Una volta completata la carriera, i personaggi tirano per i benefici guadagnati con il "congedo" (p.e. lasciando il servizio). Possono quindi iniziare l'avventura.
 
 Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro differenti percorsi di carriera .
 
 ## Checklist di Creazione Personaggio
 
 1. Caratteristiche
-    a. Deterina le sei caratteristiche tirando 2D6 e registrandole in ordine sulla tua scheda personaggio.    
+    a. Determina le sei caratteristiche tirando 2D6 e registrandole in ordine sulla tua scheda personaggio.    
     b. Determina i modificatori di caratteristica.    
 2. Mondo d'origine (Opzionale)
     a. Determina il mondo d'origine.    
@@ -24,21 +24,21 @@ Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro 
    Per il primo periodo nella tua prima carriera, acquisisci tutte le Abilità di Servizio a livello 0.
    Per il primo periodo nelle successive carriere, puoi scegliere qualsiasi altra Abilità di Servizio a livello 0.
 5. Sopravvivenza
-    Tira per la sopravvivenza, come indicati nella descrizione della carriera.
+    Tira per la sopravvivenza, come indicato nella descrizione della carriera.
     Se hai successo, vai al punto 8.
     Se non hai successo, sei morto. In alternativa, gli eventi ti hanno condotto fuori da questa carriera. Tira sulla tabella degli Incidenti e vai al punto 10 (non ricevi benefici per questo periodo).
 6. Gradi e Promozione
-    a. Inizi come un personaggio di Rango 0.    
-    b. Se la tua carriera offre una Prova su Gradi e sei di Rango 0, puoi scegliere di tirare per acquisire un Grado. Se hai successo, passi al Rango 1 della carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi abilità bonus dalla Tabella Ranghi per questa carriera.    
-    c. Se una carriera offre una Prova su Promozione e se di Rango 1 o superiore, puoi scegliere di tirare per la Promozione. Se hai successo, il tuo Rango incrementa di uno nella carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi bonus di abilità dalla Tabella Ranghi per questa carriera. Puoi tirare per una Promozione nello stesso periodo in cui hai ricevuto un Grado.    
+    a. Inizi come un personaggio di Rango 0.
+    b. Se la tua carriera offre una Prova di acquisizione del Grado e sei di Rango 0, puoi scegliere di tirare per acquisire un Grado. Se hai successo, passi al Rango 1 della carriera prescelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi abilità bonus dalla Tabella Ranghi per questa carriera.    
+    c. Se una carriera offre una Prova di Promozione e se sei di Rango 1 o superiore, puoi scegliere di tirare per la Promozione. Se hai successo, il tuo Rango incrementa di uno nella carriera prescelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi bonus di abilità dalla Tabella Ranghi per questa carriera. Puoi tirare per una Promozione nello stesso periodo in cui hai ricevuto un Grado.    
 7. Abilità e Addestramento
-    a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della carattestica, applica la modifca al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello.     
-    b. Se la tua carriera non prevede una Prova su Gradi o Promozioni, puoi tirare una seconda volta, selezionando una delle Tabelle Abilità o Addestramento prevista per questa carriera (che può essere la stessa tabella che hai già scelto per questo periodo oppure una differente).
+    a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della carattestica, applica la modifica al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello.     
+    b. Se la tua carriera non prevede una Prova di assegnazione del Grado o di Promozione, puoi tirare una seconda volta, selezionando una delle Tabelle Abilità o Addestramento prevista per questa carriera (che può essere la stessa tabella che hai già scelto per questo periodo oppure una differente).
 8. Invecchiamento
     a. Aumenta la tua età di 4 anni.    
     b. Se il tuo personaggio ha 34 anni o di più, tira per l'Invecchiamento.
 9. Riarruolamento
-    a. Tira per il riarruolamento. Se fallisci, devi lasciare questa carriera. Se hai tirato un 12 naturale, non puoi lasciare questa carriera e devi continuare per un altro periodo, vai al punto 5.    
+    a. Tira per il Riarruolamento. Se fallisci, devi lasciare questa carriera. Se hai tirato un 12 naturale, non puoi lasciare questa carriera e devi continuare per un altro periodo, vai al punto 5.    
     b. Se hai servito per un totale di sette periodi o più durante la creazione del personaggio, allora puoi andare in pensione, vai al punto 10.    
     c. Se desideri continuare in questa carriera, vai al punto 5.    
     d. Se desideri lasciare questa carriera, vai al punto 10.
@@ -47,15 +47,15 @@ Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro 
 11. Prossima Carriera
     Se stai lasciando la tua carriera corrente e il totale del numero di periodi durante la creazione del personaggio è meno di sette, puoi andare al punto 3 per scegliere una nuova carriera oppure al punto 12 se desideri completare il tuo personaggio.
 12. Compra l'equipaggiamento iniziale
-    Compra il tuo equipaggaimento iniziare e, se te lo puoi permettere, magari un'astronave.
+    Compra il tuo equipaggaimento iniziale e, se te lo puoi permettere, magari un'astronave.
 
 ## Caratteristiche
 
-Le Cararatteristiche misura le abilità più basilari di un personaggio: quanto è forte, agile, istruito o intelligente. I punteggi di caratteristica influenzano quasi tutto ciò che il personaggio fa. I personaggi più forti possono sollevare pesi maggiori, i più agili hanno un migliore equilibrio e così via.
+Le Cararatteristiche misurano le abilità più basilari di un personaggio: quanto è forte, agile, istruito o intelligente. I punteggi di caratteristica influenzano quasi tutto ciò che il personaggio fa. I personaggi più forti possono sollevare pesi maggiori, i più agili hanno un migliore equilibrio e così via.
 
-I personaggi hanno sei abilità: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc). Forza, Destrezza e Resistenza sono chiamate capacità fisiche, mentre Intelligenza, Educazione e Status Sociale sono capacità mentali vagamente definite. Ciascun punteggio sopra la media garantisce un bonus su certi tiri di dado, mentre capacità sotto la media causano una penalità a certi tiri di dado.
+I personaggi hanno sei abilità: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc). Forza, Destrezza e Resistenza sono chiamate capacità fisiche, mentre Intelligenza, Educazione e Status Sociale sono capacità mentali definite in modo vago. Ciascun punteggio sopra la media garantisce un bonus su certi Tiri di dado, mentre capacità sotto la media causano una penalità a certi Tiri di dado.
 
-Le sei caratteristiche del tuoi personaggio sono descritte brevemente di seguito:
+Le sei caratteristiche del tuoi personaggi sono descritte brevemente di seguito:
 
 - **Forza** (Str): La forza fisica di un personaggio, la sua forma fisica e potenza.
 - **Destrezza** (Dex): Coordinazione fisica e agilità, riflessi.
@@ -66,7 +66,7 @@ Le sei caratteristiche del tuoi personaggio sono descritte brevemente di seguito
 
 ### Status Sociale e Titoli Nobiliari
 
-In un universo di Cepheus Engine in cui i personaggi, che hanno uno Status Sociale sufficientemente alto, sono considerati membri della nobiltà, specifici valori di Status Sociale sono spesso associati a precisi Titoli Nobiliari. La Tabella Titoli Nobiliari secondo Status Sociale presenta alcuni esempi, ma i valori effettivi possono variare da un universo all'altro.  Versioni di questi titoli tradizionalmente dati al genere femminile sono forniti tra parentesi.
+In un universo di Cepheus Engine in cui i personaggi, che hanno uno Status Sociale sufficientemente alto, sono considerati membri della nobiltà, specifici valori di Status Sociale sono spesso associati a precisi Titoli Nobiliari. La Tabella Titoli Nobiliari secondo Status Sociale presenta alcuni esempi, ma i valori effettivi possono variare da un universo all'altro.  Versioni di questi titoli, tradizionalmente dati al genere femminile, sono forniti tra parentesi.
 
 #### Tabella: Titoli Nobiliari secondo Status Sociale
 
@@ -84,15 +84,15 @@ In un universo di Cepheus Engine in cui i personaggi, che hanno uno Status Socia
 
 ### Forza Psionica, la Settima Caratteristica
 
-Nel Cepheus Engine, i personaggi possono qualche volta possedere una settima caratteristica. Quando un personaggio impara la Psionica, è da generare anche la caratteristica di Forza Psionica (abbreviato Psi), che da potere al proprio talento psionico. Questa caratteristica non può essere tirata o considerata nella creazione di un personaggio senza l'autorizzazione dell'Arbitro. Per maggiori informazioni, vedi il **Capitolo 3: Psionica**.
+Nel Cepheus Engine, i personaggi possono qualche volta possedere una settima caratteristica. Quando un personaggio impara la Psionica, devi generare anche la caratteristica di Forza Psionica (abbreviato Psi), che alimenta il potere del proprio talento psionico. Questa caratteristica non può essere tirata o considerata nella creazione di un personaggio senza l'autorizzazione dell'Arbitro. Per maggiori informazioni, vedi il **Capitolo 3: Psionica**.
 
 ### Determinare i Punteggi di Caratteristica
 
-Determinare i punteggi di caratteristica è è abbastanza semplice.  Tira le tue sei caratteristiche usando 2D6 e registrandoli nell'ordine standard: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc).
+Determinare i punteggi di caratteristica è abbastanza semplice.  Tira le tue sei caratteristiche usando 2D6 e registrandoli nell'ordine standard: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc).
 
 **Regola Opzionale**: Con il consenso dell'Arbitro, tira 2D6 sei volte e assegna i risultati alle sei differenti caratteristiche basandoti su una particolare concezione di personaggio. Per esempio, se immagini il tuo personaggio come un ricercatore altamente istruito, allora potresti assegnare il tuo risultato più alto all'Educazione e assegnare il secondo risultato più alto all'Intelligenza.
 
-**Limiti dei Punteggi di Carattestica**: Per i personaggi giocanti, un punteggio di caratteristica non può tipicamente superare il massimo di 15, né può scendere permanentemente sotto ad 1, ad eccezione di particolari circostanze.
+**Limiti dei Punteggi di Carattestica**: Per i personaggi giocanti, un punteggio di caratteristica non può tipicamente superare il massimo di 15, né può scendere permanentemente sotto ad 1, a eccezione di particolari circostanze.
 
 ### Modificatori di Caratteristica
 
@@ -120,7 +120,7 @@ Una volta che hai assegnato i Punteggi di Caratteristica, puoi determinare i Mod
 Durante la partita, i punteggi di caratteristica dei personaggi potrebbero cambiare per uno dei seguenti motivi:
 
 - L'invecchiamento può abbassare in modo permanente i punteggi di caratteristica fisica.
-- Il danno fisico, come quello da combattimento, le cadure, le malattie o il veleno, può abbassare in modo temporaneo i punteggi di caratteristica fisica.
+- Il danno fisico, come quello da combattimento, le cadute, le malattie o il veleno, può abbassare in modo temporaneo i punteggi di caratteristica fisica.
 - Il trauma mentale, come ferite alla testa o un attacco psionico, può abbassare in modo temporaneo i punteggi di caratteristica mentale.
 - Alcune medicine, potenziamenti psionici e altri casi possono migliorare temporanemanente o permanentemente specifici punteggi di caratteristica.
 
@@ -128,13 +128,13 @@ Ogni volta che un punteggio di caratteristica cambia, dovrà determinare il suo 
 
 ### Riguardo a Genere e Razza
 
-Le regole principali del Cepheus Engine non fanno alcuna distinzione tra differenti membri della stessa specie, sia di genere che di razza. Nell'ambito della letteratura classica di fantascienza, gli eroi potevano giungere con diverse sfaccettatura e capacità e non erano quasi mai impediti dal proprio genere o dal colore della propria pelle.
+Le regole principali del Cepheus Engine non fanno alcuna distinzione tra differenti membri della stessa specie, sia di genere che di razza. Nell'ambito della letteratura classica di fantascienza, gli eroi potevano avere diverse sfaccettature e capacità e non erano quasi mai impediti dal proprio genere o dal colore della propria pelle.
 
-Le specie aliene possono avere scelte aggiuntive per il genere che possono avere un impatto sui punteggi di caratteristica e garantiscono specifiche abilità o tratti basati sulla scelta del genere. Per esempio, se una specie insettoide ha quattro generi (regina, soldato, lavoratore e drone), ognuno potrebbe garantire bonus o penalità di caratteristica differenti che avranno impatto sulla creazione del personaggio. La definizione di specie aliena risiede nell'ambito dei poteri della creatività dell'Arbitro, in quanto influisce sulla natura della propria campagna e del proprio universo.
+Le specie aliene possono avere scelte aggiuntive per il genere e quindi si può avere un impatto sui punteggi di caratteristica e specifiche abilità o tratti basati sulla scelta del genere. Per esempio, se una specie insettoide ha quattro generi (regina, soldato, lavoratore e drone), ognuno potrebbe garantire bonus o penalità di caratteristica differenti che avranno impatto sulla creazione del personaggio. La definizione di specie aliena risiede nell'ambito dei poteri della creatività dell'Arbitro, in quanto influisce sulla natura della propria campagna e del proprio universo.
 
 ### Riguardo alle Specie Aliene e allo Status Sociale
 
-Le specie aliene potrebbero avere diversi criteri per lo Status Sociale: Casta o Carisma. Quando si ha a che fare con una razza che ha un diverso concetto di Status Sociale, tutti gli MD per lo Status Sociale o il suo equivaliente alien, sia positivi che negativi, sono dimezzati.
+Le specie aliene potrebbero avere diversi criteri per lo Status Sociale: Casta o Carisma. Quando si ha a che fare con una razza che ha un diverso concetto di Status Sociale, tutti gli MD per lo Status Sociale o il suo equivaliente alieno, sia positivi che negativi, sono dimezzati.
 
 ## Il Profilo di Personalità Universale (PPU)
 
@@ -198,7 +198,7 @@ Crescere sul tuo mondo d'origine ti ha dotato di abilità che dipendono dalla na
 
 #### Tabella: Abilità del Mondo d'origine secondo Codice di Commercio
 
-| Trade Code          | Skill                |
+| Codice di Commercio | Abilità              |
 | ------------------- | -------------------- |
 | Alta Tecnologia     | Computer-0           |
 | Agricolo            | Animali-0            |
@@ -221,7 +221,7 @@ Un'educazione formale ti fornisce delle competenze di base in varie scienze e di
 
 > Amministrazione-0, Avvocato-0, Animali-0, Baldoria-0, Comunicazioni-0, Computer-0,
 > Elettronica-0, Ingegneria-0, Scienze Biologiche-0, Lingue-0,
-> Meccanico-0, Medico-0, Scienze Fisiche-0, Scienze Sociali-0, Scienze Spaziali-0.
+> Meccanico-0, Medicina-0, Scienze Fisiche-0, Scienze Sociali-0, Scienze Spaziali-0.
 
 ## Carriere
 
@@ -243,7 +243,7 @@ Le seguenti ventiquattro carriere sono dettagliate alla fine di questo capitolo:
 - **Corpo di Difesa Aerospaziale**: Membro di una forza armata planetaria che opera entro i limiti dell’atmosfera di quel mondo e nella sua orbita bassa. Conosciuto anche come “Areonautica Planetaria”.
 - **Corpo di Difesa Marittima**: Membro di una forza armata planetaria che opera sotto o sopra la superficie degli oceani di quel mondo. Conosciuto anche come “Marina planetaria”.
 - **Corpo di Difesa Terrestre**: Membro di una forza armata planetaria che opera sulla superficie non bagnata di quel mondo. Conosciuto anche come “Esercito Planetario”.
-- **Diplomatico**: Persona che è investito da un governo planetario o interstellare di condurre negoziati ufficiali e di mantenere relazioni politiche, economiche e sociali con altre entità politiche.
+- **Diplomatico**: Persona che è investito da un governo planetario o interstellare per condurre negoziati ufficiali e per mantenere relazioni politiche, economiche e sociali con altre entità politiche.
 - **Esploratore**: Membro di un servizio di esplorazione interplanetaria, impegnato nella ricognizione di territori sconosciuti nello spazio.
 - **Intrattenitore**: Persona che ha raggiunto lo status di celebrità per la loro competenza nell’intrattenere il pubblico.
 - **Malvivente**: Persona che si guadagna da vivere attraverso mezzi illeciti.
@@ -252,7 +252,7 @@ Le seguenti ventiquattro carriere sono dettagliate alla fine di questo capitolo:
 - **Medico**: Persona che è abile nella scienza medica ed è addestrata e autorizzata a trattare le persone malate o ferite.
 - **Mercante**: Persona coinvolta nel commercio interstellare, in particolare tra singoli mondi o entità politiche.
 - **Mercenario**: Soldato professionista ingaggiato per servire in una forza armata straniera o per eseguire specifiche azioni militari.
-- **Nobile**: Membro di un classe elevata di elite, che possiede alto status sociale e politico.
+- **Nobile**: Membro di un classe di elite, che possiede alto status sociale e politico.
 - **Pirata**: Persona che attacca o ruba dalle astronavi interplanetarie o interstellari in pieno spazio.
 - **Ramingo**: Persona che si muove continuamente da un posto all’altro, senza alcuna fissa dimora o impiego.
 - **Scienziato**: Persona che si è impegnato nella scienza e ne possiede conoscienza ed esperienza, specialmente di biologia o fisica.
@@ -264,17 +264,18 @@ La Prova di Qualifica determina se puoi entrare con successo nella carriera pres
 
 #### Tabella: La Coscrizione
 
-| Tiro                   | Carriera di Coscrizione                               |
-| ---------------------- | ----------------------------------------------------- |
-| 1                      | Corpo di Difesa Aerospaziale (Areonautica Planetaria) |
-| 2                      | Marine                                                |
-| 3                      | Corpo di Difesa Marittina (Marina Planetaria)         |
-| 4                      | Marina                                                |
-| 5                      | Esploratori                                           |
-| 6                      | Corpo di Difesa Terrestre (Esercito Planetario)       |
-| ## Periodi di Servizio |                                                       |
+| Tiro | Carriera di Coscrizione                               |
+| ---- | ----------------------------------------------------- |
+| 1    | Corpo di Difesa Aerospaziale (Areonautica Planetaria) |
+| 2    | Marine                                                |
+| 3    | Corpo di Difesa Marittina (Marina Planetaria)         |
+| 4    | Marina                                                |
+| 5    | Esploratori                                           |
+| 6    | Corpo di Difesa Terrestre (Esercito Planetario)       |
 
-Per ogni passo del tuo percorso di carriera, affronterai un periodo di servizio che dura approssimativamente quattro anni. Questi si aggiungono all'età del personaggio. Ogni vola che il personaggio si arruola nuovamente o che entra in una nuova carriera, lo fa per un altro periodo, ovvero quattro anni di servizio in più.
+## Periodi di Servizio
+
+Per ogni passo del tuo percorso di carriera, affronterai un periodo di servizio che dura approssimativamente quattro anni. Questi si aggiungono all'età del personaggio. Ogni volta che il personaggio si arruola nuovamente o che entra in una nuova carriera, lo fa per un altro periodo, ovvero quattro anni di servizio in più.
 
 ## Addestramento di Base
 
@@ -282,21 +283,22 @@ Durante il primo periodo di una nuova carriera, concludi l'Addestramento di Base
 
 ## Sopravvivenza
 
-Ogni carriera prevede un tiro di sopravvivenza. Se fallisci questo tiro, il tuo personaggio è morto e devi crearne un nuovo. Un 2 naturale è sempre un fallimento.
+Ogni carriera prevede una Prova di Sopravvivenza. Se fallisci questo tiro, il tuo personaggio è morto e devi crearne un nuovo. Un 2 naturale è sempre un fallimento.
 
-**Regola Opzionale**: Con l'approvazione dell'Arbitro, puoi tenere il personaggio che fallisce un tiro di sopravvivenza, tirando sulla tabella Incidenti di Sopravvivenza. Questo incidente è sempre sufficiente per forzarti a lasciare il servizio a metà periodo, ovvero dopo due anni. Perdi qualsiasi tiro di beneficio solo per il periodo corrente.
+**Regola Opzionale**: Con il consenso dell'Arbitro, puoi tenere il personaggio che fallisce una Prova di Sopravvivenza, tirando sulla tabella Incidenti di Sopravvivenza. Questo incidente è sempre sufficiente per forzarti a lasciare il servizio a metà periodo, ovvero dopo due anni. Perdi qualsiasi tiro di beneficio solo per il periodo corrente.
 
 #### Tabella: Incidenti di Sopravvivenza
 
-| 1D6                   | Mishap                                                                                                                                                                                                                              |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                     | Ferito in Azione. (Questo vale come un risultato di 2 sulla tabella degli Infortuni.) In alternativa, tira due volte sulla tabella degli Infortuni e tieni il risultato più basso.                                                  |
-| 2                     | Congedato con onore dal servizio                                                                                                                                                                                                    |
-| 3                     | Congedato con onore dal servizio dopo una lunga battaglia legale. Le vicissitudini legali ti hanno indebitato per Cr10.000.Honorably discharged from the service after a long legal battle. Legal issues create a debt of Cr10,000. |
-| 4                     | Congedato con disonore dal servizio. Perdi tutti i benefici.                                                                                                                                                                        |
-| 5                     | Congedato con disonore dal servizio dopo aver trascorso altri 4 anni in prigione per crimini. Perdi tutti i benefici.                                                                                                               |
-| 6                     | Congedato per motivi di salute dal servizio. Tira sulla tabella degli Infortuni                                                                                                                                                     |
-| ## Gradi e Promozione |                                                                                                                                                                                                                                     |
+| 1D6 | Mishap                                                                                                                                                                                                                              |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Ferito in Azione. (Questo vale come un risultato di 2 sulla tabella degli Infortuni.) In alternativa, tira due volte sulla tabella degli                                                                                            |
+| 2   | Congedato con onore dal servizio                                                                                                                                                                                                    |
+| 3   | Congedato con onore dal servizio dopo una lunga battaglia legale. Le vicissitudini legali ti hanno indebitato per Cr10.000.Honorably discharged from the service after a long legal battle. Legal issues create a debt of Cr10,000. |
+| 4   | Congedato con disonore dal servizio. Perdi tutti i benefici.                                                                                                                                                                        |
+| 5   | Congedato con disonore dal servizio dopo aver trascorso altri 4 anni in prigione per crimini. Perdi tutti i benefici.                                                                                                               |
+| 6   | Congedato per motivi di salute dal servizio. Tira sulla tabella degli Infortuni                                                                                                                                                     |
+
+## Gradi e Promozione
 
 Nelle carriere militari, una Prova di assegnazione del Grado rappresenta un'opportunità di unirsi ai Ranghi degli ufficiali incaricati. Nelle carriere non militari, la Prova di assegnazione del Grado rappresenta l'opportunità di ottenere una posizione all'interno della gerarchia tipica della carriera prescelta. Alcune carriere non hanno una gerarchia prestabilita e quindi non hanno la Prova di assegnazione del Grado. Un personaggio che guadagna un Grado diventa ufficiale di Rango 1 in quella carriera e da quel momento usa la tabella Ranghi da Ufficiale. Inoltre, ottieni un tiro aggiuntivo su una qualsiasi delle Tabelle Abilità e Addestramento per questa carriera. Un personaggio può tentare un tiro di assegnazione del Grado una sola volta per periodo e sottoporsi alla prova è facoltativo. Un Coscritto non può tentare una Prova di assegnazione del Grado durante il primo periodo di servizio.
 
@@ -308,7 +310,7 @@ Gradi e Promozioni non sono previsti per Atleti, Barbari, Cinturiani, Raminghi, 
 
 Ogni carriera ha tabelle abilità associate ad essa - Sviluppo Personale, Abilità di Servizio, Abilità Specialistiche ed Educazione Avanzata. In ciascun periodo trascorso in una carriera, scegli una di queste tabelle e tira 1D6 per vedere quale abilità puoi incrementare. Puoi tirare sulla tabella Educazione Avanzata solamente se il personaggio ha Educazione 8+.
 
-Siccome Atleti, Barbari, Cinturiani, Raminghi, Intratternitori, Cacciatori ed Esploratori non hanno prove di assegnazione del Grado o di Promozione, i personaggi ottengono, per ciascun periodo, due tiri per le abilità invece che solo un tiro.
+Siccome Atleti, Barbari, Cinturiani, Raminghi, Intratternitori, Cacciatori ed Esploratori non hanno Prove di assegnazione del Grado o di Promozione, i personaggi ottengono, per ciascun periodo, due tiri per le abilità invece che solo un tiro.
 
 ### Abilità a Cascata
 
@@ -331,16 +333,14 @@ I personaggi feriti in combattimento o in incidenti durante la creazione, devono
 
 ### Crisi da Ferita
 
-Se una qualsiasi caratteristica è ridotta a 0, il personaggio subisce una crisi da ferita. Il personaggio muore, a meno che possa pagare 1d6x10.000 crediti per le cure mediche,
-che riporteranno qualsiasi caratteristica a 1. Il personaggio fallisce automaticamente qualsiasi tiro di Qualificazione da ora in poi e deve continuare nella carriera in cui si trova, oppure diventare un Ramingo se desidera prendere ulteriori periodi.
+Se una qualsiasi caratteristica è ridotta a 0, il personaggio subisce una Crisi da Ferita. Il personaggio muore, a meno che possa pagare 1d6x10.000 crediti per le cure mediche,
+che riporteranno qualsiasi caratteristica a 1. Il personaggio fallisce automaticamente qualsiasi tiro di Qualificazione da ora in poi e deve continuare nella carriera in cui si trova, oppure diventare un Ramingo, se desidera proseguire per ulteriori periodi.
 
 ### Cure Mediche
 
-Se il vostro personaggio è stato ferito, le cure
-mediche potrebbero essere in grado di annullare gli effetti del
-danno. Il recupero di una caratteristica perduta costa 5.000 Crediti per punto.
+Se il vostro personaggio è stato ferito, le cure mediche potrebbero essere in grado di annullare gli effetti del danno. Il recupero di una caratteristica perduta costa 5.000 Crediti per punto.
 
-Se il tuo personaggio è stato ferito al servizio di un patrono o di un’organizzazione, una parte delle sue cure mediche potrebbe essere pagato da quel patrono. Tira 2d6 sulla seguente tabella, sommando il tuo Rango come MD. Il risultato è la parte delle cure mediche pagata dal datore di lavoro.
+Se il tuo personaggio è stato ferito al servizio di un patrono o di un’organizzazione, una parte delle sue cure mediche potrebbe essere pagata da quel patrono. Tira 2d6 sulla seguente tabella, sommando il tuo Rango come MD. Il risultato è la parte delle cure mediche pagata dal datore di lavoro.
 
 #### Tabella: Costi Medici
 
@@ -356,26 +356,26 @@ Durante i ritocchi finali, devi pagare qualsiasi costo rimanente per le cure med
 
 ## Invecchiamento
 
-Gli effetti dell’invecchiamento cominciano quando un personaggio raggiunge i 34 anni d’età (il quarto periodo di carriera). Alla fine del quarto periodo, e alla fine di ogni periodo seguente, il personaggio deve tirare 2d6 sulla Tabella d’Invecchiamento. Applica il totale dei periodi del personaggio come Modificatore ai Dadi negativo su
+Gli effetti dell’invecchiamento cominciano quando un personaggio raggiunge i 34 anni d’età (il quarto periodo di carriera). Alla fine del quarto periodo, e alla fine di ogni  periodo seguente, il personaggio deve tirare 2d6 sulla Tabella d’Invecchiamento. Applica il totale dei periodi del personaggio come Modificatore ai Dadi negativo su
 questa tabella.
 
 #### Tabella: Tabella dell'Invecchiamento
 
-| 2D6 | Effetti dell’Invecchiamento                                                         |
-| --- | ----------------------------------------------------------------------------------- |
-| –6  | Riducete tre caratteristiche fisiche di 2,riducete una caratteristica mentale di 1. |
-| –5  | Riducete tre caratteristiche fisiche di 2                                           |
-| –4  | Riducete due caratteristiche fisiche di 2,riducete una caratteristica fisica di 1.  |
-| –3  | Riducete una caratteristica fisica di 2,riducete due caratteristiche fisiche di 1   |
-| –2  | Riducete tre caratteristiche fisiche di 1.                                          |
-| –1  | Riducete due caratteristiche fisiche di 1.                                          |
-| 0   | Riducete una caratteristica fisica di 1.                                            |
-| 1+  | Nessun effetto.                                                                     |
+| 2D6 | Effetti dell’Invecchiamento                                                     |
+| --- | ------------------------------------------------------------------------------- |
+| –6  | Riduci tre caratteristiche fisiche di 2,riduci una caratteristica mentale di 1. |
+| –5  | Riduci due caratteristiche fisiche di 2                                         |
+| –4  | Riduci due caratteristiche fisiche di 2,riduci una caratteristica fisica di 1.  |
+| –3  | Riduci una caratteristica fisica di 2, riduci due caratteristiche fisiche di 1  |
+| –2  | Riduci tre caratteristiche fisiche di 1.                                        |
+| –1  | Riduci due caratteristiche fisiche di 1.                                        |
+| 0   | Riduci una caratteristica fisica di 1.                                          |
+| 1+  | Nessun effetto.                                                                 |
 
 ### Crisi d’Invecchiamento
 
-Se una qualsiasi caratteristica è ridotta a 0 dall’invecchiamento, il personaggio soffre una crisi d’invecchiamento. Il personaggio muore, a meno che possa pagare 1d6 x 10.000 crediti per le cure mediche, che riportano la caratteristica a 1. Il personaggio
-fallisce automaticamente qualsiasi tiro di Qualificazione da adesso in poi – deve o continuare la carriera in cui si trova, o diventare un Ramingo se desidera svolgere qualsiasi altro periodo.
+Se una qualsiasi caratteristica è ridotta a 0  a causa dell’invecchiamento, il personaggio soffre una crisi d’invecchiamento. Il personaggio muore, a meno che possa pagare 1d6 x 10.000 crediti per le cure mediche, che riportano la caratteristica a 1. Il personaggio
+fallisce automaticamente qualsiasi tiro di Qualificazione da adesso in poi – deve continuare la carriera in cui si trova, o diventare un Ramingo, se desidera continuare per ulteriori periodi.
 
 ### Anagatici:
 
@@ -388,7 +388,7 @@ Le droghe costano 1d6x2.500 Crediti per ogni termine durante il quale il persona
 
 ## Riarruolamento e Pensione
 
-Al termine di ciascun periodo, il personaggio deve decidere se desideri continuare sul percorso della propria carriera o se desidera congedarsi. Se desidera continuare, il personaggio deve superare una Prova di Riarruolamento come definito nella loro attuale professione o servizio. Se il personaggio tira un 12 naturale, non possono lasciare la loro carriera attuale e devono continuare per un altro periodo. Se la prova non ha successo, non può riarruolarsi  e il personaggio deve lasciare l'attuale carriera.
+Al termine di ciascun periodo, il personaggio deve decidere se desideri continuare sul percorso della propria carriera o se desidera congedarsi. Se desidera continuare, il personaggio deve superare una Prova di Riarruolamento così come definita nella loro attuale professione o servizio. Se il personaggio tira un 12 naturale, non può lasciare la propia carriera attuale e deve continuare per un altro periodo. Se la prova non ha successo, non può riarruolarsi  e il personaggio deve lasciare l'attuale carriera.
 
 Un personaggio che ha servito per 7 o più periodi durante la creazione deve ritirarsi e non può più proseguire in altre carriere a meno che non abbia tirato un 12 naturale durante il Riarruolamento e debba servire per un altro periodo di servizio.
 
@@ -410,7 +410,7 @@ Un personaggio che ha servito per 5 o più periodi in un solo servizio, riceve u
 
 ## Benefici del Congedo
 
-I personaggi che termimano le proprie carriere ricevono un beneficio per ciascun periodo di servizio nei quali non hanno perso tali benefici. Un ulteriorio beneficio è ottenuto se il personaggio ha Rango 4, due per il Rango 5. Un personaggio con Rango 6, ottiene tre ultriori benefici.
+I personaggi che termimano le proprie carriere ricevono un beneficio per ciascun periodo di servizio durante i quali non hanno perso tali benefici. Un ulteriore beneficio è ottenuto se il personaggio ha Rango 4, due per il Rango 5. Un personaggio con Rango 6, ottiene tre ulteriori benefici.
 
 ### Benefici in Denaro
 
@@ -418,10 +418,10 @@ Fino a 3 tiri beneficio possono essere effettuati sulla tabella Denaro. Tutti gl
 
 ### Benefici Materiali
 
-I Benefici Materiali possono essere alternazioni della caratteristiche o Quote di Nave. L'assocazione alla Società degli Esploratori è possibile e ulteriori benefici corrisposti in armamentario possono essere invece ottenuti come livelli di abilità. Nota che i personaggi con un Rango 5 o 6, ottengono +1 sui tiri di Benefici Materiali.
+I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote di Nave. L'assocazione alla Società degli Esploratori è possibile e ulteriori benefici corrisposti in armamentario possono essere invece scambiati con livelli aggiuntivi di abilità. Nota che i personaggi con un Rango 5 o 6, ottengono +1 sui tiri di Benefici Materiali.
 
-- **Vascello da Esplorazione**: Il personaggio si considera in in servizio indipendente
-  con il corpo degli Esploratori e gli è stato concesso l'uso di una nave stellare TL9 Courier da 100 tonnellate in eccedenza con clausola di riserva. Il Corpo degli Esploratori ha inoltre garantito manutenzione e carburante gratuiti in ogni Base di Esploratori. Tutti le altre spese riguardanti la nave sono responsabilità del personaggio. Mentre il personaggio ha la libertà di usare il vascello come preferisce, il vascello è ancora proprietà del Corpo degli Esploratori e quindi non può essere abbandonato o venduto senza conseguenze. In cambio dell'usufrutto della nave, il personaggio e la nave sono entrambi considerati disponibile a tornare in servizio in ogni momento, se il Corpo dovesse averne la necessità.
+- **Vascello da Esplorazione**: Il personaggio si considera in servizio indipendente
+  con il corpo degli Esploratori e per questo gli è stato concesso l'uso di una nave stellare TL9 Courier da 100 tonnellate in eccedenza con clausola di riserva. Il Corpo degli Esploratori ha inoltre garantito manutenzione e carburante gratuiti in ogni Base di Esploratori. Tutte le altre spese riguardanti la nave sono responsabilità del personaggio. Mentre il personaggio ha la libertà di usare il vascello come preferisce, il vascello è ancora proprietà del Corpo degli Esploratori e quindi non può essere abbandonato o venduto senza conseguenze. In cambio dell'usufrutto della nave, il personaggio e la nave sono entrambi considerati disponibili a tornare in servizio in ogni momento, se il Corpo dovesse averne la necessità.
 
 - **Società degli Esploratori**: Il personaggio è membro della prestigiosa Società degli Esploratori. La Società degli Esploratori garantirà un Passaggio Alto gratuito ogni due mesi, oltre all'accesso alla rete d'informazione della Società e ai resort mantenuti dalla Società. Questo beneficio può essere ottenuto solo una volta; riceverlo altre volte non garantirà ulteriori benefici.  Dopo la generazione del personaggio, i personaggi possono acquistare l'associazione alla Società degli Esploratori. Una domanda di associazione richiede il successo in una Prova di Amministrazione di Routine (-2), modificata dallo Status Sociale. Una volta accettata la domanda, è richiesto un pagamento di Cr1,000,000. Se la domanda fallisce, il personaggio è inserito in black list e non verranno più accettate ulteriori domande di associazione da parte sua. L'associazione non è rimborsabile né trasferibile.
 
@@ -429,7 +429,7 @@ I Benefici Materiali possono essere alternazioni della caratteristiche o Quote d
 
 - **Vascello da Ricerca**: Una fondazione scientifica o una corporazione interstellare o qualche altro influente patrono ha garantito al personaggio l'uso di un Vascello di Ricerca da 200 tonnellate. Tutte le spese per la nave, oltre che la manutenzione annuale, sono responsabilità del personaggio. Questa nave appartiene comunque al patrono e quindi non può essere venduta o abbandonata senza conseguenze.
 
-- **Quote di Nave**: Le Quote di nave possono essere ricevute come beneficio. Ciascuna quota vale approssimativamente Cr2,000,000 per l'acquisto di un vascello. Un'astronave può essere comprata con un anticipo pari a un quinto del suo valore e con un mutuo quarantennale. Per ciascun quinto del valore corrisposto alla banca sia come quote di nave o denaro liquido, la durata del mutuo è ridotta di 10 anni. Le quote di nave non possono essere convertire in denaro liquido.
+- **Quote di Nave**: Le Quote di nave possono essere ricevute come beneficio. Ciascuna quota vale approssimativamente Cr2,000,000 per l'acquisto di un vascello. Un'astronave può essere comprata con un anticipo pari a un quinto del suo valore e con un prestito quarantennale. Per ciascun quinto del valore corrisposto alla banca sia come quote di nave o denaro liquido, la durata del prestito è ridotta di 10 anni. Le quote di nave non possono essere convertire in denaro liquido.
 
 - **Arma**: Il personaggio lascia il servizio con un'arma adeguata (pistola o lama). Una volta che l'arma è ottenuta come beneficio, riceverlo altre volte può far ottenere abilità in quell'arma. Una persona è sempre libera di prendere altri esemplari dell'arma anziché livelli di abilità, se lo desidera.
 
@@ -709,7 +709,7 @@ Il tempo e l'esperienza hanno dimostrato che i personaggi con obiettivi personal
 
 Si presume che gli umani siano la specie standard di riferimento per queste regole e che quindi non abbiamo particolari abilità o svantaggi che li rendano distintivi a livello di specie nell'economia delle regole per i personaggi.
 
-La definizione di specie aliena ricade nell'ambito creativo dell'Arbitro, dato che può beneficiare la natura della campagna e dell'universo. Questo SRD offre i seguenti esempi di specie aliene nel tentativo di dimostrare archetipi comuni rinvenibili in molte forma di fantascienza classica. Alcuni universo sono abitati solo da umani, mentre altri sono abitati da centinaia di specie aliene che i personaggi possono incontrare. Il tuo Arbitro ha la parola definitiva sulla presenza di altre specie aliene nella tua campagna.
+La definizione di specie aliena ricade nell'ambito creativo dell'Arbitro, dato che può beneficiarne la natura della campagna e dell'universo. Questo SRD offre i seguenti esempi di specie aliene nel tentativo di dimostrare archetipi comuni rinvenibili in molte forma di fantascienza classica. Alcuni universo sono abitati solo da umani, mentre altri sono abitati da centinaia di specie aliene che i personaggi possono incontrare. Il tuo Arbitro ha la parola definitiva sulla presenza di altre specie aliene nella tua campagna.
 
 Maggiori informazioni di dettaglio sulla creazione di alieni possono essere trovati nella ***Flynn's Guide to Alien Creation***, un supplemento pubblicato da Samardan Press.
 
@@ -760,37 +760,66 @@ I Rettiliani hanno Notevole Forza (2D6+1), Notevole Destrezza (2D6+1) e Debole R
 Molte della razze in questa sezione possiedono insoliti tratti razziali, i quali sono descritti qui sotto.
 
 - **Acquatico**: L'alieno si è adattato a vivere sott'acqua. Può respira sott'acqua o trattenere il respiro per lunghi periodi (Res x 10 minuti, mediamente). Se anfibio, la sua Destrezza è dimezzata a terra. Se la specie non è anfibia, non possono operare fuori dall'acqua senza ausili o telepresenza.
-- **Adattamento a Forte Gravità**: I membri di questa specie si sono evoluti su un mondo a forte gravità e non devono ambientarsi ad ambienti di quel tipo.
-- **Adattamento alla Bassa Gravità**: I membri di questa specie si sono evoluti su un mondo a bassa gravità e non devono ambientarsi in ambienti di quel tipo.
-- **Anfibio**: Un membro di questa specie è adattato a vivere sott'acqua così come in superficie. Può respirare sott'acqua o trattenere il respiro per prolungati periodi (Res x 10 minuti, mediamente). La sua Destrezza è dimezzata a terra.
-- **Anti-Psionico**: Membri di questa specie sono anti-psionici innati. La forza Psionica del personaggio è equivalente a zero e non possono essere addestrati nelle arti psioniche. Inoltre, il personaggio non può soffrire gli effetti mentali della psionica, inclusi telepatia e assalti. Una specie non può avere questo tratto alieno se invece hanno Psionico tra i tratti.
-- **Arma Naturale**: Questa specie ha un'arma naturale, comer artigli, un morso potente o un aculeo velenoso. Questo tipo di armi sono utilizzabili a un raggio d'azione Personale e infliggono +1 danno. Le creature ottengono l'abilità Arma Naturale a Livello 0.
-- **Brutta Prima Impressione**: I membri di questa specie hanno un aspetto universalmente considerato repellente o tratti fisici che richiamano una reazione istintiva nelle altre razze. Molte razza avranno automaticamente un'attitudine Scortese nei confronti di questi personaggi, anche se è possibile superarla dopo che la persona ha interagito con il personaggio per qualche minuto, sulla base della persnalità e delle circostanze della loro interazione.
-- **Casta**: Membri di questa specie hanno una predisposizione genetica per la gerachia sociale. Quando hanno a che fare con razze che usano Status Sociale o Carisma, tutti gli MD di attributo sociale, che siano positivi o negativi, sono dimezzati.
-- **Corazzato**: L'alieno possiede spesso pelo, scaglie, un esoscheletro o altre protezioni naturali che gli donano un punto armatura naturale.
-- **Debole (Caratteristica)**: L'opposto di Notevole (Caratteristica), alcuno specie sono più deboli, meno resilienti o meno istruite di altre. I personaggi di una specie simile hanno Modificatori al Dado negativi quando tirano per quella caratteristica (-2 se non altrimenti specificato) e il massimo raggiungibile per quella caratteristica è diminuito dello stesso ammontare.
-- **Dipendente dall'Acqua**: Anche se i membri di questa specie sono anfibi, possono sopravvivere fuori dall'acqua per un'ora al costo di 2 punti di Resistenza (dopodiché riferirsi alle regole di affogamento).
-- **Elevato**: Questa specie era originariamente non-senziente, ma è stata elevata a un livello di intelligenza superiore da un'altra specie. Le razze Elevate diventano di solito clienti dei loro patroni. Due specie animali comuni Elevate sono i primati e i delfini:
 
-    - ***Delfini Elevati***: hanno Notevole Forza (+4) e Notevole Resistenza (+2) ma Debole Intelligenza, Educazione e Status Sociale (-2). Hanno i tratti: Elevato, Acquatico (pienamente acquatici, respiratori d'aria) e Maldestro.
-    - ***Primati Elevati***: hanno Notevole Forza e Resistenza (+2) ma tutte le altre caratteristiche sono Deboli (-2). Hanno il tratto Elevato.
+- **Adattamento a Forte Gravità**: I membri di questa specie si sono evoluti su un mondo a forte gravità e non devono ambientarsi ad ambienti di quel tipo.
+
+- **Adattamento alla Bassa Gravità**: I membri di questa specie si sono evoluti su un mondo a bassa gravità e non devono ambientarsi in ambienti di quel tipo.
+
+- **Anfibio**: Un membro di questa specie è adattato a vivere sott'acqua così come in superficie. Può respirare sott'acqua o trattenere il respiro per prolungati periodi (Res x 10 minuti, mediamente). La sua Destrezza è dimezzata a terra.
+
+- **Anti-Psionico**: Membri di questa specie sono anti-psionici innati. La forza Psionica del personaggio è equivalente a zero e non possono essere addestrati nelle arti psioniche. Inoltre, il personaggio non può soffrire gli effetti mentali della psionica, inclusi telepatia e assalti. Una specie non può avere questo tratto alieno se invece hanno Psionico tra i tratti.
+
+- **Arma Naturale**: Questa specie ha un'arma naturale, comer artigli, un morso potente o un aculeo velenoso. Questo tipo di armi sono utilizzabili a un raggio d'azione Personale e infliggono +1 danno. Le creature ottengono l'abilità Arma Naturale a Livello 0.
+
+- **Brutta Prima Impressione**: I membri di questa specie hanno un aspetto universalmente considerato repellente o tratti fisici che richiamano una reazione istintiva nelle altre razze. Molte razza avranno automaticamente un'attitudine Scortese nei confronti di questi personaggi, anche se è possibile superarla dopo che la persona ha interagito con il personaggio per qualche minuto, sulla base della persnalità e delle circostanze della loro interazione.
+
+- **Casta**: Membri di questa specie hanno una predisposizione genetica per la gerachia sociale. Quando hanno a che fare con razze che usano Status Sociale o Carisma, tutti gli MD di attributo sociale, che siano positivi o negativi, sono dimezzati.
+
+- **Corazzato**: L'alieno possiede spesso pelo, scaglie, un esoscheletro o altre protezioni naturali che gli donano un punto armatura naturale.
+
+- **Debole (Caratteristica)**: L'opposto di Notevole (Caratteristica), alcuno specie sono più deboli, meno resilienti o meno istruite di altre. I personaggi di una specie simile hanno Modificatori al Dado negativi quando tirano per quella caratteristica (-2 se non altrimenti specificato) e il massimo raggiungibile per quella caratteristica è diminuito dello stesso ammontare.
+
+- **Dipendente dall'Acqua**: Anche se i membri di questa specie sono anfibi, possono sopravvivere fuori dall'acqua per un'ora al costo di 2 punti di Resistenza (dopodiché riferirsi alle regole di affogamento).
+
+- **Elevato**: Questa specie era originariamente non-senziente, ma è stata elevata a un livello di intelligenza superiore da un'altra specie. Le razze Elevate diventano di solito clienti dei loro patroni. Due specie animali comuni Elevate sono i primati e i delfini:
+  
+  - ***Delfini Elevati***: hanno Notevole Forza (+4) e Notevole Resistenza (+2) ma Debole Intelligenza, Educazione e Status Sociale (-2). Hanno i tratti: Elevato, Acquatico (pienamente acquatici, respiratori d'aria) e Maldestro.
+  - ***Primati Elevati***: hanno Notevole Forza e Resistenza (+2) ma tutte le altre caratteristiche sono Deboli (-2). Hanno il tratto Elevato.
 
 - **Ferale**: Le specie ferali sono incivili, a dispetto della loro conoscienza tecnologica. Le specie ferali effettuano tiri di Educazione solamente con 1D6.
+
 - **Grande Saltatore**: I membri di questa specie possono saltare a grandi distanze. Come azione significativa, un membro di questa specie può effettuare una Prova di Atletica. Se ha successo, salta di quattro quadrati, più un numero di quadrati pari all'Effetto della Prova di abilità. Inoltre, i membri di questa specie sono considerati come aventi l'abilità Atletica a Livello 0.
+
 - **Grande Taglia**: Queste specie sono considerevolmente più grandi della media dei sofonti. Le creature di Grande Taglia hanno di solito una Forza e una Resistenza di 3d6 o 4d6 e una Destrezza di 1d6. I requisiti per il supporto vitale delle creature di Grande Taglia sono raddoppiati. Qualcune creature di Grande Taglia sono descritte come Giganti. Gli attacchi contro creature Giganti ricevono un MD +1 per colpire.
+
 - **Maldestro**: Questa specie non ha dita o altre appendici prensili, impedendole di afferare facilmente oggetti, di spingere piccoli bottoni, arrampicarmi in spazi ristretti e così via.
+
 - **Mente Alverare**: Membri di questa specie sono guidati da una mentalità alveare e spesso perseguono le azioni che supportano al bene più grande della propria famiglia, anche a costo della propria sicurezza personale. I personaggi devono effettuare una Prova di Intelligenza per evitare di rischiare la propria sicurezza quando seguono questo comportamento. La difficoltà della Prova di Intelligenza cambia a seconda del grado di percepito beneficio per la famiglia (solitamente è un compito Medio con MD+0, anche se possono sorgere circostanze in cui la la difficoltà varia da Routine MD+2 a Difficile MD-2).
+
 - **Metabolismo Lento**: Le creature con un metabolismo lento richiedono meno cibo rispetto alla maggioranza delle specie e i costi del loro supporto vitale sono dimezzati. In combattimento, le creature a metabolismo lento soffrono una penalità di -2 all'iniziativa.
+
 - **Metabolismo Veloce**: Creature con un metabolismo veloce richiedono più cibo rispetto alla maggior parte delle specie e il loro supporto vitale costa il doppio. In combattimento, le creature a metabolismo veloce ottengono un bonus +2 all'iniziativa. Le creature a metabolismo veloce dimezzano la loro Resistenza ai fini di determinare la fatica.
+
 - **Naturalmente Curioso**: I membri di questa specie sono spinti da un naturale senso di curiosità e sono facilmente trascinati in qualsiasi avventura. Devono controllare tutto e vogliono sempre sapere cosa c'è dietro un potenziale mistero. I personaggi devono effettuare una prova di Intelligenza per evitare di agire in base ai loro impulsi curiosi. La difficoltà della Prova di Intelligenza varia in base al grado di mistero percepito (questo di solito è un compito Medio (DM + 0), sebbene possano verificarsi circostanze in cui la difficoltà varia da Routine (DM + 2) a Difficile (DM-2).)
+
 - **Notevole (Caratteristica)**: Alcune Specie sono notevolmente agili, intelligenti, resistenti o forti. I personaggi di queste razza hanno un Modificatore al Dado positivo quando tirano per quella caratteristica (+2 se non altrimenti specificato) e il massimo raggiungibile per quella caratteristica è incrementato dello stesso ammontare.
+
 - **Nuotatore Nato**: I membri di questa specie sono nuotatori nati e ottengono MD+2 su una Prova di Abilità riguardante il nuotare.
+
 - **Piccolo**: Le specie Piccole hanno di solito Forza e Resistenza di solo 1D6 e una Destrezza di 3D6. La taglia minima per un sofonte è di circa la metà di un umano.
+
 - **Pilota Nato**: I membri di questa specie hanno un'innata comprensione dello spazio multi-dimensionale e ricevono quindi un MD+1 alle Prove di Pilotaggio e Navigazione.
+
 - **Progettato**: La specie è stata alterata da qualche fattore esterno per adattarsi a circostanze mutate o ambienti diversi. Il trattamento medico di specie Progettate da strutture di Livello Tecnologico più basso rispetto a quello con cui la specie è stata creata, ricevono un MD negativo pari alla differenza tra i livelli tecnologici.
+
 - **Psionico**: Tutti i membri della specie sono Psionici e possono determinare la propria Forza Psionica e i talenti all'inizio della generazione del personaggio.
+
 - **Requisiti Atmosferici**: La specie richiede un'insolita combinazione di gas per respirare e non possono sopravvivere nella maggior parte delle atmosfere senza ausilio.
+
 - **Resistenza al Calore**: I membri di questa specie non soffrono danno orario a causa degli effetti di clima caldo ed esposizione.
+
 - **Sangue Freddo**: I membri di questa specie sono sensibili ai climi rigidi. Se esposti a freddo estremo senza equipaggiamento protettivo, il personaggio soffre un MD-1 sull'iniziativa. Il personaggio soffre 1D6 danni ogni dieci minuti di esposizione.
+
 - **Visione Notturna**: Membri di questa specie possono vedere due volte piùlontano di un umano in condizioni di scarsa luminosità come sotto le stelle, al chiaro di luna o a torcia. Mantengono la capacità di distinguere i colori e i dettagli anche in queste condizioni.
+
 - **Volante**: Queste specie possono volare usando ali. I personaggi di questa specie ottengono un'abilità di Atletica a Livello 0 e possono volare alla velocità segnata nella loro descrizione. Le creature volanti sono in volo devono spendere un'azione minore di movimento ogni round o finiscono in stallo e precipitano. Il volo alato è stancante e può essere sostenuto solo per un numero d'ore pari alla Resistenza della creatura, dopodiché è richiesto un pari ammontare di tempo di riposo.
