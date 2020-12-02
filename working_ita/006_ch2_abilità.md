@@ -156,7 +156,7 @@ Questa abilità permette al personaggio di operare avanzate armature da battagli
 
 ### Armi di Batteria
 
-Il peronsaggio è abile nell'operare le armi di batteria a bordo di una nave.
+Il personaggio è esperto nell'operare le armi di batteria a bordo di una nave.
 
 ### Armi Contundenti
 
@@ -193,149 +193,78 @@ Il personaggio è addestrato all'uso, la riparazione e la manutenzione di comuni
 
 ### Computer
 
-The character is skilled in the programming and operation of electronic
-and fiber optic computers, both ground and shipboard models. Computers
-can be found on any world with a TL of 8 or higher, becoming
-exponentially more common at higher technology levels.
+Il personaggio è esperto nella programmazione e nell'operare computer elettronici e a fibra ottica, sia per i modelli a terra che quelli di bordo. I computer possono essere trovati su qualsiasi mondo con LT di 8 o più, diventando esponenzialmente più comuni ad alti livelli tecnologici.
 
-A character without at least some computer training might find himself
-at disadvantage in the highly technical universe of science fiction.
-Anyone with Computer-0 or better can perform the following without a
-skill check: Log on to a Datanet, send and receive messages, search for
-non-classified information, and retrieve data and files. More skilled
-users can create or break data encryption; mine data effectively; create
-or break data and network security protocols; and perform other general
-programming tasks.
+Un personaggio senza almeno un po' di addestramento nell'uso dei computer potrebbe trovarsi svantaggiato in un universo fantascientifico ad alta tecnologia. Chiunque abbia Computer-0 o meglio può effettuare le seguenti Prove: accesso a Datanet, inviare e ricevere messaggi, cercare informazioni non classificate e recuperare file e dati. Utenti più esperti possono aprire e chiudere dati criptati; scovare dati effecacemente; creare o rompere i protocolli di sicurezza di dati e reti; ed effettuare ogni altro compito di programmazione a livello generale.
 
-### Demolitions
+### Demolizioni
 
-This skill covers the use of demolition charges and other explosive
-devices, including assembling or disarming bombs.
+Questa abilità copre l'uso di cariche da demolizione e altri esplosivi e include l'assemblaggio e lo smantellamento di bombe.
 
-### Electronics
+### Electronica
 
-The character is practiced in installing, using, maintaining, repairing
-and/or creating electronic devices and equipment. The character can
-practice a trade and make a decent living, earning a paycheck for every
-week of dedicated work. The character knows how to use the tools of the
-trade, how to perform routine tasks, how to supervise untrained helpers,
-and how to handle common problems.
+Il personaggio è esperto nell'installare, usare, mantenere, riparare e/o creare dispositivi ed equipaggiamento elettronici . Il personaggio può commerciarli ricavandone di che vivere, guadagnando un salario per ogni settimana di lavoro dedicato. Il personaggio conosce come usare gli strumenti del lavoro, come svolgere compiti di routine, come supervisionare aiutanti inesperti e come gestire i più comuni problemi.
 
-**Disabling Devices**: The character is skilled at disarming alarm
-systems, picking electronic locks, disabling a malfunctioning robot, or
-similar tasks involving electronic devices.
+**Disabilitare i Dispositivi**: Il personaggio è abile nel disattivare i sistemi di allarme, aprire lucchetti elettronici, disabilitare robot malfunzionanti o compiti simili che riguardano i dispositivi elettronici.
 
-### Energy Pistol
+### Pistola ad Energia
 
-The character is skilled at using advanced pistol-style energy weapons
-like laser pistols and stunners.
+Il personaggio è esperto nell'uso delle armi avanzate come pistole laser e storditori.
 
-### Energy Rifle
+### Fucile ad Energia
 
-The character is skilled at using advanced energy weapons like laser
-rifles or plasma rifles.
+Il personaggio è esperto nell'uso delle armi avanzate come fucili laser o al plasma.
 
-### Engineering
+### Ingegneria
 
-The character is skilled in the operation and maintenance of starship
-maneuver drives, Jump drives, and power plants. The character can
-practice a trade and make a decent living, earning a paycheck for every
-week of dedicated work. The character knows how to use the tools of the
-trade, how to perform routine tasks, how to supervise untrained helpers,
-and how to handle common problems. Engineering is particularly important
-in diverting power to the Jump Drives for a successful transition into
-Jump space.
+Il personaggio è esperto nell'operare e mantenere i motori di manovra delle astronavi, i motori a Balzo e i generatori. Il personaggio può commerciarli ricavandone di che vivere, guadagnando un salario per ogni settimana di lavoro dedicato. Il personaggio conosce come usare gli strumenti del lavoro, come svolgere compiti di routine, come supervisionare aiutanti inesperti e come gestire i più comuni problemi. L'Ingegneria è particolarmente importante nell'indirizzare l'energia ai motori a Balzo per una riuscita transizione allo Spazio di Balzo.
 
-### Farming
+### Allevamento
 
-The character can grow and harvest crops and raise animals. This also
-covers hydroponic farming and clone harvesting for food production, at
-sufficiently high tech levels.
+Il personaggio può far crescere e crescere raccolti e allevare animali. Questo include anche le colture idroponiche e i raccolti clonati per la produzione di cibo, a livelli tecnologici sufficientemente alti.
 
-### Gambling
+### Gioco d'Azzardo
 
-The individual is well informed on games of chance, and wise in their
-play. He or she has an advantage over non-experts, and is generally
-capable of winning when engaged in such games. Gambling, however, should
-not be confused with general risk-taking.
+La persona è ben preparata su giochi d'azzardo ed esperto nel giocarli. É avvantaggiato rispetto ai non esperti ed è generalmente capace di vincere quando si cimenta in questi giochi. L'Abilità Gioco d'Azzardo, comunque, non dovrebbe essere confusa con una generazione assunzione di rischio.
 
-**Non-Competitive Games**: These are games such as Slots, Roulette,
-Blackjack, Keno, etc. These games are played strictly against the house
-and the odds are pretty much constant, as are the payoff values. The
-character chooses a game by its odds of winning (high, average, low,
-small or remote) and places a bet. The Referee determines if the game is
-rigged. The character then rolls their Gambling score. On a success, the
-character receives the payoff amount based on the amount of their
-initial bet. House always wins on a natural 2.
+**Giochi non competivi**:  Questi sono giochi come Slot Machines, Roulette, Blackjack, Keno, Etc. Questi giochi sono giocati strettamente contro la Casa e le loro probabilità sono piuttosto constanti, così come i valori di ricompensa. Il personaggio sceglie un gioco dalle sue probabilità di vincita (alta, media, bassa, scarsa o remota) e piazza la scommessa. L'Arbitro determina se il gioco è truccato. Il personaggio quindi tira il proprio punteggio di Gioco d'Azzardo. Se ha successo, il personaggio riceve una ricompensa basata sull'ammontare della scommessa iniziale. La Casa vince sempre al tiro di un 2 naturale.
 
-#### Table: Gambling by Odds of Winning
+#### Tabella: Gioco d'Azzardo secondo le Probabilità di Vincita
 
-| Odds of Winning | DM  | Payoff | Maximum Bet |
-| --------------- | --- | ------ | ----------- |
-| Rigged          | -8  | Varies | Varies      |
-| Remote          | -6  | 1:10   | Cr5,000     |
-| Small           | -4  | 1:8    | Cr1,000     |
-| Low             | -2  | 1:4    | Cr500       |
-| Average         | +0  | 1:2    | Cr100       |
-| High            | +2  | 2:3    | Cr50        |
+| Probabilità di Vincita | MD | Ricompensa | Scommessa Massima |
+|------------------------|----|------------|-------------------|
+| Truccato               | -8 | Varia      | Varia             |
+| Remota                 | -6 | 1:10       | Cr5,000           |
+| Scarsa                 | -4 | 1:8        | Cr1,000           |
+| Bassa                  | -2 | 1:4        | Cr500             |
+| Media                  | +0 | 1:2        | Cr100             |
+| Alta                   | +2 | 2:3        | Cr50              |
 
-**Competitive Games**: If playing against a group of other players, each
-member of the game will make their Gambling skill check with the highest
-roll taking the pot. A character may attempt to cheat during a game at
-any time by stating his or her intent to cheat and making an extra
-Gambling check. If any other player in the game makes a successful
-opposing Gambling check against the character's attempt at cheating they
-are caught red-handed. Otherwise the player has successfully cheated and
-takes the pot. If more than one person attempts to cheat during the same
-round of play, the person with the highest roll wins the pot.
+**Giochi Competitivi**: Se si gioca contro un gruppo di altri giocatori, ciascun partecipante al gioco effettuarà la Prova di Abilità su Gioco d'Azzardo e il tiro più alto vince il piatto. Un personaggio può tentare di barare durante un gioco in ogni momento dichiarando il suo intento di barare ed effettuando un'ulteriore Prova di Gioco d'Azzardo. Se qualsiasi altro giocatore ottiene una Prova favorevole contro il tentativo di barare del personaggio, sono colti il flagrante. Altrimenti il giocatore ha barato con successo e vince il piatto. Se più di una persona tenta di barare durante lo stesso round di gioco, la persona con il tiro più alto vince il piatto.
 
-### Grav Vehicle
+### Grav
 
-This skill grants the ability to properly maneuver and perform basic,
-routine maintenance on air/rafts and other vehicles that use gravitic
-technology. Grav vehicles have theoretically perfect maneuverability and
-can hover, but skill checks may be necessary when performing high-speed
-aerobatics.
+Questa abilità garantisce la capacità di manovrare correttamente chiatte ad aria e altri veicoli che usano la tecnologica gravitonica, oltre che di effettuare operazioni di manutenzione basilari di routine. I Grav hanno in teoria perfetta manovrabilità e possono galleggiare nell'aria, ma prove di abilità potrebbero essere necessarie quando si effettuano manovre acrobatiche ad alta velocità.
 
-### Gravitics
+### Gravitonica
 
-The character is practiced in installing, maintaining, repairing and/or
-creating gravitic devices and equipment. Such items include air/raft
-lift modules, grav belts, grav sleds, grav tanks, etc. Gravitics skill
-deals with the technical details of such vehicles; Grav Vehicle skill is
-required to actually pilot or drive them. The character can practice a
-trade and make a decent living, earning a paycheck for every week of
-dedicated work. The character knows how to use the tools of the trade,
-how to perform routine tasks, how to supervise untrained helpers, and
-how to handle common problems.
+Il personaggio è addestrato nell'installare, mantenere, riparare e/o creare dispositivi ed equipaggiamento gravitonici. Questi oggetti includono: chiatte ad aria, moduli sollevanti, cinture a gravità, slitte a gravità, corazzati a gravità, etc. L'abilità Gravitonica ha a che fare con i dettagli tecnici di questi veicoli; l'abilità Grav è richiesta invece per pilotarli. Il personaggio può commerciare ricavandone di che vivere, guadagnando un salario per ogni settimana di lavoro dedicato. Il personaggio conosce come usare gli strumenti del lavoro, come svolgere compiti di routine, come supervisionare aiutanti inesperti e come gestire i più comuni problemi. 
 
-### Gun Combat (Abilità a Cascata)
+### Armi da fuoco (Abilità a Cascata)
 
-The various specialties of this skill cover different types of ranged
-personal weapons. When this skill is received, the character must
-immediately select one of the following: Archery, Energy Pistol, Energy
-Rifle, Shotgun, Slug Pistol, or Slug Rifle.
+Le varie specialità di questa abilità coprono differenti tipi di armi portatili a distanza. Quando si riceve questa abilità, il personaggio deve immediatamente selezionare una delle seguenti: Tiro con l'Arco, Pistole a Energia, Fucile a Energia, Doppietta, Pistola a proiettili, Fucile a proiettili.
 
-### Gunnery (Abilità a Cascata)
+### Artiglieria (Abilità a Cascata)
 
-The various specialties of this skill cover different types of
-devastating weapons commonly used against vehicles, spaceships and
-ground installations. When this skill is received, the character must
-immediately select one of the following: Bay Weapons, Heavy Weapons,
-Screens, Spinal Mounts, or Turret Weapons.
+Le varie specialità di questa abilità coprono differenti tipi di armi devastanti comunemente usate contro veicoli, astronavi e installazioni a terra. Quando si riceve questa abilità, il personaggio deve immediatamente selezionare una delle seguenti: Armi di Batteria, Armi Pesanti, Schermi, Armi montate sul dorso, Torrette.
 
 ### Heavy Weapons
 
-The Heavy Weapons skill covers man-portable and larger weapons that
-cause extreme property damage, such as rocket launchers, artillery and
-plasma weapons.
+L'abilità Armi Pesanti copre molti tipi di armi portatali e più grandi che causano danni ingenti, come lanciarazzi, artiglieria e armi al plasma.
 
-### Jack-of-All-Trades (Jack o' Trades or JoT)
+### Tuttofare
 
-The Jack of All Trades skill works differently to other skills. It
-reduces the unskilled penalty a character receives for not having the
-appropriate skill by one for every level of Jack of All Trades. Jack of
-All Trades cannot grant a skill bonus at higher levels.
+L'abilità Tuttofare funziona diversamente dalle altre abilità. Riduce la penalità di Inesperto che un personaggio riceve di solito quando non ha l'abilità adeguata da usare. Per ogni livello di Tuttofare la penalità è ridotta di uno. Tuttofare non garantisce alcun bonus a livelli più alti.
 
 ### Leadership
 
