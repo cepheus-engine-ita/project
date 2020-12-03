@@ -442,6 +442,16 @@ Il personaggio è abituato a lavorare e vivere negli ambienti a microgravità o 
 
 Il Totale Abilità di un personaggio è calcolato sommando i livelli di ciascuna abilità (i livelli zero non vengono contati). Un personaggio con Meccanica-1 e Pistole a Proiettili-2, avrebbe un Totale Abilità di 3.
 
-Per migliorare un'abilità, un personaggio deve addestrarsi per un numero di settimane pari al suo Totale Abilità attuale, più il livello desiderato in quell'abilità. Quindi, per avanzare da Pilota-2 a Pillota-3, ci vogliono sei settimane (tre più tre). Un personaggio può addestrarsi solo in un'abilità in una determinata settimana.
+Per migliorare un'abilità, un personaggio deve addestrarsi per un numero di settimane pari al suo Totale Abilità attuale, più il livello desiderato in quell'abilità. Quindi, per avanzare da Pilota-2 a Pillota-3, ci vogliono sei settimane (tre più tre). Un  personaggio può addestrarsi solo in un'abilità in una determinata settimana.
 
 Tuttofare non può essere imparato.
+
+
+
+To increase a skill, a character must train for a number of weeks equal
+to his current Skill Total plus the desired level of the skill. So, to
+advance from Piloting 2 to Piloting 3 with a current Skill Total of 3
+would take (three, plus three) six weeks. A character may only train one
+skill in a given week.
+
+The Jack of all Trades skill cannot be learned.
