@@ -1,179 +1,108 @@
-# CHAPTER 3: PSIONICS
+# CAPITOLO 3: PSIONICA
 
-For characters in Cepheus Engine campaigns, psionics covers a broad
-category of mental disciplines and paranormal abilities originating from
-the mind. Psionics are divided into five different categories, called
-talents. These talents are: Awareness, Clairvoyance, Telekinesis,
-Telepathy, and Teleportation. The contents of this Chapter are optional.
-It is up to the individual Referee if psionics is even available, much
-less how a character may acquire these talents.
+Per personaggi nelle campagne di Cepheus Engine, la psionica copre una vasta categoria di discipline mentali e abilità paranormali prodotte dalla mente. La psionica è divisa in cinque differenti categorie, chiamate talenti: Consapevolezza, Chiaroveggenza, Telecinesi, Telepatia e Teletrasporto. I contenuti di questo Capitolo sono opzionali. Dipende dal singolo Arbitro decidere se la psionica è disponibile e come i personaggi possono acquisire questi talenti.
 
-## Psionic Strength
+## Forza Psionica
 
-Psionics are powered by the Psionic Strength characteristic
-(abbreviation Psi). This characteristic cannot be rolled or bought
-during character creation without the Referee's permission. To determine
-a character's Psionic Strength, roll 2D6 and subtract the number of
-terms served by the character in any career (Psionic Strength diminishes
-over time unless actively used).
+La psionica è alimentata dalla caratteristica della Forza Psionica (abbreviazione Psi). Questa caratteristica non può essere tirata o considerate durante la creazione di un personaggio senza il consenso dell'Arbitro. Per derminare la Forza Psionica di un personaggio, tira 2D6 e sottrai il numero di periodi serviti dal personaggio in ciascuna carriera (la Forza Psionica diminuisce nel tempo senza l'uso costante).
 
-Using a psionic talent costs a number of Psionic Strength points,
-temporarily reducing the character's total. As the Characteristic DM for
-all Psionic skill checks is determined by the characters' current
-Psionic Strength total, it gets harder and harder to use powers as the
-character's strength declines.
+Usare un talento psionico costa un numero di punti di Forza Psionica, che riduce temporaneamente il totale del personaggi. Dato che l'MD di Caratteristica per tutte le prove di abilità psioniche sono determinate dal livello corrente di Forza Psionica del personaggio, diventa sempre più difficile usare i poteri man mano che la forza del personaggio diminuisce.
 
-### Recovering Psionic Strength Points
+### Recuperare Punti di Forza Psionica
 
-Expended Psionic Strength points are recovered at the rate of one point
-per hour, beginning three hours after the character last used a psionic
-talent.
+I punti di Forza Psionica spesi sono recuperati al ritmo di un punto all'ora, iniziando tre ore dopo l'ultimo uso di un talento psionico.
 
-## Psionic Training
+## Addestramento Psionico
 
-The first step is testing a character's Psionic Strength, which is
-determined as described above (2D6 – number of terms served). If the
-character still has any Psionic Strength remaining, he can be trained.
+Il primo passo per testare la Forza Psionica di un personaggio, che è determinata come scritto sopra (2D6 - numero di periodi di servizio). Se il personaggio ha ancora della Forza Psionica rimanente, può essere addestrato.
 
-Training requires four months of work, and costs Cr100,000. As part of
-training, the character may attempt to learn any of the common psionic
-talents on the Psionic Training table by making a Psionic Strength
-check. He may attempt the talents in any order, but suffers a –1 DM per
-check attempted. If a character learns a talent, he gains that talent at
-level 0.
+L'addestramento richiede quattro mesi di lavoro, al costo di Cr100,000. Come parte dell'addestramento, il personaggio può tentare di imparare qualsiasi dei comuni talenti psionici sulla Tabella dell'Addestramento Psionico, effettuando una Prova di Forza Psionica. Può provare i talenti in qualsiasi ordine, ma soffre un MD-1 per ogni prova tentata. Se il personaggio impara il talento, ottiene quel talento a Livello-0.
 
-#### Table: Learning DMs by Talent
+#### Tabella: MD per Talento
 
-| Talent                                | Learning DM |
-|---------------------------------------|-------------|
-| Awareness                             | +1          |
-| Clairvoyance                          | +3          |
-| Telekinesis                           | +2          |
-| Telepathy                             | +4          |
-| Teleportation                         | +0          |
-| Per previous talent acquisition check | –1          |
+| Talent                                 | MD di Addestramento |
+| -------------------------------------- | ------------------- |
+| Consapevolezza                         | +1                  |
+| Chiaroveggenza                         | +3                  |
+| Telecinesi                             | +2                  |
+| Telepatia                              | +4                  |
+| Teletrasporto                          | +0                  |
+| Prova per talento precedente acquisito | –1                  |
 
-## Psionic Talents
+## Talenti Psionici
 
-There are several psionic talents, each of which works like a skill for
-the powers in question. A character trained in the use of psionics may
-develop his talents over time just as if they were normal skills. Unlike
-other skills, psionic talents cannot be used untrained. The most common
-talents are:
+Esistono diversi tipi di talento psionico, ognuno dei quali funziona come un'abilità per il potere in questione. Un personaggio addestrato nell'uso della psionica può sviluppare il suo talento nel tempo come se fosse una normale abilità. Diverstamente dalle altre abilità, il talento psionico non può essere usato se non addestrato. I più comuni talenti sono:
 
--   **Awareness** – control over one's own mind and body.
+- **Consapevolezza** – controllo sulla mente e sul corpo di una persona.
 
--   **Clairvoyance** – perceiving at a distance.
+- **Chiaroveggenza** – percezione a distanza.
 
--   **Telekinesis** – mind over matter.
+- **Telecinesi** – mente sulla materia.
 
--   **Telepathy** – reading minds and mental communication.
+- **Telepatia** – leggere la mente e comunicazione mentale.
 
--   **Teleportation** – moving from one point to another instantly.
+- **Teletrasporto** – muoversi da un punto all'altro instantaneamente.
 
-Each talent grants access to all of its powers – a character with
-Telepathy 0 can use life detection, read surface thoughts or assault as
-the situation demands.
+Ogni talento garantisce accesso a tutti questi poteri - un personaggio con Telepatia-0 può usare l'individuazione di vita, leggere i pensieri superficiali o assalire le menti, a secondo di ciò che la situazione lo richiede.
 
-### Using a Psionic Talent
+### Usare un Talento Psionico
 
-To activate a talent, the psion must make a skill check using the
-appropriate talent (Telepathy, Telekinesis, etc), adding his Psionic
-Strength characteristic DM and any other DMs. He must also spend the
-listed number of Psionic Strength points if he succeeds, or one point if
-he fails. If this cost brings him below zero Psionic Strength, then any
-excess points are applied to his Endurance score as damage. A character
-with no Psionic Strength points cannot attempt to activate a power.
+Per attivare un talento, lo psionico deve effettuare una Prova di abilità usando l'appropriato talento (Telepatia, Telecinesi, etc), aggiungendo l'MD della sua Forza Psionica e qualsiasi altro MD. Inoltre se ha successo deve  spendere il numero indicato di punti di Forza Psionica, altrimenti se fallisce un solo punto. Se questo costo porta sotto lo zero la Forza Psionica, i punti in eccesso sono applicati al punteggio di Resistenza come danno. Un personaggio senza punti di Forza Psionica non può tentare di attivare un potere.
 
-Using a talent in combat is a significant action.
+Usare un talento in combattimento è un'azione significativa.
 
-Many abilities are ranged. The Psionic Range table lists the number of
-points to project psionic abilities out to a given range – these must be
-paid as well as any points to activate the ability. Each talent has a
-different set of costs, with the exception of Awareness – all Awareness
-abilities apply to the Psion only.
+Molte abilità sono a distanza. La tabella Portata Psionica indica il numero di punti per proiettare le capacità psioniche per un raggio d'azione definito. I punti devono essere pagati come qualsiasi altro per attivare la capacità. Ogni talento ha un diverso elenco di costi, con l'eccezione di Consapevolezza. Tutte le capacità di Consapevolezza si applicano solo allo Psionico stesso.
 
-### Range
+### Portata
 
-Psionic range costs are paid based on range bands based on those used in
-personal combat or communication devices. These are defined in the
-Psionic Range Costs table.
+I costi di portata psionica sono pagati in base al raggi di azione simili a quelli usati nel combattimento corpo a corpo o dei dispositivi di comunicazione. I costi sono definiti nella tabella Costi di Portata Pionica.
 
-#### Table: Psionic Range Costs
+#### Tabella: Costi di Distanza Psionica
 
-| Range        | Distance to Target       | Clairvoyance | Telekinesis | Telepathy | Teleportation |
-|--------------|--------------------------|--------------|-------------|-----------|---------------|
-| Personal     | Less than 1.5 meters     | 0            | 0           | 0         | 1             |
-| Close        | 1.5 to 3 meters          | 0            | 2           | 1         | 1             |
-| Short        | 3 to 12 meters           | 1            | 4           | 1         | 2             |
-| Medium       | 12 to 50 meters          | 1            | 5           | 2         | 2             |
-| Long         | 51 meters to 250 meters  | 2            | 7           | 2         | 3             |
-| Very Long    | 251 meters to 500 meters | 2            | 9           | 3         | 3             |
-| Distant      | 501 meters to 5 km       | 3            | --          | 3         | 4             |
-| Very Distant | 5 km to 500 km           | 3            | --          | 4         | 4             |
-| Regional     | 50 km to 500 km          | 4            | --          | 4         | 5             |
-| Continental  | 500 km to 5000 km        | 4            | --          | 5         | 5             |
+| Portata        | Distanza dall'obiettivo | Chiaroveggenza | Telecinesi | Telepatia | Teletrasporto |
+| -------------- | ----------------------- | -------------- | ---------- | --------- | ------------- |
+| Personale      | Meno di 1.5 metri       | 0              | 0          | 0         | 1             |
+| Vicina         | Da 1.5 a 3 metri        | 0              | 2          | 1         | 1             |
+| Breve          | Da 3 a 12 metri         | 1              | 4          | 1         | 2             |
+| Media          | Da 12 a50 metri         | 1              | 5          | 2         | 2             |
+| Lunga          | Da 51 a 250 metri       | 2              | 7          | 2         | 3             |
+| Molto Lunga    | Da 251 a 500 metri      | 2              | 9          | 3         | 3             |
+| Distante       | Da 501 mentri a 5 km    | 3              | --         | 3         | 4             |
+| Molto Distante | Da 5 a 500 km           | 3              | --         | 4         | 4             |
+| Regionale      | Da 50 a 500 km          | 4              | --         | 4         | 5             |
+| Continentale   | Da 500 a 5000 km        | 4              | --         | 5         | 5             |
 
-## Awareness
+## Consapevolezza
 
-Awareness is the psionic talent which allows control of one's own body.
-Awareness powers never have a range – they are used only on yourself.
+La consapevolezza è il talento psionico che permette il controllo sul proprio corpo. I poteri di consapevolezza non ha mai una portata, in quanto sono usati solo su se stessi.
 
-#### Table: Awareness
+#### Tabella: Consapevolezza
 
-| Ability                        | Difficulty          | Timing      | Cost    |
-|--------------------------------|---------------------|-------------|---------|
-| Suspended Animation            | Average (+0)        | 1D6 minutes | 3       |
-| Psionically Enhanced Strength  | Average (+0)        | 1D6 seconds | 1/Point |
-| Psionically Enhanced Endurance | Average (+0)        | 1D6 seconds | 1/Point |
-| Regeneration                   | Very Difficult (-4) | 1D6 rounds  | 1/Point |
+| Abilità                             | Difficoltà           | Tempi       | Costi |
+| ----------------------------------- | -------------------- | ----------- | ----- |
+| Animazione Sospesa                  | Media (+0)           | 1D6 minuti  | 3     |
+| Forza Migliorata Psionicamente      | Media(+0)            | 1D6 secondi | 1     |
+| Resistenza Migliorata Psionicamente | Media(+0)            | 1D6 secondi | 1     |
+| Rigenerazione                       | Molto Difficile (-4) | 1D6 round   | 1     |
 
-### Suspended Animation
+### Animazione Sospesa
 
-Personal body activity may be suspended for varying periods of time. A
-character with Awareness may enter a suspended animation state (similar
-to cold sleep but without the intrinsic danger of death) by willing
-himself into it. Such a state continues for 7 days without need for food
-or water and with minimal air needs. Such a person could effectively
-travel in a low passage berth without actually undergoing cold sleep and
-its dangers. Suspended animation may be stopped at any time previous to
-its duration expiring, provided external stimulus is given to awaken the
-sleeper (such as a friend or a mechanical alarm).
+Le funzioni del corpo possono essere sopese per periodi variabili di tempo. Un personaggio con Consapevolezza può entrare in uno stato di animazion sospesa (simile al sonno criogenico ma senza l'intriseco pericolo di morte) con la forza del pensiero. Uno stato simile continua per 7 giorni senza bisogno di cibo o acqua e con necessità di aria minime. Una persona in questo stato può in effetti viaggare in una cuccetta di Passaggio Inferiore senza andare effettivamente in sonno criogenico e senza subirne i pericoli. L'animazione sospesa può essere interrotta in qualsiasi momento prima dello scadere del suo tempo, presupponendo uno stimolo esterno che svegli il dormiente (come un amico o un allarme meccanico).
 
-### Psionically Enhanced Strength
+### Forza Migliorata Psionicamente
 
-Psionic Strength points may be converted to normal Strength points on a
-temporary basis. The character makes the commitment, reduces his Psionic
-Strength by a specific number of points, and increases his physical
-Strength characteristic by that number. In no case may the number of
-Strength points gained exceed the character's current level in
-Awareness, and Strength may not be increased beyond the character's
-racial maximum. Psionically enhanced strength reaches its new level
-immediately, remains at that peak for ten minutes, and then declines at
-the rate of 1 Strength point per minute until the normal Strength level
-is reached. This power works as normal on wounded characters but their
-Strength returns to the wounded level rather than the normal value. It
-cannot be used as a ‘quick heal'.
+La Forza Psionica può essere convertita in normali punti Forza in modo temporaneo. Il personaggio si assume l'impegno, riduce la sua Forza Psionica di uno specifico numero di punti e incrementa la sua Forza ficia di quel numero. In nessun caso il numero di punti Forza guadagnati può eccedere il livello attuale di Consapevolezza del personaggio e la Forza non può superare il massimale di razza del personaggio. La Forza Migliorata Psionicamente raggiunge il suo nuovo livello immediatamente, rimanendo a tale picco per dieci minuti per declinare poi a un tassp di 1 punto di Forza per minuti fino a che il normale livello di Forza non sia raggiunto. Questo potere funziona normalmente su personaggi feriti ma la loro Forza ritorna poi al livello delle ferite subite anziché al livello normale. Non può essere usato per una guarigione rapida.
 
-### Psionically Enhanced Endurance
+### Resistenza Migliorata Psionicamente
 
-Psionically enhanced endurance works in exactly the same way as
-psionically enhanced strength except the characteristic boosted is
-Endurance rather than Strength, including its lack of healing ability.
+La Resistenza Migliorata Psionicamente funziona esattamente come la Forza Migliorata Psionicamente anche se la caratteristica potenziata è la Resistenza al posto della Forza. Vale anche per l'impossibilità di guarire con questa abilità.
 
-### Regeneration
+### Rigenerazione
 
-Wounds and injuries may be healed rapidly. Strength, Dexterity and
-Endurance lost to injury, disease, poison or other trauma may be healed
-by the application of this ability, exchanging one Psionic Strength
-point to regenerate one characteristic point. Any amount of Psionic
-Strength may be expended with a single use of regeneration but it may
-not be used again until all expended Psionic Strength is recovered.
-Regeneration may also be applied to the growing of new limbs or organs
-to replace lost ones or to heal unrecovered old wounds suffered prior to
-psionic training. Regeneration may not be used to counteract aging.
-Awareness is not capable of affecting others and may not be used for
-healing or enhancing other characters.
+Le ferite e gli infortuni possono essere guariti rapidamente. Forza, Destrezza e Resistenza persi a causa di lesioni, malattia, avvelenamento e altri traumi possono essere guariti usando questa abilità, scambiando un punto di Forza Psionica per rigenerare un punto di caratteristica fisica. Qualsiasi ammontare di Forza Psionica può essere speso con un solo uso di rigenerazione ma non può essere usato nuovamente fino a a che la Forza Psionica spesa non sia recuperata.
+La Rigenerazione può inoltre essere applicata alla crescita di nuove appendici o organi per rimpiazzare quelli perduti o per guarire vecchie ferite non guarite sofferte prima dell'addestramento psionico. La rigenerazione può essere usata per combattere l'invecchiamento. La Consapevolezza non ha effetto sugli altri e non può essere usata per guarire o migliorare gli altri personaggi.
+
+
 
 ## Clairvoyance
 
@@ -189,7 +118,7 @@ others, including by other psionic individuals.
 #### Table: Clairvoyance
 
 | Ability        | Difficulty     | Timing     | Cost    |
-|----------------|----------------|------------|---------|
+| -------------- | -------------- | ---------- | ------- |
 | Sense          | Routine (+2)   | 1D6 rounds | 1+Range |
 | Clairvoyance   | Average (+0)   | 1D6 rounds | 2+Range |
 | Clairaudience  | Average (+0)   | 1D6 rounds | 2+Range |
@@ -250,7 +179,7 @@ on a successful hit.
 #### Table: Telekinesis
 
 | Ability                        | Difficulty          | Timing      | Cost     | Throwing Damage |
-|--------------------------------|---------------------|-------------|----------|-----------------|
+| ------------------------------ | ------------------- | ----------- | -------- | --------------- |
 | Telekinetically Lift 10 Grams  | Easy (+4)           | 1D6 seconds | 2+Range  | None            |
 | Telekinetically Lift 100 Grams | Routine (+2)        | 1D6 seconds | 3+Range  | None            |
 | Telekinetically Lift 1 kg      | Average (+0)        | 1D6 seconds | 5+Range  | 1 point         |
@@ -267,7 +196,7 @@ telepath.
 #### Table: Telepathy
 
 | Ability               | Difficulty          | Timing      | Cost    |
-|-----------------------|---------------------|-------------|---------|
+| --------------------- | ------------------- | ----------- | ------- |
 | Life Detection        | Easy (+4)           | 1D6 rounds  | 1+Range |
 | Telempathy            | Routine (+2)        | 1D6 rounds  | 1+Range |
 | Read Surface Thoughts | Average (+0)        | 1D6 rounds  | 2+Range |
@@ -371,7 +300,7 @@ her clothing and other possessions.
 #### Table: Teleportation
 
 | Ability                      | Difficulty          | Timing      | Cost    |
-|------------------------------|---------------------|-------------|---------|
+| ---------------------------- | ------------------- | ----------- | ------- |
 | Teleport self, unclothed     | Average (+0)        | 1D6 seconds | 0+Range |
 | Teleport self, light load    | Difficult (-2)      | 1D6 seconds | 2+Range |
 | Teleport self, moderate load | Very Difficult (-4) | 1D6 seconds | 3+Range |
