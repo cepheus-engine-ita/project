@@ -4,7 +4,7 @@ Per personaggi nelle campagne di Cepheus Engine, la psionica copre una vasta cat
 
 ## Forza Psionica
 
-La psionica è alimentata dalla caratteristica della Forza Psionica (abbreviazione Psi). Questa caratteristica non può essere tirata o considerate durante la creazione di un personaggio senza il consenso dell'Arbitro. Per derminare la Forza Psionica di un personaggio, tira 2D6 e sottrai il numero di periodi serviti dal personaggio in ciascuna carriera (la Forza Psionica diminuisce nel tempo senza l'uso costante).
+La psionica è alimentata dalla caratteristica della Forza Psionica (abbreviazione Psi). Questa caratteristica non può essere tirata o considerate durante la creazione di un personaggio senza il consenso dell'Arbitro. Per determinare la Forza Psionica di un personaggio, tira 2D6 e sottrai il numero di periodi serviti dal personaggio in ciascuna carriera (la Forza Psionica diminuisce nel tempo senza l'uso costante).
 
 Usare un talento psionico costa un numero di punti di Forza Psionica, che riduce temporaneamente il totale del personaggi. Dato che l'MD di Caratteristica per tutte le prove di abilità psioniche sono determinate dal livello corrente di Forza Psionica del personaggio, diventa sempre più difficile usare i poteri man mano che la forza del personaggio diminuisce.
 
@@ -41,13 +41,13 @@ Esistono diversi tipi di talento psionico, ognuno dei quali funziona come un'abi
 
 - **Telepatia** – leggere la mente e comunicazione mentale.
 
-- **Teletrasporto** – muoversi da un punto all'altro instantaneamente.
+- **Teletrasporto** – muoversi da un punto all'altro istantaneamente.
 
 Ogni talento garantisce accesso a tutti questi poteri - un personaggio con Telepatia-0 può usare l'individuazione di vita, leggere i pensieri superficiali o assalire le menti, a secondo di ciò che la situazione lo richiede.
 
 ### Usare un Talento Psionico
 
-Per attivare un talento, lo psionico deve effettuare una Prova di abilità usando l'appropriato talento (Telepatia, Telecinesi, etc), aggiungendo l'MD della sua Forza Psionica e qualsiasi altro MD. Inoltre se ha successo deve  spendere il numero indicato di punti di Forza Psionica, altrimenti se fallisce un solo punto. Se questo costo porta sotto lo zero la Forza Psionica, i punti in eccesso sono applicati al punteggio di Resistenza come danno. Un personaggio senza punti di Forza Psionica non può tentare di attivare un potere.
+Per attivare un talento, lo psionico deve effettuare una Prova di abilità usando l'appropriato talento (Telepatia, Telecinesi, etc.), aggiungendo l'MD della sua Forza Psionica e qualsiasi altro MD. Inoltre se ha successo deve  spendere il numero indicato di punti di Forza Psionica, altrimenti se fallisce un solo punto. Se questo costo porta sotto lo zero la Forza Psionica, i punti in eccesso sono applicati al punteggio di Resistenza come danno. Un personaggio senza punti di Forza Psionica non può tentare di attivare un potere.
 
 Usare un talento in combattimento è un'azione significativa.
 
@@ -55,7 +55,7 @@ Molte abilità sono a distanza. La tabella Portata Psionica indica il numero di 
 
 ### Portata
 
-I costi di portata psionica sono pagati in base al raggi di azione simili a quelli usati nel combattimento corpo a corpo o dei dispositivi di comunicazione. I costi sono definiti nella tabella Costi di Portata Pionica.
+I costi di portata psionica sono pagati in base al raggi di azione simili a quelli usati nel combattimento corpo a corpo o dei dispositivi di comunicazione. I costi sono definiti nella tabella Costi di Portata Psionica.
 
 #### Tabella: Costi di Distanza Psionica
 
@@ -87,11 +87,11 @@ La consapevolezza è il talento psionico che permette il controllo sul proprio c
 
 ### Animazione Sospesa
 
-Le funzioni del corpo possono essere sopese per periodi variabili di tempo. Un personaggio con Consapevolezza può entrare in uno stato di animazion sospesa (simile al sonno criogenico ma senza l'intriseco pericolo di morte) con la forza del pensiero. Uno stato simile continua per 7 giorni senza bisogno di cibo o acqua e con necessità di aria minime. Una persona in questo stato può in effetti viaggare in una cuccetta di Passaggio Inferiore senza andare effettivamente in sonno criogenico e senza subirne i pericoli. L'animazione sospesa può essere interrotta in qualsiasi momento prima dello scadere del suo tempo, presupponendo uno stimolo esterno che svegli il dormiente (come un amico o un allarme meccanico).
+Le funzioni del corpo possono essere sospese per periodi variabili di tempo. Un personaggio con Consapevolezza può entrare in uno stato di animazione sospesa (simile al sonno criogenico ma senza l'intrinseco pericolo di morte) con la forza del pensiero. Uno stato simile continua per 7 giorni senza bisogno di cibo o acqua e con necessità di aria minime. Una persona in questo stato può in effetti viaggiare in una cuccetta di Passaggio Inferiore senza andare effettivamente in sonno criogenico e senza subirne i pericoli. L'animazione sospesa può essere interrotta in qualsiasi momento prima dello scadere del suo tempo, presupponendo uno stimolo esterno che svegli il dormiente (come un amico o un allarme meccanico).
 
 ### Forza Migliorata Psionicamente
 
-La Forza Psionica può essere convertita in normali punti Forza in modo temporaneo. Il personaggio si assume l'impegno, riduce la sua Forza Psionica di uno specifico numero di punti e incrementa la sua Forza ficia di quel numero. In nessun caso il numero di punti Forza guadagnati può eccedere il livello attuale di Consapevolezza del personaggio e la Forza non può superare il massimale di razza del personaggio. La Forza Migliorata Psionicamente raggiunge il suo nuovo livello immediatamente, rimanendo a tale picco per dieci minuti per declinare poi a un tassp di 1 punto di Forza per minuti fino a che il normale livello di Forza non sia raggiunto. Questo potere funziona normalmente su personaggi feriti ma la loro Forza ritorna poi al livello delle ferite subite anziché al livello normale. Non può essere usato per una guarigione rapida.
+La Forza Psionica può essere convertita in normali punti Forza in modo temporaneo. Il personaggio si assume l'impegno, riduce la sua Forza Psionica di uno specifico numero di punti e incrementa la sua Forza fisica di quel numero. In nessun caso il numero di punti Forza guadagnati può eccedere il livello attuale di Consapevolezza del personaggio e la Forza non può superare il massimale di razza del personaggio. La Forza Migliorata Psionicamente raggiunge il suo nuovo livello immediatamente, rimanendo a tale picco per dieci minuti per declinare poi a un tasso di 1 punto di Forza per minuti fino a che il normale livello di Forza non sia raggiunto. Questo potere funziona normalmente su personaggi feriti ma la loro Forza ritorna poi al livello delle ferite subite anziché al livello normale. Non può essere usato per una guarigione rapida.
 
 ### Resistenza Migliorata Psionicamente
 
@@ -101,8 +101,6 @@ La Resistenza Migliorata Psionicamente funziona esattamente come la Forza Miglio
 
 Le ferite e gli infortuni possono essere guariti rapidamente. Forza, Destrezza e Resistenza persi a causa di lesioni, malattia, avvelenamento e altri traumi possono essere guariti usando questa abilità, scambiando un punto di Forza Psionica per rigenerare un punto di caratteristica fisica. Qualsiasi ammontare di Forza Psionica può essere speso con un solo uso di rigenerazione ma non può essere usato nuovamente fino a a che la Forza Psionica spesa non sia recuperata.
 La Rigenerazione può inoltre essere applicata alla crescita di nuove appendici o organi per rimpiazzare quelli perduti o per guarire vecchie ferite non guarite sofferte prima dell'addestramento psionico. La rigenerazione può essere usata per combattere l'invecchiamento. La Consapevolezza non ha effetto sugli altri e non può essere usata per guarire o migliorare gli altri personaggi.
-
-
 
 ## Clairvoyance
 
