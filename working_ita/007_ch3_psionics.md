@@ -102,27 +102,20 @@ La Resistenza Migliorata Psionicamente funziona esattamente come la Forza Miglio
 Le ferite e gli infortuni possono essere guariti rapidamente. Forza, Destrezza e Resistenza persi a causa di lesioni, malattia, avvelenamento e altri traumi possono essere guariti usando questa abilità, scambiando un punto di Forza Psionica per rigenerare un punto di caratteristica fisica. Qualsiasi ammontare di Forza Psionica può essere speso con un solo uso di rigenerazione ma non può essere usato nuovamente fino a a che la Forza Psionica spesa non sia recuperata.
 La Rigenerazione può inoltre essere applicata alla crescita di nuove appendici o organi per rimpiazzare quelli perduti o per guarire vecchie ferite non guarite sofferte prima dell'addestramento psionico. La rigenerazione può essere usata per combattere l'invecchiamento. La Consapevolezza non ha effetto sugli altri e non può essere usata per guarire o migliorare gli altri personaggi.
 
-## Clairvoyance
+## Chiaroveggenza
 
-Clairvoyance is the general talent which allows a person to sense events
-at some location displaced from the viewer. There are several levels of
-clairvoyant ability. Clairvoyance abilities allow eavesdropping
-activities as well as spying and detection-free exploration of
-situations. While telepathic life detection will determine the presence
-of living minds in a closed room, for example, sense will determine if a
-room is occupied or empty. Clairvoyant activity cannot be sensed by
-others, including by other psionic individuals.
+La Chiaroveggenza è il talento che in senso lato permette alla persona di percepire eventi a una certa distanza dallo spettatore. Ci sono diversi livelli di capacità. La Chiaroveggenza permette attività di intercettazione così come lo spionaggio e l'esplorazioni delle situazioni senza il rischio di venire scoperti. Mentre il rilevamento telepatico di forme di vita determina la preenza di menti viventi in un ambiente chiuso, per esempio, la percezione determinerà se l'ambiente è occupato o vuoto. Le attività di Chiaroveggenza non possono essere percepiti dagli altri, inclusi altre persone psioniche.
 
-#### Table: Clairvoyance
+#### Tabella: Chiaroveggenza
 
-| Ability        | Difficulty     | Timing     | Cost    |
-| -------------- | -------------- | ---------- | ------- |
-| Sense          | Routine (+2)   | 1D6 rounds | 1+Range |
-| Clairvoyance   | Average (+0)   | 1D6 rounds | 2+Range |
-| Clairaudience  | Average (+0)   | 1D6 rounds | 2+Range |
-| Clairsentience | Difficult (-2) | 1D6 rounds | 3+Range |
+| Capacità        | Difficoltà     | Tempi     | Costi     |
+| --------------- | -------------- | --------- | --------- |
+| Percezione      | Routine (+2)   | 1D6 round | 1+Portata |
+| Chiaroveggenza  | Media (+0)     | 1D6 round | 2+Portata |
+| Chiarudienza    | Media(+0)      | 1D6 round | 2+Portata |
+| Chiarosenzienza | Difficile (-2) | 1D6 round | 3+Portata |
 
-### Sense
+### Percezione
 
 This is the basic ability to sense things at some point in the distance.
 A character will become aware of the most rudimentary characteristics of
@@ -134,158 +127,86 @@ talent, and will generally sense the most interesting or important
 feature at that range. The Effect of the check determines the level of
 accuracy and clarity.
 
-### Clairvoyance
+### Chiaroveggenza
 
-This specific ability allows actual remote viewing of a situation at
-some displaced point. Rather than the ‘snapshot' that sense gives,
-clairvoyance allows the psion to observe as if he was there in person.
-The clairvoyant character must state the range at which he is applying
-his talent. The Effect of the check determines the level of detail
-perceived and the duration in rounds the vision
+Questa capacità specifica permette l'effettiva visione remota di una situazione a una certa distanza. Anziché la "fotografia" fornita dalla Percezione, la Chiaroveggenza permette allo psionico di osservare come se fosse di persona. Il chiaroveggente deve dichiarare la portata alla quale sta applicando il suo talento. L'Effetto della Prova determina il livello di dettaglio percepito e la durata in round della visione.
 
-can be maintained for.
+### Chiarudienza
 
-### Clairaudience
+Questa abilità è identica alla chiaroveggenza, con la differenza che si applica all'ascoltare anziché al vedere.
 
-This ability is identical to clairvoyance, with the exception that it
-allows hearing instead of seeing.
+### Chiarosenzienza
 
-### Clairsentience
+Questo potere combina gli effetti di chiaroveggenza e chiarudienza. Il personaggio è capace sia di vedere che di sentire una specifica situazione.
 
-This power combines the effects of clairvoyance and clairaudience. The
-character is capable of both seeing and hearing a specific situation.
+## Telecinesi
 
-## Telekinesis
+La Telecinesi è il talento che permette agli oggetti di essere manipolati senza contatto fisico. Qualsiasi manipolazione è trattata come se la persona stesse maneggiando fisicamente l'oggetto ma il pericolo fisico, il dolore o altre stimoli non sono presenti. La Telecinesi include un limitato ammontare di consapevolezza sensoria, suffiente per permettere un'effettiva manipolazione intelligente. L'Effetto della Prova determina la durata della Telecinesi in round.
 
-Telekinesis is the talent which allows objects to be manipulated without
-physically touching them. Any manipulation is treated as if the person
-was physically handling the item but physical danger, pain, or other
-stimuli are not present. Telekinesis includes a limited amount of
-sensory awareness, sufficient to allow actual intelligent manipulation.
-The Effect of the check determines the duration of the telekinesis in
-rounds.
+Gli oggetti possono essere lanciati usando la telecinesi. Questi oggetti usano la categoria A Distanza (lancio) quando si attacca, usando il valore di distanza più alto tra lo psionico e l'obiettivo oppure tra la posizione iniziale dell'oggetto e l'obiettivo. L'ammontare del danno inflitto da un oggetto così lanciato è dato nella tabella Telecinesi. Lo psionico può aggiungere l'Effetto della Prova di abilità, usata nell'attacco, al danno inflitto. Se l'oggetto lanciato è una creatura, sia la creatura che l'obiettivo subiscono lo stesso danno, se il colpo ha successo.
 
-Items may be thrown using telekinesis. Such items use the Ranged
-(thrown) category when attacking, using the higher of the distance
-between either the psion and the target or the object’s starting
-location and the target. The amount of damage inflicted by such an
-object is given in the Telekinesis object; the psion can add the Effect
-of the attack’s skill check to the damage inflicted. If a creature is
-the thrown object, both the creature and the target take the same damage
-on a successful hit.
+#### Tabella: Telecinesi
 
-#### Table: Telekinesis
+| Abilità                              | Difficoltà           | Tempi       | Costi      | Danno da Lancio |
+| ------------------------------------ | -------------------- | ----------- | ---------- | --------------- |
+| Sollevamento Telecinetico 10 Grammi  | Facile (+4)          | 1D6 secondi | 2+Portata  | Nessuno         |
+| Sollevamento Telecinetico 100 Grammi | Routine (+2)         | 1D6 secondi | 3+Portata  | Nessuno         |
+| Sollevamento Telecinetico 1 kg       | Media(+0)            | 1D6 secondi | 5+Portata  | 1 punto         |
+| Sollevamento Telecinetico 10 kg      | Difficile (-2)       | 1D6 secondi | 7+Portata  | 1D6             |
+| Sollevamento Telecinetico 100 kg     | Molto Difficile (-4) | 1D6 secondi | 9+Portata  | 2D6             |
+| Sollevamento Telecinetico 1000 kg    | Formidabile (-6)     | 1D6 secondi | 10+Portata | 8D6             |
 
-| Ability                        | Difficulty          | Timing      | Cost     | Throwing Damage |
-| ------------------------------ | ------------------- | ----------- | -------- | --------------- |
-| Telekinetically Lift 10 Grams  | Easy (+4)           | 1D6 seconds | 2+Range  | None            |
-| Telekinetically Lift 100 Grams | Routine (+2)        | 1D6 seconds | 3+Range  | None            |
-| Telekinetically Lift 1 kg      | Average (+0)        | 1D6 seconds | 5+Range  | 1 point         |
-| Telekinetically Lift 10 kg     | Difficult (-2)      | 1D6 seconds | 7+Range  | 1D6             |
-| Telekinetically Lift 100 kg    | Very Difficult (-4) | 1D6 seconds | 9+Range  | 2D6             |
-| Telekinetically Lift 1000 kg   | Formidable (-6)     | 1D6 seconds | 10+Range | 8D6             |
+## Telepatia
 
-## Telepathy
+La Telepatia è il talento di contatto mente-a-mente. É delicato per natura, ma può anche essere usata per schiacciare volientemente la volontà di quelli che si oppongono al telepate.
 
-Telepathy is the talent of mind-to-mind contact. It is subtle by nature
-but can also be used to bluntly crush the wills of those who oppose the
-telepath.
+#### Tabella: Telepatia
 
-#### Table: Telepathy
+| Abilità                       | Difficoltà           | Tempi       | Costi     |
+| ----------------------------- | -------------------- | ----------- | --------- |
+| Rilevamento della Vita        | Facile (+4)          | 1D6 round   | 1+Portata |
+| Telempatia                    | Routine (+2)         | 1D6 round   | 1+Portata |
+| Leggere Pensieri Superficiali | Media (+0)           | 1D6 round   | 2+Portata |
+| Inviare Pensieri              | Difficile (-2)       | 1D6 round   | 2+Portata |
+| Sondare                       | Molto Difficile (-4) | 1D6 minuti  | 4+Portata |
+| Assalire                      | Formidabile (-6)     | 1D6 secondi | 8+Portata |
+| Scudo                         | --                   | --          | --        |
 
-| Ability               | Difficulty          | Timing      | Cost    |
-| --------------------- | ------------------- | ----------- | ------- |
-| Life Detection        | Easy (+4)           | 1D6 rounds  | 1+Range |
-| Telempathy            | Routine (+2)        | 1D6 rounds  | 1+Range |
-| Read Surface Thoughts | Average (+0)        | 1D6 rounds  | 2+Range |
-| Send Thoughts         | Difficult (-2)      | 1D6 rounds  | 2+Range |
-| Probe                 | Very Difficult (-4) | 1D6 minutes | 4+Range |
-| Assault               | Formidable (-6)     | 1D6 seconds | 8+Range |
-| Shield                | --                  | --          | --      |
+### Rilevamento della Vita
 
-### Life Detection
+La più elementare forma di telepatia è l'abilità di rilevare la prensenza di altre menti. Il Rilevamento della Vita rende capace un personaggio di percepire la presenza di altre menti, il numero di menti presenti, in generale il tipo di mente (animale, umano e così via) e la loro posizione approssimativa.
 
-The most elementary form of telepathy is the ability to detect the
-presence of other minds. Life detection enables a character to sense the
-presence of other minds, the number of minds present, the general type
-of minds (animal, human, and so on) and their approximate location.
+Il Rilevamento della Vita è ragionevolmente sofisticato e può distingere gli essere intelligenti dai batteri o animali scarsamente rilevanti nell'area. Funziona meglio nel rilevare menti intelligenti. Le menti schermate non sono rilevabili (che sia a causa uno scudo naturale o artificiale). Una persona che il telepate conosce, quando viene "rilevata", sarà riconosciuta.
 
-Life detection is reasonably sophisticated, and can distinguish
-intelligent beings from bacteria or unimportant animals in the area. It
-functions best at detecting intelligent minds. Shielded minds are
-undetectable (whether the shield is natural or artificial in origin). If
-an individual whom the telepath knows is ‘life detected' he or she will
-be recognized.
+### Telempatia
 
-### Telempathy
+La comunicazione di emozioni e dei sentimenti superficiali è effettuata con la telempatia. Questa abilità è molto utile nel gestire animali e bestie fastidiose ma è anche applicabile come armi psicologica conto gli umani. Inviare emozioni come amore, odio, paura e altre possono influenzare altri esseri (sebbene non necessariamente nel modo desiderato). La telempatia inoltre permette di leggere le emozioni e i sentimenti di altri. L'Effetto della Prova determina la forza delle emozioni proiettate.
 
-The communication of emotions and basic feelings is accomplished by
-telempathy. This ability serves well in the handling of animals and
-beasts of burden but may also be applied as a psychological weapon
-against humans. Sending of emotions such as love, hate, fear, and others
-may influence other beings (although not necessarily in the manner
-desired). Telempathy also allows the emotions and feelings of others to
-be read by a character. The Effect of the check determines the strength
-of the projected emotion.
+I Telepati riconosceranno sempre quando qulacuno usa la telempatia per piegare le emozioni ma gli altri non lo sapranno. Il cambiamento di umore può essere drammatico e inspiegabile ma la maggior parte delle persone lo imputeranno alla natura lunatica delle emozioni umane. Persone scherate sono immuni alla telempatia come a tutti gli altri poteri Telepatici.
 
-Telepaths will always recognize when someone is using telempathy to bend
-their emotions but others will not. The change in mood may be dramatic
-and inexplicable but most people will simply ascribe it to the mercurial
-nature of human emotions. Shielded individuals are immune to telempathy
-as they are all other Telepathy powers.
+### Leggere Pensieri Superficiali
 
-### Read Surface Thoughts
+La caratteristica più conosciuta della Telepatia è la capacità di leggere i pensieri delle altre persone. Solo i pensieri attivi e attuali sono letti da questa abilità, con il soggetto (se non è il telepate stesso) non cosciente dell'attività. Le persone con capacità telepatice non possono essere lette a causa della presenza dei loro schermi mentali naturali, a meno che non li abbassino volontariamente. L'Effetto della Prova determina la chiarezza delle percezioni del telepate.
 
-The most widely known feature of Telepathy is the ability to read the
-thoughts of other individuals. Only active, current thoughts are read by
-this ability, with the subject (if himself not a telepath) unaware of
-the activity. Individuals with telepathic ability cannot be read due to
-the presence of their natural shields, unless they willingly lower their
-shielding. The Effect of the check determines the clarity of the
-telepath's perceptions.
+### Inviare Pensieri
 
-### Send Thoughts
+Complementare alla capacità di leggere i pensieri superficiali è l'abilità di inviare pensieri agli altri. Queste persone non hanno bisogno di essere telepati per ricevere questi pensieri. Le persone telepatiche sono normalmente aperte a questo tipo di trasmissione, ma possono chiudere i propri schudi contro di essi se dovessere diventare fastidiosi o pericolosi.
 
-Complementary to the ability to read surface thoughts is the ability to
-send thoughts to others. Such individuals need not themselves be
-telepathic to receive such thoughts. Telepathic individuals are normally
-open to such transmissions, but may close their shields against them if
-they become bothersome or threatening.
+### Sonda
 
-### Probe
+L'applicazione di una grande forza psionica può rendere il telepate capace di affondare nella mente di un soggetto e quindi di leggere i pensieri più reconditi. Fare domande può essere un metodo usato nella procedura per forzare il soggetto a rivelare specifiche informazioni. Il sondatore può determinare facilmente menzogne deliberatamente dette (pensate) dal soggetto. La Sonda non può essere usata contro una mente schermata. Anche in questo caso, l'Effetto della Prova determina la chiarezza delle percezioni del telepate.
 
-The application of great psionic strength will enable a telepath to
-delve deep into the mind of a subject and to then read his innermost
-thoughts. Questioning can be used in the procedure to force the subject
-to divulge specific information. The prober can easily determine
-deliberate untruths told (thought) by the subject. Probe cannot be used
-against a shielded mind. Again, the Effect of the check determines the
-clarity of the telepath's perceptions.
+### Assalto
 
-### Assault
+La violenza può essere inflitta da un telepate. Una mente non schermata, quando assalita telepaticamente, è resa incosciente immediatamente e il personaggio soffre un danno di 2D6+Effetto. A differenza del danno normale, il danno da assalto è applicato alla Forza Psionica (se la vittima la possiede), quindi all'Intelligenza, quindi alla Resistenza. La Forza Psionica e la Resistenza recuperano normalmente. L'Intelligenza è recuperata a un ritmo di un punto al giorno.
 
-Violence may be dealt by a telepath. An unshielded mind, when assaulted
-telepathically, is rendered unconscious immediately and the character
-suffers 2D6 + Effect damage. Unlike normal damage, assault damage is
-applied to Psionic Strength (if the victim has it), then Intelligence,
-then Endurance. Psionic Strength and Endurance return as normal.
-Intelligence returns at the rate of one point per day.
+Quando una mente schermata è assalita, idue telepati effettuano una Prova di Telepatia. Se l'attaccante vince, la vittima soffre il danno normalmente.
 
-When a shielded mind is assaulted the two telepaths make opposed
-Telepathy checks. If the attacker wins, the victim suffers damage as
-normal.
+### Schermo
 
-### 
+Tutti i personaggi telepatici imparano come creare uno scudo mentale che potregge la mente contro interferenze telepatiche non volute. Lo scudo è automaticamente in vigore in qualsiasi momento e non richiede di spendere punti di Forza Psionica per essere mantenuto. Comunque, mentre un telepate ha il suo scudo sollevato, non può usare altri poteri telepatici. Lo scudo può essere abbassato per permettere il conttatto telepatico o per usare poteri telepatici. Questo richiedere un semplice pensiero (azione gratuita in combattimento).
 
-### Shield
 
-All telepathically able characters learn how to create a mental shield
-which protects the mind against unwanted telepathic interference. Shield
-is automatically in force at all times and requires no Psionic Strength
-point expenditure to maintain. However, while a telepath has his shield
-up he cannot use any telepathic powers either. Shield can be lowered to
-allow telepathic contact or to use telepathic powers – this takes a mere
-thought (a free action in combat).
 
 ## Teleportation
 
