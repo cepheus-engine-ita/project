@@ -1,50 +1,39 @@
 # CHAPTER 4: EQUIPMENT
 
-The following section lists examples of common equipment that
-adventurers may want. Aside from armor and weapons, each listing notes
-the object's name and a basic description. The technological level
-indicates local technology required to manufacture something with the
-capabilities listed. Price and weight are for an item manufactured by an
-interstellar society of tech level 10-15; items produced at lower tech
-levels will probably be bulkier and more expensive. An item with no
-weight or size given can be carried or worn without difficulty.
-Additional lines of explanation are given where considered necessary.
+La seguente sezione elenca gli esempi di equipaggiamento comune che gli avventurieri potrebbero volere. Oltre alle armature e alle armi, ciascuna lista annota il nome dell'oggetto e una descrizione sintetica. Il livello di tecnologia indica la tecnologia locale richiesta per produrre qualcosa con le capacità indicate. Il prezzo e il peso sono per un oggetto prodotto da una società interstellare di livello 10-15; oggetti prodotti a livelli tecnologici inferiori probabilmente saranno più grossi e pesanti. Un oggetto senza peso o dimensioni indicati può essere trasportato o indossato senza difficoltà. Ulteriori righe di spiegazione sono fornite quando considerato necessario.
 
-## Technology Level Overview
+## Panoramica dei Livelli Tecnologici
 
-Technology Level, also known as Tech Level or TL, is a measure of the
-scientific and production capacity of a world and the complexity and
-effectiveness of a piece of equipment.
+Il Livello Tecnologico, anche indicato con LT, è una misura della capacità scientifica e produttiva di un mondo e la complessità ed efficienza di un pezzo di equipaggiamento.
 
-#### Table: Technology Level Overview
+#### Tabella: Panoramica dei Livelli
 
-| TL     | Descriptor      | Notable Characteristics                                                                                                                                                         |
-|--------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0      | Primitive       | No technology.                                                                                                                                                                  |
-| 1      | Primitive       | Roughly on a par with Bronze or Iron age technology.                                                                                                                            |
-| 2      | Primitive       | Renaissance technology.                                                                                                                                                         |
-| 3      | Primitive       | Mass production allows for product standardization, bringing the germ of industrial revolution and steam power.                                                                 |
-| 4      | Industrial      | Transition to industrial revolution is complete, bringing plastics, radio and other such inventions.                                                                            |
-| 5      | Industrial      | Widespread electrification, tele-communications and internal combustion.                                                                                                        |
-| 6      | Industrial      | Development of fission power and more advanced computing.                                                                                                                       |
-| 7      | Pre-Stellar     | Can reach orbit reliably and has telecommunications satellites.                                                                                                                 |
-| 8      | Pre-Stellar     | Possible to reach other worlds in the same system, although terraforming or full colonization is not within the culture’s capacity.                                             |
-| 9      | Pre-Stellar     | Development of gravity manipulation, which makes space travel vastly safer and faster; first steps into Jump Drive technology.                                                  |
-| 10 (A) | Early Stellar   | With the advent of Jump, nearby systems are opened up.                                                                                                                          |
-| 11 (B) | Early Stellar   | The first primitive (non-creative) artificial intelligences become possible in the form of “low autonomous” interfaces, as computers begin to model synaptic networks.          |
-| 12 (C) | Average Stellar | Weather control revolutionizes terraforming and agriculture.                                                                                                                    |
-| 13 (D) | Average Stellar | The battle dress appears on the battlefield in response to the new weapons. “High autonomous” interfaces allow computers to become self-actuating and self-teaching.            |
-| 14 (E) | Average Stellar | Fusion weapons become man-portable.                                                                                                                                             |
-| 15 (F) | High Stellar    | Black globe generators suggest a new direction for defensive technologies, while the development of synthetic anagathics means that the human lifespan is now vastly increased. |
+| LT     | Descrittore       | Caratteristiche principali                                                                                                                                                                        |
+| ------ | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0      | Primitivo         | Nessuna tecnologia.                                                                                                                                                                               |
+| 1      | Primitivo         | Più o meno a livello della tecnologia dell'Età del Bronzo o dell'Età del Ferro.                                                                                                                   |
+| 2      | Primitivo         | Tecnologia rinascimentale.                                                                                                                                                                        |
+| 3      | Primitivo         | La produzione di massa permette la standardizzazione della produzione di massa, portando il germe della rivoluzione industriale e della forza a vapore.                                           |
+| 4      | Industriale       | La transizione verso la rivoluzione industriale è completa, portando plastica, radio e altre invezioni simili.                                                                                    |
+| 5      | Industriale       | Elettrificazione diffusa, telecomunicazioni e motori a scoppio.                                                                                                                                   |
+| 6      | Industriale       | Sviluppo della fissione nucleare e informatica più avanzata.                                                                                                                                      |
+| 7      | Pre-Stellare      | Può raggiungere l'orbita in modo affidabile e possiede satelliti di comunicazione.                                                                                                                |
+| 8      | Pre-Stellare      | Possibile raggiungere altri mondi nello stesso sistema, sebbene la terraformazione o la completa terraformazione non è ancora nelle possibilità di questa cultura.                                |
+| 9      | Pre-Stellare      | Sviluppo della manipolazione gravitazionale, che rende il viaggio spaziale ampiamente più sicuro e più veloce; primi passi verso la tecnologia del Motore a Balzo.                                |
+| 10 (A) | Stellare Precoce  | Con l'avvento del Balzo, i sistemi vicini diventano raggiungibili.                                                                                                                                |
+| 11 (B) | Stellare Precoce  | Le prime primitive (non creative) intelligenze artificiali sono rese possibili nella forma di interfacce "a bassa autonomia", nel momento in cui i computer iniziano a modellare reti sinaptiche. |
+| 12 (C) | Stellare Medio    | Il controllo del tempo rivoluziona la terraformazione e l'agricoltura.                                                                                                                            |
+| 13 (D) | Stellare Medio    | La tenuta da battaglia compare sul campo di battaglia in risposta a nuove armi. Interfacce "ad alta autonomia" permettono ai computer di diventare autoazionati e  autoapprendenti.               |
+| 14 (E) | Stellare Medio    | Le armi a fusione diventano portatili.                                                                                                                                                            |
+| 15 (F) | Stellare Avanzato | I generatori a globi neri indicano una nuova direazione per le tecnologie difensive, mentre lo sviluppo degli anagatici comportano un aumento cospicuo della durata della vita umana.             |
 
-Higher Technology Levels exist and may appear in some Cepheus Engine
-universes.
+Livelli Tecnologici più alti esistono o possono apparire in alcuni universi di Cepheus Engine.
 
-## Currency
+## Valuta
 
-The Credit (Cr) is the standard unit of currency in Cepheus Engine.
-Larger denominations include the KiloCredit (KCr; 1,000 Credits) and the
-MegaCredit (MCr; 1,000,000 Credits).
+Il Credito (Cr) è l'unità standard  di valuta in Cepheus Engine. Tagli più grandi includono il ChiloCredito (KCr; 1.000 Crediti) e il MegaCredito (MCr, 1.000.000 di Crediti).
+
+
 
 ## Armor
 
@@ -78,7 +67,7 @@ the required skill.
 #### Table: Common Personal Armor
 
 | Armor                 | TL  | AR    | Cost      | Wgt  | Skill Required |
-|-----------------------|-----|-------|-----------|------|----------------|
+| --------------------- | --- | ----- | --------- | ---- | -------------- |
 | Ablat                 | 9   | 3/8\* | Cr75      | 2kg  | --             |
 | Battle Dress          | 13  | 18    | Cr200,000 | 60kg | Battle Dress   |
 | Cloth                 | 6   | 9     | Cr250     | 2kg  | --             |
@@ -160,7 +149,7 @@ purposes, the Comms skill check is used.
 #### Table: Communications Equipment
 
 | Communicator              | TL  | Cost  | Wgt    | Range   |
-|---------------------------|-----|-------|--------|---------|
+| ------------------------- | --- | ----- | ------ | ------- |
 | Long Range Communicator   | 6   | Cr500 | 15 kg  | 500 km  |
 | Medium Range Communicator | 5   | Cr200 | 10 kg  | 30 km   |
 | Short Range Communicator  | 5   | Cr100 | 5 kg   | 10 km   |
@@ -205,7 +194,7 @@ become obsolete during TL 8.
 #### Table: Computers by TL
 
 | Optimum TL | Computer Power | Mass (kg) | Cost (Cr) |
-|------------|----------------|-----------|-----------|
+| ---------- | -------------- | --------- | --------- |
 | TL 7       | Model 0        | 10        | 50        |
 | TL 8       | Model 1        | 5         | 100       |
 | TL 9       | Model 1        | 5         | 250       |
@@ -264,7 +253,7 @@ non-trivial amount of bandwidth to transfer.
 #### Table: Computer Software
 
 | Software              | Rating | TL  | Cost             | Description                                                                                                                                                                                                                                                                                                                                            |
-|-----------------------|--------|-----|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------- | ------ | --- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Database              | \-     | 7   | Cr10 to Cr10,000 | A database is a large store of information on a topic that can be searched with a Computer check or using an Agent.                                                                                                                                                                                                                                    |
 | Interface             | 0      | 7   | Included         | Displays data. Using a computer without an interface is a Formidable (–6 DM) task.                                                                                                                                                                                                                                                                     |
 | Security              | 0      | 7   | Included         | Security programs defend against intrusion. Rating 0 is Average (+0 DM).                                                                                                                                                                                                                                                                               |
@@ -300,7 +289,7 @@ Cepheus Engine campaigns.
 #### Table: Drugs
 
 | Description           | TL  | Cost    |
-|-----------------------|-----|---------|
+| --------------------- | --- | ------- |
 | Medicinal Drugs       | 5   | Cr5+    |
 | Anti-Radiation Drugs  | 8   | Cr1,000 |
 | Panaceas              | 8   | Cr200   |
@@ -385,7 +374,7 @@ any world with a Law Level of 1 or greater.
 #### Table: Explosives
 
 | Weapon      | TL  | Damage   | Radius      | Cost (Cr) |
-|-------------|-----|----------|-------------|-----------|
+| ----------- | --- | -------- | ----------- | --------- |
 | Plastic     | 6   | 3D6      | 2D6 meters  | 200       |
 | Pocket Nuke | 12  | 2D6 x 20 | 15D6 meters | 20,000    |
 | TDX         | 12  | 4D6      | 4D6 meters  | 1,000     |
@@ -409,7 +398,7 @@ those described in this section.
 #### Table: Personal Devices
 
 | Description            | TL  | Cost      | Wgt |
-|------------------------|-----|-----------|-----|
+| ---------------------- | --- | --------- | --- |
 | Magnetic Compass       | 3   | Cr10      | --  |
 | Wrist Watch            | 4   | Cr100     | --  |
 | Radiation Counter      | 5   | Cr250     | 1   |
@@ -510,14 +499,14 @@ as low as Technology Level 9 but their utility is extremely limited
 until the invention of Intellect programs.
 
 > Strength 30 (+8), Dexterity 9 (+1), Hull 2, Structure 2
->
+> 
 > Intelligence 3 (–1), Education 5 (–1), Social Standing 0 (–3)
->
+> 
 > **Traits**: Armor 8, Huge, Specialized Model 1 computer (running
 > Intellect/1 and Expert (appropriate skill)/1)
->
+> 
 > **Weapons**: Crushing Strength (Natural Weapons, 3D6 damage)
->
+> 
 > **Price**: Cr75,000
 
 **Repair Robot** (TL 11): Shipboard repair robots are small crab-shaped
@@ -525,14 +514,14 @@ machines that carry a variety of welding and cutting tools. Specialized
 repair robots may run Expert Engineering rather than Expert Mechanics.
 
 > Strength 6 (+0), Dexterity 7 (+0), Hull 1, Structure 1
->
+> 
 > Intelligence 5 (–1), Education 6 (+0), Social Standing 0 (–3)
->
+> 
 > **Traits**: Integral System (mechanical toolkit), Specialized Model 1
 > computer (running Intellect/1 and Expert Mechanics/2)
->
+> 
 > **Weapons**: Tools (Natural Weapons, 1D6 damage)
->
+> 
 > **Price**: Cr10,000
 
 **Personal Drone** (TL 11): This is a small floating globe about thirty
@@ -541,10 +530,10 @@ which can display the image of a person, allowing a character to have a
 virtual presence over a great distance.
 
 > Strength 2 (–2), Dexterity 7 (+0), Hull 1, Structure 1
->
+> 
 > **Traits**: Tiny, Integral System (comm, audio/visual), Integral
 > System (grav floater), Integral System (TL 11 holographic projector)
->
+> 
 > **Price**: Cr2,000
 
 **Probe Drone** (TL 11): A probe drone is a hardened version of a
@@ -553,25 +542,25 @@ operating range of five hundred kilometers, and can fly at a speed of
 300 kph.
 
 > Strength 3 (–1), Dexterity 7 (+0), Hull 3, Structure 3
->
+> 
 > **Traits**: Armor 5, Integral System (comm, audio/visual), Integral
 > System (grav belt), Integral System (TL 11 holographic projector),
 > Integral System (every sensor available at TL 11 and below)
->
+> 
 > **Price**: Cr15,000
 
 **Autodoc** (TL 12): An autodoc is a specialized, immobile medical
 robot, which is often installed inside vehicles or spacecraft.
 
 > Strength 6 (+0), Dexterity 15 (+3), Hull 1, Structure 1
->
+> 
 > Intelligence 9 (+1), Education 12 (+2), Social Standing 0 (–3)
->
+> 
 > **Traits**: Integral System (TL 12 medikit), Specialized Model 1
 > computer (running Intellect/1 and Medicine/2)
->
+> 
 > **Weapons**: Surgical Tools (Slashing Weapons, 1D6 damage)
->
+> 
 > **Price**: Cr40,000
 
 **Combat Drone** (TL 12): Combat drones are little more than flying guns
@@ -582,12 +571,12 @@ Expert programs (making them autonomous combat robots) are illegal on
 many worlds.
 
 > Strength 12 (+2), Dexterity 10 (+1), Hull 4, Structure 4
->
+> 
 > **Traits**: Armor 9, Integral System (grav floater), Integral Weapon
 > (any)
->
+> 
 > **Weapons**: Any gun
->
+> 
 > **Price**: Cr90,000, plus the cost of the weapon (the Integral Weapon
 > upgrade is included)
 
@@ -597,15 +586,15 @@ servitor owners reprogram their robots with Expert Carousing or Expert
 Gambling to better suit their lifestyle.
 
 > Strength 7 (+0), Dexterity 9 (+1), Hull 2, Structure 2
->
+> 
 > Intelligence 9 (+1), Education 12 (+2), Social Standing 7 (+0)
->
+> 
 > **Traits**: Computer/3 (running Intellect/1 and Expert Steward/2 –
 > servitors also have Expert Liaison/2 and Translator/1 available should
 > they be necessary)
->
+> 
 > **Weapons**: Robot Punch (Natural Weapons, 1D6 damage)
->
+> 
 > **Price**: Cr120,000
 
 ### Robot and Drone Options
@@ -628,7 +617,7 @@ The following aids provide enhance a character’s physical senses.
 #### Table: Sensory Aids
 
 | Description               | TL  | Cost  | Wgt  |
-|---------------------------|-----|-------|------|
+| ------------------------- | --- | ----- | ---- |
 | Torch                     | 1   | Cr1   | 0.25 |
 | Lamp Oil                  | 2   | Cr2   | --   |
 | Oil Lamp                  | 2   | Cr10  | 0.5  |
@@ -680,7 +669,7 @@ section.
 #### Table: Shelters
 
 | Description                 | TL  | Cost     | Wgt   |
-|-----------------------------|-----|----------|-------|
+| --------------------------- | --- | -------- | ----- |
 | Tarpaulin                   | 1   | Cr10     | 2     |
 | Tent                        | 2   | Cr200    | 3     |
 | Pre-Fabricated Cabin        | 6   | Cr10,000 | 4,000 |
@@ -733,7 +722,7 @@ take action, even in the most unusual of environments.
 #### Table: Survival Equipment
 
 | Description           | TL  | Cost      | Wgt |
-|-----------------------|-----|-----------|-----|
+| --------------------- | --- | --------- | --- |
 | Cold Weather Clothing | 1   | Cr200     | 2   |
 | Filter Mask           | 3   | Cr10      | --  |
 | Swimming Equipment    | 3   | Cr200     | 1   |
@@ -812,7 +801,7 @@ Technical skills require specialist tools of various kinds.
 #### Table: Tools
 
 | Description         | TL  | Cost  | Wgt |
-|---------------------|-----|-------|-----|
+| ------------------- | --- | ----- | --- |
 | Mechanical Toolkit  | 4   | 1,000 | 12  |
 | Electronics Toolkit | 5   | 1,000 | 12  |
 | Lock Pick Set       | 5   | 10    | --  |
@@ -890,7 +879,7 @@ arcs they are in.
 #### Table: Common Vehicles
 
 | Vehicle           | TL  | Skill           | Agi | Spd      | C&P                         | O/C    | Armor | Hull | Struc | Wpns                  | Cost (KCr) |
-|-------------------|-----|-----------------|-----|----------|-----------------------------|--------|-------|------|-------|-----------------------|------------|
+| ----------------- | --- | --------------- | --- | -------- | --------------------------- | ------ | ----- | ---- | ----- | --------------------- | ---------- |
 | Steamship         | 4   | Ocean Ships     | -3  | 30 kph   | 5 crew, 10 psgr             | Closed | 2     | 40   | 40    | None                  | 720        |
 | Biplane           | 5   | Winged Aircraft | +1  | 250 kph  | 1 pilot, 1 psgr             | Closed | 2     | 1    | 1     | None                  | 46         |
 | Ground Car        | 5   | Wheeled Vehicle | +0  | 150 kph  | 1 driver, 3 psgr            | Closed | 6     | 3    | 2     | None                  | 6          |
@@ -1056,7 +1045,7 @@ or (S)lashing.
 #### Table: Common Melee Personal Weapons
 
 | Weapon         | TL  | Cost  | Wgt   | Range                                     | Damage | Type | LL  |
-|----------------|-----|-------|-------|-------------------------------------------|--------|------|-----|
+| -------------- | --- | ----- | ----- | ----------------------------------------- | ------ | ---- | --- |
 | Unarmed Strike | --  | --    | --    | melee (close quarters)                    | 1D6    | B    | --  |
 | Cudgel         | 0   | Cr10  | 1kg   | melee (close quarters)                    | 3D6    | B    | 9   |
 | Dagger         | 0   | Cr10  | 250g  | melee (close quarters) or ranged (thrown) | 1D6    | P    | 5   |
@@ -1170,7 +1159,7 @@ reloaded or recharged.
 #### Table: Common Personal Ranged Weapons
 
 | Weapon                | TL  | Cost   | Wgt   | RoF    | Range                   | Dmg | Type | Recoil | LL  |
-|-----------------------|-----|--------|-------|--------|-------------------------|-----|------|--------|-----|
+| --------------------- | --- | ------ | ----- | ------ | ----------------------- | --- | ---- | ------ | --- |
 | Bow                   | 1   | Cr60   | 1kg   | 1      | ranged (assault weapon) | 2D6 | P    | Yes    | 6   |
 | Crossbow              | 2   | Cr75   | 3kg   | 1      | ranged (rifle)          | 2D6 | P    | Yes    | 6   |
 | Revolver              | 4   | Cr150  | 900g  | 1      | ranged (pistol)         | 2D6 | P    | Yes    | 6   |
@@ -1193,7 +1182,7 @@ reloaded or recharged.
 #### Table: Common Ranged Ammunition
 
 | Weapon                | TL  | Cost  | Wgt  | Rounds |
-|-----------------------|-----|-------|------|--------|
+| --------------------- | --- | ----- | ---- | ------ |
 | Bow                   | 1   | Cr1   | 25g  | 1      |
 | Crossbow              | 2   | Cr2   | 20g  | 1      |
 | Revolver              | 4   | Cr5   | 100g | 6      |
@@ -1395,7 +1384,7 @@ miss.
 #### Table: Ranged Weapon Accessories
 
 | Accessory               | TL  | Cost   | Wgt (kg) |
-|-------------------------|-----|--------|----------|
+| ----------------------- | --- | ------ | -------- |
 | Shoulder Stocks         | 5   | Cr75   | 1        |
 | Folding Stocks          | 6   | Cr100  | 0.5      |
 | Telescopic Sights       | 6   | Cr200  | 0.8      |
@@ -1428,7 +1417,7 @@ column is described as follows:
 #### Table: Common Grenades
 
 | Weapon  | TL  | Cost per Case | Wgt | Damage                       | LL  |
-|---------|-----|---------------|-----|------------------------------|-----|
+| ------- | --- | ------------- | --- | ---------------------------- | --- |
 | Frag    | 6   | 180           | 0.5 | 5D6/3D6/1D6; see description | 1   |
 | Smoke   | 6   | 90            | 0.5 | Special; see description     | 1   |
 | Aerosol | 9   | 90            | 0.5 | Special; see description     | 1   |
@@ -1447,7 +1436,7 @@ from the blast:
 #### Table: Frag Grenade Damage by Distance
 
 | Distance | Damage |
-|----------|--------|
+| -------- | ------ |
 | 3 meters | 5D6    |
 | 6 meters | 3D6    |
 | 9 meters | 1D6    |
@@ -1507,7 +1496,7 @@ reloaded or recharged.
 #### Table: Common Heavy Weapons
 
 | Weapon               | TL  | Cost    | Wgt | RoF | Range                   | Damage     | Recoil | LL  |
-|----------------------|-----|---------|-----|-----|-------------------------|------------|--------|-----|
+| -------------------- | --- | ------- | --- | --- | ----------------------- | ---------- | ------ | --- |
 | Grenade Launcher     | 7   | 400     | 6   | 1   | ranged (shotgun)        | By grenade | Yes    | 3   |
 | Rocket Launcher      | 7   | 2,000   | 6   | 1   | ranged (rocket)         | 4D6        | No     | 3   |
 | RAM Grenade Launcher | 8   | 800     | 6   | 1/3 | ranged (assault weapon) | By grenade | Yes    | 3   |
@@ -1517,7 +1506,7 @@ reloaded or recharged.
 #### Table: Common Heavy Weapon Ammunition
 
 | Weapon               | TL  | Cost   | Wgt | Rounds |
-|----------------------|-----|--------|-----|--------|
+| -------------------- | --- | ------ | --- | ------ |
 | Grenade Launcher     | 7   | 180    | 0.5 | 6      |
 | Rocket Launcher      | 7   | 300    | 1   | 1      |
 | RAM Grenade Launcher | 8   | 180    | 0.5 | 6      |
