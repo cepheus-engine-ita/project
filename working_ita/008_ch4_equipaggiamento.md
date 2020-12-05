@@ -1,4 +1,4 @@
-# CHAPTER 4: EQUIPMENT
+# CAPITOL 4: EQUIPAGGIAMENTO
 
 La seguente sezione elenca gli esempi di equipaggiamento comune che gli avventurieri potrebbero volere. Oltre alle armature e alle armi, ciascuna lista annota il nome dell'oggetto e una descrizione sintetica. Il livello di tecnologia indica la tecnologia locale richiesta per produrre qualcosa con le capacità indicate. Il prezzo e il peso sono per un oggetto prodotto da una società interstellare di livello 10-15; oggetti prodotti a livelli tecnologici inferiori probabilmente saranno più grossi e pesanti. Un oggetto senza peso o dimensioni indicati può essere trasportato o indossato senza difficoltà. Ulteriori righe di spiegazione sono fornite quando considerato necessario.
 
@@ -33,496 +33,446 @@ Livelli Tecnologici più alti esistono o possono apparire in alcuni universi di 
 
 Il Credito (Cr) è l'unità standard  di valuta in Cepheus Engine. Tagli più grandi includono il ChiloCredito (KCr; 1.000 Crediti) e il MegaCredito (MCr, 1.000.000 di Crediti).
 
+## Armatura
 
+L'armatura riduce la quantità di danno che un personaggio subisce da un colpo, sulla base del tipo dii armatura indossata.  Il valore armatura per un'armatura è pari all'ammontare del danno ridotto dalla corazza quando sei colpito in combattimento. Un colpo con Effetto di 6+ infligge sempre almeno un punto di danno, a prescindere dall'armatura dell'obiettivo.
 
-## Armor
-
-Armor reduces the amount of damage a character takes from a hit, based
-on the type of armor worn. The armor rating for a set of armor is equal
-to the amount of damage reduced by the armor when you are hit in combat.
-A hit with Effect 6+ always inflicts at least one point of damage,
-regardless of the target’s armor.
-
-Unless otherwise noted, only one type of armor can be worn at a time.
-Resolve damage from the outside in – damage that gets through the outer
-layer of armor is next applied to the inner layer.
-
-**TL**: The earliest tech level at which this item first becomes
-available.
-
-**Armor Rating (AR)**: The amount of damage reduced by the armor when an
-attack strikes the character. When two values are listed separated by a
-slash, the number to the left of the slash represents the armor rating
-against all attacks except lasers, while the number to the right of the
-slash represents the armor rating against laser attacks.
-
-**Cost**: The cost of the item in Credits (Cr).
-
-**Weight**: The weight of the item in kilograms.
-
-**Skill Required**: Some armors have a required skill. A character
-suffers the usual unskilled penalty when using armor without levels in
-the required skill.
-
-#### Table: Common Personal Armor
-
-| Armor                 | TL  | AR    | Cost      | Wgt  | Skill Required |
-| --------------------- | --- | ----- | --------- | ---- | -------------- |
-| Ablat                 | 9   | 3/8\* | Cr75      | 2kg  | --             |
-| Battle Dress          | 13  | 18    | Cr200,000 | 60kg | Battle Dress   |
-| Cloth                 | 6   | 9     | Cr250     | 2kg  | --             |
-| Combat Armor          | 11  | 11    | Cr20,000  | 18kg | Zero-G         |
-| Hostile Env Vacc Suit | 12  | 8     | Cr18,000  | 40kg | Zero-G         |
-| Jack                  | 1   | 3     | Cr50      | 1kg  | --             |
-| Mesh                  | 7   | 5     | Cr150     | 2kg  | --             |
-| Reflec                | 10  | 0/14  | Cr1500    | 1kg  | --             |
-| Vacc Suit             | 9   | 6     | Cr9000    | 8kg  | Zero-G         |
-
-### Armor Descriptions
-
-**Ablat** (TL 9): A cheap alternative to Reflec, ablat armor is made
-from a material that ablates (vaporizes) when hit by laser fire. Each
-laser hit on ablat reduces its armor value (versus lasers) by one, but
-the armor is cheap and easily replaceable.
-
-**Battle Dress** (TL 13): The ultimate personal armor, battle dress is a
-powered form of combat armor. The servomotors vastly increase the user's
-speed and strength, boosting his Strength and Dexterity by +4 while
-wearing the armor. Damage to the wearer's characteristics is calculated
-as normal, but the values from the armor are used for all other purposes
-such as hand to hand damage or skill checks. The suit has a built-in
-Model 2 computer running an Expert Tactics-2 program to give tactical
-advice and updates and is commonly outfitted with numerous upgrades. The
-suit is fully enclosed, with a six-hour air supply and gives full
-protection against environmental hazards – including NBC shielding – as
-if it was an HEV suit.
-
-**Cloth** (TL 7): A heavy duty body suit tailored from ballistic cloth.
-The fabric absorbs impact energy and spreads it over the body, which can
-result in bruising. However, cloth armor is highly useful and versatile
-– it can be effectively concealed under normal clothing although
-observers making an Investigate or Recon check at 8+ will notice
-something unusual.
-
-**Combat Armor** (TL 11): This full-body suit is used by the military
-and not generally available on the open market, although those with
-military or criminal contacts can obtain it without much difficulty. It
-is issued to troop units and mercenary battalions. Combat armor protects
-from hard vacuum in the same way as a vacc suit and provides life
-support for six hours.
-
-**Hostile Environment Vacc Suit** (TL 8): Hostile environment suits are
-designed for conditions where a normal vacc suit would be insufficient,
-such as deep underwater, worlds shrouded in toxic or corrosive gases,
-extremes of radiation or temperature, or other locales that offer
-serious physical danger as well as the lack of a breathable atmosphere.
-HEV suits provide all the life support offered by a normal vacc suit
-(for six hours) but are also impervious to flames, intense radiation
-such as that found at nuclear blast sites (decreasing radiation exposure
-by 180 rads), and high pressure environments like undersea trenches.
-
-**Jack** (TL 1): A natural or synthetic leather jacket or body suit
-covering the torso and upper arms and legs.
-
-**Mesh** (TL 6): A jacket or body suit lined with a flexible metal or
-plastic mesh that gives it added protection against bullets.
-
-**Reflec** (TL 10): Reflec armor is a flexible plastic suit with layers
-of reflective material and heat-dispersing gel. It is highly effective
-against lasers, but provides no protection against other attacks. Reflec
-can be worn with other armor.
-
-**Vacc Suit** (TL 8): The vacc suit or space suit is the spacer's best
-friend, providing life support and protection when in space. A vacc suit
-provides a breathable atmosphere and protection from the extremes of
-temperature, low pressure and radiation typically found in a hard vacuum
-(decreasing exposure by up to 40 rads), for six hours.
-
-## Communicators
-
-Characters separated by physical location often have a need to maintain
-communications. These examples of communications equipment fulfill that
-need. Routine use of these devices does not require a skill check. When
-attempting to overcome interference or use these devices for other
-purposes, the Comms skill check is used.
-
-#### Table: Communications Equipment
-
-| Communicator              | TL  | Cost  | Wgt    | Range   |
-| ------------------------- | --- | ----- | ------ | ------- |
-| Long Range Communicator   | 6   | Cr500 | 15 kg  | 500 km  |
-| Medium Range Communicator | 5   | Cr200 | 10 kg  | 30 km   |
-| Short Range Communicator  | 5   | Cr100 | 5 kg   | 10 km   |
-| Personal Communicator     | 8   | Cr250 | 0.3 kg | Special |
-
-**Long Range Communicator**: Back-pack mounted radio capable of ranges
-up to 500 km and contact with ships in orbit. Ten separate channels. At
-tech level 7 reduce the weight to 1.5 kg and it becomes belt or sling
-mounted.
-
-**Medium Range Communicator**: Belt-mounted or sling carried radio set
-capable of up to 30 km range, and contact with official radio channels.
-Five separate channels. At tech level 7, reduce the weight to 500 grams.
-
-**Short Range Communicator**: Belt-mounted radio capable of 10 km range
-(much shorter underground or underwater). Three separate channels. At
-tech level 7 reduce the weight to 300 grams and it becomes hand-held.
-
-**Personal Communicator**: A hand-held, single channel communication
-device. On world with a tech level of 8 or higher a personal
-communicator is able to tap into the world's satellite communication
-network and with the proper address, contact any other communicator in
-the world (for a fee). The channel is private, but not secure and may be
-monitored on some worlds. Usually network access can be arranged at the
-local starport for a small fee. On worlds with a tech level of 7 or
-less, personal communicators will not work.
-
-## Computers
-
-The power of a computer is given by its rating (Model 1, Model 2 and so
-forth), which measures the complexity of the programs it can run.
-(Storage space is effectively unlimited at TL 9 and above.) Programs are
-rated by the computer rating they require. A system can run a number of
-programs up to its rating.
-
-The computers listed here are laptop size. Battery life is two hours at
-TL 7, eight hours at TL 8, and effectively unlimited at TL 9 and above.
-Desktop computers offer a slightly greater amount of processing power
-for the same cost but not enough to make a difference in-game. Desktops
-become obsolete during TL 8.
-
-#### Table: Computers by TL
-
-| Optimum TL | Computer Power | Mass (kg) | Cost (Cr) |
-| ---------- | -------------- | --------- | --------- |
-| TL 7       | Model 0        | 10        | 50        |
-| TL 8       | Model 1        | 5         | 100       |
-| TL 9       | Model 1        | 5         | 250       |
-| TL 10      | Model 2        | 1         | 350       |
-| TL 11      | Model 2        | 1         | 500       |
-| TL 12      | Model 3        | 0.5       | 1,000     |
-| TL 13      | Model 4        | 0.5       | 1,500     |
-| TL 14      | Model 5        | 0.5       | 5,000     |
-
-**Computer Terminal** (TL 7): This is a ‘dumb terminal’, with only
-limited processing power. It serves as an interface to a more powerful
-computer such as a ship’s computer or planetary network. Terminals range
-in size depending on their control method – a holographic display
-terminal can be much smaller than one with a physical keyboard and
-screen. A computer terminal has Model 0, and costs Cr200.
-
-**Hand Computer** (TL 7): A hand computer is a portable computer system
-with considerable processing power. It is more powerful than a computer
-terminal, and can be used without access to a network. A hand computer
-costs twice as much as a normal computer of the same TL but can he held
-in one hand and operated with the other.
-
-### Computer Options
-
-**Data Display/Recorder** (TL 13): This headpiece worn over one or both
-eyes provides a continuous heads-up display for the user, allowing him
-to view computer data from any linked system. Because of the transparent
-screen vision is not obscured while using a DD/R headset. DD/Rs can
-display data from any system, not just computers – they can display vacc
-suit oxygen reserves, grav belt status, neural activity scanner results
-and so forth. Cr5,000.
-
-**Data Wafer** (TL 10): The principle medium of information storage is
-the standard data wafer, a rectangle of hardened plastic about the size
-of a credit card. A TL 10 data wafer is memory diamond, with information
-encoded in structures of carbon atoms; more advanced wafers use more
-exotic means of data storage. Cr5.
-
-**Specialized Computer**: A computer can be designed for a specific
-purpose, which gives it a Rating of 1 or 2 higher for that program only.
-The navigation computer on a starship might be only a Model 1, but it
-could run the Expert Navigation/3 program because it is specially
-designed for that task. A specialized computer costs 25% more per added
-Rating. In addition, when working out how many programs the computer can
-run simultaneously, the program that the computer is specialized for
-does not count against that total.
-
-### Computer Software
-
-A character can use any high-rating software at a lower rating, to a
-minimum of the lowest rating shown.
-
-Programs above Rating/1 cannot be copied easily, as they require a
-non-trivial amount of bandwidth to transfer.
-
-#### Table: Computer Software
-
-| Software              | Rating | TL  | Cost             | Description                                                                                                                                                                                                                                                                                                                                            |
-| --------------------- | ------ | --- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Database              | \-     | 7   | Cr10 to Cr10,000 | A database is a large store of information on a topic that can be searched with a Computer check or using an Agent.                                                                                                                                                                                                                                    |
-| Interface             | 0      | 7   | Included         | Displays data. Using a computer without an interface is a Formidable (–6 DM) task.                                                                                                                                                                                                                                                                     |
-| Security              | 0      | 7   | Included         | Security programs defend against intrusion. Rating 0 is Average (+0 DM).                                                                                                                                                                                                                                                                               |
-|                       | 1      | 9   | Cr200            | Difficult (–2 DM) difficulty                                                                                                                                                                                                                                                                                                                           |
-|                       | 2      | 11  | Cr1,000          | Very Difficult (–4 DM) difficulty                                                                                                                                                                                                                                                                                                                      |
-|                       | 3      | 12  | Cr20,000         | Formidable (–6 DM) difficulty                                                                                                                                                                                                                                                                                                                          |
-| Translator            | 0      | 9   | Cr50             | Translators are specialized Expert systems that only have Language skills. Provides a near-real-time translation.                                                                                                                                                                                                                                      |
-|                       | 1      | 10  | Cr500            | Works in real-time and has a much better understanding of the nuances of language.                                                                                                                                                                                                                                                                     |
-| Intrusion             | 1      | 10  | Cr1,000          | Intrusion programs aid hacking attempts, giving a bonus equal to their Rating. Intrusion software is often illegal.                                                                                                                                                                                                                                    |
-|                       | 2      | 11  | Cr10,000         |                                                                                                                                                                                                                                                                                                                                                        |
-|                       | 3      | 13  | Cr100,000        |                                                                                                                                                                                                                                                                                                                                                        |
-|                       | 4      | 15  | N/A              |                                                                                                                                                                                                                                                                                                                                                        |
-| Intelligent Interface | 1      | 11  | Cr100            | “Low autonomous” artificial intelligence allows voice control and displays data intelligently. Required for using Expert programs.                                                                                                                                                                                                                     |
-|                       | 2      | 13  | Cr1,000          | “High autonomous” artificial intelligence allows a primitive artificial intelligence to self-initiate and learn on its own.                                                                                                                                                                                                                            |
-|                       | 3      | 17  | Cr10,000         | True artificial intelligence capable of independent creative thought.                                                                                                                                                                                                                                                                                  |
-| Expert                | 1      | 11  | Cr1,000          | Expert programs mimic skills. A character using an expert system may make a skill check as if he had the skill at the program’s Rating –1. Only Intelligence and Education-based checks can be attempted. If the character already has the skill at a higher level, then an Expert program grants a +1 DM instead.                                     |
-|                       | 2      | 12  | Cr10,000         |                                                                                                                                                                                                                                                                                                                                                        |
-|                       | 3      | 13  | Cr100,000        |                                                                                                                                                                                                                                                                                                                                                        |
-| Agent                 | 0      | 11  | Cr500            | Agent programs have a Computer skill equal to their Rating, and can carry out tasks assigned to them with a modicum of intelligence. For example, an agent program might be commanded to hack into an enemy computer system and steal a particular data file. They are effectively specialized combinations of Computer Expert and Intellect programs. |
-|                       | 1      | 12  | Cr2,000          |                                                                                                                                                                                                                                                                                                                                                        |
-|                       | 2      | 13  | Cr100,000        |                                                                                                                                                                                                                                                                                                                                                        |
-|                       | 3      | 14  | Cr250,000        |                                                                                                                                                                                                                                                                                                                                                        |
-| Intellect             | 1      | 12  | Cr2,000          | Intellects are improved agents, who can use Expert systems. For example, a robot doctor might be running Intellect/1 and Expert Medic/3, giving it a Medic skill of 2. An Intellect program can use a number of skills simultaneously equal to its Rating.                                                                                             |
-|                       | 2      | 13  | Cr50,000         |                                                                                                                                                                                                                                                                                                                                                        |
-|                       | 3+     | 14  | \-               |                                                                                                                                                                                                                                                                                                                                                        |
-
-## Drugs
-
-Medications often supplement the direct medical attention of a trained
-health professional. The following drugs are commonly encountered in
-Cepheus Engine campaigns.
-
-#### Table: Drugs
-
-| Description           | TL  | Cost    |
-| --------------------- | --- | ------- |
-| Medicinal Drugs       | 5   | Cr5+    |
-| Anti-Radiation Drugs  | 8   | Cr1,000 |
-| Panaceas              | 8   | Cr200   |
-| Stim Drugs            | 8   | Cr50    |
-| Combat Drug           | 10  | Cr1,000 |
-| Fast Drug             | 10  | Cr200   |
-| Metabolic Accelerator | 10  | Cr500   |
-| Medicinal Slow Drug   | 11  | Cr500   |
-| Anagathics            | 15  | Cr2,000 |
-
-**Anagathics**: Slow the user’s aging process. Synthetic anagathics
-become possible at TL 15, but there are natural spices and other rare
-compounds that have comparable effects at all Technology Levels.
-Anagathics are illegal or heavily controlled on many worlds. One dose
-must be taken each month to maintain the anti-aging effect – if the
-character taking anagathics misses a dose they must make an immediate
-roll on the aging table as their body reacts badly to the interrupted
-supply.
-
-**Anti-Radiation Drugs**: Must be administered before or immediately
-after (within ten minutes) radiation exposure. They absorb up to 100
-rads per dose. A character may only use anti-rad drugs once per day –
-taking any more causes permanent Endurance damage of 1D6 per dose.
-
-**Combat Drug**: This drug increases reaction time and improves the
-body’s ability to cope with trauma, aiding the user in combat. A
-character using a combat drug adds +4 to his initiative total at the
-start of combat (or whenever the drug takes effect). He may also dodge
-once each round with no effect on his initiative score and reduces all
-damage suffered by two points. The drug kicks in twenty seconds (four
-rounds) after injection, and lasts around ten minutes. When the drug
-wears off, the user is fatigued.
-
-**Fast Drug**: Also known as 'Hibernation', this drug puts the user into
-a state akin to suspended animation, slowing his metabolic rate down to
-a ratio of 60 to 1 – a subjective day for the user is actually two
-months. Fast drug is normally used to prolong life support reserves or
-as a cheap substitute for a cryoberth.
-
-**Medicinal Drugs**: These medications include vaccines, antitoxins and
-antibiotics. They range in cost from Cr5 to 1D6x1,000 Credits, depending
-on the rarity and complexity of the drug. Medicinal drugs require the
-Medic skill to use properly – using the wrong drug can be worse than
-doing nothing. With a successful Medic check the correct drug can
-counteract most poisons or diseases, or at the very least give a
-positive DM towards resisting them. If the wrong drug is administered,
-treat it as a Difficult (–2 DM) poison with a damage of 1D6.
-
-**Medicinal Slow**: A variant of the slow drug. It can only be applied
-safely in a medical facility where life-support and cryo-technology is
-available as it increases the metabolism to around thirty times normal,
-allowing a patient to undergo a month of healing in a single day.
-
-**Metabolic Accelerator**: Also known as 'Slow Drug', this drug boosts
-the user’s reaction time to superhuman levels. A character using slow
-drug in combat adds +8 to his initiative total at the start of combat
-(or whenever the drug takes effect). He may also dodge up to twice each
-round with no effect on his initiative score. The drug kicks in 45
-seconds (eight rounds) after ingestion or injection and lasts for around
-ten minutes. When the drug wears off, the user’s system crashes. He
-suffers 2D6 points of damage and is exhausted.
-
-**Panaceas**: Wide-spectrum medicinal drugs that are specifically
-designed not to interact harmfully. They can therefore be used on any
-wound or illness and are guaranteed not to make things worse. A
-character using panaceas may make a Medic check as if he had Medic 0
-when treating an infection or disease.
-
-**Stim Drugs**: Removes fatigue, at a cost. A character who uses stim
-may remove the effects of fatigue but suffers one point of damage. If
-stims are used to remove fatigue again without an intervening period of
-sleep, the character suffers two points of damage the second time, three
-points the third time, and so on.
-
-## Explosives
-
-The Demolitions skill is used with explosives – the Effect of the
-Demolitions skill check multiplies the damage, with a minimum of x1
-damage for an Effect of 0 or 1. Explosives are not legally available on
-any world with a Law Level of 1 or greater.
-
-#### Table: Explosives
-
-| Weapon      | TL  | Damage   | Radius      | Cost (Cr) |
-| ----------- | --- | -------- | ----------- | --------- |
-| Plastic     | 6   | 3D6      | 2D6 meters  | 200       |
-| Pocket Nuke | 12  | 2D6 x 20 | 15D6 meters | 20,000    |
-| TDX         | 12  | 4D6      | 4D6 meters  | 1,000     |
-
-**Plastic**: This generic, multi-purpose plastic explosive is a favorite
-of military units, terrorists, demolition teams and adventurers across
-known space.
-
-**Pocket Nuke**: Hideously illegal on many worlds, the pocket nuke is
-actually the size of a briefcase and so is too large to fit into a
-grenade launcher.
-
-**TDX**: An advanced gravity-polarized explosive, TDX explodes only
-along the horizontal axis.
-
-## Personal Devices
-
-Characters often possess any of a number of personal devices, such as
-those described in this section.
-
-#### Table: Personal Devices
-
-| Description            | TL  | Cost      | Wgt |
-| ---------------------- | --- | --------- | --- |
-| Magnetic Compass       | 3   | Cr10      | --  |
-| Wrist Watch            | 4   | Cr100     | --  |
-| Radiation Counter      | 5   | Cr250     | 1   |
-| Metal Detector         | 6   | Cr300     | 1   |
-| Hand Calculator        | 7   | Cr10      | 0.1 |
-| Inertial Locator       | 9   | Cr1,200   | 1.5 |
-| Electromagnetic Probe  | 10  | Cr1,000   | --  |
-| Hand Computer          | 11  | Cr1,000   | 0.5 |
-| Holographic Projector  | 11  | Cr1,000   | 1   |
-| Densitometer           | 14  | Cr20,000  | 5   |
-| Bioscanner             | 15  | Cr350,000 | 3.5 |
-| Neural Activity Sensor | 15  | Cr35,000  | 10  |
-
-**Bioscanner**: The bioscanner 'sniffs' for organic molecules and tests
-chemical samples, analysing the make-up of whatever it is focussed on.
-It can be used to detect poisons or bacteria, analyse organic matter,
-search for life signs and classify unfamiliar organisms. The data from a
-bioscanner can be interpreted using the Comms or the Life Sciences
-skill.
-
-**Densitometer**: The remote densitometer uses an object’s natural
-gravity to measure its density, building up a three-dimensional image of
-the inside and outside of an object.
-
-**Electromagnetic Probe**: This handy device detects the electromagnetic
-emissions of technological devices, and can be used as a diagnostic tool
-when examining equipment (+1 DM to work out what’s wrong with it) or
-when searching for hidden bugs or devices. The Comms skill can be used
-to sweep a room for bugs.
-
-**Hand Calculator**: Allows the user to perform mathematical
-calculations quickly.
-
-**Hand Computer**: The ‘handcomp' provides services of a small computer,
-plus serves as a computer terminal when linked (by its integral radio,
-network interface jack, or by other circuit) to a standard computer.
-
-**Holographic Projector**: A holographic projector is a toaster-sized
-box that, when activated, creates a three-dimensional image in the space
-around it or nearby – the range is approximately three meters in all
-directions. The image can be given pre-programmed animations within a
-limited range and the projector includes speakers for making sound. The
-projected holograms are obviously not real so this device is mostly used
-for communication. The TL 12 version can produce holograms real enough
-to fool anyone who fails an Intelligence check (made upon first seeing
-the hologram), at double the cost, and the TL 13 version can produce
-holograms that are true-to-life images, at ten times the cost.
-
-**Inertial Locator**: Indicates direction and distance traveled from the
-starting location.
-
-**Magnetic Compass**: Indicates direction of magnetic north, if any
-exists.
-
-**Metal Detector**: Indicates presence of metal within a 3 meter radius
-(including underground), with the indicating signal growing stronger as
-it gets closer to the source.
-
-**Neural Activity Sensor (NAS)**: This device consists of a backpack and
-detachable handheld unit, and can detect neural activity up to 500
-meters away. The device can also give a rough estimation of the
-intelligence level of organisms based on brainwave patterns. The data
-from a neural activity scanner can be interpreted using the Comms, the
-Life Sciences or the Social Sciences skills.
-
-**Radiation Counter**: Indicates presence and intensity of radioactivity
-within a 30-meter radius. The indicating signal will grow stronger as it
-gets closer to the source.
-
-**Wrist Watch**: Allows the user to tell time. At teck level 9, can be
-configured to multiple worlds, as well as standard time, and allows the
-user to configure alarms based on specific times.
-
-## Robots and Drones
-
-Robots are iconic to science fiction. This section describes the robots
-and drones commonly available in a Cepheus Engine campaign. A robot has
-an Intellect program running, allowing it to make decisions
-independently, while drones are remote-controlled by a character with
-the Comms skill.
-
-Robots and drones operate in combat like characters but take damage as
-if they were vehicles. They have Hull and Structure characteristics
-instead of an Endurance characteristic, and an Endurance DM of 0. Any
-robot running an Intellect program has an Intelligence and Education
-score. Drones have neither. A robot’s Education characteristic is
-representative of the information programmed into it and even low-end
-robots can have high Education scores. Most robots have Social Standing
-characteristics of 0 as they are not social creations but there are some
-exceptions, usually high-end models running advanced Intellect programs.
-Drones do not have Social Standing but in cases where they are used to
-engage in diplomacy or other social intercourse the operator can use his
-own Social Standing score.
-
-**Cargo Robot** (TL 11): These simple, heavy-duty robots are found in
-starport docks and on board cargo ships. Cargo drones can be constructed
-as low as Technology Level 9 but their utility is extremely limited
-until the invention of Intellect programs.
-
-> Strength 30 (+8), Dexterity 9 (+1), Hull 2, Structure 2
-> 
-> Intelligence 3 (–1), Education 5 (–1), Social Standing 0 (–3)
-> 
-> **Traits**: Armor 8, Huge, Specialized Model 1 computer (running
-> Intellect/1 and Expert (appropriate skill)/1)
-> 
-> **Weapons**: Crushing Strength (Natural Weapons, 3D6 damage)
-> 
-> **Price**: Cr75,000
-
-**Repair Robot** (TL 11): Shipboard repair robots are small crab-shaped
-machines that carry a variety of welding and cutting tools. Specialized
-repair robots may run Expert Engineering rather than Expert Mechanics.
-
-> Strength 6 (+0), Dexterity 7 (+0), Hull 1, Structure 1
-> 
-> Intelligence 5 (–1), Education 6 (+0), Social Standing 0 (–3)
-> 
-> **Traits**: Integral System (mechanical toolkit), Specialized Model 1
-> computer (running Intellect/1 and Expert Mechanics/2)
-> 
-> **Weapons**: Tools (Natural Weapons, 1D6 damage)
-> 
-> **Price**: Cr10,000
+A meno che non sia diversamente indicato, può essere indossato solo un solo tipo di armatura alla volta. Risolvi il danno dall'esterno verso l'interno - il danno che riesce a passare lo strato esterno dell'armatura è applicato poi allo strato interno.
+
+**LT**: il livello tecnologico più basso nel quale questo oggetto diventa disponibile.
+
+**Valore Armatura (VA)**: La quantità di danno ridotta da un'armatura quando un attacco colpisce il personaggio. Quando due valori sono indicati separatamente da uno slash, il numero a sinistra rappresenta il valore armatura conto tutti gli attacchi eccetto i laser, mentre il numero sulla destra rappresenta il valore armatura contro gli attacchi laser.
+
+**Costo**: Il costo dell'oggetto in Crediti (Cr).
+
+**Peso**: Il peso di un oggetto in chilogrammi.
+
+**Abilità Richiesta**: Alcune armature hanno un'abilita richiesta. Un personaggio soffre la solita penalità per Inesperti quando usa un'armatura senza avere livelli dell'abilità richiesta.
+
+#### Tabella: Armature Personali Comuni
+
+| Armatura                  | LT  | VA    | Costo     | Peso | Abilità Richiesta   |
+| ------------------------- | --- | ----- | --------- | ---- | ------------------- |
+| Ablat                     | 9   | 3/8\* | Cr75      | 2kg  | --                  |
+| Tenuta da Battaglia       | 13  | 18    | Cr200,000 | 60kg | Tenuta da Battaglia |
+| Tessuto                   | 6   | 9     | Cr250     | 2kg  | --                  |
+| Armatura da Combattimento | 11  | 11    | Cr20,000  | 18kg | G-Zero              |
+| Tuta HEV                  | 12  | 8     | Cr18,000  | 40kg | G-Zero              |
+| Giubbotto                 | 1   | 3     | Cr50      | 1kg  | --                  |
+| Rete                      | 7   | 5     | Cr150     | 2kg  | --                  |
+| Reflec                    | 10  | 0/14  | Cr1500    | 1kg  | --                  |
+| Tuta Spaziale             | 9   | 6     | Cr9000    | 8kg  | G-Zero              |
+
+### Descrizione delle Armature
+
+**Ablat** (LT 9): Un’alternativa economica alla Reflec, l’armatura ablat
+è fatta di materiale che sublima (si vaporizza) quando è colpito
+da armi laser. Ogni colpo di laser su un ablat riduce il suo valore
+di armatura (contro i laser)
+
+**Tenuta Da Battaglia** (LT 13): L’armatura personale definitiva,
+la tenuta da battaglia è una forma potenziata di armatura da
+combattimento. I servomotori potenziano enormemente la velocità
+e la forza dell’utente, aumentando Forza e Destrezza di +4 quando la indossa. 
+Il danno alle caratteristiche di chi la indossa viene calcolato normalmente, ma vengono usati i valori dell’armatura per ogni altro fine come il danno in corpo a corpo o le prove di abilità. La tenuta ha un computer/2 incorporato, con un programma
+Esperto Tattica-2 per dare consigli e aggiornamenti tattici e normalmente ha numerosi miglioramenti. La tuta è completamente chiusa, con una scorta d’aria per sei ore,
+e offre protezione completa dai pericoli ambientali – inclusa una
+schermatura NBC (Nucleare, Biologica, Chimica) come se fosse
+una Tuta HEV
+
+**Tessuto**(LT 7): Un abito resistente creato con tessuto balistico. La
+struttura assorbe l’energia dell’impatto e la diffonde sul corpo, e
+questo può provocare contusioni. Tuttavia, l’armatura di tessuto
+è molto utile e versatile – può essere nascosta facilmente sotto
+abiti comuni, anche se gli osservatori che effettuano una prova di
+Investigare o Ricognizione a 8+ noteranno qualcosa di insolito.
+
+**Armatura da Combattimento** (LT 11): Questa tuta che copre tutto
+il corpo è usata dall’esercito e in genere non è disponibile sul
+libero mercato, anche se chi ha contatti militari o criminali può
+ottenerla senza gravi difficoltà. È distribuita alle unità di truppa e
+ai battaglioni mercenari. L’armatura da combattimento protegge
+dal vuoto come una tuta spaziale e fornisce supporto vitale per sei
+ore.
+
+**Tuta HEV** (LT 8): Le tute HEV (Hostile Environment & Vacuum – Ambienti Ostili e Vuoto) sono progettate per le condizioni in cui una normale tuta spaziale sarebbe insufficiente, come le profondità subacquee, i mondi avvolti in gas tossici o corrosivi, radiazioni o temperature estreme o altri luoghi che offrono gravi pericoli fisici oltre all’assenza di atmosfera respirabile. Le HEV forniscono tutto il supporto vitale di una normale tuta spaziale (fino a sei ore) ma sono anche impervie a fiamme, radiazioni
+intense come quelle che si trovano nei siti di esplosioni nucleari (diminuendo l'esposizione alle radiazioni di 180 rad) e ambienti ad alta pressione come gli abissi sottomarini. 
+
+**Giubbotto** (LT 1): Un giubbotto o un abito di cuoio naturale o sintetico che copre il torace e la parte superiore delle braccia e delle gambe.
+
+**Rete** (LT 6): Un giubbotto o maglia che copre il torso, foderato
+di una rete flessibile in metallo o plastica che fornisce protezione
+aggiuntiva contro i proiettili.
+
+**Reflec** (LT 10): L’armatura Reflec è una tuta di plastica flessibile
+con strati di materiale riflettente e gel a dispersione di calore. È
+molto efficace contro i laser, ma non fornisce protezione contro
+gli altri attacchi. L’armatura reflex può essere indossata con altre
+armature.
+
+**Tuta Spaziale** (LT 8): La tuta spaziale è la migliore amica
+dell’astronauta, e fornisce supporto vitale e protezione nello spazio. Una
+tuta spaziale fornisce un’atmosfera respirabile e protezione dagli
+estremi della temperatura, dalla bassa pressione e dalle radiazioni
+che tipicamente si trovano nel vuoto assoluto, per sei ore.
+
+## Comunicatori
+
+I personaggi separati fisicamente spesso hanno la necessità di mantenere le comunicazioni. Questi esempi di equipaggiamento per le comunicazioni risponde a questo bisogno. L'uso abituale di questi dispositivi non richiede una prova di abilità. Quando si tenta di superare le interferenze o si usano questi dispositivi per altri scopi, una prova di abilità Comunicazioni è richiesto.
+
+#### Tabella: Equipaggiamento da Comunicazione
+
+| Comunicatore                  | LT  | Costo | Peso   | Raggio   |
+| ----------------------------- | --- | ----- | ------ | -------- |
+| Comunicatore a Lunga Distanza | 6   | Cr500 | 15 kg  | 500 km   |
+| Comunicatore a Media Distanza | 5   | Cr200 | 10 kg  | 30 km    |
+| Comunicatore a Breve Distanza | 5   | Cr100 | 5 kg   | 10 km    |
+| Comunicatore Portabile        | 8   | Cr250 | 0.3 kg | Speciale |
+
+**Comunicatore a Lunga Distanza**: Radio contenute in zaini capaci di un raggio fino a 500 km e di contattare le navi in orbita. Dieci canali separati. A livello tecnologico 7 il perso è ridotto a 1,5 kg e viene montata su una cintura o una fascia.
+
+**Comunicatore a Media Distanza**: Radio montate su una cintura o una fascia capaci di un raggio fino a 30 kg e di contattare i canali radio ufficiali. Cinque canali separati. A livello tecnologico 7, il peso è ridotto a 500 grammi.
+
+**Comunicatore a Breve Distanza**: Radio montati su cintura capaci di un raggio di 10 km (molto più corto quando sottoterra o sott'acqua). Tre canali separati. A livello tecnologico 7, il peso si riduce a 300 grammi e diventa palmare.
+
+**Comunicatore Portatile**: Un dispositivo di comunicazione palmare a singolo canale. Su mondi di livello tecnologico 8 o superiore, un comunicatore portatile è capace di collegarsi alla rete di comunicazione satellitare planetaria e con l'indirizzo corretto di contattare (con un costo) altri comunicatori presenti sul mondo. Il canale è privato, ma non è sicuro e potrebbe essere monitorato su alcuni mondi. Di solito l'accesso alla rete può essere acquistato allo spazioporto locale per un costo modesto. Su mondi di livello tecnologico 7 o meno, i comunicatori personali non funzioneranno.
+
+## Computer
+
+La potenza di un computer è data dalla sua classe (Modello 1,
+Modello 2, etc), che misura la complessità dei programmi che può eseguire (la memoria dati è praticamente illimitata a LT 9 e superiore). I programmi sono classificati secondo la classe di computer che richiedono. Un sistema può eseguire un numero
+di programmi massimo pari alla sua classe.
+
+I computer elencati qui sono delle dimensioni di un laptop. La
+durata della batteria è due ore a LT 7, otto ore a LT 8 e praticamente
+illimitata a LT 9 e superiore. I computer desktop offrono un potere di elaborazione lievemente superiore allo stesso costo, ma non abbastanza da fare una differenza in
+termini di gioco. I desktop diventano obsoleti durante il LT 8.
+
+#### Tabella: Computer secondo LT
+
+| LT Ottimale | Computer Power | Mass (kg) | Cost (Cr) |
+| ----------- | -------------- | --------- | --------- |
+| LT 7        | Modello 0      | 10        | 50        |
+| LT 8        | Modello 1      | 5         | 100       |
+| LT 9        | Modello 1      | 5         | 250       |
+| LT 10       | Modello 2      | 1         | 350       |
+| LT 11       | Modello 2      | 1         | 500       |
+| LT 12       | Modello 3      | 0.5       | 1,000     |
+| LT 13       | Modello 4      | 0.5       | 1,500     |
+| LT 14       | Modello 5      | 0.5       | 5,000     |
+
+**Terminale** (LT 7): Questo è un “terminale stupido”, che ha potere
+d’elaborazione limitato. Serve da interfaccia con un sistema di computer più potente come quello di una nave o una rete informatica planetaria. Le dimensioni dei terminali cambiano a seconda del loro metodo di controllo – un terminale a proiezione
+olografica può essere molto più piccolo di uno con schermo e tastiera fisici. Un terminale ha Computer/0, e costa Cr 200.
+
+**Computer Palmare** (LT 7): Un computer palmare è un computer
+portatile con notevole potere di elaborazione. È più potente di un
+terminale di computer, e può essere usato anche senza accesso di
+rete. Un palmare costa il doppio di un computer normale dello stesso
+LT ma può essere tenuto con una mano e operato con l’altra.
+
+### Optioni
+
+**Data Display/Recorder** (LT 13): Questo apparecchio, chiamato per
+brevità DD/R, si mette sopra uno o entrambi gli occhi e fornisce un
+visore personale continuo per l’utente, permettendogli di vedere i
+dati di qualsiasi sistema collegato. Grazie allo schermo trasparente,
+la visione non è oscurata quando si utilizza un DD/R. I DD/R possono mostrare i dati di qualsiasi sistema, non solo dei computer – possono mostrare le riserve d’ossigeno di una tuta spaziale, lo stato di una gravicintura, i risultati di un analizzatore di attività neurale e così via. Cr 5.000.
+
+**Carta Dati** (LT 10): Il mezzo principale per immagazzinare le
+informazioni nell’Impero è la normale carta dati, un rettangolo di
+plastica rigida all’incirca delle dimensioni di una carta di credito.
+L’interfaccia di una carta dati è standard, ma la costruzione interna
+varia. Una carta dati di LT 10 è di diamante mnemonico, con le
+informazioni registrate in strutture di atomi di carbonio; carte più
+avanzate usano metodi di immagazzinamento più sofisticati. Cr 5.
+
+**Computer Specializzato**: Un computer può essere progettato per
+uno scopo specifico, cosa che gli dà una classe di 1 o 2 punti
+più alta solo per quel programma. Il computer di navigazione
+di una nave potrebbe essere solo un Computer/1, ma potrebbe
+eseguire il programma Esperto Navigazione/3 perché è progettato
+specificamente per quello. Un computer specializzato costa il 25%
+in più per ogni punto di classe aggiunto. Inoltre, eseguire il programma per cui un
+computer è specializzato non usa punti quando si calcola quanti
+programmi può eseguire simultaneamente il computer.
+
+### Software
+
+Un personaggio può utilizzare un programma di classe superiore
+con un computer di classe inferiore, con un minimo della classe più
+bassa elencata per quel tipo di programma.
+I programmi al di sopra di Classe/1 non sono facili da copiare,
+poiché richiedono un ammontare di banda considerevole per
+essere trasferiti.
+
+#### Tabella: Software
+
+| Software                                                                           | Classe | LT  | Costo            | Descrizione                                                                                                                           |
+| ---------------------------------------------------------------------------------- | ------ | --- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Database                                                                           | \-     | 7   | Cr10 to Cr10,000 | Un database è una grande riserva di informazioni su un argomento, che può                                                             |
+| <br/>essere consultata con una prova di Computer o usando un Agente.               |        |     |                  |                                                                                                                                       |
+| Interfaccia                                                                        | 0      | 7   | Included         | Mostra i dati. Usare un computer senza interfaccia è un compito Formidabile (–6 MD)                                                   |
+| Sicurezza                                                                          | 0      | 7   | Included         | I programmi di sicurezza difendono dalle intrusioni. La Classe 0 è Media (+0 MD).                                                     |
+|                                                                                    | 1      | 9   | Cr200            | difficoltà: Difficile (–2 MD)                                                                                                         |
+|                                                                                    | 2      | 11  | Cr1,000          | difficoltà: Molto Difficile (–4 MD)                                                                                                   |
+|                                                                                    | 3      | 12  | Cr20,000         | difficoltà: Formidabile (–6 MD)                                                                                                       |
+| Traduttore                                                                         | 0      | 9   | Cr50             | I Traduttori sono sistemi Esperto specializzati che hanno solo l’abilità Lingue. Fornisce solo una traduzione quasi in tempo reale.   |
+|                                                                                    | 1      | 10  | Cr500            | Opera                                                                                                                                 |
+| in tempo reale e capisce meglio le sfumature delle lingue.                         |        |     |                  |                                                                                                                                       |
+| Intrusione                                                                         | 1      | 10  | Cr1,000          | I programmi di intrusione aiutano i tentativi di hackeraggio, dando un bonus pari                                                     |
+| alla loro classe. Il software d’Intrusione è spesso illegale.                      |        |     |                  |                                                                                                                                       |
+|                                                                                    | 2      | 11  | Cr10,000         |                                                                                                                                       |
+|                                                                                    | 3      | 13  | Cr100,000        |                                                                                                                                       |
+|                                                                                    | 4      | 15  | N/A              |                                                                                                                                       |
+| Interfaccia Intelligente                                                           | 1      | 11  | Cr100            | Un’intelligenza artificiale "a bassa autonomia" permette il controllo vocale e mostra i dati in modo                                  |
+| intelligente. Necessaria per utilizzare i programmi Esperto.                       |        |     |                  |                                                                                                                                       |
+|                                                                                    | 2      | 13  | Cr1,000          | Un'intelligenza artificiale "ad alta autonomia" permette a un'intelligenza artificiale primitiva di auto-avvio e di imparare da sola. |
+|                                                                                    | 3      | 17  | Cr10,000         | La vera intelligenza artificiale è capace di pensiero creativo indipendente.                                                          |
+| Esperto                                                                            | 1      | 11  | Cr1,000          | I programmi Esperto imitano le abilità. Un personaggio che usa un sistema                                                             |
+| esperto può effettuare una prova di abilità come se avesse quell’abilità pari alla |        |     |                  |                                                                                                                                       |
+| classe del programma -1. Si possono tentare solo prove basate su Int e Edu. Se il  |        |     |                  |                                                                                                                                       |
+| personaggio ha già l’abilità a un livello superiore, il programma Esperto fornisce |        |     |                  |                                                                                                                                       |
+| un MD di +1..                                                                      |        |     |                  |                                                                                                                                       |
+|                                                                                    | 2      | 12  | Cr10,000         |                                                                                                                                       |
+|                                                                                    | 3      | 13  | Cr100,000        |                                                                                                                                       |
+| Agente                                                                             | 0      | 11  | Cr500            | I programmi Agente hanno l’abilità Computer pari alla loro classe, e possono                                                          |
+| svolgere i compiti loro assegnati con un minimo di intelligenza. Ad esempio, a un  |        |     |                  |                                                                                                                                       |
+| programma agente si può ordinare di penetrare in una rete di computer nemica e     |        |     |                  |                                                                                                                                       |
+| rubare un determinato file di dati. In pratica sono combinazioni specializzate dei |        |     |                  |                                                                                                                                       |
+| programmi Esperto e Intelletto.                                                    |        |     |                  |                                                                                                                                       |
+|                                                                                    | 1      | 12  | Cr2,000          |                                                                                                                                       |
+|                                                                                    | 2      | 13  | Cr100,000        |                                                                                                                                       |
+|                                                                                    | 3      | 14  | Cr250,000        |                                                                                                                                       |
+| Intelletto                                                                         | 1      | 12  | Cr2,000          | Gli Intelletti sono agenti migliorati che possono usare sistemi Esperti. Ad esempio,                                                  |
+| un robot medico potrebbe eseguire Intelletto/1 e Esperto Medico/3, ed avere così   |        |     |                  |                                                                                                                                       |
+| Medico 2. Un Intelletto può usare simultaneamente un numero di abilità pari alla   |        |     |                  |                                                                                                                                       |
+| sua Classe.                                                                        |        |     |                  |                                                                                                                                       |
+|                                                                                    | 2      | 13  | Cr50,000         |                                                                                                                                       |
+|                                                                                    | 3+     | 14  | \-               |                                                                                                                                       |
+
+## Droghe
+
+Le droghe spesso possono sostituire l'attenzione immediata di personale medico addestrato. Le seguenti medicine sono incontrate comunemente nelle campagne di Cepheus Engine.
+
+#### Tabelle: Droghe
+
+| Descrizione             | LT  | Costo   |
+| ----------------------- | --- | ------- |
+| Droghe Medicinali       | 5   | Cr5+    |
+| Droghe Antirad          | 8   | Cr1,000 |
+| Panacee                 | 8   | Cr200   |
+| Droghe stim             | 8   | Cr50    |
+| Droghe da combattimento | 10  | Cr1,000 |
+| Droghe Acceleratrici    | 10  | Cr200   |
+| Acceleratore Metabolico | 10  | Cr500   |
+| Rallentatore Medicinale | 11  | Cr500   |
+| Anagatici               | 15  | Cr2,000 |
+
+**Anagatici**: rallentano il processo d’invecchiamento
+dell’utilizzatore. Gli anagatici sintetici diventano realizzabili a LT
+15, ma ci sono spezie naturali e altri rari composti che hanno effetti
+comparabili a tutti i Livelli Tecnologici. Gli anagatici sono illegali
+o strettamente controllati su molti mondi. È necessario prendere una dose al mese per mantenere gli effetti anti invecchiamento – se il personaggio che prende gli
+anagatici salta una dose, deve effettuare immediatamente un tiro sulla tabella d’invecchiamento poiché il suo corpo reagisce malamente al rifornimento interrotto.
+
+**Droghe Antirad**: devono essere somministrate prima
+dell’esposizione alla radiazioni, o immediatamente dopo (entro
+dieci minuti). Assorbono fino a 100 rad per dose un personaggio può
+usare le droghe antirad una sola volta al giorno – prenderne di
+più provoca 1d6 danni permanenti alla Resistenza per dose
+
+**Droghe da combattimento**: Questa droga aumenta i tempi
+di reazione e migliora la capacità del corpo di sopportare traumi,
+aiutando l’utilizzatore in combattimento. Un personaggio che usa
+una droga da combattimento aggiunge +4 al suo totale di Iniziativa
+all’inizio del combattimento (o quando la droga fa effetto). Può
+anche schivare una volta ogni round senza effetti sulla sua Iniziativa,
+e riduce tutti i danni subiti di due punti. La droga fa effetto in venti
+secondi (quattro round) dopo l’iniezione, e dura circa dieci minuti.
+Quando la droga svanisce, l’utente è affaticato.
+
+**Droghe Acceleratrici**: o “Ibernazione”, mette l’utilizzatore
+in uno stato simile all’animazione sospesa, rallentando il suo ritmo metabolico fino a 60 volte – un giorno soggettivo per l’utente è in
+realtà due mesi. La droga acceleratrice viene di solito usata per
+prolungare la durata dei supporti vitali o come sostituto economico
+delle criocuccette.
+
+**Droghe Medicinali**: includono vaccini, antitossine e
+antibiotici. Vanno dal costo di cinque crediti a svariate migliaia di
+crediti, a seconda della rarità e della complessità della droga. Per
+usare adeguatamente le droghe medicinali è necessaria l’abilità
+Medico – usare la medicina sbagliata può essere peggio che non
+fare niente. Con una prova di Medicina riuscita la droga giusta può contrastare la maggior parte dei veleni o delle malattie o, almeno, dare un MD positivo per resistervi. Se viene somministrata la droga sbagliata, trattatala come un veleno
+Difficile (MD -2) con un danno di 1D6.
+
+**Rallentatore Medicinale**: è una variante della droga
+rallentatrice. Può essere somministrato in sicurezza solo in una
+struttura medica in cui siano disponibili supporto vitale e tecnologia
+d’ibernazione, poiché aumenta il metabolismo fino a circa trenta
+volte il normale, permettendo ad un paziente di trascorrere un
+mese di guarigione in un solo giorno.
+
+**Acceleratore Metabolico**: Aumenta il
+tempo di reazione dell’utilizzatore a livelli sovrumani. Per chi la usa,
+tutti gli altri sembrano muoversi più lentamente. Un personaggio
+che usa la droga rallentante in combattimento aggiunge +8 al
+totale della sua Iniziativa all’inizio del combattimento (o quando
+la droga fa effetto). Può anche schivare fino a due volte ogni round
+senza effetti sul suo punteggio d’iniziativa. La droga prende effetto
+45 secondi (otto round) dopo l’ingestione o l’iniezione, e dura
+circa dieci minuti. Quando la droga svanisce, il sistema di chi la
+usa crolla. Subisce 2D6 punti di danno ed è esausto.
+
+**Panacee**: Sono droghe medicinali ad ampio spettro
+progettate specificamente per non interagire in modo dannoso.
+Possono perciò essere usate per qualsiasi ferita o malattia con
+la garanzia di non peggiorare le cose. Un personaggio che usi
+una panacea può effettuare una prova di Medico come se avesse
+Medico 0 quando cura un’infezione o malattia.
+
+**Droghe stim**: Rimuovono l’affaticamento, ma ad un
+costo. Un personaggio che usa le stim può rimuovere gli effetti
+dell’affaticamento ma subisce un punto di danno.
+Se vengono nuovamente utilizzate le stim per rimuovere la fatica
+senza un periodo di sonno tra i due usi, il personaggio subisce due
+punti di danno la seconda volta, tre la terza volta e così via.
+
+## Esplosivi
+
+L'abilità Demolizioni è usata con gli esplosivi – l’Effetto della prova di Demolizioni moltiplica il danno, con un minimo di 1 danno per un Effetto di 0 o di 1. Gli esplosivi non sono legalmente disponibili su un Mondo con Livello di Legge di 1 o più.
+
+#### Tabella: Esplosivi
+
+| Arma               | LT  | Danno    | Raggio     | Costo (Cr) |
+| ------------------ | --- | -------- | ---------- | ---------- |
+| Plastico           | 6   | 3D6      | 2D6 metri  | 200        |
+| Nucleare Tascabile | 12  | 2D6 x 20 | 15D6 metri | 20,000     |
+| TDX                | 12  | 4D6      | 4D6 metri  | 1,000      |
+
+**Plastico**: Questo esplosivo plastico generico e multiuso è uno dei
+preferiti delle unità militari, dei terroristi, delle squadre di guastatori
+e degli avventurieri in tutto lo spazio conosciuto.
+
+**Nucleare Tascabile**: Orribilmente illegale su molti pianeti, la
+nucleare tascabile ha in realtà le dimensioni di una ventiquattrore,
+per cui è troppo grande per entrare in un lanciagranate.
+
+**TDX**: Un esplosivo avanzato, polarizzato dalla gravità, il TDX
+esplode solo lungo il suo asse orizzontale.
+
+## Dispositivi Portatili
+
+I personaggi spesso possiedono alcuni dispositivi portatili, come quelli descritti in questa sezione.
+
+#### Tabella: Dispositivi Portatili
+
+| Descrizione                       | LT  | Costo     | Peso |
+| --------------------------------- | --- | --------- | ---- |
+| Compasso Magnetico                | 3   | Cr10      | --   |
+| Orologio da polso                 | 4   | Cr100     | --   |
+| Contatore Geiger                  | 5   | Cr250     | 1    |
+| Metal Detector                    | 6   | Cr300     | 1    |
+| Calcolatrice                      | 7   | Cr10      | 0.1  |
+| Localizzatore Inerziale           | 9   | Cr1,200   | 1.5  |
+| Sonda Elettromagnetica            | 10  | Cr1,000   | --   |
+| Computer Palmare                  | 11  | Cr1,000   | 0.5  |
+| Proiettore Olografico             | 11  | Cr1,000   | 1    |
+| Densitometro                      | 14  | Cr20,000  | 5    |
+| Bioscanner                        | 15  | Cr350,000 | 3.5  |
+| Scanner di Attività Neurale (SAN) | 15  | Cr35,000  | 10   |
+
+**Bioscanner**: Il bioscanner “annusa” molecole organiche e
+esamina campioni chimici, analizzando la costituzione di qualsiasi
+cosa verso cui sia diretto. Può essere usato per individuare veleni
+o batteri, analizzare materia organica, cercare segni di vita e
+classificare organismi ignoti. I dati provenienti
+da un bioscanner possono essere interpretati usando le abilità
+Sensori o Scienze Biologiche (biologia).
+
+**Densitometro**: Il densitometro a distanza utilizza la gravità
+naturale di un oggetto per misurarne la densità, costruendo
+un’immagine tridimensionale dell’interno e dell’esterno
+dell’oggetto.
+
+**Sonda Elettromagnetica**: Questo pratico oggetto individua
+le emissioni elettromagnetiche di apparecchi tecnologici, e può
+essere usato come strumento diagnostico quando si esamina
+l’equipaggiamento (MD +1 per scoprire cosa non va) o quando si
+cercano microspie o apparecchiature nascoste. Le abilità
+Sensori o Investigazione possono essere usate per ripulire una
+stanza dalle microspie.
+
+**Calcolatrice**: Permette all'utente di eseguire i calcoli velocemente.
+
+**Computer palmare**: Un palmare provvede le funzioni di un piccolo computer e in più serve da terminale quando è collegato (con segnale radio, via cavo o via altro circuito) con un computer standard.
+
+**Proiettore Olografico**: Un proiettore olografico è una
+scatola delle dimensioni di un tostapane che, quando attivato,
+crea un’immagine tridimensionale nello spazio che lo circonda
+o nelle vicinanze – la portata è circa tre metri in ogni direzione.
+L’immagine può avere un’animazione pre-programmata entro una
+portata limitata e il proiettore include amplificatori per il suono.
+Gli ologrammi proiettati, ovviamente, non sono reali, per cui
+l’apparecchiatura è usata principalmente per le comunicazioni. La
+versione di LT 12 può produrre ologrammi abbastanza realistici da
+ingannare chiunque fallisca una prova di Intelligenza (fatta quando
+si vede l’ologramma per la prima volta) e la versione di LT 13 può
+produrre ologrammi completamente realistici, a un costo dieci volte superiore.
+
+**Localizzatore Inerziale**: Indica la direzione e la distanza percorsa dal luogo iniziale.
+
+**Compasso Magnetico**: Indica la direzione del nord magnetico, se esiste.
+
+**Metal Detector**: Indica la presenza di metalli entro tre metri di raggio (sottosuolo incluso), con il segnale che diventa più forte tanto più si avvicina alla fonte.
+
+**Scanner di Attività Neurale (SAN)**: Questo apparecchio consiste di uno zaino e un’unità da tenere in mano, e può individuare l’attività neurale fino a 500 metri di distanza. L’apparecchio può anche dare una stima approssimata del livello d’intelligenza degli organismi, in base agli schemi delle onde cerebrali. I dati di uno scanner di attività neurale possono essere interpretati usando le abilità Comunicazioni, Scienze Biologiche (biologia) o Scienze Sociali.
+
+**Contatore Geiger**: Indica la presenza e l'intensità delle radiazioni nel raggio di 30 metri. Il segnale cresce di intensità tanto più si avvicina alla fonte.
+
+**Orologio da polso**: Permette all'utente di dire l'ora. A livello tecnologico 9, piò essere configurato per mondi molteplici, così come l'ora standard, e permette di configurare sceglie a orari prestabiliti.
+
+## Robot e Droni
+
+I robot sono icone della fantascienza. Questa sezione descrive i robot e i droni comunemente disponibili in una campagna Cepheus Engine. Un robot ha un programma Intelletto in funzione che permette di fargli prendere decisioni indipendentemente, mentre i droni sono controllati da remoto da un personaggio con abilità Comunicazioni. 
+
+I robot e i droni in combattimento funzionano come personaggi, ma
+subiscono danni come se fossero veicoli. Hanno Carena e Struttura
+invece di Resistenza, e un MD di Resistenza pari a 0. Qualsiasi
+robot che esegua un programma Intelletto ha un punteggio di
+Intelligenza e Educazione. I droni non hanno nessuno dei due. La
+caratteristica Educazione di un robot rappresenta le informazioni
+programmate nel suo software, e anche i robot di livello minimo
+possono avere alti punteggi d’Educazione. La maggior parte dei
+robot ha Status Sociale 0 poiché non sono creazioni sociali, ma ci
+sono alcune eccezioni, di solito modelli di alto livello che eseguono
+programmi Intelletto avanzati. I droni non hanno Stato Sociale
+ma, quando sono utilizzati per incontri diplomatici o altri rapporti
+sociali, l’operatore può usare il suo Status Sociale.
+
+**Robot da Carico** (LT 11): Questi semplici, robusti robot si trovano
+nei dock degli astroporti e a bordo delle navi da carico. droni da carico possono essere costruiti già a LT 9, ma la loro utilità è estremamente limitata fino all’invenzione
+dei programmi Intelletto.
+
+> Forza 30 (+8), Destrezza 9 (+1), Carena 2, Struttura 2
+> Intelligenza 3 (-1), Educazione 5 (-1), Stato Sociale 0 (-3)
+> **Tratti**: Armatura 8, Enorme, Computer Specializzato/1 (esegue
+> Intelletto/1 e Esperto Mestiere (qualsiasi fisico)/1)
+> **Armi**: Forza Spappolante (Mischia (disarmato), 3d6 danni)
+> **Prezzo**: 75.000 Crediti
+
+**Robot per le Riparazioni** (LT 11): I robot per le riparazioni di bordo
+sono piccole macchine a forma di ragno che portano una varietà
+di attrezzi per saldare e tagliare. I robot per le riparazioni specializzati
+possono eseguire Esperto Ingegneria invece di Esperto
+Meccanica.
+
+> Forza 6 (+0), Destrezza 7 (+0), Carena 1, Struttura 1
+> Intelligenza 5 (-1), Educazione 6 (+0), Stato Sociale 0 (-3)
+> **Tratti**: Sistema Integrato (kit di attrezzi meccanici), Computer
+> Specializzato/1 (esegue Intelletto/1 e Esperto Meccanico/2)
+> **Armi**: Attrezzi (Mischia (disarmato), 1d6 danni)
+> **Prezzo**: 10.000 Crediti
 
 **Personal Drone** (TL 11): This is a small floating globe about thirty
 centimeters in diameter. It is equipped with holographic projectors
@@ -536,98 +486,86 @@ virtual presence over a great distance.
 > 
 > **Price**: Cr2,000
 
-**Probe Drone** (TL 11): A probe drone is a hardened version of a
-personal remote, armored and carrying more sensor packages. They have an
-operating range of five hundred kilometers, and can fly at a speed of
-300 kph.
+**Drone Sonda** (LT 11): Un drone sonda è una versione irrobustita
+di un drone personale, corazzato e con più pacchetti sensori. Ha
+una portata operativa di cinquecento chilometri e può volare alla
+velocità di 300 k/h.
 
-> Strength 3 (–1), Dexterity 7 (+0), Hull 3, Structure 3
-> 
-> **Traits**: Armor 5, Integral System (comm, audio/visual), Integral
-> System (grav belt), Integral System (TL 11 holographic projector),
-> Integral System (every sensor available at TL 11 and below)
-> 
-> **Price**: Cr15,000
+> Forza 3 (-1), Destrezza 7 (+0), Carena 3, Struttura 3
+> **Tratti**: Armatura 5, Sistema Integrato (com, audio/visivo), Sistema
+> Integrato (gravicintura), Sistema Integrato (proiettore olografico di
+> LT 11), Sistema Integrato (qualsiasi sensore disponibile a LT 11 e
+> inferiore, vedi oltre)
+> **Prezzo**: 15.000 Crediti
 
-**Autodoc** (TL 12): An autodoc is a specialized, immobile medical
-robot, which is often installed inside vehicles or spacecraft.
+**Autodoc** (LT 12): Un autodoc è un robot specializzato e immobile,
+spesso installato in veicoli o astronavi.
 
-> Strength 6 (+0), Dexterity 15 (+3), Hull 1, Structure 1
-> 
-> Intelligence 9 (+1), Education 12 (+2), Social Standing 0 (–3)
-> 
-> **Traits**: Integral System (TL 12 medikit), Specialized Model 1
-> computer (running Intellect/1 and Medicine/2)
-> 
-> **Weapons**: Surgical Tools (Slashing Weapons, 1D6 damage)
-> 
-> **Price**: Cr40,000
+> Forza 6 (+0), Destrezza 15 (+3), Carena 1, Struttura 1
+> Intelligenza 9 (+1), Educazione 12 (+2), Stato Sociale 0 (-3)
+> **Tratti**: Sistema Integrato (medikit di LT 12), Computer
+> Specializzato/1 (esegue Intelletto/1 e Medico/2)
+> **Armi**: Attrezzi chirurgici (Mischia (lama piccola), 1d6 danni)
+> **Prezzo**: 40.000 Crediti
 
-**Combat Drone** (TL 12): Combat drones are little more than flying guns
-mated to a grav floater and a computer system. The drones must be
-piloted with the Remote Operations skill but attacks are made using the
-appropriate weapon skill. Combat drones loaded with Intellect and combat
-Expert programs (making them autonomous combat robots) are illegal on
-many worlds.
+**Drone da Combattimento** (LT 12): I droni da combattimento sono
+poco più che armi volanti accoppiate a un gravitore e a un sistema
+computerizzato. I droni devono essere pilotati
+con l’abilità Operare in Remoto, ma gli attacchi vengono effettuati
+usando le relative abilità nelle armi. I droni da combattimento in
+cui sono caricati programmi Intelletto e Esperto (che li rendono
+robot da combattimento autonomi) sono illegali su molti pianeti.
 
-> Strength 12 (+2), Dexterity 10 (+1), Hull 4, Structure 4
-> 
-> **Traits**: Armor 9, Integral System (grav floater), Integral Weapon
-> (any)
-> 
-> **Weapons**: Any gun
-> 
-> **Price**: Cr90,000, plus the cost of the weapon (the Integral Weapon
-> upgrade is included)
+> Forza 12 (+2), Destrezza 10 (+1), Carena 4, Struttura 4
+> **Tratti**: Armatura 9, Sistema Integrato (gravitore), Arma Integrata
+> (qualsiasi)
+> **Armi**: Qualsiasi da fuoco
+> **Prezzo**: 90.000 Crediti più il costo dell’arma (la modifica Arma
+> Integrata è inclusa).
 
-**Servitor** (TL 13): Servitor robots are expensive humanoid robots who
-are programmed to act as butlers or servants to the nobility. Some
-servitor owners reprogram their robots with Expert Carousing or Expert
-Gambling to better suit their lifestyle.
+**Servitore** (LT 13): I robot servitori sono costosi robot umanoidi
+programmati per fare da maggiordomi o servi alla nobiltà. Alcuni proprietari di servitori riprogrammano i loro robot con Esperto Baldoria o Esperto Gioco d'Azzardo per adattarli meglio al loro stile di vita.
 
-> Strength 7 (+0), Dexterity 9 (+1), Hull 2, Structure 2
-> 
-> Intelligence 9 (+1), Education 12 (+2), Social Standing 7 (+0)
-> 
-> **Traits**: Computer/3 (running Intellect/1 and Expert Steward/2 –
-> servitors also have Expert Liaison/2 and Translator/1 available should
-> they be necessary)
-> 
-> **Weapons**: Robot Punch (Natural Weapons, 1D6 damage)
-> 
-> **Price**: Cr120,000
+> Forza 7 (+0), Destrezza 9 (+1), Carena 2, Struttura 2
+> Intelligenza 9 (+1), Educazione 12 (+2), Stato Sociale 7 (+0)
+> **Tratti**: Computer/3 (esegue Intelletto/1 e Esperto Steward/2
+> – i servitori hanno anche Esperto Diplomazia/2 e Traduttore/1 a
+> disposizione, se si rivela necessario)
+> **Armi**: Pugno robot (Mischia (disarmato), 1d6 danni)
+> **Prezzo**: 120.000 Crediti
 
-### Robot and Drone Options
+### Opzioni
 
-**Armor**: Armor can be increased by 5, which increases the drone or
-robot’s cost by 25%.
+**Armor**: L’armatura può essere aumentata di 5, il che aumenta il
+costo del drone o del robot del 25%.
 
-**Integral System**: Certain devices can be built into drones or robots
-by increasing the cost of the device by +50%. Popular choices include
-toolkits of different kinds, various sensors, or mobility upgrades like
-thruster packs or grav floaters.
+**Sistema Integrato**: Alcune apparecchiature possono essere
+incorporate nei droni o nei robot aumentando il costo delle
+apparecchiature stesse del +50%. Le scelte più diffuse includono
+kit di attrezzi di vario tipo (si veda oltre), diversi sensori o
+miglioramenti di mobilità, come minireattori o gravitori.
 
-**Integral Weapon**: Any suitable weapon can be added to a drone or
-robot, at the cost of Cr10,000 + the cost of the weapon.
+**Arma Integrata**: Qualsiasi arma adeguata può essere aggiunta a un
+drone o a un robot, al costo di Cr 10.000 + il costo dell’arma.
 
-## Sensory Aids
+## Ausili Sensori
 
-The following aids provide enhance a character’s physical senses.
+I seguenti ausili provvedono potenziamenti ai sensi fisici di un personaggio.
 
-#### Table: Sensory Aids
+#### Tabella: Ausili Sensori
 
-| Description               | TL  | Cost  | Wgt  |
-| ------------------------- | --- | ----- | ---- |
-| Torch                     | 1   | Cr1   | 0.25 |
-| Lamp Oil                  | 2   | Cr2   | --   |
-| Oil Lamp                  | 2   | Cr10  | 0.5  |
-| Binoculars                | 3   | Cr75  | 1    |
-| Electric Torch            | 5   | Cr10  | 0.5  |
-| Cold Light Lantern        | 6   | Cr20  | 0.25 |
-| Infrared Goggles          | 6   | Cr500 | --   |
-| Light Intensifier Goggles | 7   | Cr500 | --   |
+| Descrizione            | LT  | Costo | Peso |
+| ---------------------- | --- | ----- | ---- |
+| Torcia                 | 1   | Cr1   | 0.25 |
+| Olio per Lampada       | 2   | Cr2   | --   |
+| Lampada ad Olio        | 2   | Cr10  | 0.5  |
+| Binocoli               | 3   | Cr75  | 1    |
+| Torcia Elettrica       | 5   | Cr10  | 0.5  |
+| Lanterna a Luce Fredda | 6   | Cr20  | 0.25 |
+| Visore Infrarossi      | 6   | Cr500 | --   |
+| Visore Notturno        | 7   | Cr500 | --   |
 
-**Binoculars**: Allows the user to see further. At TL 8 electronic
+**Binocoli**: Allows the user to see further. At TL 8 electronic
 enhancement allows images to be captured; light-intensification allows
 them to be used in the dark. Cr750. At TL 12 PRIS (Portable Radiation
 Imaging System) allows the user to observe a large section of the
