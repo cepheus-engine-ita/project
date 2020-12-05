@@ -1,73 +1,57 @@
-# CAPITOLO 5: COMBATTIMENTO CORPO A CORPO
+# CAPITOLO 5: COMBATTIMENTO
 
-Personal combat is a common means of resolving conflicts. This chapter
-provides detailed rules for personal combat.
+Il Combattimento è un mezzo abituale di risolvere conflitti. Questo capitolo ne fornisce le regole dettagliate.
 
-## Personal Combat Checklist
+## Checklist di Combattimento
 
-Personal combat in the Cepheus Engine is cyclical. Everybody acts in
-turn in a regular cycle called a round. Generally, combat runs in the
-following way:
+Il Combattimento nel Cephues Engine è ciclico. Ciascuno agisce a turno in un ciclo regolare definito round. In genere, si svolge nel seguente modo:
 
-1. The Referee determines which characters are aware of their opponents
-   at the start of the battle. If some but not all combatants are aware
-   of their opponents, the combatants that are aware of their opponents
-   are considered to get an automatic 12 on their initiative roll,
-   giving them an Initiative of 12 + Dexterity DM.
+1. L'Arbitro determina quale personaggi sono consapevole dei propri opponenti all'inizio della battaglia. Se alcuni, ma non tutti, i combattenti sono consapevoli dei propri opponenti, i combattenti che sono consapevoli ottengono un tiro di iniziativa automatico di 12 e un MD di Destrezza di 12+.
 
-2. Any remaining combatants roll initiative. All combatants are now
-   ready to begin their first round of combat.
+2. Ogni combattente restante tira l'iniziativa. Tutti i combattenti sono ora pronti a iniziare il proprio round di combattimento.
 
-3. Combatants act in initiative order.
+3. I combattenti agiscono in ordine di iniziativa.
 
-4. When everyone has had a turn, the combatant with the highest
-   initiative total acts again, and steps 4 and 5 repeat until combat
-   ends.
+4. Quando tutti hanno effettuato il proprio turno, i combattenti con l'iniziativa più alta agiscono nuovamente e i punti 3 e 4 si ripetono finché il combattimento non ha termine.
 
-## Range
+## Gittata
 
-Personal combat is divided into a series of range bands. These are
-identified in the Personal Combat Range Bands table.
+Il combattimento corpo a corpo è suddiviso in una serie di strisce di
+Gittata:
 
-#### Table: Personal Combat Range Bands
+#### Tabella: Gittata di Combattimento
 
-| Range     | Distance to Target       | Squares to Target                     |
-| --------- | ------------------------ | ------------------------------------- |
-| Personal  | Less than 1.5 meters     | 0 (combatants are in the same square) |
-| Close     | 1.5 to 3 meters          | 1 to 2 squares                        |
-| Short     | 3 to 12 meters           | 3 to 8 squares                        |
-| Medium    | 12 to 50 meters          | 9 to 34 squares                       |
-| Long      | 51 meters to 250 meters  | 35 to 166 squares                     |
-| Very Long | 251 meters to 500 meters | 167 to 334 squares                    |
-| Distant   | 501 meters+              | 334 squares+                          |
+| Gittata     | Distanza al Bersaglio | Quadrati al Bersaglio                        |
+| ----------- | --------------------- | -------------------------------------------- |
+| Personale   | Meno di 1,5
+metri     | 0 (i combattenti sono nello
+stesso quadrato) |
+| Ravvicinata | da 1,5 a 3 metri      | da 1 a 2 quadrati                            |
+| Breve       | da 3 a 12 metri       | da 3 a 8 quadrati                            |
+| Media       | da 12 a 50 metri      | da 9 a 34 quadrati                           |
+| Lunga       | da 51 a 250 metri     | da 35 a 166 quadrati                         |
+| Molto Lunga | da 251 a 500
+metri    | da 167 a 334 quadrati                        |
+| Estrema     | 501+ metri            | 334 quadrati o più                           |
 
-The Difficulty of any attack is based on the weapon type and the range
-of the attack, as per the Attack Difficulties by Weapon Type table.
+La Difficoltà di qualsiasi attacco è basata sul tipo di arma e sulla gittata di attacco, rispetto alla tabella Difficoltà di Attacco per Tipo di Arma.
 
-#### Table: Attack Difficulties by Weapon Type
+#### Tabella: Difficoltà di Attacco per Tipo di Arma
 
-| Weapon         | Personal       | Close     | Short     | Medium    | Long           | Very Long      | Distant        |
-| -------------- | -------------- | --------- | --------- | --------- | -------------- | -------------- | -------------- |
-| Close Quarters | Average        | Difficult | --        | --        | --             | --             | --             |
-| Extended Reach | Difficult      | Average   | --        | --        | --             | --             | --             |
-| Thrown         | --             | Average   | Difficult | Difficult | --             | --             | --             |
-| Pistol         | Difficult      | Average   | Average   | Difficult | Very Difficult | --             | --             |
-| Rifle          | Very Difficult | Difficult | Average   | Average   | Average        | Difficult      | Very Difficult |
-| Shotgun        | Difficult      | Average   | Difficult | Difficult | Very Difficult | --             | --             |
-| Assault Weapon | Difficult      | Average   | Average   | Average   | Difficult      | Very Difficult | Formidable     |
-| Rocket         | Very Difficult | Difficult | Difficult | Average   | Average        | Difficult      | Very Difficult |
+| Arma           | Personale       | Ravvicinata | Breve     | Media     | Lunga           | Molto Lunga     | Distante        |
+| -------------- | --------------- | ----------- | --------- | --------- | --------------- | --------------- | --------------- |
+| Corpo a Corpo  | Media           | Difficile   | --        | --        | --              | --              | --              |
+| Portata Estesa | Difficile       | Media       | --        | --        | --              | --              | --              |
+| Lancio         | --              | Media       | Difficile | Difficile | --              | --              | --              |
+| Pistola        | Difficile       | Media       | Media     | Difficile | Molto Difficile | --              | --              |
+| Fucile         | Molto Difficile | Difficile   | Media     | Media     | Media           | Difficile       | Molto Difficile |
+| Doppietta      | Difficile       | Media       | Difficile | Difficile | Molto Difficile | --              | --              |
+| Arma d’Assalto | Difficile       | Media       | Media     | Media     | Difficile       | Molto Difficile | Formidabile     |
+| Razzo          | Molto Difficile | Difficile   | Difficile | Media     | Media           | Difficile       | Molto Difficile |
 
-### Starting Range
+### Gittata Iniziale
 
-When a combat begins, the Referee must decide the starting range that
-separates the groups of combatants. For combat in tight quarters, such
-as inside an office complex or starship, or within an underground tunnel
-system, the starting range is usually Short. The range for outdoor
-encounters is usually Medium, although open areas such as prairies,
-deserts, open roads and ocean surfaces make it easier to see at a
-distance, so Long or even Very Long range would not be inappropriate.
-Total darkness reduces starting range to Short or less. Partial darkness
-restricts starting range to Medium or less.
+Quando un combattimento inizia, l'Arbitro deve decidere la distanza iniziale che separa i gruppi di combattenti. Per il combattimento ravvicinato, come dentro degli uffici o su un'astronave, o all'interno di un tunnel sottoterra, la gittata iniziale di solito è Breve. La gittata per incontri all'esterno è di solito Media, sebbene aree aperte come le praterie, deserti, strade aperte e superfici oceaniche, rendono più facile vedere a distanza, quindi Lunga o Molto Lunga potrebbe essere una gittata appropriata. La totale oscurità riduce la gittata iniziale a Breve o meno. L'oscurità Parziale restringe la Gittata iniziale a Media o meno.
 
 ## Iniziativa
 
@@ -132,8 +116,7 @@ Mirare specificamente per uccidere funziona come il normale mirare, ma non si so
 
 ### Cambiare Posizione
 
-Un personaggio può cambiare in una qualsiasi di tre posizioni
-– prono, accucciato o in piedi – come azione minore.
+Un personaggio può cambiare in una qualsiasi di tre posizioni – prono, accucciato o in piedi – come azione minore.
 
 ### Estrarre e Ricaricare
 
@@ -157,9 +140,7 @@ azioni fisiche complesse.
 
 ## Azioni Significative
 
-Significant actions are intended to do something within about 3 seconds.
-You can perform a single significant action per round, or forego it to
-perform a total of three minor actions.
+Le azioni significative sono azioni intese a fare qualcosa entro i 3 secondi di tempo. Puoi effettuare una sola azione significativa per round, o rinunciarvi per effettuare un totale di tre azioni minori.
 
 ### Azioni Minori
 
@@ -220,12 +201,9 @@ sono:
 | Personale                      |                                                           |
 | Arma con Rinculo (a G-Zero)    | –2                                                        |
 
-### Coup de Grace
+### Colpo di Grazia
 
-A character can use a melee weapon to deliver a coup de grace to a
-helpless opponent that is within close range. They can also use a ranged
-weapon to do so, provided they are adjacent to the target. The attack
-automatically hit and the opponent dies.
+Un personaggio può usare un'arma da mischia per infierire un colpo di grazia a un'avversario inoffensivo che è entro una gittata breve. Possono essere usate anche armi a distanza per farlo, ammesso che il personaggio sia in prossimità dell'obiettivo. L'attacco colpisce automaticamente e l'opponente muore.
 
 ## Reazioni
 
@@ -392,35 +370,24 @@ Ci sono diversi tipi di sensori.
 
 - **Rilevatori Elettromagnetici**: Questi sensi possono rilevare dispositivi ad alto potenziale elettrico non schermati, come cannoni gauss o trasmettitori.
 
-### Blind Firing
+### Sparare alla cieca
 
-Blind firing works exactly like any other form of firing (including
-automatic), but it always treats the firer as having Level 0 in that
-weapon’s relative skill. Additionally an extra die is thrown when
-firing, but before any calculations are made the highest die (or one of
-the highest, in case of a tie) is removed completely. Any successful
-attack(s) needs to then have a die rolled to randomly choose which
-eligible target in the firing line is hit – whether friend or foe.
+Sparare alla cieca funziona esattamente come ogni altra forma di fuoco (incluso l'automatico), ma rende chi lo effettua come un personaggio di Livello 0 nella relativa abilità d'uso dell'arma. Inoltre, un dado aggiuntivo è tirato quando si spara, ma prima che qualsiasi calcolo sia effettuato, il dado più alto (o uno dei dadi più alti in caso di parità) è rimosso completamente. Ogni attacco riuscito deve quindi prevedere il tiro di un dado per determinare casualmente quale obiettivo a tiro è stato colpito, che sia amico o nemico.
 
-### Burst Fire
+### Raffica
 
-Weapons that fire a burst of 2, 3, 4, 10, 20, or 100 rounds may improve
-the attacker’s odds of either hitting a target or inflict additional
-damage. The attacker must decide whether to spray the target, increasing
-the chances of scoring a hit, or to fire a precise, grouped burst in the
-hope of inflicting greater damage. Either sort of burst fire is
-considered a significant action.
+Le armi che sparano a raffica di 2, 3, 4, 10, 20 o 100 colpi possono aumentare le probabilità di un attaccante di colpire un bersaglio o infliggere ulteriore danno. L'attaccante deve decidere se crivellare l'obiettivo, aumentare le probabilità di colpire o di sparare con una raffica precisa nella speranza di infliggere un danno maggiore. Qualsiasi tipo di raffica è considerata un'azione significativa.
 
-#### Table: Burst Fire Effects
+#### Tabella: Effetti della Raffica
 
-| Burst Size      | Attack DM | Extra Damage       |
-| --------------- | --------- | ------------------ |
-| 1 round         | +0        | +0 damage          |
-| 3 round burst   | +1        | +1 point of damage |
-| 4 round burst   | +1        | +1D6 damage        |
-| 10 round burst  | +2        | +2D6 damage        |
-| 20 round burst  | +3        | +3D6 damage        |
-| 100 round burst | +4        | +4D6 damage        |
+| Dimensione Raffica | MD di Attacco | Danno Extra       |
+| ------------------ | ------------- | ----------------- |
+| 1 colpo            | +0            | +0 danno          |
+| 3 colpi            | +1            | +1 punto di danno |
+| 4 colpi            | +1            | +1D6 danni        |
+| 10 colpi           | +2            | +2D6 danni        |
+| 20 colpi           | +3            | +3D6 danni        |
+| 100 colpi          | +4            | +4D6 danni        |
 
 ### Riparo
 
@@ -434,7 +401,7 @@ può essere colpito ma non può rispondere al fuoco.
 
 #### Tabella: Modificatori di Riparo
 
-| RIparo                                               | MD Riparo |
+| Riparo                                               | MD Riparo |
 | ---------------------------------------------------- | --------- |
 | 1/4 (sottobosco, piccola roccia, angolo di edificio) | –0        |
 | 1/2 (foresta densa, muro basso, bidone)              | –1        |
@@ -450,21 +417,13 @@ un’esplosione può ridurre il danno di 1D6 se si limita a schivare,
 oppure a metà se si tuffa al riparo. Un personaggio che si tuffa al
 riparo finisce prono e perde la sua azione significativa seguente.
 
-### Extreme Range Firing
+### Sparare a Gittate Estreme
 
-Any weapon that has the ability to fire into the Distant range band
-(including ranged(Rifle), ranged(Assault Weapon) and ranged(Rocket)
-attacks) can potentially strike targets even beyond, so long as the
-firer can see the target. Weapons fired at this extreme range do so
-using the modifiers for Distant range with an additional DM of –2. Only
-characters with at least three levels of skill in the weapon may fire at
-extreme range. To fire at extreme range, characters must be stationary
-and prepared to fire from some kind of rest (tripod, tree limb, bunker
-embrasure and so on). Vehicles must be stationary for weapons to be
-fired at extreme range from it. Energy-based weapons (lasers, PGMPs, and
-so on) inflict half damage (round up) at this extreme range.
+Qualsiasi arma che ha la capacità di sparare con una Gittata Distante (inclusi i Fucili, le Armi di Assalto e i Razzi) può potenzialmente colpire bersagli persino oltre, fintanto che  chi spara possa vedere l'obiettivo. Sparare con armi a Gittate così estreme comporta l'uso dei modificatori per Gittata Distante sommato a un MD-2 aggiuntivo. Solo i personaggi con almeno tre livelli di abilità in quell'arma potranno sparare a Gittate Estreme. Il personaggio dovrà essere stabile e preparato sparando da un qualche tipo di supporto (treppiede, ramo d'albero, feritoia di bunker e così via). I veicoli devono essere stabili per consentire di sparare a Gittate Estreme. Le armi a energia (laser, PGMP e così via) infliggono metà del danno (arrotondato in su) a queste gittate.
 
-This can be combined with Aiming for the Kill (above).
+Questo può essere combinato con Mirare per uccidere.
+
+
 
 ### Fighting in Zero Gravity
 
@@ -890,9 +849,7 @@ Consultate la tabella dei Danni dei Veicoli per determinare quanti
 
 #### Tabella: Localizzazione dei Colpi
 
-| 2D6 | Colpo Esterno
-(Veicolo) | Colpo Interno
-(Veicolo) | Robot o Drone |
+| 2D6 | Colpo Esterno (Veicolo) | Colpo Interno (Veicolo) | Robot o Drone |
 | --- | ----------------------- | ----------------------- | ------------- |
 | 2   | Carena                  | Struttura               | Carena        |
 | 3   | Sensori                 | Generatore              | Generatore    |
@@ -902,7 +859,7 @@ Consultate la tabella dei Danni dei Veicoli per determinare quanti
 | 7   | Armatura                | Passeggeri              | Armatura      |
 | 8   | Carena                  | Struttura               | Carena        |
 | 9   | Arma                    | Carico                  | Arma o Arto   |
-| 10  | Motore                  | Computers               | Motore        |
+| 10  | Motore                  | Computer                | Motore        |
 | 11  | Sensori                 | Abitacolo               | Sensori       |
 | 12  | Carena                  | Abitacolo               | Computer      |
 
@@ -1034,13 +991,6 @@ in officina e richiedono un lavoro di 10-60 ore per punto di danno.
 Ogni punto riparato costa il 20% del costo di base del veicolo. Non
 è necessaria alcuna prova di abilità.
 
-## Ground Force Weaponry against Starship-scale Targets
+## Armamento per le Forze di Terra contro Obiettivi di dimensioni di Astronavi.
 
-Gaining a DM +4 bonus to hit anything on the starship-scale, ground
-force weaponry must divide its damage by 50 before comparing it to a
-starship-scale target’s armor. Because a single weapon will, obviously,
-be unable to punch though armor it is possible for multiple weapons to
-all target the starship simultaneously, and the cumulative effect can
-inflict damage. Every additional ground weapon beyond the first can add
-half its damage dice to the total before dividing the total by 50 in
-order to calculate damage.
+Ottenendo un bonus MD+4 per colpire qualsiasi cosa che abbia la grandezza di un'astronave, gli armamenti delle forze a terra devono dividere il danno per 50 prima di confrontarlo a un obiettivo di grandezza pari a un'astronave. Siccome una singola arma potrà, ovviamente, essere in grado di colpire un'armatura resistente, è possibile per armi multiple di bersagliare tutta l'astronave simultaneamente. Gli effetti cumulati possono infliggere danno. Ogni arma a terra addizionale oltre la prima può aggiungere metà del suo dado di danno al totale, prima di dividere il totale per 50 e calcolare quindi il danno.
