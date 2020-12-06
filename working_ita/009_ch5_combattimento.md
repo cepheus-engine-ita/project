@@ -21,18 +21,18 @@ Gittata:
 
 #### Tabella: Gittata di Combattimento
 
-| Gittata     | Distanza al Bersaglio | Quadrati al Bersaglio                        |
-| ----------- | --------------------- | -------------------------------------------- |
-| Personale   | Meno di 1,5
-metri     | 0 (i combattenti sono nello
-stesso quadrato) |
-| Ravvicinata | da 1,5 a 3 metri      | da 1 a 2 quadrati                            |
-| Breve       | da 3 a 12 metri       | da 3 a 8 quadrati                            |
-| Media       | da 12 a 50 metri      | da 9 a 34 quadrati                           |
-| Lunga       | da 51 a 250 metri     | da 35 a 166 quadrati                         |
-| Molto Lunga | da 251 a 500
-metri    | da 167 a 334 quadrati                        |
-| Estrema     | 501+ metri            | 334 quadrati o più                           |
+| Gittata          | Distanza al Bersaglio       | Quadrati al Bersaglio |
+| ---------------- | --------------------------- | --------------------- |
+| Personale        | Meno di 1,5                 |                       |
+| metri            | 0 (i combattenti sono nello |                       |
+| stesso quadrato) |                             |                       |
+| Ravvicinata      | da 1,5 a 3 metri            | da 1 a 2 quadrati     |
+| Breve            | da 3 a 12 metri             | da 3 a 8 quadrati     |
+| Media            | da 12 a 50 metri            | da 9 a 34 quadrati    |
+| Lunga            | da 51 a 250 metri           | da 35 a 166 quadrati  |
+| Molto Lunga      | da 251 a 500                |                       |
+| metri            | da 167 a 334 quadrati       |                       |
+| Estrema          | 501+ metri                  | 334 quadrati o più    |
 
 La Difficoltà di qualsiasi attacco è basata sul tipo di arma e sulla gittata di attacco, rispetto alla tabella Difficoltà di Attacco per Tipo di Arma.
 
@@ -138,9 +138,9 @@ sono:
 | Mirino Laser                   | +1 quando si mira                                         |
 | Movimento                      | –1 per ogni 10 metri completi di movimento del bersaglio  |
 | Il Bersaglio Schiva (Reazione) | –1                                                        |
-| Il bersaglio para (Reazione)   | -abilità
-Mischia del
-difensore                            |
+| Il bersaglio para (Reazione)   | -abilità                                                  |
+| Mischia del                    |                                                           |
+| difensore                      |                                                           |
 | Posizione del bersaglio        | –2 se si attacca un bersaglio prono a gittata             |
 |                                | +2 se si attacca un bersaglio prono a gittata             |
 | Arma con Rinculo (a G-Zero)    | –2                                                        |

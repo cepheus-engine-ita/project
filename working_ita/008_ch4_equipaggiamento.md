@@ -208,48 +208,33 @@ essere trasferiti.
 
 #### Tabella: Software
 
-| Software                                                                           | Classe | LT  | Costo            | Descrizione                                                                                                                           |
-| ---------------------------------------------------------------------------------- | ------ | --- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Database                                                                           | \-     | 7   | Cr10 to Cr10,000 | Un database è una grande riserva di informazioni su un argomento, che può                                                             |
-| <br/>essere consultata con una prova di Computer o usando un Agente.               |        |     |                  |                                                                                                                                       |
-| Interfaccia                                                                        | 0      | 7   | Included         | Mostra i dati. Usare un computer senza interfaccia è un compito Formidabile (–6 MD)                                                   |
-| Sicurezza                                                                          | 0      | 7   | Included         | I programmi di sicurezza difendono dalle intrusioni. La Classe 0 è Media (+0 MD).                                                     |
-|                                                                                    | 1      | 9   | Cr200            | difficoltà: Difficile (–2 MD)                                                                                                         |
-|                                                                                    | 2      | 11  | Cr1,000          | difficoltà: Molto Difficile (–4 MD)                                                                                                   |
-|                                                                                    | 3      | 12  | Cr20,000         | difficoltà: Formidabile (–6 MD)                                                                                                       |
-| Traduttore                                                                         | 0      | 9   | Cr50             | I Traduttori sono sistemi Esperto specializzati che hanno solo l’abilità Lingue. Fornisce solo una traduzione quasi in tempo reale.   |
-|                                                                                    | 1      | 10  | Cr500            | Opera                                                                                                                                 |
-| in tempo reale e capisce meglio le sfumature delle lingue.                         |        |     |                  |                                                                                                                                       |
-| Intrusione                                                                         | 1      | 10  | Cr1,000          | I programmi di intrusione aiutano i tentativi di hackeraggio, dando un bonus pari                                                     |
-| alla loro classe. Il software d’Intrusione è spesso illegale.                      |        |     |                  |                                                                                                                                       |
-|                                                                                    | 2      | 11  | Cr10,000         |                                                                                                                                       |
-|                                                                                    | 3      | 13  | Cr100,000        |                                                                                                                                       |
-|                                                                                    | 4      | 15  | N/A              |                                                                                                                                       |
-| Interfaccia Intelligente                                                           | 1      | 11  | Cr100            | Un’intelligenza artificiale "a bassa autonomia" permette il controllo vocale e mostra i dati in modo                                  |
-| intelligente. Necessaria per utilizzare i programmi Esperto.                       |        |     |                  |                                                                                                                                       |
-|                                                                                    | 2      | 13  | Cr1,000          | Un'intelligenza artificiale "ad alta autonomia" permette a un'intelligenza artificiale primitiva di auto-avvio e di imparare da sola. |
-|                                                                                    | 3      | 17  | Cr10,000         | La vera intelligenza artificiale è capace di pensiero creativo indipendente.                                                          |
-| Esperto                                                                            | 1      | 11  | Cr1,000          | I programmi Esperto imitano le abilità. Un personaggio che usa un sistema                                                             |
-| esperto può effettuare una prova di abilità come se avesse quell’abilità pari alla |        |     |                  |                                                                                                                                       |
-| classe del programma -1. Si possono tentare solo prove basate su Int e Edu. Se il  |        |     |                  |                                                                                                                                       |
-| personaggio ha già l’abilità a un livello superiore, il programma Esperto fornisce |        |     |                  |                                                                                                                                       |
-| un MD di +1..                                                                      |        |     |                  |                                                                                                                                       |
-|                                                                                    | 2      | 12  | Cr10,000         |                                                                                                                                       |
-|                                                                                    | 3      | 13  | Cr100,000        |                                                                                                                                       |
-| Agente                                                                             | 0      | 11  | Cr500            | I programmi Agente hanno l’abilità Computer pari alla loro classe, e possono                                                          |
-| svolgere i compiti loro assegnati con un minimo di intelligenza. Ad esempio, a un  |        |     |                  |                                                                                                                                       |
-| programma agente si può ordinare di penetrare in una rete di computer nemica e     |        |     |                  |                                                                                                                                       |
-| rubare un determinato file di dati. In pratica sono combinazioni specializzate dei |        |     |                  |                                                                                                                                       |
-| programmi Esperto e Intelletto.                                                    |        |     |                  |                                                                                                                                       |
-|                                                                                    | 1      | 12  | Cr2,000          |                                                                                                                                       |
-|                                                                                    | 2      | 13  | Cr100,000        |                                                                                                                                       |
-|                                                                                    | 3      | 14  | Cr250,000        |                                                                                                                                       |
-| Intelletto                                                                         | 1      | 12  | Cr2,000          | Gli Intelletti sono agenti migliorati che possono usare sistemi Esperti. Ad esempio,                                                  |
-| un robot medico potrebbe eseguire Intelletto/1 e Esperto Medico/3, ed avere così   |        |     |                  |                                                                                                                                       |
-| Medico 2. Un Intelletto può usare simultaneamente un numero di abilità pari alla   |        |     |                  |                                                                                                                                       |
-| sua Classe.                                                                        |        |     |                  |                                                                                                                                       |
-|                                                                                    | 2      | 13  | Cr50,000         |                                                                                                                                       |
-|                                                                                    | 3+     | 14  | \-               |                                                                                                                                       |
+| Software                 | Classe | LT  | Costo            | Descrizione                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------ | ------ | --- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Database                 | \-     | 7   | Cr10 to Cr10,000 | Un database è una grande riserva di informazioni su un argomento, che può essere consultata con una prova di Computer o usando un Agente.                                                                                                                                                                                                                        |
+| Interfaccia              | 0      | 7   | Included         | Mostra i dati. Usare un computer senza interfaccia è un compito Formidabile (–6 MD)                                                                                                                                                                                                                                                                              |
+| Sicurezza                | 0      | 7   | Included         | I programmi di sicurezza difendono dalle intrusioni. La Classe 0 è Media (+0 MD).                                                                                                                                                                                                                                                                                |
+|                          | 1      | 9   | Cr200            | difficoltà: Difficile (–2 MD)                                                                                                                                                                                                                                                                                                                                    |
+|                          | 2      | 11  | Cr1,000          | difficoltà: Molto Difficile (–4 MD)                                                                                                                                                                                                                                                                                                                              |
+|                          | 3      | 12  | Cr20,000         | difficoltà: Formidabile (–6 MD)                                                                                                                                                                                                                                                                                                                                  |
+| Traduttore               | 0      | 9   | Cr50             | I Traduttori sono sistemi Esperto specializzati che hanno solo l’abilità Lingue. Fornisce solo una traduzione quasi in tempo reale.                                                                                                                                                                                                                              |
+|                          | 1      | 10  | Cr500            | Opera in tempo reale e capisce meglio le sfumature delle lingue.                                                                                                                                                                                                                                                                                                 |
+| Intrusione               | 1      | 10  | Cr1,000          | I programmi di intrusione aiutano i tentativi di hackeraggio, dando un bonus pari alla loro classe. Il software d’Intrusione è spesso illegale.                                                                                                                                                                                                                  |
+|                          | 2      | 11  | Cr10,000         |                                                                                                                                                                                                                                                                                                                                                                  |
+|                          | 3      | 13  | Cr100,000        |                                                                                                                                                                                                                                                                                                                                                                  |
+|                          | 4      | 15  | N/A              |                                                                                                                                                                                                                                                                                                                                                                  |
+| Interfaccia Intelligente | 1      | 11  | Cr100            | Un’intelligenza artificiale "a bassa autonomia" permette il controllo vocale e mostra i dati in modo intelligente. Necessaria per utilizzare i programmi Esperto.                                                                                                                                                                                                |
+|                          | 2      | 13  | Cr1,000          | Un'intelligenza artificiale "ad alta autonomia" permette a un'intelligenza artificiale primitiva di auto-avvio e di imparare da sola.                                                                                                                                                                                                                            |
+|                          | 3      | 17  | Cr10,000         | La vera intelligenza artificiale è capace di pensiero creativo indipendente.                                                                                                                                                                                                                                                                                     |
+| Esperto                  | 1      | 11  | Cr1,000          | I programmi Esperto imitano le abilità. Un personaggio che usa un sistema esperto può effettuare una prova di abilità come se avesse quell’abilità pari alla classe del programma -1. Si possono tentare solo prove basate su Int e Edu. Se il personaggio ha già l’abilità a un livello superiore, il programma Esperto fornisce un MD di +1.                   |
+|                          | 2      | 12  | Cr10,000         |                                                                                                                                                                                                                                                                                                                                                                  |
+|                          | 3      | 13  | Cr100,000        |                                                                                                                                                                                                                                                                                                                                                                  |
+| Agente                   | 0      | 11  | Cr500            | I programmi Agente hanno l’abilità Computer pari alla loro classe, e possono svolgere i compiti loro assegnati con un minimo di intelligenza. Ad esempio, a un programma agente si può ordinare di penetrare in una rete di computer nemica e rubare un determinato file di dati. In pratica sono combinazioni specializzate dei programmi Esperto e Intelletto. |
+|                          | 1      | 12  | Cr2,000          |                                                                                                                                                                                                                                                                                                                                                                  |
+|                          | 2      | 13  | Cr100,000        |                                                                                                                                                                                                                                                                                                                                                                  |
+|                          | 3      | 14  | Cr250,000        |                                                                                                                                                                                                                                                                                                                                                                  |
+| Intelletto               | 1      | 12  | Cr2,000          | Gli Intelletti sono agenti migliorati che possono usare sistemi Esperti. Ad esempio, un robot medico potrebbe eseguire Intelletto/1 e Esperto Medico/3, ed avere così Medico 2. Un Intelletto può usare simultaneamente un numero di abilità pari alla sua Classe.                                                                                               |
+|                          | 2      | 13  | Cr50,000         |                                                                                                                                                                                                                                                                                                                                                                  |
+|                          | 3+     | 14  | \-               |                                                                                                                                                                                                                                                                                                                                                                  |
 
 ## Droghe
 
@@ -559,17 +544,13 @@ I seguenti ausili provvedono potenziamenti ai sensi fisici di un personaggio.
 | Torcia                 | 1   | Cr1   | 0.25 |
 | Olio per Lampada       | 2   | Cr2   | --   |
 | Lampada ad Olio        | 2   | Cr10  | 0.5  |
-| Binocoli               | 3   | Cr75  | 1    |
+| Binocolo               | 3   | Cr75  | 1    |
 | Torcia Elettrica       | 5   | Cr10  | 0.5  |
 | Lanterna a Luce Fredda | 6   | Cr20  | 0.25 |
 | Visore Infrarossi      | 6   | Cr500 | --   |
 | Visore Notturno        | 7   | Cr500 | --   |
 
-**Binocoli**: Allows the user to see further. At TL 8 electronic
-enhancement allows images to be captured; light-intensification allows
-them to be used in the dark. Cr750. At TL 12 PRIS (Portable Radiation
-Imaging System) allows the user to observe a large section of the
-EM-spectrum, from infrared to gamma rays. Cr3,500.
+**Binocolo**: Permette all'utente di vedere lontano. A LT 8 il potenziamento elettronico permette di catturare immagini; l'intensificazione luminosa permette di usarli al buio. Cr750. A LT12 (Sistema Portatile di Immagine Radiante) permette all'utente di osservare un'ampia gamma dello spettro luminoso, dall'infrarosso ai raggi gamma. Cr3,500.
 
 **Cold Light Lantern**: A fuel cell powered version of the electric
 torch, but will last 3 days with continuous use. Produces a wide cone of
@@ -781,61 +762,59 @@ programs (at appropriate tech levels) and spare parts.
 kit contains diagnostic sensors, hand tools, computer analysis programs
 (at appropriate tech levels) and spare parts.
 
-## Vehicles
+## Veicoli
 
-In classic science fiction, characters rarely travel on foot. Vehicles
-play a big role in Cepheus Engine games. All vehicles have the following
-traits:
+Nella fantascienza classica, i personaggi raramente viaggiano a piedi. I veicoli giocano un ruolo importante in Cepheus Engine. Tutti i veicoli hanno i seguenti tratti:
 
-**TL**: The lowest Technology Level that the vehicle is available at.
+**LT**: Il Livello Tecnologico minimo a cui quel veicolo è disponibile
 
-**Skill**: The skill used to drive or pilot the vehicle.
+**Abilità:**: Quale abilità è necessaria per guidare o pilotare il veicolo.
 
-**Agility (Agi)**: How easy the vehicle is to drive, expressed as a DM
-to the pilot’s skill check.
+**Agilità (Agi)**: Quanto è facile da guidare il veicolo, espresso sotto forma
+di MD alla prova di abilità del conduttore.
 
-**Speed (Spd)**: The vehicle’s maximum speed.
+**Velocità (Vel)**: La massima velocità del veicolo.
 
-**Crew and Passengers (C&P)**: How many people the vehicle can carry.
+**Equipaggio e Passeggeri (E&P)**: Quante persone può trasportare il
+veicolo.
 
-**Open/Closed (O/C)**: If the vehicle is open or closed.
+**Scoperto/Coperto (S/C)**: Se il veicolo è scoperto o coperto.
 
-**Armor**: How much armor the vehicle has. Damage sustained by a vehicle
-is reduced by its armor.
+**Armatura**: Quanta armatura ha il veicolo. Il danno subito dal veicolo
+è ridotto dall’armatura.
 
-**Hull**: The number of hits the vehicle can sustain to its Hull before
-being disabled.
+**Carena**: Il numero di colpi che il veicolo può subire alla sua carena prima
+di essere disabilitato.
 
-**Structure (Struc)**: The number of hits the vehicle can sustain to its
-Structure before being destroyed.
+**Struttura (Strut)**: Il numero di colpi che il veicolo può subire alla sua struttura prima
+di essere disabilitato.
 
-**Weapons (Wpns)**: What weapons the vehicle has, if any, and what fire
-arcs they are in.
+**Armi**: Quali armi ha il veicolo, se ne ha, e i loro archi di tiro.
 
-**Cost**: How much the vehicle costs.
+**Costo**: Quanto costa il veicolo.
 
-#### Table: Common Vehicles
+#### Tabella: Veicoli Comuni
 
-| Vehicle           | TL  | Skill           | Agi | Spd      | C&P                         | O/C    | Armor | Hull | Struc | Wpns                  | Cost (KCr) |
-| ----------------- | --- | --------------- | --- | -------- | --------------------------- | ------ | ----- | ---- | ----- | --------------------- | ---------- |
-| Steamship         | 4   | Ocean Ships     | -3  | 30 kph   | 5 crew, 10 psgr             | Closed | 2     | 40   | 40    | None                  | 720        |
-| Biplane           | 5   | Winged Aircraft | +1  | 250 kph  | 1 pilot, 1 psgr             | Closed | 2     | 1    | 1     | None                  | 46         |
-| Ground Car        | 5   | Wheeled Vehicle | +0  | 150 kph  | 1 driver, 3 psgr            | Closed | 6     | 3    | 2     | None                  | 6          |
-| Motor Boat        | 5   | Motorboats      | -3  | 120 kph  | 5 crew, 10 psgr             | Closed | 3     | 16   | 17    | None                  | 530        |
-| Helicopter        | 6   | Rotor Aircraft  | +1  | 100 kph  | 1 pilot, 7 psgr             | Closed | 3     | 2    | 3     | None                  | 250        |
-| Submersible       | 6   | Submarine       | -4  | 40 kph   | 5 crew, 10 psgr             | Closed | 3     | 85   | 85    | None                  | 1,700      |
-| Twin Jet Aircraft | 6   | Winged Aircraft | +1  | 600 kph  | 2 pilots, 6 psgr            | Closed | 3     | 5    | 5     | None                  | 480        |
-| Hovercraft        | 7   | Rotor Aircraft  | +1  | 150 kph  | 1 pilot, 15 psgr            | Closed | 3     | 7    | 8     | None                  | 880        |
-| Air/Raft          | 8   | Grav Vehicle    | +0  | 400 kph  | 1 pilot, 3 psgr             | Open   | 6     | 2    | 2     | None                  | 275        |
-| Speeder           | 8   | Grav Vehicle    | +2  | 1500 kph | 1 pilot, 1 psgr             | Closed | 3     | 1    | 2     | None                  | 890        |
-| Destroyer         | 9   | Ocean Ships     | -5  | 40 kph   | 10 crew, 8 gunners, 12 psgr | Closed | 8     | 63   | 63    | None                  | 4,800      |
-| Grav Floater      | 11  | Grav Vehicle    | –2  | 40 kph   | 1 rider                     | Open   | \-    | \-   | 1     | None                  | 0.5        |
-| AFV               | 12  | Tracked Vehicle | +0  | 80 kph   | 1 driver, 9 psgr            | Closed | 18    | 5    | 5     | Triple Laser (turret) | 65         |
-| ATV               | 12  | Tracked Vehicle | +0  | 100 kph  | 1 driver, 15 psgr           | Closed | 12    | 5    | 5     | None                  | 50         |
-| Grav Belt         | 12  | Zero-G          | +2  | 300 kph  | 1 wearer                    | Open   | \-    | \-   | \-    | None                  | 100        |
-| G/Carrier         | 15  | Grav Vehicle    | +0  | 620 kph  | 1 driver, 1 gunner, 14 psgr | Closed | 25    | 8    | 8     | Fusion Gun (turret)   | 150        |
+| Veicolo        | LT  | Abilità        | Agi | Vel      | E&P                                  | S/C    | Armatura | Carena | Strut | Armi                         | Costo (KCr) |
+| -------------- | --- | -------------- | --- | -------- | ------------------------------------ | ------ | -------- | ------ | ----- | ---------------------------- | ----------- |
+| Nave a Vapore  | 4   | Navi Oceaniche | -3  | 30 kph   | 5 equipaggio, 10 psgr                | Chiuso | 2        | 40     | 40    | Nessuno                      | 720         |
+| Biplano        | 5   | Ala            | +1  | 250 kph  | 1 pilota, 1 psgr                     | Chiuso | 2        | 1      | 1     | Nessuno                      | 46          |
+| Automobile     | 5   | Ruota          | +0  | 150 kph  | 1 guidatore, 3 psgr                  | Chiuso | 6        | 3      | 2     | Nessuno                      | 6           |
+| Nave a Motore  | 5   | Motonavi       | -3  | 120 kph  | 5 equipaggio, 10 psgr                | Chiuso | 3        | 16     | 17    | Nessuno                      | 530         |
+| Elicottero     | 6   | Rotore         | +1  | 100 kph  | 1 pilota, 7 psgr                     | Chiuso | 3        | 2      | 3     | Nessuno                      | 250         |
+| Sommergibile   | 6   | Sottomarino    | -4  | 40 kph   | 5 equipaggio, 10 psgr                | Chiuso | 3        | 85     | 85    | Nessuno                      | 1,700       |
+| Jet            | 6   | Ala            | +1  | 600 kph  | 2 piloti, 6 psgr                     | Chiuso | 3        | 5      | 5     | Nessuno                      | 480         |
+| Hovercraft     | 7   | Rotore         | +1  | 150 kph  | 1 pilota, 15 psgr                    | Chiuso | 3        | 7      | 8     | Nessuno                      | 880         |
+| Chiatta/Aria   | 8   | Grav           | +0  | 400 kph  | 1 pilota, 3 psgr                     | Aperto | 6        | 2      | 2     | Nessuno                      | 275         |
+| Speeder        | 8   | Grav           | +2  | 1500 kph | 1 pilota, 1 psgr                     | Chiuso | 3        | 1      | 2     | Nessuno                      | 890         |
+| Destroyer      | 9   | Navi Oceaniche | -5  | 40 kph   | 10 equipaggio, 8 artiglieri, 12 psgr | Chiuso | 8        | 63     | 63    | Nessuno                      | 4,800       |
+| Gravitante     | 11  | Grav           | –2  | 40 kph   | 1 cavaliere                          | Aperto | \-       | \-     | 1     | Nessuno                      | 0.5         |
+| VCC            | 12  | Cingolato      | +0  | 80 kph   | 1 guidatore, 9 psgr                  | Chiuso | 18       | 5      | 5     | Triplo Laser (torretta)      | 65          |
+| ATV            | 12  | Cingolato      | +0  | 100 kph  | 1 guidatore, 15 psgr                 | Chiuso | 12       | 5      | 5     | Nessuno                      | 50          |
+| Gravicintura   | 12  | Zero-G         | +2  | 300 kph  | 1 indossatore                        | Aperto | \-       | \-     | \-    | Nessuno                      | 100         |
+| Gravitrasporto | 15  | Grav           | +0  | 620 kph  | 1 guidatore, 1 artigliere, 14 psgr   | Chiuso | 25       | 8      | 8     | Pistola a Fusione (torretta) | 150         |
 
-**AFV**: A heavily armored ATV, known as an Armored Fighting Vehicle,
+**VCC**: A heavily armored ATV, known as an Armored Fighting Vehicle,
 equipped with a triple laser turret. The lasers use the Energy Rifle
 skill, do 4D6 damage each using the Ranged (rifle) range modifiers, and
 one, two or three may be fired at the same target with one attack
@@ -864,7 +843,7 @@ attackers. Powered by a fusion power plant, the destroyer carries
 deck-mounted turrets capable of firing major. Cargo capacity is limited
 to 40 tons, mostly used to carry ammunition.
 
-**G/Carrier**: A grav carrier is effectively a flying tank, and is the
+**Gravitrasporto**: A grav carrier is effectively a flying tank, and is the
 standard fighting vehicle of many military forces. The turret-mounted
 fusion gun is a vehicle-mounted version of the TL 15 FGMP and uses the
 same ‘serious firepower’ rules. Advanced containment systems mean that
@@ -872,13 +851,13 @@ it does not leak radiation with each shot in the same way as the
 man-portable version. Like the air/raft, the G/Carrier can reach orbit
 (taking a number of hours equal to the world’s Size code).
 
-**Grav Belt**: A grav belt resembles a parachute harness, and is fitted
+**Gravicintura**: A grav belt resembles a parachute harness, and is fitted
 with artificial gravity modules allowing the wearer to fly. The internal
 battery can operate for a maximum of four hours before needing to be
 recharged. At TL 15, the battery can operate for 12 hours before
 charging. Options cannot be added to the grav belt.
 
-**Grav Floater**: A grav floater is a forerunner of the grav belt, a
+**Gravitante**: A grav floater is a forerunner of the grav belt, a
 platform upon which a single person can stand and be carried along. It
 cannot achieve any great speed but can, like an air/raft, achieve any
 altitude up to orbit (taking a number of hours equal to the world’s Size
@@ -886,7 +865,7 @@ code).
 
 **Ground Car**: A ground car is a conventional wheeled automobile.
 
-**Helicopter**: An aircraft that derives both lift and propulsion from
+**Elicottero**: An aircraft that derives both lift and propulsion from
 one or more sets of horizontally revolving overhead rotors. It is
 capable of moving vertically and horizontally, the direction of motion
 being controlled by the pitch of the rotor blades. The helicopter can
@@ -954,26 +933,29 @@ hours per person. This option adds 20% to the cost of the vehicle.
 **Style**: Allows a vehicle to be customized to the buyer’s wishes.
 Costs Cr200 to Cr2,000.
 
-## Weapons
+## Armi
 
-A small selection of the weaponry available in a Cepheus Engine campaign
-can be found in the tables below. The Law Level of a world will limit
-the availability of certain weapons.
+Una piccola selezione di armamenti disponibili in una campagna Cephues Engine sono disponibili nelle tabelle seguenti. Il livello di legge di un mondo può limitare la disponibilità di certe armi.
 
 ### Melee Weapons
 
 A number of melee weapons are described in the Common Personal Melee
 Weapons table. Each column is described as follows:
 
-**Cost**: Price in Credits (Cr) or 1000s of Credits (KCr).
+Costo: Il prezzo in Crediti (Cr) o migliaia di Crediti (KCr).
 
-**TL**: The minimum tech level required to manufacture such an item.
+**LT**: Il Livello Tecnologico minimo in cui l’arma è disponibile.
 
-**Wgt**: Weight in grams (g) or kilograms (kg).
+**Peso**: Il perso in grammi (g) o chilogrammi (kg).
 
-**Range**: The range category for this weapon.
+**Gittata**: La categoria di gittata di quest'arma.
+**Danno**: Il danno che l’arma infligge.
 
-**Damage**: The damage a weapon inflicts.
+**Tipo**: Tipo di danno inflitto – 
+
+
+
+
 
 **Type**: Type of damage inflicted – (B)ludgeoning, (E)nergy, (P)iercing
 or (S)lashing.
