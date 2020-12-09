@@ -552,86 +552,44 @@ I seguenti ausili provvedono potenziamenti ai sensi fisici di un personaggio.
 
 **Binocolo**: Permette all'utente di vedere lontano. A LT 8 il potenziamento elettronico permette di catturare immagini; l'intensificazione luminosa permette di usarli al buio. Cr750. A LT12 (Sistema Portatile di Immagine Radiante) permette all'utente di osservare un'ampia gamma dello spettro luminoso, dall'infrarosso ai raggi gamma. Cr3,500.
 
-**Cold Light Lantern**: A fuel cell powered version of the electric
-torch, but will last 3 days with continuous use. Produces a wide cone of
-light up to 18 meters away with a radius of 6 meters at the end of the
-beam. Also capable of producing a tight beam of light up to 36 meters
-away with a 1 meter radius or be used to illuminate a 10 meter radius.
+**Lanterna a Luce Fredda**: La versione a celle di combustibile della torcia elettrica, ma durerà 3 giorni di uso continuo. Produce un vasto cono di luce fino a 18 metri di distanza con un raggio di 6 metri all'estremità del fascio di luce. È anche capace di produrre un fascio di luce ristretto fino a 36 metri di distanza con un raggio di 1 metro o da usare per illuminare un raggio di 10 metri.
 
-**Electric Torch**: The common flashlight. It is battery powered and
-will last for about 6 hours of continuous use. A torch produces a wide
-cone of light up to 18 meters long with a radius of 6 meters at the end
-of the beam. Later TL models have adjustable beams allowing them to also
-produce a tight beam of light up to 36 meters long, with a 1 meter
-radius, or be used to illuminate a circle of 10 meter radius.
+**Torcia Elettrica**: Una comune torcia. È alimentata a batteria e durerà per circa 6 ore di uso continuo. Una torcia produce un vasto cono di luce fino a 18 metri di distanza con un raggio di 6 metri all'estremità del fascio di luce. Modelli a LT più alti possiedono fasci regolabili che permettono anche di produrre un fascio di luce ristretto fino a 36 metri di distanza con un raggio di 1 metro o da usare per illuminare un raggio di 10 metri.
 
-**Infrared Goggles**: Permits the user to see exothermic (heat-emitting)
-sources in the dark.
+**Visore Infrarosso**: Permette all'utente di vedere fonti esotermiche (che emettono calore) nell'oscurità.
 
-**Light Intensifier Goggles**: Permits the user to see normally in
-anything less than total darkness by electronically intensifying any
-available light.
+**Visore Notturno**: Permette all'utente di vedere normalmente in qualsiasi condizione che non sia la totale oscurità, intensificando elettronicamente la luce disponibile.
 
-**Oil Lamp**: A lamp clearly illuminates a 4.5 meter radius, provides
-shadowy illumination out to a 9 meter radius, and burns for 6 hours on a
-pint of oil. You can carry a lamp in one hand.
+**Lampada a Olio**: Una lampada illumina con chiarezza un raggio di 4.5 metri, fornisce un'illuminazione ombreggiata fino a un raggio di 9 metri e brucia una pinta d'olio ogni 6 ore. Puoi portare la lampada con un mano.
 
-**Torch**: A torch burns for 1 hour, clearly illuminating a 6 meter
-radius and providing shadowy illumination out to a 12 meter radius.
+**Torcia**: Una torcia brucia per un'ora, illuminando con chiarezza un raggio di 6 metri e fornendo un'illuminazione ombreggiata fino a un raggio di 12 metri.
 
-## Shelters
+## Ripari
 
-Whenever characters are not indulging in the creature comforts of
-civilization, they need shelter, such as the items described in this
-section.
+Ogni volta che i personaggi non stanno indugiando negli agi offerti dalla civiltà, avranno bisogno di riparo, come gli oggetti descritti in questa sezione.
 
-#### Table: Shelters
+#### Tabella: Ripari
 
-| Description                 | TL  | Cost     | Wgt   |
-| --------------------------- | --- | -------- | ----- |
-| Tarpaulin                   | 1   | Cr10     | 2     |
-| Tent                        | 2   | Cr200    | 3     |
-| Pre-Fabricated Cabin        | 6   | Cr10,000 | 4,000 |
-| Basic Life Support Supplies | 7   | Cr100    | 2     |
-| Pressure Tent               | 7   | Cr2,000  | 25    |
-| Advanced Base               | 8   | Cr50,000 | 6,000 |
+| Descrizione                                 | LT  | Costo    | Peso  |
+| ------------------------------------------- | --- | -------- | ----- |
+| Telone                                      | 1   | Cr10     | 2     |
+| Tenda                                       | 2   | Cr200    | 3     |
+| Capanna Prefabbricata                       | 6   | Cr10,000 | 4,000 |
+| Rifornimenti di base per il supporto vitale | 7   | Cr100    | 2     |
+| Tenda Pressurizzata                         | 7   | Cr2,000  | 25    |
+| Alloggi Avanzati                            | 8   | Cr50,000 | 6,000 |
 
-**Advanced Base**: Modular pressurized quarters for 6 persons and
-capable of withstanding anything less than hurricane force winds. Offers
-excellent shelter from precipitation and all but the most extreme of
-temperature ranges. Requires 12 man-hours to erect or dismantle. There
-are 16 modules, each, 1.5m wide by 1.5m long by 2m high that can be
-organized into any layout required. Dismantled and ready for shipment,
-the advanced base weighs 6 tons. The cost includes life-support for six
-people for 7 days.
+**Alloggi Avanzati**: Alloggi modulari pressurizzati per 6 persone e capaci di resistere a qualsiasi cosa che non siano i venti violenti di un uragano. Offre un eccellente riparo dalle precipitazioni e tutta la gamma di temperature eccettuate le più estreme. Richiedono 12 ore-uomo per essere montati o smontati. Ci sono 16 moduli, ognuno ampio 1,5 metri di lato e alto 2 metri che può essere organizzato in qualsiasi disposizione richiesta. Quando smontati e pronti per il trasporto, gli alloggi avanzati pesano 6 tonnellate. Il costo include il supporto vitale per 6 persone per 7 giorni.
 
-**Basic Life Support Supplies**: Basic life support supplies (waste
-reclamation chemicals, oxygen supply, CO2 scrubbers, etc.) necessary to
-support one person for one day in an enclosed, pressurized environment,
-such as a pressure tent or an advanced base.
+**Rifornimenti di base per il supporto vitale**: I rifornimenti di base per il supporto vitale (agenti chimici per lo smantellamento rifiuti, scorta di ossigeno, filtri per la CO2, etc) necessari per una persona per un giorno in un ambiento chiuso e pressurizzato, come una tenda pressurizzata o degli alloggi avanzati.
 
-**Pre-Fabricated Cabin**: Modular unpressurized quarters for 6 persons
-and capable of withstanding light to severe winds. Offers excellent
-shelter from precipitation, storms, and temperatures down to -10º
-Celsius. Requires 8 man-hours to erect or dismantle. There are 16
-modules, each, 1.5m wide by 1.5m long by 2m high that can be organized
-into any layout required. Dismantled and ready for shipment, the cabin
-weighs 4 tons.
+**Capanna Prefabbricata**: Alloggi modulari non pressurizzati per 6 persone capaci di resistere a venti da leggeri a intensi. Offre un eccellente riparo dalle precipitazioni, tempeste e temperature fino a -10°C. Richiede 8 ore-uomo per essere montata o smontata. Ci sono 16 moduli, ognuno ampio 1,5 metri di lato e alto 2 metri che può essere organizzato in qualsiasi disposizione richiesta. Quando smontata e pronta per il trasporto, la capanna pesa 6 tonnellate.
 
-**Pressure Tent**: Basic pressurized shelter for two persons, providing
-standard atmosphere and conditions, along with protection from
-precipitation, storms, and up to strong winds. There is no airlock: the
-tent must be depressurized to enter or leave it.
+**Tenda Pressurizzata**: Il riparo pressurizzato di base per due persone, fornisce atmosfera e condizioni standard, insieme alla protezione da precipitazioni, tempeste e venti non troppo violenti. Non è presente una camera di decompressione: la tenda deve essere depressurizzata per entrare o uscire.
 
-**Tarpaulin**: A heavy hard-wearing waterproof fabric made of canvas or
-similar, for outdoor use as a temporary shelter or protective covering
-against moisture. Measures 4 meters long by 2 meters wide.
+**Telone**: Un tessuto impermeabile di trama pesante prodotto con tela o materiale simile, per l'uso esterno come riparo temporaneo o come copertura protettiva contro l'umidità. Misura 4 metri per 2. 
 
-**Tent**: Basic shelter for two persons offering protection from
-precipitation, storms, and temperatures down to 0º Celsius, and
-withstanding light to moderate winds. Larger, more elaborate tents
-capable of sheltering more people, higher winds or colder temperatures
-weigh and cost more.
+**Tenda**: Riparo di base per due persone che offre protezione dalle precipitazioni, tempeste e temperature fino a 0°C. Tende più grandi e maggiormente complesse, capaci di riparare più persone, o da venti più intensi o da temperature più fredde, costano e pesano di più.
 
 ## Survival Equipment
 
@@ -805,7 +763,7 @@ di essere disabilitato.
 | Sommergibile   | 6   | Sottomarino    | -4  | 40 kph   | 5 equipaggio, 10 psgr                | Chiuso | 3        | 85     | 85    | Nessuno                      | 1,700       |
 | Jet            | 6   | Ala            | +1  | 600 kph  | 2 piloti, 6 psgr                     | Chiuso | 3        | 5      | 5     | Nessuno                      | 480         |
 | Hovercraft     | 7   | Rotore         | +1  | 150 kph  | 1 pilota, 15 psgr                    | Chiuso | 3        | 7      | 8     | Nessuno                      | 880         |
-| Chiatta/Aria   | 8   | Grav           | +0  | 400 kph  | 1 pilota, 3 psgr                     | Aperto | 6        | 2      | 2     | Nessuno                      | 275         |
+| Aeroscafo      | 8   | Grav           | +0  | 400 kph  | 1 pilota, 3 psgr                     | Aperto | 6        | 2      | 2     | Nessuno                      | 275         |
 | Speeder        | 8   | Grav           | +2  | 1500 kph | 1 pilota, 1 psgr                     | Chiuso | 3        | 1      | 2     | Nessuno                      | 890         |
 | Destroyer      | 9   | Navi Oceaniche | -5  | 40 kph   | 10 equipaggio, 8 artiglieri, 12 psgr | Chiuso | 8        | 63     | 63    | Nessuno                      | 4,800       |
 | Gravitante     | 11  | Grav           | –2  | 40 kph   | 1 cavaliere                          | Aperto | \-       | \-     | 1     | Nessuno                      | 0.5         |
@@ -814,128 +772,110 @@ di essere disabilitato.
 | Gravicintura   | 12  | Zero-G         | +2  | 300 kph  | 1 indossatore                        | Aperto | \-       | \-     | \-    | Nessuno                      | 100         |
 | Gravitrasporto | 15  | Grav           | +0  | 620 kph  | 1 guidatore, 1 artigliere, 14 psgr   | Chiuso | 25       | 8      | 8     | Pistola a Fusione (torretta) | 150         |
 
-**VCC**: A heavily armored ATV, known as an Armored Fighting Vehicle,
-equipped with a triple laser turret. The lasers use the Energy Rifle
-skill, do 4D6 damage each using the Ranged (rifle) range modifiers, and
-one, two or three may be fired at the same target with one attack
-action.
+**VCC**: Un ATV pesantemente corazzato, chiamato Veicolo Corazzato
+da Combattimento, equipaggiato con una tripla torretta laser. I
+laser usano l’abilità Armi da Fuoco (fucile laser), provocano 4d6
+danni l’uno usando i modificatori di gittata del fucile sulla tabella
+degli Attacchi a Distanza e possono essere attivati uno, due o tre
+alla volta contro lo stesso bersaglio con un’azione d’attacco sola.
 
-**Air/Raft**: An open-topped vehicle supported by anti-gravity
-technology. Air/rafts can even reach orbit (taking a number of hours
-equal to the world’s Size code) but passengers at that altitude must
-wear vacc suits. They are ubiquitous, remarkably reliable and flexible
-vehicles.
+**Aeroscafo**: Un veicolo scoperto sostenuto in aria dalla tecnologia
+antigravità. Gli aeroscafi possono anche raggiungere l’orbita (impiegando un numero di ore uguale al Codice Dimensione del mondo), ma i
+passeggeri a quell’altitudine devono indossare tute spaziali. Sono
+veicoli onnipresenti, molto affidabili e flessibili.
 
-**ATV**: An enclosed, pressurized all-terrain ground vehicle. The
-vehicle is capable of floating on calm water, and has a suite of
-built-in sensors and communications equipment (usually a laser
-transceiver) making it ideal for exploration. An ATV has a hardpoint for
-a turret, but does not come with a weapon normally.
+**ATV**: Un veicolo di terra coperto, pressurizzato, capace di viaggiare
+su tutti i terreni. Il veicolo è in grado di galleggiare sulle acque calme,
+e ha un gruppo di sensori ed equipaggiamenti di comunicazione
+incorporati (di solito una ricetrasmittente laser) che lo rendono
+ideale per l’esplorazione. Un ATV ha un punto d’aggancio per una
+torretta, ma normalmente non è dotato di armi.
 
-**Biplane Aircraft**: A primitive form of aircraft with two pairs of
-wings, one above the other. This vehicle can only transport 100kg of
-cargo.
+**Biplano**: Una primitiva forma di aeroscafo con due paia di ali una sopra l'altra. Questo veicolo può trasportare solo un carico di 100kg.
 
-**Destroyer** A fast maneuverable long-endurance watercraft built for
-military action, intended to escort larger watercraft in a fleet, convoy
-or battle group and defend them against smaller powerful short-range
-attackers. Powered by a fusion power plant, the destroyer carries
-deck-mounted turrets capable of firing major. Cargo capacity is limited
-to 40 tons, mostly used to carry ammunition.
+**Destroyer:** Uno scafo molto veloce e manovrabile a lunga durata per azioni militari, concepito per scortare scafi più grandi all'interno di una flotta, convogli e gruppi di battaglia e per difenderli da attaccanti più piccoli a corto raggio ma più potenti. Alimentato da un generatore a fusione, il destroyer è dotato di torrette montate sul ponte con grande capacità di fuoco. La capacità di carico è limitata a 40 tonnellate, per la maggior parte usare per trasportare munizioni.
 
-**Gravitrasporto**: A grav carrier is effectively a flying tank, and is the
-standard fighting vehicle of many military forces. The turret-mounted
-fusion gun is a vehicle-mounted version of the TL 15 FGMP and uses the
-same ‘serious firepower’ rules. Advanced containment systems mean that
-it does not leak radiation with each shot in the same way as the
-man-portable version. Like the air/raft, the G/Carrier can reach orbit
-(taking a number of hours equal to the world’s Size code).
+**Gravitrasporto**: Un gravi trasporto è in pratica un tank volante,
+ed è il veicolo da combattimento standard di molte forze militari
+nell’Impero. Il cannone a fusione montato sulla torretta è una
+versione veicolare del CFP di LT 15 e usa le stesse regole di
+“Potenza di Fuoco Importante” (si veda il riquadro). I sistemi di
+contenimento avanzati impediscono all’arma di emettere radiazioni
+ad ogni colpo come fa la versione portatile. Come la Aeroscafo e il Gravitante, il Gravitrasporto può raggiungere l'orbita (impiegando un numero di ore uguale al Codice Dimensione del mondo).
 
-**Gravicintura**: A grav belt resembles a parachute harness, and is fitted
-with artificial gravity modules allowing the wearer to fly. The internal
-battery can operate for a maximum of four hours before needing to be
-recharged. At TL 15, the battery can operate for 12 hours before
-charging. Options cannot be added to the grav belt.
+**Gravicintura**: Una gravicintura somiglia all’imbracatura di un
+paracadute, ed è fornita di moduli di gravità artificiale che permettono
+a chi la indossa di volare. La batteria interna può operare per un
+massimo di quattro ore prima di dover essere ricaricata. A LT 15,
+la batteria può operare per 12 ore prima di essere caricata. Non è
+possibile aggiungere opzioni a una gravicintura.
 
-**Gravitante**: A grav floater is a forerunner of the grav belt, a
-platform upon which a single person can stand and be carried along. It
-cannot achieve any great speed but can, like an air/raft, achieve any
-altitude up to orbit (taking a number of hours equal to the world’s Size
-code).
+**Gravitante**: Un gravitante è un antenato della gravicintura, una
+piattaforma su cui una singola persona può stare ed essere
+trasportata. Non può raggiungere grandi velocità ma, come un
+aeroscafo, può raggiungere qualsiasi quota fino all’orbita (impiegando un numero di ore uguale al Codice Dimensione del mondo).
 
-**Ground Car**: A ground car is a conventional wheeled automobile.
+**Automobile:**: Una normale autovettura a ruote.
 
-**Elicottero**: An aircraft that derives both lift and propulsion from
-one or more sets of horizontally revolving overhead rotors. It is
-capable of moving vertically and horizontally, the direction of motion
-being controlled by the pitch of the rotor blades. The helicopter can
-carry 500 kg of cargo.
+**Elicottero**: Un veicolo aereo che fa uso sia del sollevamento che della propulsione grazie a più rotori posizionati in alto verticalmente e orizzontalmente. La direzione del movimento è controllata dal beccheggio delle pale del rotore. L'elicottero può trasportare 500kg di carico.
 
-**Hovercraft**: A vehicle that travels over land or water on a cushion
-of air provided by a downward blast, the hovercraft is only usable on
-words with a Thin atmosphere or thicker. The hovercraft has 3 tons of
-cargo space.
+**Hovercraft**: Un veicolo che viaggia sopra la terra e l'acqua su cuscinetti ad aria che forniscono una spinta verso il basso. Lo hovercraft è utilizzabile solo nei mondi con un'atmosfera sottile o più densa. Lo hovercraft ha uno spazio di carico di 3 tonnellate.
 
-**Motor Boat**: Watercraft using hydrofoils to achieve exceptional speed
-and performance. The hold of the vehicle can accommodate 10 tons of
-cargo.
+**Motonave**: Uno scafo che usa ali per raggiungere velocità e prestazioni eccezionali. La stiva del veicolo può trasportare 10 tonnellate di carico.
 
-**Small Steamship**: A watercraft that is propelled by a steam engine.
-The steamship has a cargo capacity of 50 tons.
+**Piccola Nave a Vapore**: Uno scafo che è spinto da un motore a vapore. La nave a vapore ha una capacità di carico di 50 tonnellate.
 
-**Speeder**: Capable of high speed transit across a planetary surface,
-the speeder is a streamlined grav vehicle with a limited cargo capacity
-of 100kg. This vehicle only takes an hour to reach orbit.
+**Speeder**: Capace di alte velocità transitando per tutta la superficie planetaria, lo speeder è un veicolo gravitonico aerodinamico con una limitata capacità di carico di 100 kg. Questo veicolo impiega solo un'ora per raggiungere l'orbita.
 
-**Submersible**: A watercraft designed to operate under an ocean’s
-surface. Submersibles are often used as transport between domed cities
-on waterworlds and other planets with large fluid oceans. The
-submersible can carry 30 tons of cargo.
+**Sommergibile**: Uno scafo progettato per operare sotto la superficie degli oceani. I sommergibili sono spesso usati come trasporto tra città a cupola su mondi d'acqua e altri pianeti con vasti oceani fluidi. Un sommergibile può trasportare un carico di 30 tonnellate.
 
-**Twin Jet Aircraft**: A fixed-wing aircraft propelled by jet engines,
-often used to transport cargo. The hold has a cargo capacity of 5 tons.
+**Jet**: Un aeroscafo spinto da motori a jet, spesso usato per il trasporto di carichi. Può trasportare fino a 5 tonnellate.
 
-### Vehicle Options
+### Opzioni
 
-With the exception of on-board computer, each of these options can only
-be taken once on a given vehicle.
+Fatta eccezione per i computer di bordo, ciascuna di queste opzioni
+può essere presa una sola volta per veicolo
 
-**Autopilot** (TL 11): An autopilot has a Model 1 computer specialized
-to run Intellect/1 and an Expert/1 in an appropriate skill and
-specialty. This will be in addition to any other computers installed. An
-autopilot is often mandatory on cheaper commercial models. In many areas
-(primarily urban) they are required to be in use. Higher Law Level
-polities may require a slave modification to the autopilot for
-centralized and/or emergency traffic control. Cr3,000.
+**Autopilota** (TL 11): Un autopilota ha un Computer/1 specializzato
+per eseguire Intelletto/1 e Esperto/1 in una abilità e specialità
+appropriati. Un autopilota è spesso obbligatorio su molti modelli
+commerciali economici. In molte aree (soprattutto urbane) il suo
+utilizzo è obbligatorio. Gli agglomerati con Livello di Legge alto
+possono richiedere una modifica all’autopilota
+come sistema slave per un controllo del traffico centralizzato e/o
+d’emergenza. Cr 3.000.
 
-**Enclosed**: This modification turns an open vehicle into a closed one.
-It costs 10% of the base cost of the vehicle, reduces Agility by 1 and
-top speed by 10%.
+**Coperto**: Questa modifica trasforma un veicolo scoperto in uno
+coperto. Costa il 10% del costo base del veicolo, riduce l’Agilità di
+1 e la velocità massima del 10%.
 
-**Extended Life Support**: A vehicle which is sealed can be equipped for
-extended life support, which increases the duration to 18 hours per
-person. Costs another 10% of the base cost of the vehicle.
+**Supporto Vitale Prolungato**: Un veicolo a tenuta stagna può essere
+equipaggiato per il supporto vitale prolungato, che aumenta la
+durata a 18 ore per persona. Aumenta di un ulteriore 10% il costo
+del veicolo.
 
-**Heavy Armor**: Increasing the armor of a vehicle by 5 adds 25% to the
-cost of the vehicle.
+**Armatura Pesante**: Aumentare l’armatura di un veicolo di 5
+aggiunge il 25% al costo del veicolo stesso.
 
-**High Performance**: A vehicle can be made into a high-performance
-vehicle, increasing its top speed by 20%. The vehicle costs 50% more.
+**Prestazioni Elevate**: Un veicolo può essere modificato in modo da
+avere prestazioni elevate, aumentando la sua velocità massima del
+20%. Il veicolo costa il 50% in più.
 
-**On-board Computer**: Adding an on-board computer costs the same as a
-hand computer.
+**Computer di Bordo**: Aggiungere un computer di bordo costa come
+un computer palmare.
 
-**Sealed**: This option can be added to any closed vehicle (it is
-included in the ATV, AFV, G/Carrier and Speeder). The vehicle can be
-sealed and provides life support for its passengers and crew for two
-hours per person. This option adds 20% to the cost of the vehicle.
+**A Tenuta Stagna**: Questa opzione può essere aggiunta a qualsiasi
+veicolo coperto (è inclusa negli ATV, nei VCC e nei gravitrasporti).
+Il veicolo può essere sigillato e fornisce supporto vitale per i suoi
+passeggeri e l’equipaggio per due ore a persona. Questa opzione
+aggiunge il 20% al costo del veicolo.
 
-**Style**: Allows a vehicle to be customized to the buyer’s wishes.
-Costs Cr200 to Cr2,000.
+**Stile**: Permette di personalizzare un veicolo secondo i desideri del
+compratore. Costa da Cr 200 a Cr 2.000.
 
 ## Armi
 
-Una piccola selezione di armamenti disponibili in una campagna Cephues Engine sono disponibili nelle tabelle seguenti. Il livello di legge di un mondo può limitare la disponibilità di certe armi.
+Una piccola selezione di armamenti disponibili in una campagna Cepheus Engine sono disponibili nelle tabelle seguenti. Il livello di legge di un mondo può limitare la disponibilità di certe armi.
 
 ### Melee Weapons
 
@@ -951,33 +891,26 @@ Costo: Il prezzo in Crediti (Cr) o migliaia di Crediti (KCr).
 **Gittata**: La categoria di gittata di quest'arma.
 **Danno**: Il danno che l’arma infligge.
 
-**Tipo**: Tipo di danno inflitto – 
+**Tipo**: Tipo di danno inflitto – (C)ontundenti, (E)nergia, (P)erforanti, (T)aglio.
 
+**LL**: Il Livello di Legge in cui l'arma diventa legale per la prima volta.
 
+#### Tabella: Armi da Mischia Comuni
 
-
-
-**Type**: Type of damage inflicted – (B)ludgeoning, (E)nergy, (P)iercing
-or (S)lashing.
-
-**LL**: The Law Level where the weapon first becomes illegal.
-
-#### Table: Common Melee Personal Weapons
-
-| Weapon         | TL  | Cost  | Wgt   | Range                                     | Damage | Type | LL  |
-| -------------- | --- | ----- | ----- | ----------------------------------------- | ------ | ---- | --- |
-| Unarmed Strike | --  | --    | --    | melee (close quarters)                    | 1D6    | B    | --  |
-| Cudgel         | 0   | Cr10  | 1kg   | melee (close quarters)                    | 3D6    | B    | 9   |
-| Dagger         | 0   | Cr10  | 250g  | melee (close quarters) or ranged (thrown) | 1D6    | P    | 5   |
-| Spear          | 0   | Cr10  | 1500g | melee (extended reach) or ranged (thrown) | 3D6    | P    | 8   |
-| Pike           | 1   | Cr40  | 8kg   | melee (extended reach)                    | 4D6    | P    | 8   |
-| Sword          | 1   | Cr150 | 1kg   | melee (extended reach)                    | 3D6    | P/S  | 8   |
-| Broadsword     | 2   | Cr300 | 3kg   | melee (extended reach)                    | 4D6    | S    | 8   |
-| Halberd        | 2   | Cr75  | 3kg   | melee (extended reach)                    | 4D6    | S    | 8   |
-| Bayonet        | 3   | Cr10  | 250g  | melee (close quarters)                    | 1D6    | P    | 5   |
-| Blade          | 3   | Crr50 | 350g  | melee (extended reach)                    | 2D6    | P    | 8   |
-| Cutlass        | 3   | Cr100 | 1250g | melee (extended reach)                    | 3D6    | S    | 8   |
-| Foil           | 3   | Cr100 | 500g  | melee (extended reach)                    | 3D6    | P    | 8   |
+| Arma           | LT  | Costo | Peso  | Gittata                                   | Danno | Tipo | LL  |
+| -------------- | --- | ----- | ----- | ----------------------------------------- | ----- | ---- | --- |
+| Unarmed Strike | --  | --    | --    | melee (close quarters)                    | 1D6   | B    | --  |
+| Cudgel         | 0   | Cr10  | 1kg   | melee (close quarters)                    | 3D6   | B    | 9   |
+| Dagger         | 0   | Cr10  | 250g  | melee (close quarters) or ranged (thrown) | 1D6   | P    | 5   |
+| Spear          | 0   | Cr10  | 1500g | melee (extended reach) or ranged (thrown) | 3D6   | P    | 8   |
+| Pike           | 1   | Cr40  | 8kg   | melee (extended reach)                    | 4D6   | P    | 8   |
+| Sword          | 1   | Cr150 | 1kg   | melee (extended reach)                    | 3D6   | P/S  | 8   |
+| Broadsword     | 2   | Cr300 | 3kg   | melee (extended reach)                    | 4D6   | S    | 8   |
+| Halberd        | 2   | Cr75  | 3kg   | melee (extended reach)                    | 4D6   | S    | 8   |
+| Bayonet        | 3   | Cr10  | 250g  | melee (close quarters)                    | 1D6   | P    | 5   |
+| Blade          | 3   | Crr50 | 350g  | melee (extended reach)                    | 2D6   | P    | 8   |
+| Cutlass        | 3   | Cr100 | 1250g | melee (extended reach)                    | 3D6   | S    | 8   |
+| Foil           | 3   | Cr100 | 500g  | melee (extended reach)                    | 3D6   | P    | 8   |
 
 **Bayonet**: A small knife-like weapon similar to a dagger, frequently
 attached to a rifle. When not attached to a rifle, the bayonet performs
