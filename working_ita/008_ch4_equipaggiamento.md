@@ -1,4 +1,4 @@
-# CAPITOL 4: EQUIPAGGIAMENTO
+# CAPITOLO 4: EQUIPAGGIAMENTO
 
 La seguente sezione elenca gli esempi di equipaggiamento comune che gli avventurieri potrebbero volere. Oltre alle armature e alle armi, ciascuna lista annota il nome dell'oggetto e una descrizione sintetica. Il livello di tecnologia indica la tecnologia locale richiesta per produrre qualcosa con le capacità indicate. Il prezzo e il peso sono per un oggetto prodotto da una società interstellare di livello 10-15; oggetti prodotti a livelli tecnologici inferiori probabilmente saranno più grossi e pesanti. Un oggetto senza peso o dimensioni indicati può essere trasportato o indossato senza difficoltà. Ulteriori righe di spiegazione sono fornite quando considerato necessario.
 
@@ -591,134 +591,83 @@ Ogni volta che i personaggi non stanno indugiando negli agi offerti dalla civilt
 
 **Tenda**: Riparo di base per due persone che offre protezione dalle precipitazioni, tempeste e temperature fino a 0°C. Tende più grandi e maggiormente complesse, capaci di riparare più persone, o da venti più intensi o da temperature più fredde, costano e pesano di più.
 
-## Survival Equipment
+## Equipaggiamento di Sopravvivenza
 
-Survival equipment helps the character stay physically alive and able to
-take action, even in the most unusual of environments.
+L'equipaggiamento di sopravvivenza aiuta i personaggi a restare in vita e li rende capaci di fare azioni, persino negli ambienti più insoliti.
 
-#### Table: Survival Equipment
+#### Tabella: Equipaggiamento di Sopravvivenza
 
-| Description           | TL  | Cost      | Wgt |
-| --------------------- | --- | --------- | --- |
-| Cold Weather Clothing | 1   | Cr200     | 2   |
-| Filter Mask           | 3   | Cr10      | --  |
-| Swimming Equipment    | 3   | Cr200     | 1   |
-| Combination Mask      | 5   | Cr150     | --  |
-| Oxygen Tanks          | 5   | Cr500     | 5   |
-| Respirator            | 5   | Cr100     | --  |
-| Underwater Air Tanks  | 5   | Cr800     | 5   |
-| Artificial Gill       | 8   | Cr4,000   | 4   |
-| Environment Suit      | 8   | Cr500     | --  |
-| Rescue Bubble         | 9   | Cr600     | 3   |
-| Thruster Pack         | 9   | Cr2,000   | 5   |
-| Portable Generator    | 10  | Cr500,000 | 15  |
+| Descrizione              | LT  | Costo     | Peso |
+| ------------------------ | --- | --------- | ---- |
+| Abbigliamento Artico     | 1   | Cr200     | 2    |
+| Maschera Filtrante       | 3   | Cr10      | --   |
+| Equipaggiamento da Nuoto | 3   | Cr200     | 1    |
+| Maschera Combinata       | 5   | Cr150     | --   |
+| Bombole a Ossigeno       | 5   | Cr500     | 5    |
+| Respiratore              | 5   | Cr100     | --   |
+| Bombole Subacquee        | 5   | Cr800     | 5    |
+| Branchie Artificiali     | 8   | Cr4,000   | 4    |
+| Tuta Ambientale          | 8   | Cr500     | --   |
+| Bolla di Soccorso        | 9   | Cr600     | 3    |
+| Zaino Propulsore         | 9   | Cr2,000   | 5    |
+| Generatore Portatile     | 10  | Cr500,000 | 15   |
 
-**Artificial Gill**: Extracts oxygen from water to allowing the wearer
-to breathe for an unlimited time while submerged under water. Functions
-only on worlds with thin, standard, or dense (type 4 through 9)
-atmospheres.
+**Branchie Artificiali**: Estraggono l'ossigeno dall'acqua per permettere a chi le indossa di respirare per un tempo limitato mentre è in immersione sott'acqua. Funziona solo su mondi con un'atmosfera sottile, standard o densa (dal tipo 4 al 9).
 
-**Cold Weather Clothing**: Protects against frigid weather (-20º Celsius
-or below). Adds a DM+2 to all Endurance checks made to resist the
-effects of cold weather exposure. Reduce the weight by 1kg for every 5
-TL.
+**Abbigliamento Artico**: Protegge dal clima glaciale (-20°C o meno). Fornisce un MD+2 su tutte le prove di Resistenza effettuate per resistere agli effetti di esposizione al clima freddo. Il peso è ridotto di 1kg ogni 5 LT.
 
-**Combination Mask**: A combination of both filter mask and respirator,
-which allows breathing of very thin, tainted atmospheres (type 2), plus
-all atmospheres listed under filter and respirator masks.
+**Maschera Combinata**: Una combinazione di una maschera filtrante e un respiratore, che permette di respirare atmosfere molto sottile e contaminate (tipo 2), oltre a tutte le atmosfere elencate sotto le maschere filtrati e i respiratori.
 
-**Environment Suit**: Designed to protect the wearer from extreme cold
-or heat, the environment suit has a hood, gloves and boots but leaves
-the face exposed in normal operations.
+**Tuta Ambientale**: Progettata per proteggere chi la indossa da estremo freddo o calore, la tuta ambientale ha un cappuccio, guanti e stivali ma lascia la faccia esposta nelle operazioni normali.
 
-**Filter Mask**: A filter set that allows an individual to breathe
-tainted atmospheres (types 4, 7, and 9). Also protects against the
-inhalation of heavy smoke or dust.
+**Maschera Filtrante**: Un set filtrante che permette a una persona di respirare atmosfere contaminate (tipo 4, 7 e 9). Protegge inoltre da inalazione di polveri e fumi sottili.
 
-**Oxygen Tanks**: A complete set of compressed oxygen tanks, which allow
-independent breathing in smoke, dust, gas, or exotic (type A)
-atmosphere. Two tanks last 6 hours. Refill of proper atmospheric mixture
-for race cost Cr20.
+**Bombole a Ossigeno**: Un set completo di ossigeno compresso, che permette respirazione autonoma in fumo, polvere, gas e atmosfere esotiche (tipo A). Due bombole durano 6 ore. La ricarica per l'appropriato mix atmosferico per ogni razza costa Cr20.
 
-**Portable Generator**: This is a heavy-duty portable fusion generator,
-capable of recharging weapons and other equipment for up to one month of
-use.
+**Generatore Portatile**: Questo è un robusto generatore portatile a fusione, capace di ricaricare armi e altro equipaggiamento fino a un mese d'utilizzo.
 
-**Rescue Bubble**: A large (2m diameter) pressurized plastic bubble.
-Piezoelectric layers in the bubble wall translate the user's movements
-into electricity to recharge the bubble's batteries and power its
-distress beacon, and a small oxygen tank both inflates the bubble and
-provides two person/hours of life support. A self-repairing plastic seal
-serves as an emergency airlock. Rescue bubbles are found on both space
-vessels and water craft as emergency lifeboats.
+**Bolla di Soccorso**: Una grande (2m di diametro) bolla pressurizzata di plastica. Gli strati piezoelettrici nelle pareti della bolla convertono i movimenti dell'utente in elettricità per ricaricare le batterie della bolla e dare energia il suo faro di emergenza, mentre una piccola bombola di ossigeno gonfia la bolla e fornisce  due ore/persona di supporto vitale. Le bolle di soccorso si possono trovare sia nei vascelli spaziali che sui navigli come scialuppe di salvataggio d'emergenza.
 
-**Respirator**: A small compressor that allows an individual to breathe
-in very thin atmospheres (type 3).
+**Respiratore**: Un piccolo compressione che permette a una persona di respirare atmosfere molto sottili (tipo 3).
 
-**Swimming Equipment**: Includes swim fins, wet suit, face mask.
-Protects against the effects of cold (5º Celsius or below), along with
-improving speed and maneuverability underwater; add DM +1 to all
-Athletics skill checks in these situations when wearing proper swimming
-equipment.
+**Equipaggiamento da Nuoto**: Include pinne, mute e maschere. Protegge conto gli effetti del freddo (5°C o meno) e aumenta la velocità e la manovrabilità sott'acqua; fornisce un MD+1 a tutte le prove di Atletica in queste condizioni quando è indossato l'appropriato equipaggiamento.
 
-**Thruster Pack**: A simple thruster pack gives the user the ability to
-maneuver in zero-gravity. A Zero-G check is required to use a thruster
-pack accurately. Thruster packs can only be used in microgravity
-environments and are only practical for journeys between spacecraft at
-Adjacent range.
+**Zaino Propulsore**: Un semplice zaino propulsore fornisce all'utente la capacità di manovrare a gravità zero. Una prova di G-Zero è richiesta per usare uno zaino propulsore in modo accurato. Gli zaini propulsori possono essere usati solamente in ambienti a microgravità e sono utili solamente per percorsi dalla navicella spaziale alla distanza Adiacente.
 
-**Underwater Air Tanks**: Equivalent to oxygen tanks but designed for
-use underwater. Two tanks last 6 hours. Refill of proper atmospheric
-mixture for race and expected depth cost Cr20.
+**Bombole Subacquee**: Equivalente alle bombole a ossigeno ma progettate per l'uso sott'acqua. Due bombole durano 6 ore. La ricarica per l'appropriato mix atmosferico per ogni razza e la profondità attesa costa Cr20.
 
-## Tools
+## Strumenti
 
-Technical skills require specialist tools of various kinds.
+Le abilità tecniche richiedono strumenti specialistici di vario tipo.
 
-#### Table: Tools
+#### Tabella: Strumenti
 
-| Description         | TL  | Cost  | Wgt |
-| ------------------- | --- | ----- | --- |
-| Mechanical Toolkit  | 4   | 1,000 | 12  |
-| Electronics Toolkit | 5   | 1,000 | 12  |
-| Lock Pick Set       | 5   | 10    | --  |
-| Medical Kit         | 7   | 1,000 | 10  |
-| Forensics Toolkit   | 8   | 1,000 | 12  |
-| Engineering Toolkit | 9   | 1,000 | 12  |
-| Scientific Toolkit  | 9   | 1,000 | 12  |
-| Surveying Toolkit   | 9   | 1,000 | 12  |
+| Descrizione            | LT  | Costo   | Peso |
+| ---------------------- | --- | ------- | ---- |
+| Toolkit Meccanico      | 4   | Cr1,000 | 12   |
+| Toolkit Elettronico    | 5   | Cr1,000 | 12   |
+| Grimaldelli            | 5   | Cr10    | --   |
+| Kit Medico             | 7   | Cr1,000 | 10   |
+| Toolkit Forense        | 8   | Cr1,000 | 12   |
+| Toolkit di Ingegneria  | 9   | Cr1,000 | 12   |
+| Toolkit Scientifico    | 9   | Cr1,000 | 12   |
+| Toolkit di Agrimensura | 9   | Cr1,000 | 12   |
 
-**Electronics Toolkit**: Required for electrical repairs and
-installations. This kit contains diagnostic sensors, hand tools,
-computer analysis programs (at appropriate tech levels) and spare parts.
+**Toolkit Elettronico**: Richiesto per riparazioni elettriche e installazioni. Questo kit contiene sensori diagnostici, strumenti manuali, programmi di analisi computerizzata (ad appropriati livelli tecnologici) e parti di ricambio.
 
-**Engineering Toolkit**: Required for performing repairs and installing
-new equipment. This kit contains diagnostic sensors, hand tools,
-computer analysis programs (at appropriate tech levels) and spare parts.
+**Toolkit di Ingegneria**: Richiesto per effettuare riparazioni e installare nuovo equipaggiamento. Questo kit contiene sensori diagnostici, strumenti manuali, programmi di analisi computerizzata (ad appropriati livelli tecnologici) e parti di ricambio.
 
-**Forensics Toolkit**: Required for investigating crime scenes and
-testing samples. This kit contains diagnostic sensors, hand tools,
-computer analysis programs (at appropriate tech levels) and spare parts.
+**Toolkit Forense**: Richiesto per investigare scene del crimine e testare campioni. Questo kit contiene sensori diagnostici, strumenti manuali, programmi di analisi computerizzata (ad appropriati livelli tecnologici) e parti di ricambio.
 
-**Lock Pick Set**: Allows picking of ordinary mechanical locks. Lock
-pick sets are illegal on worlds of law level 8+; on such worlds the cost
-rises to Cr100 or more.
+**Grimaldelli**: Permettono di forzare normali serratura meccaniche. Gli strumenti da scasso sono illegali sui mondi con livello di legge 8+; su questi mondi il prezzo cresce a Cr100 o più.
 
-**Mechanical Toolkit**: Required for repairs and construction. This kit
-contains diagnostic sensors, hand tools, computer analysis programs (at
-appropriate tech levels) and spare parts.
+**Toolkit Meccanico**: Richiesto per riparazioni e costruzioni. Questo kit contiene sensori diagnostici, strumenti manuali, programmi di analisi computerizzata (ad appropriati livelli tecnologici) e parti di ricambio.
 
-**Medical Kit**: This medical kit contains diagnostic devices and
-scanners, surgical tools and a plethora of drugs and antibiotics,
-allowing a medic to practice his art in the field.
+**Kit Medico**: Questo kit medico contiene dispositivi diagnostici e scanner, strumenti chirurgici e una quantità di medicinali e antibiotici, permettendo al medico di praticare l'arte nel suo campo.
 
-**Scientific Toolkit**: Required for scientific testing and analysis.
-This kit contains diagnostic sensors, hand tools, computer analysis
-programs (at appropriate tech levels) and spare parts.
+**Toolkit Scientifico**: Richiesto per test scientifici e analisi. Questo kit contiene sensori diagnostici, strumenti manuali, programmi di analisi computerizzata (ad appropriati livelli tecnologici) e parti di ricambio.
 
-**Surveying Toolkit**: Required for planetary surveys or mapping. This
-kit contains diagnostic sensors, hand tools, computer analysis programs
-(at appropriate tech levels) and spare parts.
+**Toolkit di Agrimensura**: Richiesto per sondaggi planetari e mappatura. Questo kit contiene sensori diagnostici, strumenti manuali, programmi di analisi computerizzata (ad appropriati livelli tecnologici) e parti di ricambio.
 
 ## Veicoli
 
@@ -877,12 +826,11 @@ compratore. Costa da Cr 200 a Cr 2.000.
 
 Una piccola selezione di armamenti disponibili in una campagna Cepheus Engine sono disponibili nelle tabelle seguenti. Il livello di legge di un mondo può limitare la disponibilità di certe armi.
 
-### Melee Weapons
+### Armi da Mischia
 
-A number of melee weapons are described in the Common Personal Melee
-Weapons table. Each column is described as follows:
+Un certo numero di armi da mischia sono descritte nella tabella Armi da Mischia Comuni. Ogni colonna è descritta nel seguito:
 
-Costo: Il prezzo in Crediti (Cr) o migliaia di Crediti (KCr).
+**Costo**: Il prezzo in Crediti (Cr) o migliaia di Crediti (KCr).
 
 **LT**: Il Livello Tecnologico minimo in cui l’arma è disponibile.
 
@@ -897,214 +845,144 @@ Costo: Il prezzo in Crediti (Cr) o migliaia di Crediti (KCr).
 
 #### Tabella: Armi da Mischia Comuni
 
-| Arma           | LT  | Costo | Peso  | Gittata                                   | Danno | Tipo | LL  |
-| -------------- | --- | ----- | ----- | ----------------------------------------- | ----- | ---- | --- |
-| Unarmed Strike | --  | --    | --    | melee (close quarters)                    | 1D6   | B    | --  |
-| Cudgel         | 0   | Cr10  | 1kg   | melee (close quarters)                    | 3D6   | B    | 9   |
-| Dagger         | 0   | Cr10  | 250g  | melee (close quarters) or ranged (thrown) | 1D6   | P    | 5   |
-| Spear          | 0   | Cr10  | 1500g | melee (extended reach) or ranged (thrown) | 3D6   | P    | 8   |
-| Pike           | 1   | Cr40  | 8kg   | melee (extended reach)                    | 4D6   | P    | 8   |
-| Sword          | 1   | Cr150 | 1kg   | melee (extended reach)                    | 3D6   | P/S  | 8   |
-| Broadsword     | 2   | Cr300 | 3kg   | melee (extended reach)                    | 4D6   | S    | 8   |
-| Halberd        | 2   | Cr75  | 3kg   | melee (extended reach)                    | 4D6   | S    | 8   |
-| Bayonet        | 3   | Cr10  | 250g  | melee (close quarters)                    | 1D6   | P    | 5   |
-| Blade          | 3   | Crr50 | 350g  | melee (extended reach)                    | 2D6   | P    | 8   |
-| Cutlass        | 3   | Cr100 | 1250g | melee (extended reach)                    | 3D6   | S    | 8   |
-| Foil           | 3   | Cr100 | 500g  | melee (extended reach)                    | 3D6   | P    | 8   |
+| Arma              | LT  | Costo | Peso  | Gittata                                       | Danno | Tipo | LL  |
+| ----------------- | --- | ----- | ----- | --------------------------------------------- | ----- | ---- | --- |
+| Attacco Disarmato | --  | --    | --    | mischia (corpo a corpo)                       | 1D6   | B    | --  |
+| Bastone           | 0   | Cr10  | 1kg   | mischia (corpo a corpo)                       | 3D6   | B    | 9   |
+| Pugnale           | 0   | Cr10  | 250g  | mischia (corpo a corpo) o distanza (lancio)   | 1D6   | P    | 5   |
+| Lancia            | 0   | Cr10  | 1500g | mischia (gittata estesa) or distanza (lancio) | 3D6   | P    | 8   |
+| Picca             | 1   | Cr40  | 8kg   | mischia (gittata estesa)                      | 4D6   | P    | 8   |
+| Spada             | 1   | Cr150 | 1kg   | mischia (gittata estesa)                      | 3D6   | P/S  | 8   |
+| Spadone           | 2   | Cr300 | 3kg   | mischia (gittata estesa)                      | 4D6   | S    | 8   |
+| Alabarda          | 2   | Cr75  | 3kg   | mischia (gittata estesa)                      | 4D6   | S    | 8   |
+| Baionetta         | 3   | Cr10  | 250g  | mischia (corpo a corpo)                       | 1D6   | P    | 5   |
+| Lama              | 3   | Crr50 | 350g  | mischia (gittata estesa)                      | 2D6   | P    | 8   |
+| Sciabola          | 3   | Cr100 | 1250g | mischia (gittata estesa)                      | 3D6   | S    | 8   |
+| Fioretto          | 3   | Cr100 | 500g  | mischia (gittata estesa)                      | 3D6   | P    | 8   |
 
-**Bayonet**: A small knife-like weapon similar to a dagger, frequently
-attached to a rifle. When not attached to a rifle, the bayonet performs
-as a dagger.
+**Baionetta**:  Un'arma piccola come un coltello, di solito attaccata a un fucile. Quando non è attaccata così, la baionetta si usa come un pugnale.
 
-**Blade**: A hybrid knife weapon with a heavy, flat two-edged blade
-nearly 300mm in length, and (often, but not always) a semi-basket
-handguard. Because of the bulk of the handguard, it is generally carried
-in a belt scabbard. Blades are as much survival tools as weapons, and
-are often found in emergency kits, lifeboats etc.
+**Lama**: Un'arma ibrida con una lama pesante a doppio filo di quasi 300mm di lunghezza e (spesso ma non sempre) un'elsa a forma di semi caschetto. A causa dell'ingombro dell'elsa, è generalmente portata in un fodero allacciato alla cintura. Le lame sono sia strumenti di sopravvivenza che armi e sono spesso rinvenibili nei kit di emergenza, sulle scialuppe di salvataggio, etc.
 
-**Broadsword**: The largest of the sword weapons, also called the
-two-handed sword because it requires both hands to swing. The blade is
-extremely heavy, two-edged, and about 1000 to 1200mm in length. The hilt
-is relatively simple, generally a cross-piece only, with little
-basketwork or protection. When carried, the broadsword is worn in a
-metal scabbard attached to the belt; less frequently, the scabbard is
-worn on the back, and the broadsword is drawn over the shoulder.
+**Spadone**: La più grande tra le spade, anche chiamato spada a due mani perché richiede due mani per brandirla. La lama è estremamente pesante, a doppio filo e lungo circa da 1000 a 1200mm. L'elsa è relativamente semplice, di solito a croce, con un piccolo intreccio o protezione. Quando portato, lo spadone è riposto in un fodero di metallo attaccato alla cintura; meno frequentemente, il fodero è indossato sulla schiena e lo spadone è estratto da sopra la spalla.
 
-**Cudgel**: A basic stick used as a weapon. Easily obtained from
-standing trees or through the use of an unloaded long gun such as a
-rifle or carbine (laser weapons are too delicate to be used as cudgels).
-Length: 1000 to 2000mm.
+**Bastone**: un semplice bastone usato come arma. Facile da ottenere da un albero o usando un'arma da fuoco lunga non carica, come un fucile o una carabina (le armi delicate sono troppo delicate per essere usata come bastoni). Lunghezza: da 1000 a 2000mm.
 
-**Cutlass**: A heavy, flat-bladed, single-edged weapon featuring a full
-basket hilt to protect the hand. The cutlass is the standard shipboard
-blade weapon and sometimes kept in lockers on the bulkhead near
-important locations; when worn, a belt scabbard is used. Blade length
-varies from 600 to 900mm.
+**Sciabola**: Un'arma composta da una pesante lama piatta a filo unico, caratterizzata da un'elsa a caschetto per proteggere la mano. La sciabola è un'arma a lama standard a bordo delle navi e a volte è tenuta negli armadietti sulle paratie nei pressi di zone importanti; quando indossata è portata in un fodero appeso alla cintura. La lunghezza della lama varia da 600 a 900mm.
 
-**Dagger**: A small knife weapon with a flat, two-edged blade
-approximately 200mm in length. Daggers are usually carried in a belt
-sheath, or less frequently concealed in a boot sheath or strapped to the
-forearm. Daggers are usually as much a tool as a last-resort weapon of
-defense, and worn constantly. Each weighs 250 grams; that weight,
-however, does not count against the weight load of the character as the
-weapon is worn constantly and comfortably.
+**Pugnale**: Una piccola arma a coltello con una lama piatta a singolo filo di approssimativamente 200mm di lunghezza. I pugnali sono di solito portati in un fodero a cintura o meno frequentemente nascosti in un comparto nello stivale o legati all'avambraccio. I pugnali sono di solito usati tanto come strumento che come ultima risorsa di combattimento e sono indossati costantemente. Ciascuno pesa 250 grammi, quel peso, comunque, non conta come carico del personaggio in quanto l'arma è indossata costantemente e con comodità.
 
-**Foil**: Also known as the rapier, this weapon is a light, sword-like
-weapon with a pointed, edged blade 800mm in length, and a basket or cup
-hilt to protect the hand. Foils are worn in scabbards attached to the
-belt.
+**Fioretto**: Anche conosciuto come stocco, quest'arma è leggera e simile a una spada con una lama appuntita e affilata di 800mm di lunghezza e un'elsa a caschetto o coppa per proteggere la mano. I fioretti sono indossati in foderi attaccati alla cintura.
 
-**Halberd**: A two-handed pole weapon having an axe-like blade and a
-steel spike mounted on the end of a long shaft. Length: 2500mm.
+**Alabarda**: Un'arma a due mani a forma di palo dotata di una lama a forma di ascia e uno spuntone di acciaio montato sulla sommità della lunga asta. Lunghezza: 2500mm.
 
-**Pike**: A two-handed weapon with a pointed steel or iron head on a
-long wooden shaft. Length: 3000 to 4000mm.
+**Picca**: Un'arma a due mani con uno spuntone di acciaio o di ferro in testa posizionato su una lunga asta di legno. Lunghezza: da 3000 a 4000mm.
 
-**Spear**: A weapon with a long shaft and a pointed tip, typically of
-metal, used for thrusting or throwing. Length: 3000mm.
+**Lancia**: Un'arma costituita da una lunga asta con una punta tipicamente di metallo, usata per trafiggere o per essere lanciata. Lunghezza: 3000mm.
 
-**Sword**: The standard long-edged weapon, featuring a flat, two-edged
-blade. It may or may not have a basket hilt or hand protector. A
-scabbard to carry the sword may be attached to the belt, or to straps
-(or a sash) over the shoulder. Blade length may vary from 700 to 950mm.
+**Spada**: L'arma a taglio lungo standard, caratterizzata da una lama piatta a doppio taglio. Può presentare o meno un'elsa a caschetto. Un fodero per portare una spada può essere attaccato alla cintura oppure a cinghie (o una fascia) sopra la spalla. La lunghezza della lama può variare da 700 a 950mm.
 
-### Ranged Weapons
+### Armi a Distanza
 
-The Common Ranged Weapons table lists the ranged weapons commonly
-available in a Cepheus Engine campaign. Each column is described as
-follows:
+La tabella Armi a Distanza Comuni elenca le armi a distanza comunemente disponibili in una campagna di Cepheus Engine. Ciascuna colonna è descritta di seguito:
 
-**Cost**: Price in Credits (Cr) or 1000s of Credits (KCr).
+**Costo**: Il prezzo in Crediti (Cr) o migliaia di Crediti (KCr).
 
-**TL**: The minimum tech level required to manufacture such an item.
+**LT**: Il Livello Tecnologico minimo in cui l’arma è disponibile.
 
-**Wgt**: Weight in grams (g) or kilograms (kg).
+**Peso**: Il perso in grammi (g) o chilogrammi (kg).
 
-**RoF**: Rate of Fire. The number of rounds that may be fired during a
-significant action in the format: Single Shot / Burst Shot / Automatic
-Fire.
+**CdT**: Cadenza di Tiro. Il numero di round in cui si può sparare durante un'azione significativa nel formato: Colpo Singolo / Colpo Continuo / Fuoco Automatico.
 
-**Range**: The range category for this weapon.
+**Gittata**: La categoria di gittata di quest'arma. 
 
-**Dmg**: The damage a weapon inflicts.
+**Danno**: Il danno che l’arma infligge.
 
-**Type**: Type of damage inflicted – (B)ludgeoning, (E)nergy, (P)iercing
-or (S)lashing.
+**Tipo**: Tipo di danno inflitto – (C)ontundenti, (E)nergia, (P)erforanti, (T)aglio.
 
-**Recoil**: Lists if the weapon has recoil when fired.
+**Rinculo**: Indica se l'arma ha rinculo quando spara.
 
-**LL**: The Law Level where the weapon first becomes illegal.
+**LL**: Il Livello di Legge in cui l'arma diventa legale per la prima volta.
 
-The Common Ranged Ammunition table describes the cost of ammunitions and
-power packs for certain ranged weapons. Each column is described as
-follows:
+La tabella Munizioni Comuni descrive il costo delle munizioni e dei power pack per certi tipi di armi a distanza. Ogni colonna è descritta come di seguito:
 
-**Cost**: The cost of a full magazine of standard ammunition or power
-pack for a weapon.
+**Costo**: Il costo di un caricatore di munizioni standard o del power pack per un'arma.
 
-**TL**: The minimum tech level required to manufacture such an item.
+**LT**: Il livello tecnologico minimo richiesto per fabbricare l'oggetto.
 
-**Wgt**: The weight of a full magazine or power pack for a weapon.
+**Peso**: Il peso di un caricatore pieno o di un power pack per l'arma.
 
-**Rounds**: The number of rounds the weapon may fire before it must be
-reloaded or recharged.
+**Colpi**: Il numero di colpi che l'arma può sparare prima di essere ricaricata.
 
-#### Table: Common Personal Ranged Weapons
+#### Tabella: Armi a Distanza Comuni
 
-| Weapon                | TL  | Cost   | Wgt   | RoF    | Range                   | Dmg | Type | Recoil | LL  |
-| --------------------- | --- | ------ | ----- | ------ | ----------------------- | --- | ---- | ------ | --- |
-| Bow                   | 1   | Cr60   | 1kg   | 1      | ranged (assault weapon) | 2D6 | P    | Yes    | 6   |
-| Crossbow              | 2   | Cr75   | 3kg   | 1      | ranged (rifle)          | 2D6 | P    | Yes    | 6   |
-| Revolver              | 4   | Cr150  | 900g  | 1      | ranged (pistol)         | 2D6 | P    | Yes    | 6   |
-| Auto Pistol           | 5   | Cr200  | 750g  | 1      | ranged (pistol)         | 2D6 | P    | Yes    | 6   |
-| Carbine               | 5   | Cr200  | 3kg   | 1      | ranged (shotgun)        | 2D6 | P    | Yes    | 6   |
-| Rifle                 | 5   | Cr200  | 4kg   | 1      | ranged (rifle)          | 3D6 | P    | Yes    | 6   |
-| Shotgun               | 5   | Cr150  | 3750g | 1      | ranged (shotgun)        | 4D6 | P    | Yes    | 7   |
-| Submachinegun         | 5   | Cr500  | 2500g | 0/4    | ranged (assault weapon) | 2D6 | P    | Yes    | 4   |
-| Auto Rifle            | 6   | Cr1000 | 5kg   | 1/4    | ranged (rifle)          | 3D6 | P    | Yes    | 6   |
-| Assault Rifle         | 7   | Cr300  | 3kg   | 1/4    | ranged (assault weapon) | 3D6 | P    | Yes    | 4   |
-| Body Pistol           | 7   | Cr500  | 250g  | 1      | ranged (pistol)         | 2D6 | P    | Yes    | 1   |
-| Laser Carbine         | 8   | Cr2500 | 5kg   | 1      | ranged (pistol)         | 4D6 | E    | No     | 2   |
-| Snub Pistol           | 8   | Cr150  | 250g  | 1      | ranged (pistol)         | 2D6 | P    | No     | 6   |
-| Accelerator Rifle     | 9   | Cr900  | 2500g | 1/3    | ranged (rifle)          | 3D6 | P    | No     | 6   |
-| Laser Rifle           | 9   | Cr3500 | 6kg   | 1      | ranged (rifle)          | 5D6 | E    | No     | 2   |
-| Advanced Combat Rifle | 10  | Cr1000 | 3500g | 1/4    | ranged (rifle)          | 3D6 | P    | Yes    | 6   |
-| Gauss Rifle           | 12  | Cr1500 | 3500g | 1/4/10 | ranged (rifle)          | 4D6 | P    | No     | 6   |
-| Laser Pistol          | 12  | Cr1000 | 1200g | 1      | ranged (pistol)         | 4D6 | E    | No     | 2   |
+| Arma                                   | LT  | Costo  | Peso  | CdT    | Gittata                   | Danno | Tipo | Rinculo | LL  |
+| -------------------------------------- | --- | ------ | ----- | ------ | ------------------------- | ----- | ---- | ------- | --- |
+| Arco                                   | 1   | Cr60   | 1kg   | 1      | Distanza (arma d'assalto) | 2D6   | P    | Sì      | 6   |
+| Balestra                               | 2   | Cr75   | 3kg   | 1      | Distanza (fucile)         | 2D6   | P    | Sì      | 6   |
+| Revolver                               | 4   | Cr150  | 900g  | 1      | Distanza (pistola)        | 2D6   | P    | Sì      | 6   |
+| Pistola Automatica                     | 5   | Cr200  | 750g  | 1      | Distanza (pistola)        | 2D6   | P    | Sì      | 6   |
+| Carabina                               | 5   | Cr200  | 3kg   | 1      | Distanza (doppietta)      | 2D6   | P    | Sì      | 6   |
+| Fucile                                 | 5   | Cr200  | 4kg   | 1      | Distanza (fucile)         | 3D6   | P    | Sì      | 6   |
+| Doppietta                              | 5   | Cr150  | 3750g | 1      | Distanza (doppietta)      | 4D6   | P    | Sì      | 7   |
+| Fucile Mitragliatore                   | 5   | Cr500  | 2500g | 0/4    | Distanza (arma d'assalto) | 2D6   | P    | Sì      | 4   |
+| Fucile Automatico                      | 6   | Cr1000 | 5kg   | 1/4    | Distanza (fucile)         | 3D6   | P    | Sì      | 6   |
+| Fucile d'Assalto                       | 7   | Cr300  | 3kg   | 1/4    | Distanza (arma d'assalto) | 3D6   | P    | Sì      | 4   |
+| Pistola Personale                      | 7   | Cr500  | 250g  | 1      | Distanza (pistola)        | 2D6   | P    | Sì      | 1   |
+| Carabina Laser                         | 8   | Cr2500 | 5kg   | 1      | Distanza (pistola)        | 4D6   | E    | No      | 2   |
+| Pistola Corta                          | 8   | Cr150  | 250g  | 1      | Distanza (pistola)        | 2D6   | P    | No      | 6   |
+| Fucile Acceleratore                    | 9   | Cr900  | 2500g | 1/3    | Distanza (fucile)         | 3D6   | P    | No      | 6   |
+| Fucile Laser                           | 9   | Cr3500 | 6kg   | 1      | Distanza (fucile)         | 5D6   | E    | No      | 2   |
+| Fucile Avanzato da Combattimento (FAC) | 10  | Cr1000 | 3500g | 1/4    | Distanza (fucile)         | 3D6   | P    | Sì      | 6   |
+| Fucile Gauss                           | 12  | Cr1500 | 3500g | 1/4/10 | Distanza (fucile)         | 4D6   | P    | No      | 6   |
+| Pistola Laser                          | 12  | Cr1000 | 1200g | 1      | Distanza (pistola)        | 4D6   | E    | No      | 2   |
 
-#### Table: Common Ranged Ammunition
+#### Tabella: Munizioni Comuni
 
-| Weapon                | TL  | Cost  | Wgt  | Rounds |
-| --------------------- | --- | ----- | ---- | ------ |
-| Bow                   | 1   | Cr1   | 25g  | 1      |
-| Crossbow              | 2   | Cr2   | 20g  | 1      |
-| Revolver              | 4   | Cr5   | 100g | 6      |
-| Auto Pistol           | 5   | Cr10  | 250g | 15     |
-| Body Pistol           | 7   | Cr20  | 50g  | 6      |
-| Snub Pistol           | 8   | Cr10  | 30g  | 6/15   |
-| Shotgun               | 5   | Cr10  | 750g | 10     |
-| Rifle                 | 5   | Cr20  | 500g | 10     |
-| Carbine               | 5   | Cr10  | 125g | 20     |
-| Auto Rifle            | 6   | Cr20  | 500g | 20     |
-| Assault Rifle         | 7   | Cr20  | 330g | 30     |
-| Accelerator Rifle     | 9   | Cr25  | 500g | 15     |
-| Advanced Combat Rifle | 10  | Cr15  | 500g | 20     |
-| Gauss Rifle           | 12  | Cr30  | 400g | 40     |
-| Submachinegun         | 5   | Cr20  | 500g | 30     |
-| Laser Pistol          | 12  | Cr100 | 500g | 25     |
-| Laser Carbine         | 8   | Cr200 | 3kg  | 50     |
-| Laser Rifle           | 9   | Cr300 | 4kg  | 100    |
+| Arma                                   | LT  | Costo | Peso | Colpi |
+| -------------------------------------- | --- | ----- | ---- | ----- |
+| Arco                                   | 1   | Cr1   | 25g  | 1     |
+| Balestra                               | 2   | Cr2   | 20g  | 1     |
+| Revolver                               | 4   | Cr5   | 100g | 6     |
+| Pistola Automatica                     | 5   | Cr10  | 250g | 15    |
+| Pistola Personale                      | 7   | Cr20  | 50g  | 6     |
+| Pistola Corta                          | 8   | Cr10  | 30g  | 6/15  |
+| Doppietta                              | 5   | Cr10  | 750g | 10    |
+| Fucile                                 | 5   | Cr20  | 500g | 10    |
+| Carabina                               | 5   | Cr10  | 125g | 20    |
+| Fucile Automatico                      | 6   | Cr20  | 500g | 20    |
+| Fucile d'Assalto                       | 7   | Cr20  | 330g | 30    |
+| Fucile Acceleratore                    | 9   | Cr25  | 500g | 15    |
+| Fucile Avanzato da Combattimento (FAC) | 10  | Cr15  | 500g | 20    |
+| Fucile Gauss                           | 12  | Cr30  | 400g | 40    |
+| Fucile Mitragliatore                   | 5   | Cr20  | 500g | 30    |
+| Pistola Laser                          | 12  | Cr100 | 500g | 25    |
+| Carabina Laser                         | 8   | Cr200 | 3kg  | 50    |
+| Fucile Laser                           | 9   | Cr300 | 4kg  | 100   |
 
-**Accelerator Rifle**: Designed specifically for zero-g combat, the
-accelerator rifle fires a specially designed round which upon leaving
-the barrel is accelerated by a secondary propelling charge. Normally the
-rifle fires bursts of three rounds per pull of the trigger, but may be
-adjusted to fire single rounds.
+**Fucile Acceleratore**: Progettato specificamente per il combattimento a gravità zero, il fucile acceleratore spara colpi speciali progettati per lasciare la canna accelerati da una carica di propellente secondario. Normalmente il fucile spara una raffica di tre colpi per ogni pressione del grilletto, ma può essere calibrato per sparare un singolo colpo.
 
-**Advanced Combat Rifle (ACR)**: A progressive development of the
-assault rifle.
+**Fucile Avanzato da Combattimento (FAC)**: Un ulteriore sviluppo del fucile d'assalto.
 
-**Assault Rifle**: A lighter and less expensive version of the automatic
-rifle.
+**Fucile d'Assalto**: Una versione più leggera e meno costosa del fucile automatico.
 
-**Automatic Rifle**: A highly refined and tuned version of the rifle,
-capable of full automatic fire as well as semi-automatic shots.
-Normally, the automatic rifle fires bursts of four bullets for each pull
-of the trigger. It may be switched to semi-automatic fire at the end of
-a combat round, after all firing, in which case it is treated as a rifle
-until switched back to burst mode. Ammunition and magazines are
-identical to those used for the rifle.
+**Fucile Automatico**: Una versione molto raffinata e migliorata di un fucile, capace di piena capacità di fuoco automatico così come di colpi semi automatici. Normalmente, il fucile automatico spara una raffica di quattro colpi per ogni pressione del grilletto. Può passare alla modalità di fuoco semi automatica alla fine del round di combattimento, al termine del fuoco di tutti, nel qual caso è trattato come un fucile finché non viene nuovamente riconfigurato nella modalità a raffica. Le munizioni e i caricatori sono identici a quelli usati per il fucile.
 
-**Auto Pistol**: Also referred to as a Semi-Automatic Pistol, Automatic
-Pistol or just a Pistol, the auto pistol is a basic repeating handgun.
-One cartridge is fired for each pull of the trigger. Auto pistol
-ammunition is interchangeable with submachinegun ammunition (although
-magazines are not). Preloaded magazines may be inserted into an empty
-pistol, but require a reload action to complete.
+**Pistola Automatica**: Definita anche una Pistola Semi Automatica, o semplicemente Pistola, è una semplice arma portatile a ripetizione. Una singola cartuccia è sparata per ogni pressione del grilletto. Le munizioni sono interscambiabili con quelle del Fucile Mitragliatore (sebbene non lo siano i caricatori). I caricatori già pieni possono essere inseriti in una pistola scarica ma richiedono un'azione completa di ricarica.
 
-**Body Pistol**: A small, non-metallic semiautomatic pistol designed to
-evade detection by most weapon detectors. One cartridge is fired for
-each pull of the trigger. Pre-loaded magazines may be inserted into the
-pistol when it is empty, requiring a reload action to do so. Body pistol
-ammunition is not interchangeable with the ammunition for any other
-types of guns.
+**Pistola Personale**: Una piccola pistola semiautomatica non metallica progettata per evitare la rilevazione dalla maggior parte dei dispositivi di rilevazione armi. Una singola cartuccia è sparata a ogni pressione del grilletto.  I caricatori precaricati possono essere inseriti nella pistola quando è vuota, richiedendo un'azione completa di ricarica. Le munizioni delle pistole personali non sono intercambiabili con le munizioni di altri tipi di pistola.
 
-**Bow**: A stout but supple piece of wood carved to a specific shape and
-strung with a piece of cord, string or gut to increase tension. The
-string is pulled back and released to hurl an arrow long distances with
-surprising force. At higher technology levels, bows are modified with
-additional strings and pulley systems to add accuracy and power.
+**Arco**: Un pezzo di legno robusto ma elastico lavorato in una specifica forma e incordato con una pezzo di corda, stringa o budello per aumentare la tensione. La corda è tirata indietro e rilasciato per scagliare una freccia a lunghe distanze con una forza sorprendente. A livelli tecnologici più alti, gli archi sono modificati con un sistema di corde e pulegge aggiuntive per aumentare l'accuratezza e il la potenza.
 
-**Carbine**: A short type of rifle firing a small caliber round. A
-magazine containing ten rounds is inserted into the underside of the
-carbine ahead of the trigger guard or behind the handgrip (this
-configuration is referred to as “Bullpup”, and in some localities
-carbines may be referred to as Bullpups), and one round is fired with
-each pull of the trigger. Replacement of an empty magazine takes a
-reload action. Carbine ammunition is not interchangeable with any other
-type of ammunition. In essence, a carbine is a short rifle, firing a
-cartridge of smaller, lighter caliber. A sling usually allows the
-carbine to be carried on the shoulder, out of the way.
+**Carabina**: Un fucile corto che spara colpi di piccolo calibro. Un caricatore contiene dieci colpi ed è inserito sul lato inferiore della carabina davanti alla guardia del grilletto o dietro l'impugnatura (questa configurazione è definita come "Bullpup" e in alcuni luoghi le carabine possono essere chiamate così). Un singolo colpo è sparato con ogni pressione del grilletto. La sostituzione di caricatori vuoti richiedere un'azione di ricarica. Le munizioni della carabina non sono scambiabili con quelle di altri tipi d'arma. In sostanza, una carabina è un fucile corto, che spara leggere cartucce di calibro più piccolo. Una tracolla di solito consente di traportare la carabina sulla spalla, senza ingombrare.
+
+---
+
+---
+
+---
+
+
 
 **Crossbow**: A horizontal bow set into a mechanical firing mechanism
 and stronger-than-normal pull, crossbows are very powerful weapons that
