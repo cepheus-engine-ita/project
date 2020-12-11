@@ -300,9 +300,9 @@ Un personaggio può tentare di lottare con un’altra persona o di afferrarla in
 
 Proiettare lontano un avversario pone sempre termine alla presa. Con qualsiasi altra opzione, il vincitore può scegliere di porre termine alla presa o continuarla come preferisce. Un personaggio in una presa non può muoversi o fare qualsiasi altra cosa se non effettuare prove di Mischia contrapposte. Ogni volta che viene fatta una prova contrapposta, il vincitore può scegliere un’opzione dalla lista precedente.
 
-### Raffica da Panico
+### Raffica Incontrollata
 
-Per usare la Raffica da Panico, un personaggio deve usare qualche forma di lanciaproiettili a canna corta. La Raffica da Panico usa tutti i colpi rimanenti nell'arma, e gli attacchi sono risolti come se l'arma fosse usata per sparare una Raffica, usando quelle regole per il calcolo del danno (ma non per l'accuratezza). Si applica un MD-2 di penalità al colpo.
+Per usare la Raffica Incontrollata, un personaggio deve usare una forma di lanciaproiettili a canna corta. La Raffica Incontrollata usa tutti i colpi rimanenti nell'arma, e gli attacchi sono risolti come se l'arma fosse usata per sparare una Raffica, usando quelle regole per il calcolo del danno (ma non per l'accuratezza). Si applica un MD-2 di penalità al colpo.
 
 ### Frammentazione da Doppietta
 
