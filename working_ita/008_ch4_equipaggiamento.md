@@ -904,7 +904,9 @@ La tabella Armi a Distanza Comuni elenca le armi a distanza comunemente disponib
 
 **LL**: Il Livello di Legge in cui l'arma diventa legale per la prima volta.
 
-La tabella Munizioni Comuni descrive il costo delle munizioni e dei power pack per certi tipi di armi a distanza. Ogni colonna è descritta come di seguito:
+
+
+La tabella Munizioni Comuni descrive il costo delle munizioni e dei power pack per certi tipi di armi a distanza. Ogni colonna è descritta di seguito:
 
 **Costo**: Il costo di un caricatore di munizioni standard o del power pack per un'arma.
 
@@ -918,26 +920,26 @@ La tabella Munizioni Comuni descrive il costo delle munizioni e dei power pack p
 
 | Arma                                   | LT  | Costo  | Peso  | CdT    | Gittata                   | Danno | Tipo | Rinculo | LL  |
 | -------------------------------------- | --- | ------ | ----- | ------ | ------------------------- | ----- | ---- | ------- | --- |
-| Arco                                   | 1   | Cr60   | 1kg   | 1      | Distanza (arma d'assalto) | 2D6   | P    | Sì      | 6   |
-| Balestra                               | 2   | Cr75   | 3kg   | 1      | Distanza (fucile)         | 2D6   | P    | Sì      | 6   |
-| Revolver                               | 4   | Cr150  | 900g  | 1      | Distanza (pistola)        | 2D6   | P    | Sì      | 6   |
-| Pistola Automatica                     | 5   | Cr200  | 750g  | 1      | Distanza (pistola)        | 2D6   | P    | Sì      | 6   |
-| Carabina                               | 5   | Cr200  | 3kg   | 1      | Distanza (doppietta)      | 2D6   | P    | Sì      | 6   |
-| Fucile                                 | 5   | Cr200  | 4kg   | 1      | Distanza (fucile)         | 3D6   | P    | Sì      | 6   |
-| Doppietta                              | 5   | Cr150  | 3750g | 1      | Distanza (doppietta)      | 4D6   | P    | Sì      | 7   |
-| Fucile Mitragliatore                   | 5   | Cr500  | 2500g | 0/4    | Distanza (arma d'assalto) | 2D6   | P    | Sì      | 4   |
-| Fucile Automatico                      | 6   | Cr1000 | 5kg   | 1/4    | Distanza (fucile)         | 3D6   | P    | Sì      | 6   |
-| Fucile d'Assalto                       | 7   | Cr300  | 3kg   | 1/4    | Distanza (arma d'assalto) | 3D6   | P    | Sì      | 4   |
-| Pistola Personale                      | 7   | Cr500  | 250g  | 1      | Distanza (pistola)        | 2D6   | P    | Sì      | 1   |
-| Carabina Laser                         | 8   | Cr2500 | 5kg   | 1      | Distanza (pistola)        | 4D6   | E    | No      | 2   |
-| Pistola Corta                          | 8   | Cr150  | 250g  | 1      | Distanza (pistola)        | 2D6   | P    | No      | 6   |
-| Fucile Acceleratore                    | 9   | Cr900  | 2500g | 1/3    | Distanza (fucile)         | 3D6   | P    | No      | 6   |
-| Fucile Laser                           | 9   | Cr3500 | 6kg   | 1      | Distanza (fucile)         | 5D6   | E    | No      | 2   |
-| Fucile Avanzato da Combattimento (FAC) | 10  | Cr1000 | 3500g | 1/4    | Distanza (fucile)         | 3D6   | P    | Sì      | 6   |
-| Fucile Gauss                           | 12  | Cr1500 | 3500g | 1/4/10 | Distanza (fucile)         | 4D6   | P    | No      | 6   |
-| Pistola Laser                          | 12  | Cr1000 | 1200g | 1      | Distanza (pistola)        | 4D6   | E    | No      | 2   |
+| Arco                                   | 1   | Cr60   | 1kg   | 1      | Distante (arma d'assalto) | 2D6   | P    | Sì      | 6   |
+| Balestra                               | 2   | Cr75   | 3kg   | 1      | Distante (fucile)         | 2D6   | P    | Sì      | 6   |
+| Revolver                               | 4   | Cr150  | 900g  | 1      | Distante  (pistola)       | 2D6   | P    | Sì      | 6   |
+| Pistola Automatica                     | 5   | Cr200  | 750g  | 1      | Distante (pistola)        | 2D6   | P    | Sì      | 6   |
+| Carabina                               | 5   | Cr200  | 3kg   | 1      | Distante (doppietta)      | 2D6   | P    | Sì      | 6   |
+| Fucile                                 | 5   | Cr200  | 4kg   | 1      | Distante (fucile)         | 3D6   | P    | Sì      | 6   |
+| Doppietta                              | 5   | Cr150  | 3750g | 1      | Distante (doppietta)      | 4D6   | P    | Sì      | 7   |
+| Fucile Mitragliatore                   | 5   | Cr500  | 2500g | 0/4    | Distante (arma d'assalto) | 2D6   | P    | Sì      | 4   |
+| Fucile Automatico                      | 6   | Cr1000 | 5kg   | 1/4    | Distante (fucile)         | 3D6   | P    | Sì      | 6   |
+| Fucile d'Assalto                       | 7   | Cr300  | 3kg   | 1/4    | Distante (arma d'assalto) | 3D6   | P    | Sì      | 4   |
+| Pistola Personale                      | 7   | Cr500  | 250g  | 1      | Distante (pistola)        | 2D6   | P    | Sì      | 1   |
+| Carabina Laser                         | 8   | Cr2500 | 5kg   | 1      | Distante (pistola)        | 4D6   | E    | No      | 2   |
+| Pistola Corta                          | 8   | Cr150  | 250g  | 1      | Distante (pistola)        | 2D6   | P    | No      | 6   |
+| Fucile Acceleratore                    | 9   | Cr900  | 2500g | 1/3    | Distante (fucile)         | 3D6   | P    | No      | 6   |
+| Fucile Laser                           | 9   | Cr3500 | 6kg   | 1      | Distante (fucile)         | 5D6   | E    | No      | 2   |
+| Fucile Avanzato da Combattimento (FAC) | 10  | Cr1000 | 3500g | 1/4    | Distante (fucile)         | 3D6   | P    | Sì      | 6   |
+| Fucile Gauss                           | 12  | Cr1500 | 3500g | 1/4/10 | Distante (fucile)         | 4D6   | P    | No      | 6   |
+| Pistola Laser                          | 12  | Cr1000 | 1200g | 1      | Distante (pistola)        | 4D6   | E    | No      | 2   |
 
-#### Tabella: Munizioni Comuni
+#### Tabella: Munizioni Comuni (Armi a Distanza)
 
 | Arma                                   | LT  | Costo | Peso | Colpi |
 | -------------------------------------- | --- | ----- | ---- | ----- |
@@ -1047,158 +1049,145 @@ un com) prima di poter essere usata. Cr 100.
 | Arma Sicura              | 10  | Cr100  | --        |
 | Arma Intelligente        | 11  | Cr1000 | --        |
 
-### Grenades
+### Granate
 
-A grenade is a small explosive device designed to be thrown by hand
-(treat as Ranged (thrown) for Difficulty by range) or launched from a
-grenade launcher (treat as Ranged (shotgun) for Difficulty by range). A
-number of grenades are described in the Common Grenades table. Each
-column is described as follows:
+Una granata è un piccolo dispositivo esplosivo progettato per essere lanciato a mano (considerarlo come Distante(lancio) per la Difficoltà di gittata) o lanciato da un lanciagranate (considerarlo Distante(doppietta) per Difficoltà di gittata). Il numero di granate è descritto nella tabella Granate Comuni. Ciascuna colonna è descritta di seguito:
 
-**Cost**: Price in Credits (Cr) for a case of six grenades.
+**Costo**: Il prezzo in Crediti (Cr) o migliaia di Crediti (KCr).
 
-**TL**: The minimum tech level required to manufacture such an item.
+**LT**: Il Livello Tecnologico minimo in cui l’arma è disponibile.
 
-**Wgt**: Weight per grenade in grams (g) or kilograms (kg).
+**Peso**: Il perso in grammi (g) o chilogrammi (kg).
 
-**Damage**: The damage a weapon inflicts.
+**Danno**: Il danno che l’arma infligge.
 
-**LL**: The Law Level where the weapon first becomes illegal.
+**LL**: Il Livello di Legge in cui l'arma diventa legale per la prima volta.
 
-#### Table: Common Grenades
+#### Tabella: Granate Comuni
 
-| Weapon  | TL  | Cost per Case | Wgt | Damage                       | LL  |
-| ------- | --- | ------------- | --- | ---------------------------- | --- |
-| Frag    | 6   | 180           | 0.5 | 5D6/3D6/1D6; see description | 1   |
-| Smoke   | 6   | 90            | 0.5 | Special; see description     | 1   |
-| Aerosol | 9   | 90            | 0.5 | Special; see description     | 1   |
-| Stun    | 9   | 180           | 0.5 | 3D6 stun; see description    | 1   |
+| Arma                  | LT  | Costo per Custodia | Peso | Danno                           | LL  |
+| --------------------- | --- | ------------------ | ---- | ------------------------------- | --- |
+| Frammentazione (Frag) | 6   | 180                | 0.5  | 5D6/3D6/1D6; vedi descrizione   | 1   |
+| Fumogeno              | 6   | 90                 | 0.5  | Speciale; vedi descrizione      | 1   |
+| Aerosol               | 9   | 90                 | 0.5  | Speciale; vedi descrizione      | 1   |
+| Stordente             | 9   | 180                | 0.5  | 3D6 stordisce; vedi descrizione | 1   |
 
-**Aerosol**: Aerosol grenades create a fine mist six meters in radius
-that diffuses lasers but does not block normal vision. Any laser attack
-made through the mist has its damage reduced by 10. Laser communications
-through the mist are completely blocked. The mist dissipates in 1D6x3
-rounds, although high winds and other extreme weather can sharply reduce
-this time.
+**Aerosol**: Le granate aerosol creano una sottile nebbia del raggio
+di sei metri che diffonde i laser ma non blocca la normale visuale.
+Qualsiasi attacco con i laser effettuato attraverso la nebbia ha il
+danno ridotto di 10. Le comunicazioni laser attraverso la nebbia
+sono completamente bloccate. La nebbia si dissipa in 1d6 x 3
+round, anche se forti venti e altri estremi climatici possono
+ridurre molto questo periodo.
 
-**Frag**: The damage from fragmentation grenades decreases with distance
-from the blast:
+**Frammentazione (Frag)**: Il danno delle granate a frammentazione
+diminuisce con la distanza dall’esplosione:
 
-#### Table: Frag Grenade Damage by Distance
+#### Tabella: Danno delle Granate Frag per Distanza
 
-| Distance | Damage |
-| -------- | ------ |
-| 3 meters | 5D6    |
-| 6 meters | 3D6    |
-| 9 meters | 1D6    |
+| Distanza | Danno |
+| -------- | ----- |
+| 3 metri  | 5D6   |
+| 6 metri  | 3D6   |
+| 9 metri  | 1D6   |
 
-**Smoke**: Smoke grenades create a thick cloud of smoke six meters in
-radius, centered on the location of the grenade. This smoke imposes a –2
-DM on all attacks within or through the cloud (doubled for laser
-weapons). Smoke dissipates in 1D6x3 rounds, although high winds and
-other extreme weather can sharply reduce this time.
+**Fumogeno**: Le granate fumogene creano una spessa nebbia di
+fumo di sei metri di raggio, che ha per centro la granata stessa.
+Questo fumo impone un MD di -2 a tutti gli attacchi dentro o
+attraverso la nube (MD raddoppiato per le armi laser). Il fumo
+si dissipa in 1d6 x 3 round, anche se forti venti e altri estremi
+climatici possono ridurre molto questo periodo.
 
-**Stun**: Stun weapons, such as stun grenades, are non-lethal and do not
-inflict normal damage. A character within six meters of a stun grenade
-detonation must make an Endurance check with a negative DM equal to the
-damage (after armor is subtracted). If this Endurance check is failed
-the character is knocked unconscious. If the Endurance check is
-successful, the character is unaffected by the weapon and the stun
-damage is ignored.
+**Stordente**: Le armi stordenti sono non letali e non infliggono
+danni normali. Un personaggio colpito da un’arma stordente deve
+effettuare una prova di Resistenza con MD negativo pari al danno
+(dopo aver sottratto l’armatura). Se questa prova di Resistenza è
+fallita, il personaggio sviene. Se la prova di Resistenza riesce, il
+personaggio non è colpito dall’arma e il danno da stordimento
+viene ignorato.
 
-### Heavy Weapons
+### Armi Pesanti
 
-Heavy weapons are man-portable and larger weapons that cause extreme
-property damage. Common Heavy Weapons table lists the heavy weapons
-commonly available in a Cepheus Engine campaign. Each column is
-described as follows:
+Le armi pesanti sono armi portabili da una persona e di maggiori dimensioni che causano un danno estremo. La tabella Armi Pesanti Comuni indica i tipi di arma pesanti comunemente disponibili in una campagna Cepheus Engine. Ciascuna colonna è descritta di seguito:
 
-**Cost**: Price in Credits (Cr) or 1000s of Credits (KCr).
+**Costo**: Il prezzo in Crediti (Cr) o migliaia di Crediti (KCr).
 
-**TL**: The minimum tech level required to manufacture such an item.
+**LT**: Il Livello Tecnologico minimo in cui l’arma è disponibile.
 
-**Wgt**: Weight in grams (g) or kilograms (kg).
+**Peso**: Il perso in grammi (g) o chilogrammi (kg).
 
-**RoF**: Rate of Fire. The number of rounds that may be fired during a
-significant action in the format: Single Shot / Auto
+**CdT**: Cadenza di Tiro. Il numero di round in cui si può sparare durante un'azione significativa nel formato: Colpo Singolo / Fuoco Automatico.
 
-**Range**: The range category for this weapon.
+**Gittata**: La categoria di gittata di quest'arma.
 
-**Damage**: The damage a weapon inflicts.
+**Danno**: Il danno che l’arma infligge.
 
-**Recoil**: Lists if the weapon has recoil when fired.
+**Rinculo**: Indica se l'arma ha rinculo quando spara.
 
-**LL**: The Law Level where the weapon first becomes illegal.
+**LL**: Il Livello di Legge in cui l'arma diventa legale per la prima volta.
 
-The Common Heavy Weapons Ammunition table describes the cost of
-ammunitions and power packs for certain heavy weapons. Each column is
-described as follows:
 
-**Cost**: The cost of a full magazine of standard ammunition or power
-pack for a weapon
 
-**TL**: The minimum tech level required to manufacture such an item.
+La tabella Munizioni Comuni descrive il costo delle munizioni e dei power pack per certi tipi di armi pesanti. Ogni colonna è descritta di seguito:
 
-**Wgt**: The weight of a full magazine or power pack for a weapon.
+**Costo**: Il costo di un caricatore di munizioni standard o del power pack per un'arma.
 
-**Rounds**: The number of rounds the weapon may fire before it must be
-reloaded or recharged.
+**LT**: Il livello tecnologico minimo richiesto per fabbricare l'oggetto.
 
-#### Table: Common Heavy Weapons
+**Peso**: Il peso di un caricatore pieno o di un power pack per l'arma.
 
-| Weapon               | TL  | Cost    | Wgt | RoF | Range                   | Damage     | Recoil | LL  |
-| -------------------- | --- | ------- | --- | --- | ----------------------- | ---------- | ------ | --- |
-| Grenade Launcher     | 7   | 400     | 6   | 1   | ranged (shotgun)        | By grenade | Yes    | 3   |
-| Rocket Launcher      | 7   | 2,000   | 6   | 1   | ranged (rocket)         | 4D6        | No     | 3   |
-| RAM Grenade Launcher | 8   | 800     | 6   | 1/3 | ranged (assault weapon) | By grenade | Yes    | 3   |
-| PGMP                 | 12  | 20,000  | 10  | 1/4 | ranged (rifle)          | 10D6       | Yes    | 2   |
-| FGMP                 | 14  | 100,000 | 12  | 1/4 | ranged (rifle)          | 16D6       | Yes    | 2   |
+**Colpi**: Il numero di colpi che l'arma può sparare prima di essere ricaricata.
 
-#### Table: Common Heavy Weapon Ammunition
+#### Tabella: Armi Pesanti Comuni
 
-| Weapon               | TL  | Cost   | Wgt | Rounds |
-| -------------------- | --- | ------ | --- | ------ |
-| Grenade Launcher     | 7   | 180    | 0.5 | 6      |
-| Rocket Launcher      | 7   | 300    | 1   | 1      |
-| RAM Grenade Launcher | 8   | 180    | 0.5 | 6      |
-| PGMP                 | 12  | 2,500  | 6   | 40     |
-| FGMP                 | 14  | 65,000 | 9   | 40     |
+| Armi              | LT  | Costo   | Peso | CdT | Gittata                   | Danno      | Rinculo | LL  |
+| ----------------- | --- | ------- | ---- | --- | ------------------------- | ---------- | ------- | --- |
+| Lanciagranate     | 7   | 400     | 6    | 1   | Distante (doppietta)      | By grenade | Sì      | 3   |
+| Lanciarazzi       | 7   | 2,000   | 6    | 1   | Distante (razzo)          | 4D6        | No      | 3   |
+| Lanciagranate RAM | 8   | 800     | 6    | 1/3 | Distante (arma d'assalto) | By grenade | Sì      | 3   |
+| CPP               | 12  | 20,000  | 10   | 1/4 | Distante (fucile)         | 10D6       | Sì      | 2   |
+| CFP               | 14  | 100,000 | 12   | 1/4 | Distante (fucile)         | 16D6       | Sì      | 2   |
 
-**FGMP (Fusion Gun, Man-Portable)**: It includes a gravity suspension
-system to reduce its inertia, making it easier to use than the PGMP
-(minimum Strength 9) and fires what amounts to a directed nuclear
-explosion. Those without radiation protection who are nearby when a FGMP
-is fired will suffer a lethal dose of radiation – each firing of an FGMP
-emits 2D6 x 20 rads, which will affect everyone within the immediate
-vicinity.
+#### Tabella: Munizioni Comuni (Armi Pesanti)
 
-**Grenade Launcher**: Grenade launchers are used to fire grenades over
-long distances. Grenades for a grenade launcher are not interchangeable
-with handheld grenades.
+| Arma              | LT  | Costo  | Peso | Colpi |
+| ----------------- | --- | ------ | ---- | ----- |
+| Lanciagranate     | 7   | 180    | 0.5  | 6     |
+| Lanciarazzi       | 7   | 300    | 1    | 1     |
+| Lanciagranate RAM | 8   | 180    | 0.5  | 6     |
+| CPP               | 12  | 2,500  | 6    | 40    |
+| CFP               | 14  | 65,000 | 9    | 40    |
 
-**PGMP (Plasma Gun, Man-Portable)**: It is so heavy and bulky that it
-can only be used easily by a trooper with a Strength of 12 or more –
-usually attained by wearing battle dress. Every point by which a user’s
-Strength falls short is a –1 DM on any attack rolls made with it.
+**CFP (Cannone a Fusione Portatile)**: Include un sistema di
+sospensione gravitazionale per ridurne l’inerzia, che lo rende
+più facile da usare del CPP (Forza minima 9) e spara quel che in
+sostanza è un’esplosione nucleare diretta. Chi non è protetto dalle
+radiazioni vicino a un CFP che spara subisce una dose letale di
+radiazioni – ogni tiro di un CFP emette 2d6 x 20 rad, che colpiscono
+chiunque nelle immediate vicinanze.
 
-**RAM Grenade Launcher**: Rocket Assisted Multi-purpose grenade
-launchers have a longer range and are capable of firing up to three
-grenades with a single attack. This uses the rules for firing on full
-auto; unlike other automatic weapons, a RAM grenade launcher cannot fire
-in burst mode. It takes two minor actions to reload a RAM grenade
-launcher. Grenades for a RAM grenade launcher are not interchangeable
-with handheld grenades.
+**Lanciagranate**: I lanciagranate sono usati per proiettare le granate
+a lunga distanza. Le granate per un lanciagranate non sono intercambiabili con granate a mano.
 
-**Rocket Launcher**: To counteract the recoil of the weapon, a rocket
-launcher channels exhaust backwards in an explosive back blast. Anyone
-up to 1.5 meters behind a rocket launcher when it fires takes 3D6 damage
-from the burning gasses. Vehicle-mounted rocket launchers lose this
-side-effect as a vehicle is a more stable firing platform than a person.
-It takes three minor actions to reload a rocket launcher.
+**CPP (Cannone a Plasma Portatile)**: È così pesante e ingombrante che può essere
+usata comodamente solo da un soldato con forza 12 o più – di
+solito ottenuta indossando una tenuta da battaglia. Ogni punto
+di Forza in meno che ha l’utilizzatore è un MD di -1 a qualsiasi
+tiro d’attacco fatto con il CPP. 
 
-The rockets presented are high-explosive models. Do not add the Effect
-of the attack roll to their damage but apply that damage to everything
-within six meters of the impact point. A rocket that misses has a 50%
-chance (4+ on 1D6) of detonating upon impact with the ground (6 – Effect
-meters away in a random direction). Otherwise it will miss completely
-and leave the battlefield without striking anything or detonating.
+**Lanciagranate RAM**: I lanciagranate Razzo Assistiti Multiuso hanno
+una gittata più lunga e sono in grado di sparare fino a tre granate
+con un singolo attacco. Questo utilizza le regole per sparare a raffica
+piena; a differenza delle altre armi con punteggio
+Auto, un lanciagranate RAM non può sparare raffiche brevi. Ci
+vogliono due azioni minori per ricaricare un lanciagranate RAM. Le granate del lanciagranate RAM non sono intercambiabili con granate a mano.
+
+**Lanciarazzi**: Il CFP dei poveri. Per contrastare il rinculo dell’arma,
+i tubi di un lanciarazzi proiettano lo sfogo indietro in un getto
+esplosivo. Chiunque si trovi entro 1,5 metri dietro un lanciarazzi
+quando questo spara subisce 3d6 danni dai gas bollenti. I lanciarazzi
+montati su veicoli perdono questo effetto collaterale, poiché un
+veicolo è una piattaforma di fuoco più stabile. Ci vogliono tre azioni
+minori per ricaricare un lanciarazzi.
+
+I razzi presentati sono modelli altamente esplosivi. Non aggiungere l'Effetto del tiro d'attacco al loro danno ma applica quel danno a tutto ciò che è nel raggio di sei metri dal punto d'impatto. Un razzo che manca il bersaglio ha il 50% di probabilità (4+ su 1D6) di detonare all'impatto con il suolo (lontano (6 - Effetto) metri in una direzione casuale). Altrimenti mancherà completamente l'obiettivo e lasciare il campo di battaglia senza colpire nulla o senza detonare.
