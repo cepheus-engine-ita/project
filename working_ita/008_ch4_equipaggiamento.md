@@ -996,75 +996,56 @@ La tabella Munizioni Comuni descrive il costo delle munizioni e dei power pack p
 
 **Fucile Mitragliatore**: Un'arma automatica progettata per sparare le munizioni delle pistole. I caricatori portano 30 cartucce e sono inseriti nell'arma davanti alla guardia o nell'impugnatura della pistola, secondo il design. L'arma spara una raffica di quattro colpi per ciascuna pressione del grilletto. Sostituire un caricatore vuoto richiede un round di combattimento. Le munizioni del fucile mitragliatore (ma non i caricatori) sono interscambiabili con le munizioni della pistola automatica. La maggior parte dei fucili mitragliatori sono equipaggiati con una tracolla per il trasporto. Alcuni sono piccoli a sufficienza per essere trasportati sulla spalla o sul fianco.
 
+#### Opzioni
 
+Le seguenti opzioni sono di solito disponibile per certi tipi di armi a distanza.
 
-#### Ranged Weapon Options
+**Arma Intelligente (LT 11)**: Questo aggiunge Computer/0 a qualsiasi
+arma. Cr 1.000. Il miglioramento di LT 13 aggiunge Computer/1 a
+qualsiasi arma. Cr 5.000.
 
-The following options are generally available for certain ranged
-weapons.
+**Lanciagranate(LT 8)****: Un lanciagranate RAM sotto la canna può
+essere aggiunto a qualsiasi fucile per 1.000 Cr. Questo lanciagranate
+ha un caricatore di una granata, non può sparare in automatico e ci
+vogliono quattro azioni minori per ricaricarlo.
+**Mirino Laser (LT 8)**: I mirini ottici e laser integrati danno un MD di
++1 extra come bonus a qualsiasi attacco mirato. Cr 100. a LT 10, i laser a raggi x e la tecnologia di visualizzazione migliorata rimuovono il “puntino rosso” rivelatore
+di un laser a luce visibile. Cr 200.
 
-**Folding Stocks**: Carbines, rifles, and shotguns can be equipped with
-folding stocks which make it possible to reduce the overall length of
-the weapon by 300mm.
+**Silenziatore (LT 8)**: Un silenziatore può essere aggiunto a qualsiasi
+arma a proiettili con Auto 4 o meno, per mascherare il suono
+prodotto dallo sparo (MD -4 per individuare il rumore). Cr 250.
 
-**Grenade Launcher**: An underslung RAM grenade launcher can be added to
-any rifle. This grenade launcher has a magazine of one grenade, cannot
-fire on automatic and takes four minor actions to reload.
+**Girostabilizzatore (LT 8)**: Gli stabilizzatori possono essere aggiunti
+a qualsiasi arma con un rinculo, riducendo il rinculo di un punto al
+costo di 300 crediti.
+**Arma Sicura (LT 10)**: Un’arma sicura richiede un qualche tipo
+di identificazione (analisi del DNA o della retina di chi lo usa,
+inserimento di password, trasmissione di un codice sbloccante da
+un com) prima di poter essere usata. Cr 100.
 
-**Gyrostabilizer**: Stabilizers can be added to any weapon with recoil,
-reducing the recoil penalty by one point (to DM-1).
+**Calcio Pieghevole**: Le carabine, i fucili e le doppiette possono essere equipaggiate con calci pieghevoli che rendono possibile ridurre la lunghezza complessiva di un'arma di 300mm.
 
-**Intelligent Weapon**: This adds a Model/ 0 computer to any weapon. The
-TL 13 upgrade adds Model /1 to any weapon, for Cr5,000.
+**Mirino Telescopico Laser**: Mirini elettronici che combinano la capacità dei mirini elettronici e telescopici. Sono comunque sempre piuttosto fragili.
 
-**Laser Sight**: Integrated optics and laser sights give an extra +1 DM
-bonus to any attack that has been aimed. At TL 10, x-ray lasers and
-improved display technology removes the tell-tale ‘red dot’ of a
-vislight laser. Cr200.
+**Calcio Da Spalla**: È possibile produrre un calcio da spalla da attaccare temporaneamente a una pistola o un revolver, che li imposta come una carabina e che aumenta l'accuratezza per gittate più lunghe. Quando si para con una pistola o un revolver equipaggiati con un calcio simile, considera l'arma come di tipo Distante (doppietta). La complessiva lunghezza della pistola aumenta con la lunghezza del calcio e la pistola non può essere foderabile. Attaccare il calcio (o staccarlo) richiede cinque round di combattimento.
 
-**Laser Telescopic Sights**: Electronic sights combining the
-capabilities of both electronic and telescopic sights. They are still
-rather fragile.
+**Mirino Telescopico**: Un mirino telescopico d'alta qualità attaccato alle armi per aumentarne l'accuratezza, specialmente a gittate lunghe. Un'arma equipaggiata con un mirino simile guadagna un bonus MD+1 extra a ogni attacco per cui si è mirato. I mirini telescopici sono fragili, comunque, e possono essere scossi fuori dall'allineamento su una prova 8+ da qualsiasi azione violenta (come non essere tenuti ben saldi su un veicolo in movimento, una vicina esplosione o lasciandolo cadere). Quando il mirino è fuori allineamento, chi spara mancherà sempre il colpo.
 
-**Secure Weapon**: A secure weapon requires authentication in some
-fashion (scanning the user’s DNA or iris patterns, entering a password,
-transmission of an unlocking code from a comm) before it can be fired.
+#### Tabella: Opzioni
 
-**Shoulder Stocks**: It is possible to produce a shoulder stock which
-may be attached temporarily to a pistol or revolver, resulting in a
-crude carbine arrangement and some greater accuracy at longer ranges.
-When firing a pistol or revolver equipped with such a stock, treat the
-weapon as ranged (shotgun). The overall length of the pistol is
-increased by the length of the stock, and the pistol cannot be
-holstered. Attaching the stock (or detaching it) requires five combat
-rounds.
-
-**Silencer**: A silencer can be added to any slug thrower with ROF 4 or
-less, masking the sound produced by firing. (–4 DM to detect.)
-
-**Telescopic Sights**: High-quality telescopic sights for attachment to
-weapons, for increasing their accuracy, especially at longer ranges. A
-weapon equipped with such sights gains an extra +1 DM bonus to any
-attack that has been aimed. Telescopic sights are delicate, however, and
-may be jarred out of alignment by any violent action (such as being left
-untended in a moving truck, a close explosion, or being dropped) on an
-8+ on 2D6. When the sights go out of adjustment, the firer will always
-miss.
-
-#### Table: Ranged Weapon Accessories
-
-| Accessory               | TL  | Cost   | Wgt (kg) |
-| ----------------------- | --- | ------ | -------- |
-| Shoulder Stocks         | 5   | Cr75   | 1        |
-| Folding Stocks          | 6   | Cr100  | 0.5      |
-| Telescopic Sights       | 6   | Cr200  | 0.8      |
-| Grenade Launcher        | 8   | Cr1000 | --       |
-| Laser Sights            | 8   | Cr100  | 1.5      |
-| Silencer                | 8   | Cr250  | --       |
-| Gyrostabilizer          | 9   | Cr300  | --       |
-| Laser Telescopic Sights | 9   | Cr3000 | 1.8      |
-| Secure Weapon           | 10  | Cr100  | --       |
-| Intelligent Weapon      | 11  | Cr1000 | --       |
+| Accessorio               | LT  | Costo  | Peso (kg) |
+| ------------------------ | --- | ------ | --------- |
+| Calcio Da Spalla         | 5   | Cr75   | 1         |
+| Calcio Pieghevole        | 6   | Cr100  | 0.5       |
+| Mirino Telescopico       | 6   | Cr200  | 0.8       |
+| Lanciagranate            | 8   | Cr1000 | --        |
+| Mirino Laser             | 8   | Cr100  | 1.5       |
+| Silenziatore             | 8   | Cr250  | --        |
+| Girostabilizzatore       | 9   | Cr300  | --        |
+| Mirino Laser Telescopico | 9   | Cr3000 | 1.8       |
+| Arma Sicura              | 10  | Cr100  | --        |
+| Arma Intelligente        | 11  | Cr1000 | --        |
 
 ### Grenades
 
