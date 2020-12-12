@@ -976,88 +976,27 @@ La tabella Munizioni Comuni descrive il costo delle munizioni e dei power pack p
 
 **Carabina**: Un fucile corto che spara colpi di piccolo calibro. Un caricatore contiene dieci colpi ed è inserito sul lato inferiore della carabina davanti alla guardia del grilletto o dietro l'impugnatura (questa configurazione è definita come "Bullpup" e in alcuni luoghi le carabine possono essere chiamate così). Un singolo colpo è sparato con ogni pressione del grilletto. La sostituzione di caricatori vuoti richiedere un'azione di ricarica. Le munizioni della carabina non sono scambiabili con quelle di altri tipi d'arma. In sostanza, una carabina è un fucile corto, che spara leggere cartucce di calibro più piccolo. Una tracolla di solito consente di traportare la carabina sulla spalla, senza ingombrare.
 
----
+**Balestra**: Un arco orizzontale incastonato in un meccanismo di tiro e dotata di una spinta più forte del normale, le balestre sono armi potenti che richiedono un tempo particolarmente lungo per essere ricaricate. A livelli tecnologici più alti, le balestre sono costruite con sistemi di manovelle e pulegge che rendono le armi più facili da ricaricare, persino auto caricanti a LT9. Ricaricare una balestra LT2 richiede 6 azioni minori, a LT4 il tempo è ridotto a 3 azioni minori.
 
----
+**Fucile Gauss**: Lo sviluppo definitivo di un lanciaproiettili, il fucile gauss genera un campo elettromagnetico sull'intera lunghezza della canna che accelera i proiettili ad alte velocità. Il proiettili in sé consiste in un nucleo di denso materiale perforante circondato da una copertura di metallo più morbido e termina in un punto cavo, donando al colpo un eccellente potere frenante e una buona penetrazione delle armature.
 
----
+**Carabina Laser**: Una versione più leggera di un fucile laser, che spara scariche ad alta energia usando la corrente proveniente da uno zaino-batteria o un power pack. La carabina laser spara raggi di energia di 2mm, indirizzati da mirini ottici integrati. Il power pack è capace di produrre 50 colpi prima di richiedere la ricarica. La ricarica richiede almeno otto ore connettendo una fonte ad alta energia. La carabina laser è connessa al power pack da un cavo robusto.
+
+**Pistola Laser**: Una pistola equivalente a una carabina laser, quindi ancora dipendente da un power pack esterno.
+
+**Fucile Laser**: L'arma ad alta energia standard, che spara scariche di energia nello stesso modo di una carabina laser. Più pesante, il fucile laser è anche capace di sostenere azioni più lunghe ed è in un certo senso più robusto. Il power pack può fornire 100 colpi prima della ricarica. Come per la carabina laser, il fucile laser è connesso al power pack da un cavo robusto. I power pack, comunque, non sono interscambiabili tra le due armi.
+
+**Revolver**: Una pistola primitiva, il revolver spara proiettili da 9mm con caratteristiche simile a quella usate dalle pistole automatiche ma non scambiabili con essi. Non è usato alcun caricatore: solo sei cartucce sono inserite individualmente nel revolver. La ricarica richiede due round di combattimento, oppure un round se la persona rinuncia al beneficio evasivo.
+
+**Fucile**: L'arma militare standard, che spara proiettili da 7mm pesanti 10g a una velocità approssimativa di 900 metri per secondo. Più lungo e pesante di una carabina, ma è molto più efficace. L'equipaggiamento standard prevede la predisposizione per attaccare una baionetta, un mirino telescopico e una tracolla. Un caricatore da venti colpi è attaccato davanti alla guardia e un solo colpo è sparato per ciascuna pressione del grilletto. La sostituzione di un caricatore vuoto richiede un'azione di ricarica. Le munizioni del fucile possono essere usate anche per i fucili automatici; i caricatori del fucile e del fucile automatico sono interscambiabili e pesano lo stesso.
+
+**Doppietta**: L'arma di base per ottenere il massimo effetto shock senza preoccuparsi dell'accuratezza. La doppietta ha una canna di 18mm e spara bozzoli contenenti sia sei proiettili da 7mm che 130 pallini da 3mm. In ogni caso, il proiettile pesa un totale di 30 grammi. La velocità dei proiettili è di circa 350 metri al secondo. Un caricatore cilindrico contiene 10 bozzoli ed è inserito sotto alla canna e parallelo ad essa; le cartucce sono quindi alimentate automaticamente nella doppietta per sparare. La ricarica consiste nel rimpiazzare il caricatore cilindrico e richiede due round di combattimento. Un solo colpo è sparato per ciascuna pressione del grilletto. I caricatori misurano approssimativamente 350mm di lunghezza per 20mm di diametro e sono fastidiosi da portare. La doppietta è equipaggiata con una tracolla per il trasporto.
+
+**Pistola Piccola**: Un revolver a bassa velocità progettato per l'uso a bordo delle navi e in ambienti a gravità zero.
+
+**Fucile Mitragliatore**: Un'arma automatica progettata per sparare le munizioni delle pistole. I caricatori portano 30 cartucce e sono inseriti nell'arma davanti alla guardia o nell'impugnatura della pistola, secondo il design. L'arma spara una raffica di quattro colpi per ciascuna pressione del grilletto. Sostituire un caricatore vuoto richiede un round di combattimento. Le munizioni del fucile mitragliatore (ma non i caricatori) sono interscambiabili con le munizioni della pistola automatica. La maggior parte dei fucili mitragliatori sono equipaggiati con una tracolla per il trasporto. Alcuni sono piccoli a sufficienza per essere trasportati sulla spalla o sul fianco.
 
 
-
-**Crossbow**: A horizontal bow set into a mechanical firing mechanism
-and stronger-than-normal pull, crossbows are very powerful weapons that
-are very time consuming to reload. At higher technology levels,
-crossbows are built with crank and pulley systems that make the weapons
-easier to reload, even self-loading at TL9. Reloading a TL2 crossbow
-takes 6 minor actions, at TL4 this is reduced to 3 minor actions.
-
-**Gauss Rifle**: The ultimate development of the slug thrower, the gauss
-rifle generates an electromagnetic field along the length of the barrel
-which accelerates a bullet to high velocities. The round itself consists
-of a dense armor piercing core surrounded by a softer metal covering,
-ending in a hollow point, giving the round excellent stopping power and
-good armor penetration.
-
-**Laser Carbine**: A lightweight version of the laser rifle, firing high
-energy bolts using current from a backpack battery/power pack. The laser
-carbine fires a 2mm beam of energy, aimed by integrated optic sights.
-The power pack is capable of producing 50 shots before it requires
-recharging. Recharging requires at least eight hours connected to a
-high-energy source. The laser carbine is connected to the power pack by
-a heavy-duty cable.
-
-**Laser Pistol**: A pistol equivalent of the laser carbine, though still
-dependent on an external power pack.
-
-**Laser Rifle**: The standard high energy weapon, firing energy bolts in
-the same manner as the laser carbine. Heavier, the laser rifle is also
-capable of longer sustained action, and is somewhat sturdier. The power
-pack can provide 100 shots before recharging. As in the laser carbine,
-the laser rifle is connected to the power pack by a heavy-duty cable.
-Power packs are not interchangeable between the two weapons, however.
-
-**Revolver**: An early handgun, the revolver fires 9mm bullets with
-characteristics similar to those used by the automatic pistol but not
-interchangeable with them. No magazine is used: six cartridges are
-inserted into the revolver individually. Reloading takes two combat
-rounds, or one combat round if the individual foregoes the benefit of
-evasion.
-
-**Rifle**: The standard military arm, firing a 7mm, 10 gram bullet at a
-velocity of approximately 900 meters per second. Longer and heavier than
-a carbine, it is also more effective. Standard equipment includes
-provisions for attaching a bayonet and telescopic sights, and a shoulder
-sling. A twenty-round magazine is attached to the front of the trigger
-guard, and one round is fired with each pull of the trigger. Replacement
-of the empty magazine requires a reload action. Rifle ammunition may
-also be used in automatic rifles; rifle and auto rifle magazines are
-interchangeable, and weigh the same.
-
-**Shotgun**: The basic weapon for maximum shock effect without regard to
-accuracy. The shotgun has an 18mm diameter barrel and fires shells
-containing either six 7mm bullets, or one hundred and thirty 3mm
-pellets. In each case, the projectiles weigh a total of 30 grams.
-Velocity for the projectiles is about 350 meters per second. A
-cylindrical magazine containing 10 shells is inserted under the barrel
-and parallel to it; cartridges are then fed automatically into the
-shotgun for firing. Reloading consists of replacing the cylindrical
-magazine and takes two combat rounds. One shot is fired for each pull of
-the trigger. Magazines measure approximately 350mm long by 20mm in
-diameter and are quite clumsy to carry. Shotguns are equipped with a
-sling for carrying.
-
-**Snub Pistol**: A low velocity revolver designed for use shipboard and
-in zero-g environments.
-
-**Submachinegun (SMG)**: A small automatic weapon designed to fire
-pistol ammunition. Magazines holding 30 cartridges are inserted into the
-weapon forward of the trigger guard or in the pistol grip, depending on
-the design. The gun fires a burst of four rounds per pull of the
-trigger. Replacement of an empty magazine requires one combat round.
-Submachinegun ammunition (but not magazines) is interchangeable with
-autopistol ammunition. Most submachineguns are equipped with slings for
-ease of carrying. Some are small enough to be carried in a shoulder or
-hip holster.
 
 #### Ranged Weapon Options
 
