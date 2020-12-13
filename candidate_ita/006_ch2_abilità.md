@@ -4,11 +4,11 @@ I personaggi in un gioco del Cepheus Engine sono coinvolti in una serie di attiv
 
 ## Prove di Abilità
 
-Le Prove di Abilità usano il sistema di risoluzione fondamentale per il Cepheus Engine per risolvere le azioni. Ogni volta che il tuo personaggio tenti qualunque azione con una possibilità di fallire, tira 2D6, aggiungi i livelli dell'abilità, il modificatore di caratteristica adeguato e l'MD di Difficoltà. Se il risultato è pari a 8 o più, l'azione ha successo. Se il risultato è inferiore a 8, l'azione fallisce. Le basi del sistema di risoluzione dei compiti può essere trovato nell'**Introduzione**, al paragrafo **Tiri di dado**.
+Le Prove di Abilità usano il sistema di risoluzione fondamentale del Cepheus Engine per risolvere le azioni. Ogni volta che il tuo personaggio tenta qualunque azione con una possibilità di fallire, tira 2D6, aggiungi i livelli dell'abilità, il modificatore di caratteristica adeguato e l'MD di Difficoltà. Se il risultato è pari a 8 o più, l'azione ha successo. Se il risultato è inferiore a 8, l'azione fallisce. Le basi del sistema di risoluzione dei compiti può essere trovato nell'**Introduzione**, al paragrafo **Tiri di dado**.
 
 ### Formato di Descrizione del Compito
 
-Le descrizioni dei compiti possono essere formalmente scritte in uno specifico formato, come segue.
+Le descrizioni dei compiti possono essere formalmente scritte in uno specifico formato, come segue:
 
 *Descrizione del Compito*: Abilità Richiesta, Caratteristica, Incremento di Tempo, Difficoltà.
 
@@ -22,7 +22,7 @@ Le descrizioni dei compiti possono essere formalmente scritte in uno specifico f
 
 #### Descrizioni informali
 
-Le Prova di Abilità sono anche essere scritte informalmente con la Difficoltà seguita dall'Abilità Richiesta in tutto il testo dell'SRD. Per esempio, riparare il danno di un'astronave in mezzo a un combattimento può essere un compito di Ingegneria Molto Difficile (-4). Quando scritti in questo modo, l'Arbitro deve scegliere la caratteristica adeguata a modificare quella prova di abilità, oltre che l'incremento di tempo richiesto, se non è immediatamente deducibile dal contesto.
+Le Prova di Abilità sono anche essere scritte informalmente con la Difficoltà seguita dall'Abilità richiesta in tutto il testo dell'SRD. Per esempio, riparare il danno di un'astronave in mezzo a un combattimento può essere un compito di Ingegneria Molto Difficile (-4). Quando scritti in questo modo, l'Arbitro deve scegliere la caratteristica adeguata a modificare quella prova di abilità, oltre che l'incremento di tempo richiesto, se non è immediatamente deducibile dal contesto.
 
 ### Inesperti e Abilità a Livello Zero
 
@@ -52,11 +52,11 @@ Se scegli, prima del tiro, puoi muoverti di una o due righe in su o in giù nell
 
 ### Azioni Multiple
 
-Un personaggio può provare a fare due o più cose contemporaneamente, come sparare con le armi di un'astronave mentre vola, o disarmare una bomba mentre si nasconde da delle guardie. Per ogni cose in più che il personaggio compie, soffre un MD -2 a quella Prova di Abilità.
+Un personaggio può provare a fare due o più cose contemporaneamente, come sparare con le armi di un'astronave mentre vola, o disarmare una bomba mentre si nasconde da delle guardie. Per ogni azione in più che il personaggio compie, soffre un MD-2 in quella Prova di Abilità.
 
 ### Livello di Legge Locale
 
-Alcuni compiti sono influenzati dal Livello di Legge Locale di un mondo, come rappresentato nel Profilo Universale del Mondo. Per i compiti influenzati dalla legge locale, leggi e regolamenti, la difficoltà usuale dei compiti può essere consultata nella Tabella della Difficoltà di Base secondo i Livelli di Legge.
+Alcuni compiti sono influenzati dal Livello di Legge Locale di un mondo, così come rappresentato nel Profilo di Mondo Universale. Per i compiti influenzati dalla legge locale, leggi e regolamenti, la difficoltà usuale dei compiti può essere consultata nella Tabella della Difficoltà di Base secondo i Livelli di Legge.
 
 #### Tabella: Difficoltà di Base secondo i Livelli di Legge
 
@@ -75,7 +75,7 @@ La seguente è una lista delle abilità disponibili usate nelle regole fondament
 #### Tabella: Abilità Disponibili
 
 | Abilità di Base             | Abilità nelle Armi                | Abilità di Trasporto           |
-|-----------------------------|-----------------------------------|--------------------------------|
+| --------------------------- | --------------------------------- | ------------------------------ |
 | Amministrazione             | Armi da Fuoco (Abilità a Cascata) | Aeremobili (Abilità a Cascata) |
 | Animali (Abilità a Cascata) | Fucile a Energia                  | Ala                            |
 | Allevamento                 | Fucile a Proiettili               | Grav                           |
@@ -117,7 +117,7 @@ La seguente è una lista delle abilità disponibili usate nelle regole fondament
 ## Descrizione delle Abilità
 
 Questa sezione descrive ciascuna abilità rinvenibile nel Cepheus Engine,
-inclusi gli usi più comuni. Potresti essere in grado di usare le abilità
+inclusi i loro usi più comuni. Potresti essere in grado di usare le abilità
 anche per compiti non descritti qui. L’Arbitro stabilisce la Difficoltà
 e decide i risultati in tutti i casi.
 
@@ -135,7 +135,7 @@ a muoversi o stallano e cadono dal cielo.
 
 ### Allevamento
 
-Il personaggio può far crescere e crescere raccolti e allevare animali.
+Il personaggio può far crescere raccolti e allevare animali.
 Questo include anche le colture idroponiche e i raccolti clonati per la
 produzione di cibo, a livelli tecnologici sufficientemente alti.
 
@@ -151,7 +151,7 @@ su sulla tabella Difficoltà di Base secondo Livello di Legge), fornirà
 un esito positivo alla situazione.
 
 **Burocrati e Amministratori**: Trattare con amministratori e burocrati
-è sempre un’attività che porta via tempo e un compito fastidioso, che in
+è sempre un’attività che porta via tempo ed è un compito fastidioso, che in
 qualche modo sembra essere frequente nelle avventure di Cepheus Engine.
 Non sono richieste abilità speciali per gestire i burocrati, ma i
 personaggi con l’abilità Amministrazione avranno familiarità con il loro
@@ -182,7 +182,7 @@ deve immediatamente selezionare una delle seguenti: Tiro con l’Arco,
 Pistole a Energia, Fucile a Energia, Doppietta, Pistola a proiettili,
 Fucile a proiettili.
 
-### Armi da Talgio
+### Armi da Taglio
 
 Il personaggio è esperto nell’uso di armi da taglio, come spade e asce,
 nel combattimento corpo a corpo.
@@ -349,7 +349,7 @@ come delinato nella tabella Prova di Corruzione secondo la Violazione.
 #### Tabella: rova di Corruzione secondo la Violazione
 
 | Violazione                        | MD  | Bustarella Minima |
-|-----------------------------------|-----|-------------------|
+| --------------------------------- | --- | ----------------- |
 | Reato o Infrazione Insignificante | +2  | 1D6xCr10          |
 | Reato o Infrazione Minore         | +0  | 1D6xCr50          |
 | Serious Crime or Infraction       | -2  | 1D6xCr100         |
@@ -424,7 +424,7 @@ iniziale. La Casa vince sempre al tiro di un 2 naturale.
 #### Tabella: Gioco d’Azzardo secondo le Probabilità di Vincita
 
 | Probabilità di Vincita | MD  | Ricompensa | Scommessa Massima |
-|------------------------|-----|------------|-------------------|
+| ---------------------- | --- | ---------- | ----------------- |
 | Truccato               | -8  | Varia      | Varia             |
 | Remota                 | -6  | 1:10       | Cr5,000           |
 | Scarsa                 | -4  | 1:8        | Cr1,000           |
@@ -613,13 +613,6 @@ manutenzione di base su, automobili e simili veicoli su gomma.
 Il personaggio è esperto nell’attivare e usare gli schermi a energia
 della nave, come ammortizzatori nucleari o schermi mesonici.
 
-### Science Fisiche
-
-Questa abilità rappresenta la conoscenza pratica e teorica che deriva
-dallo studio scientifico della natura e delle proprietà dell’energia e
-della materia non vivente. Questo copre una vasta gamma di campi
-correlati, comi: chimica, elettronica, geologica e fisica.
-
 ### Scienze (Abilità a Cascata)
 
 Le varie specialità di questa abilità coprono differenti tipi di armi
@@ -635,12 +628,27 @@ dallo studio scientifico di organismi viventi. Questo copre una vasta
 gama di campi, come: biochimica, biologia, botanica, cibernetica,
 genetica, fisiologia, psicologia e psionica.
 
+### Science Fisiche
+
+Questa abilità rappresenta la conoscenza pratica e teorica che deriva
+dallo studio scientifico della natura e delle proprietà dell’energia e
+della materia non vivente. Questo copre una vasta gamma di campi
+correlati, come: chimica, elettronica, geologica e fisica.
+
 ### Scienze Sociali
 
 Questa abilità rappresenta la conoscenza pratica e teorica che deriva
 dallo studio scientifico delle società sofonti e delle relazioni
 sociali. Questo copre una vasta gamma di campi correlati come:
 archeologia, economia, storia, filosofia, psicologia e sofontologia.
+
+### Scienze Spaziali
+
+Questa abilità rappresenta la conoscenza pratica e teorica che deriva
+dallo diverse discipline scientifiche che studiano fenomeni che accadono
+nello spazio interplanetario e interstellare, oltre che i corpi celesti
+che esistono nello spazio. Questo copre una vasta gamma di campi
+correlati come: astronomia, cosmologia, planetologia e xenologia.
 
 ### Sopravvivenza
 
@@ -655,14 +663,6 @@ rischiosi (artico, deserto, etc).
 
 Questa abilità garantisce la capacità di manovrare, ed eseguire
 manutenzione di base su, veicoli che viaggiano sott’acqua.
-
-### Space Sciences
-
-Questa abilità rappresenta la conoscenza pratica e teorica che deriva
-dallo diverse discipline scientifiche che studiano fenomeni che accadono
-nello spazio interplanetario e interstellare, oltre che i corpi celesti
-che esistono nello spazio. Questo copre una vasta gamma di campi
-correlati come: astronomia, cosmologia, planetologia e xenologia.
 
 ### Steward
 

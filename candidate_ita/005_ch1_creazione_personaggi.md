@@ -221,7 +221,7 @@ Un'educazione formale ti fornisce delle competenze di base in varie scienze e di
 
 > Amministrazione-0, Avvocato-0, Animali-0, Baldoria-0, Comunicazioni-0, Computer-0,
 > Elettronica-0, Ingegneria-0, Scienze Biologiche-0, Lingue-0,
-> Meccanica-0, Medico-0, Scienze Fisiche-0, Scienze Sociali-0, Scienze Spaziali-0.
+> Meccanica-0, Medicina-0, Scienze Fisiche-0, Scienze Sociali-0, Scienze Spaziali-0.
 
 ## Carriere
 

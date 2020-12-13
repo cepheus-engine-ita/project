@@ -47,7 +47,7 @@ Ogni talento garantisce accesso a tutti questi poteri – un personaggio con Tel
 
 ### Usare un Talento Psionico
 
-Per attivare un talento, lo psionico deve effettuare una Prova di abilità usando l'appropriato talento (Telepatia, Telecinesi, etc.), aggiungendo l'MD della sua Forza Psionica e qualsiasi altro MD. Inoltre se ha successo deve  spendere il numero indicato di punti di Forza Psionica, altrimenti se fallisce un solo punto. Se questo costo porta sotto lo zero la Forza Psionica, i punti in eccesso sono applicati al punteggio di Resistenza come danno. Un personaggio senza punti di Forza Psionica non può tentare di attivare un potere.
+Per attivare un talento, lo psionico deve effettuare una Prova di abilità usando l'appropriato talento (Telepatia, Telecinesi, etc.), aggiungendo l'MD della sua Forza Psionica e qualsiasi altro MD. Inoltre se ha successo deve spendere il numero indicato di punti di Forza Psionica, altrimenti se fallisce un solo punto. Se questo costo porta sotto lo zero la Forza Psionica, i punti in eccesso sono applicati al punteggio di Resistenza come danno. Un personaggio senza punti di Forza Psionica non può tentare di attivare un potere.
 
 Usare un talento in combattimento è un'azione significativa.
 
@@ -242,7 +242,7 @@ In un universo di Cepheus Engine, dove le abilità psioniche sono possibili, la 
 
 Un personaggio che assume più di una dose Standard o Doppia di Droga-Psi oppure una singola dose Speciale, deve effettuare una Prova di Resistenza, con un MD-1 per ciascuna dose di Droga-Psi assunta nell'ultima settimana (esclusa quella già assunta). Se la prova fallisce il personaggio si ammala con una febbre forte, soffrendo 3D6 danni e riducendo di uno la sua Forza Psionica in modo permanente.
 
-**Scudo Psionico** (TL 12): Ogni armatura incorpora un elmetto o un cappuccio che può essere dotato di uno scudo psionico, che blocca la Telepatia. Diversamente dal potere telepatico dello Scudo, uno scudo tecnologico è invulnerabile agli assalti e blocca i pensieri inviati. Non può essere abbassato senza rimuovere l'elmetto o il cappuccio che  lo contiene. Cr40.000.
+**Scudo Psionico** (TL 12): Ogni armatura incorpora un elmetto o un cappuccio che può essere dotato di uno scudo psionico, che blocca la Telepatia. Diversamente dal potere telepatico dello Scudo, uno scudo tecnologico è invulnerabile agli assalti e blocca i pensieri inviati. Non può essere abbassato senza rimuovere l'elmetto o il cappuccio che lo contiene. Cr40.000.
 
 Anche gli edifici e i veicoli possono essere schermati psionicamente, ma questo è molto più costoso, incrementando il costo del 10%.
 
