@@ -36,7 +36,7 @@ efficienza di un pezzo di equipaggiamento.
 | 12 (C) | Stellare Medio    | Il controllo del tempo rivoluziona la terraformazione e l’agricoltura.                                                                                                                            |
 | 13 (D) | Stellare Medio    | La tenuta da battaglia compare sul campo di battaglia in risposta a nuove armi. Interfacce “ad alta autonomia” permettono ai computer di diventare autoazionati e  autoapprendenti.               |
 | 14 (E) | Stellare Medio    | Le armi a fusione diventano portatili.                                                                                                                                                            |
-| 15 (F) | Stellare Avanzato | I generatori a globi neri indicano una nuova direazione per le tecnologie difensive, mentre lo sviluppo degli anagatici comportano un aumento cospicuo della durata della vita umana.             |
+| 15 (F) | Stellare Avanzato | I generatori a globi neri indicano una nuova direzione per le tecnologie difensive, mentre lo sviluppo degli anagatici comportano un aumento cospicuo della durata della vita umana.              |
 
 Livelli Tecnologici più alti esistono o possono apparire in alcuni
 universi di Cepheus Engine.
@@ -245,7 +245,7 @@ computer, e può essere usato anche senza accesso di rete. Un palmare
 costa il doppio di un computer normale dello stesso LT ma può essere
 tenuto con una mano e operato con l’altra.
 
-### Optioni
+### Opzioni
 
 **Data Display/Recorder** (LT 13): Questo apparecchio, chiamato per
 brevità DD/R, si mette sopra uno o entrambi gli occhi e fornisce un
@@ -1579,13 +1579,13 @@ ricaricata.
 
 #### Tabella: Armi Pesanti Comuni
 
-| Armi              | LT  | Costo   | Peso | CdT | Gittata                   | Danno      | Rinculo | LL  |
-| ----------------- | --- | ------- | ---- | --- | ------------------------- | ---------- | ------- | --- |
-| Lanciagranate     | 7   | 400     | 6    | 1   | Distante (doppietta)      | By grenade | Sì      | 3   |
-| Lanciarazzi       | 7   | 2,000   | 6    | 1   | Distante (razzo)          | 4D6        | No      | 3   |
-| Lanciagranate RAM | 8   | 800     | 6    | 1/3 | Distante (arma d’assalto) | By grenade | Sì      | 3   |
-| CPP               | 12  | 20,000  | 10   | 1/4 | Distante (fucile)         | 10D6       | Sì      | 2   |
-| CFP               | 14  | 100,000 | 12   | 1/4 | Distante (fucile)         | 16D6       | Sì      | 2   |
+| Armi              | LT  | Costo   | Peso | CdT | Gittata                   | Danno       | Rinculo | LL  |
+| ----------------- | --- | ------- | ---- | --- | ------------------------- | ----------- | ------- | --- |
+| Lanciagranate     | 7   | 400     | 6    | 1   | Distante (doppietta)      | Per Granata | Sì      | 3   |
+| Lanciarazzi       | 7   | 2,000   | 6    | 1   | Distante (razzo)          | 4D6         | No      | 3   |
+| Lanciagranate RAM | 8   | 800     | 6    | 1/3 | Distante (arma d’assalto) | Per Granata | Sì      | 3   |
+| CPP               | 12  | 20,000  | 10   | 1/4 | Distante (fucile)         | 10D6        | Sì      | 2   |
+| CFP               | 14  | 100,000 | 12   | 1/4 | Distante (fucile)         | 16D6        | Sì      | 2   |
 
 #### Tabella: Munizioni Comuni (Armi Pesanti)
 
