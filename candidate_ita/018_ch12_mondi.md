@@ -192,8 +192,7 @@ Il valore Idrografico di un mano non dovrebbe mai superare 10 (a), né essere pi
 
 #### Tabella: Idrografia
 
-| Cifra  | Percentuale
-Idrografica | Descrizione                     |
+| Cifra  | Percentuale Idrografica | Descrizione                     |
 | ------ | ----------------------- | ------------------------------- |
 | 0      | 0%–5%                   | Mondo Desertico                 |
 | 1      | 6%–15%                  | Mondo Asciutto                  |
@@ -204,8 +203,7 @@ Idrografica | Descrizione                     |
 | 6      | 56%–65%                 |                                 |
 | 7      | 66%–75%                 | Simile alla Terra               |
 | 8      | 76%–85%                 | Mondo d’acqua                   |
-| 9      | 86%–95%                 | Solo qualche isola e
-arcipelago |
+| 9      | 86%–95%                 | Solo qualche isola e arcipelago |
 | 10 (A) | 96–100%                 | Quasi solo acqua                |
 
 ## Popolazione
