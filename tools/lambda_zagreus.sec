@@ -1,0 +1,44 @@
+Lambda Zagreus Sector 
+ 1-13: Name
+15-18: HexNbr
+20-28: UWP
+   31: Bases
+33-47: Codes & Comments
+   49: Zone
+52-54: PBG
+56-57: Allegiance
+59-74: Stellar Data
+
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8
+
+Negoiu        0102 D95A78A-4   Lt Wa            A  321 Lz F2 V D
+Maeping       0104 X87A000-5   Ba Lt Wa         A  024 Lz G7 VI D D
+Vytis         0105 X591623-5   Lt Ni               701 Lz G7 VI D D
+Bocaprins     0109 X310111-7   Lo                  711 Lz 
+Albert        0201 X8D736A-0   Fl Lo Lt         A  211 Lz G5 V
+Melquiades    0202 E6966BA-5   Ag Lt Ni         A  521 Lz K2 V
+Albmi         0203 C101355-7   Ic Lo Va            111 Lz K7 V
+Dopere        0204 DAC2330-7 P Fl Lo            A  730 Lz F4 V K5 VI
+Hamarik       0206 A263888-7   Ri                  311 Lz K0 V D D
+Erehwemos     0208 X300100-7   Lo Va            A  601 Lz 
+Mulchatna     0209 D000445-7   As Ni  Va           713 Lz 
+Nachtwacht    0301 X100000-7   Ba Va            A  010 Lz K4 V
+Abol          0303 A556A67-8   Hi                  613 Lz K7 V
+Koyopa        0307 D7397BB-7                    A  711 Lz 
+Cuptor        0308 B352997-6   Hi Po               510 Lz 
+Buru          0401 X410000-7   Ba               A  001 Lz F8 V D D
+Isagel        0403 B645633-5 S Ag Lt Ni            211 Lz G9 IV
+Krotoa        0409 X220200-7   De Lo Po         A  101 Lz 
+Viriato       0410 E384533-2   Ag Ga Lt Ni         413 Lz 
+Kereru        0503 X537121-7   Lo                  320 Lz G6 V
+Eburonia      0508 D345566-5   Ag Lt Ni            114 Lz 
+Ggantija      0509 E644766-5   Ag Lt               111 Lz 
+Yvaga         0601 C73A665-7 S Ni Wa               221 Lz A7 V
+Bagan         0604 D777553-5   Ag Lt Ni            731 Lz F0 V D
+Tryzub        0605 B568662-4 S Ag Ga Lt Ni Ri      111 Lz M9 V M6 VI
+Peitruss      0607 D6699DC-0   Hi Lt            A  614 Lz 
+Iztok         0610 B411866-7   Ic Na               114 Lz 
+Ganja         0701 E554442-1   Ga Lt Ni            214 Lz M4 V
+Tassili       0703 C551686-2   Lt Ni Po            212 Lz A3 V
+Babylonia     0803 X638354-7   Lo                  521 Lz 
+Yanyan        0808 E647842-5   Lt                  603 Lz 
