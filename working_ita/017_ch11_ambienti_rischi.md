@@ -30,16 +30,16 @@ Quanto sopra presuppone che il personaggio stia operando con una gravità standa
 
 ## Malattie
 
-Le malattie riducono le caratteristiche di un personaggio, solitamente la resistenza. Il personaggio deve effettuare una prova di Resistenza con l'MD indicato per resistere agli effetti della malattia. Se il personaggio fallisce la prova di Resistenza, subisce i danni indciati e deve effettuare un'altra prova di Resistenza poche ore o giorni dopo, a seconda dell'intervallo della malattia. Una volta superato una prova di Resistenza, il personaggio ha combattuto la malattia.
+Le malattie riducono le caratteristiche di un personaggio, solitamente la resistenza. Il personaggio deve effettuare una prova di Resistenza con l'MD indicato per resistere agli effetti della malattia. Se il personaggio fallisce la prova di Resistenza, subisce i danni indicati e deve effettuare un'altra prova di Resistenza poche ore o giorni dopo, a seconda dell'intervallo della malattia. Una volta superato una prova di Resistenza, il personaggio ha combattuto la malattia.
 
 #### Tabella: Malattie di Esempio
 
-|    Malattia    | MD | Danno |   Intervallo  |
-|:--------------:|:--:|:-----:|:-------------:|
-|    Polmonite   | +0 | 1D6+4 | 1D6 settimane |
-|    Antracite   | –3 | 1D6+2 |   1D6 giorni  |
-|    Influenza   | +1 | 1D6–2 |   1D6 giorni  |
-| Arma Biologica | –6 | 1D6+8 |    1D6 ore    |
+| Malattia       | MD  | Danno | Intervallo    |
+|:--------------:|:---:|:-----:|:-------------:|
+| Polmonite      | +0  | 1D6+4 | 1D6 settimane |
+| Antracite      | –3  | 1D6+2 | 1D6 giorni    |
+| Influenza      | +1  | 1D6–2 | 1D6 giorni    |
+| Arma Biologica | –6  | 1D6+8 | 1D6 ore       |
 
 ## Temperature Estreme
 
@@ -48,7 +48,7 @@ Mondi insolitamente caldi o freddi possono causare danni a meno che i personaggi
 #### Tabella: Temperature Estreme
 
 | Temperatura | Danno     | Esempio                       |
-|-------------|-----------|-------------------------------|
+| ----------- | --------- | ----------------------------- |
 | Sotto -200˚ | 3D6/round | Zero Assoluto, Plutone        |
 | -200˚       | 2D6/round | Azoto Liquido, Nettuno        |
 | -100˚       | 1D6/round | Cerere                        |
@@ -78,34 +78,34 @@ I veleni agiscono allo stesso modo delle malattie, ma generalmente funzionano mo
 #### Tabella: Veleni di Esempio
 
 | Veleno        | MD   | Danno                                    |
-|---------------|------|------------------------------------------|
+| ------------- | ---- | ---------------------------------------- |
 | Arsenico      | –2   | 2D6                                      |
 | Gas Narcotico | –1D6 | Incoscienza se la di Resistenza fallisce |
 | Neurotossina  | –4   | 1D6 Intelligenza                         |
 
 ## Esposizione a Radiazioni
 
-L'esposizione alle radiazioni è misurata in rad. Una volta che un personaggio ha assorbito un certo numero di rad, subirà determinati effetti. Un problema con l'esposizione alle radiazioni è che, mentre i sintomi fisici possono essere trattati e possono guarire, le radiazioni non scompaiono mai. I rad del personaggio devono essere monitorati. Un'ulteriore esposizione si aggiunge a ciò che il personaggio sta giò subendo fino a raggiungere un livello mortale. I rad accumulati possono essere trattati utilizzando farmaci anti-radiazioni. I personaggi esposti a un'arma a radiazioni riceveranno una dose una tantum di radiazioni. Entrare in un'area radioattiva o essere esposti a una perdita o a un brillamento solare causerà l'esposizione ogni round o ora. Ogni volta che un personaggio è esposto alle radiazioni, deve controllare se è affetto da malattie da radiazioni, come indicato nella tabella *Effetti delle radiazioni*. Il personaggio deve effettuare un controllo di Resistenza al MD indicato e, se fallisce, subisce i danni indicati e deve effettuare un'altra prova di Resistenza dopo che è trascorso l'intervallo indicato. Questo ciclo continua finché il personaggio non supera una prova di Resistenza.
+L'esposizione alle radiazioni è misurata in rad. Una volta che un personaggio ha assorbito un certo numero di rad, subirà determinati effetti. Un problema con l'esposizione alle radiazioni è che, mentre i sintomi fisici possono essere trattati e possono guarire, le radiazioni non scompaiono mai. I rad del personaggio devono essere monitorati. Un'ulteriore esposizione si aggiunge a ciò che il personaggio sta già subendo fino a raggiungere un livello mortale. I rad accumulati possono essere trattati utilizzando farmaci anti-radiazioni. I personaggi esposti a un'arma a radiazioni riceveranno una dose una tantum di radiazioni. Entrare in un'area radioattiva o essere esposti a una perdita o a un brillamento solare causerà l'esposizione ogni round o ora. Ogni volta che un personaggio è esposto alle radiazioni, deve controllare se è affetto da malattie da radiazioni, come indicato nella tabella *Effetti delle radiazioni*. Il personaggio deve effettuare un controllo di Resistenza al MD indicato e, se fallisce, subisce i danni indicati e deve effettuare un'altra prova di Resistenza dopo che è trascorso l'intervallo indicato. Questo ciclo continua finché il personaggio non supera una prova di Resistenza.
 
 A qualsiasi livello di radiazione inferiore a Lieve, il personaggio viene considerato come se avesse un punteggio di Resistenza inferiore. Se un personaggio accumula abbastanza rad per passare a un livello di radiazione più alto, il nuovo punteggio di Resistenza entra immediatamente in vigore. D'altra parte, se un personaggio si sposta a un livello di radiazione inferiore, ad esempio con l'uso di farmaci anti-radiazioni, il personaggio guarisce della differenza tra il livello precedente e il livello corrente nel tempo, come se fosse un danno fisico. Se la Resistenza effettiva di un personaggio scende sotto lo zero, il personaggio perde i sensi e non può riprendersi finché il suo livello di radiazioni non scende abbastanza da consentire la guarigione.
 
 #### Tabella: Fonti comuni di esposizione alle radiazioni
 
 | Situazione                           | Istantanea (rad) | Estesa (rad) |
-|--------------------------------------|-------------------|---------------|
-| Area Irradiata, livello basso        | --                | 1D6/ora       |
-| Area Irradiata, livello basso        | --                | 2D6/ora       |
-| Area Irradiata, livello basso        | --                | 6D6/ora       |
-| Area Irradiata, livello basso        | --                | 12D6/ora      |
-| Esposizione attiva, livello basso    | 3D6               | 3D6x10/ora    |
-| Esposizione attiva, livello moderato | 1D6x10            | 1D6x100/ora   |
-| Esposizione attiva, livello alto     | 2D6x10            | 2D6x100/ora   |
-| Esposizione attiva, livello critico  | 4D6x10            | 3D6x100/ora   |
+| ------------------------------------ | ---------------- | ------------ |
+| Area Irradiata, livello basso        | --               | 1D6/ora      |
+| Area Irradiata, livello basso        | --               | 2D6/ora      |
+| Area Irradiata, livello basso        | --               | 6D6/ora      |
+| Area Irradiata, livello basso        | --               | 12D6/ora     |
+| Esposizione attiva, livello basso    | 3D6              | 3D6x10/ora   |
+| Esposizione attiva, livello moderato | 1D6x10           | 1D6x100/ora  |
+| Esposizione attiva, livello alto     | 2D6x10           | 2D6x100/ora  |
+| Esposizione attiva, livello critico  | 4D6x10           | 3D6x100/ora  |
 
 #### Tabella: Effetti delle radiazioni
 
 | Livello di Radiazioni | Rad     | Resistenza Effettiva | MD      | Danno   | Intervallo    |
-|-----------------------|---------|----------------------|---------|---------|---------------|
+| --------------------- | ------- | -------------------- | ------- | ------- | ------------- |
 | Blando                | 100 <   | --                   | Nessuno | Nessuno | Nessuno       |
 | Basso                 | 100-199 | Resistenza-1         | +1      | 1D6     | 1D6 settimane |
 | Moderato              | 200-599 | Resistenza-3         | +0      | 1D6+2   | 2D6 giorni    |
