@@ -31,28 +31,28 @@ L'implementazione di un tema planetario è a discrezione dell'Arbitro.
 Il terreno ha un impatto sul tipo di animali che si potrebbero incontrare. Creature acquatiche giganti non si trovano nelle foreste, dopotutto, né creature piumate volanti possono essere trovare a volare sul fondo dell'oceano. Il primo passo nelle regole per la creazione di animali nel Cepheus Engine è scegliere il terreno della creatura, poiché il terreno può avere un impatto significativo su le statistiche degli animali.
 
 La tabella MD del Terreno mostra in dettaglio i modificatori per sottotipi e dimensioni di animali.
-Inoltre, il risultato di 1D6 determina il movimento di base per una determinata creatura (A per anfibio, V per volo, N per nuoto e C per camminare). Alcuni codici di movimento hanno un numero dopo di loro; questi sono un MD di Dimensione addizionale per l'animale.
+Inoltre, il risultato di 1D6 determina il movimento di base per una determinata creatura (A per anfibio, V per volo, N per nuoto e C per camminare). Alcuni codici di movimento hanno un numero dopo di loro; questi sono un MD di Taglia addizionale per l'animale.
 
 #### Tabella: MD del Terreno
 
-| Terreno                  | MD Sottotipo | MD Dimensione | 1    | 2    | 3    | 4    | 5    | 6    |
-|--------------------------|--------------|---------------|------|------|------|------|------|------|
-| Libero                   | 3            | \-            | C    | C    | C    | C    | C2   | V –6 |
-| Pianura o Prateria       | 5            | \-            | C    | C    | C    | C 3  | C 5  | V –6 |
-| Deserto (caldo o freddo) | 5            | –3            | C    | C    | C    | C    | V –4 | V –6 |
-| Colline                  | \-           | \-            | C    | C    | C    | C 5  | V –4 | V –6 |
-| Montagna                 | \-           | \-            | C    | C    | C    | V–2  | V –4 | V –6 |
-| Foresta                  | –4           | –4            | C    | C    | C    | C    | V –4 | V –6 |
-| Boschi                   | –2           | –1            | C    | C    | C    | C    | C    | V –6 |
-| Jungle                   | –4           | –3            | C    | C    | C    | C    | C 9  | V –6 |
-| Foresta Pluviale         | –2           | –2            | C    | C    | C    | C 10 | C 12 | V –6 |
-| Accidentato, Irregolare  | –3           | –3            | C    | C    | C    | C 11 | V –4 | V –6 |
-| Palude, Marcita          | –2           | 14            | N –6 | A 12 | C    | C    | V –4 | V –6 |
-| Spiaggia, Costa          | 14           | 13            | N 12 | A 13 | C    | C    | V –4 | V –6 |
-| Rive Fluviali            | 13           | 13            | N –4 | A    | C    | C    | C    | V –6 |
-| Fondali Oceanici         | 17           | 14            | N 17 | N 15 | N    | N    | V –4 | V –6 |
-| Oceano Aperto            | 18           | –4            | N 20 | N 18 | N 16 | N    | V –4 | V –6 |
-| Oceano Profondo          | 19           | 17            | N 23 | N 21 | N 19 | N 17 | N    | S –2 |
+| Terreno                  | MD Sottotipo | MD Taglia | 1    | 2    | 3    | 4    | 5    | 6    |
+|--------------------------|--------------|-----------|------|------|------|------|------|------|
+| Libero                   | 3            | \-        | C    | C    | C    | C    | C2   | V –6 |
+| Pianura o Prateria       | 5            | \-        | C    | C    | C    | C 3  | C 5  | V –6 |
+| Deserto (caldo o freddo) | 5            | –3        | C    | C    | C    | C    | V –4 | V –6 |
+| Colline                  | \-           | \-        | C    | C    | C    | C 5  | V –4 | V –6 |
+| Montagna                 | \-           | \-        | C    | C    | C    | V–2  | V –4 | V –6 |
+| Foresta                  | –4           | –4        | C    | C    | C    | C    | V –4 | V –6 |
+| Boschi                   | –2           | –1        | C    | C    | C    | C    | C    | V –6 |
+| Jungle                   | –4           | –3        | C    | C    | C    | C    | C 9  | V –6 |
+| Foresta Pluviale         | –2           | –2        | C    | C    | C    | C 10 | C 12 | V –6 |
+| Accidentato, Irregolare  | –3           | –3        | C    | C    | C    | C 11 | V –4 | V –6 |
+| Palude, Marcita          | –2           | 14        | N –6 | A 12 | C    | C    | V –4 | V –6 |
+| Spiaggia, Costa          | 14           | 13        | N 12 | A 13 | C    | C    | V –4 | V –6 |
+| Rive Fluviali            | 13           | 13        | N –4 | A    | C    | C    | C    | V –6 |
+| Fondali Oceanici         | 17           | 14        | N 17 | N 15 | N    | N    | V –4 | V –6 |
+| Oceano Aperto            | 18           | –4        | N 20 | N 18 | N 16 | N    | V –4 | V –6 |
+| Oceano Profondo          | 19           | 17        | N 23 | N 21 | N 19 | N 17 | N    | S –2 |
 
 ### Passo Due: Determinaree Tipo e Sottotipo dell'animale
 
@@ -65,15 +65,15 @@ Una volta che il tipo di animale è stato determinato, l'Arbitro tira 2D6 e aggi
 | 2D6      | Erbivoro      | Onnivoro     | Carnivoro      | Spazzino             |
 |:--------:|:-------------:|:------------:|:--------------:|:--------------------:|
 | 1 o meno | Filtro        | Raccoglitore | Saltatore      | Saprofago |
-| 2        | Filtro        | Mangiatore   | Sirena          | Riduttore            |
+| 2        | Filtro        | Divoratore   | Sirena          | Riduttore            |
 | 3        | Intermittente | Raccoglitore | Saltatore      | Dirottatore          |
-| 4        | Intermittente | Mangiatore   | Uccisore       | Saprofago |
+| 4        | Intermittente | Divoratore   | Uccisore       | Saprofago |
 | 5        | Intermittente | Raccoglitore | Intrappolatore | Intimidatore         |
 | 6        | Intermittente | Cacciatore   | Saltatore      | Riduttore            |
 | 7        | Pascolatore   | Cacciatore   | Inseguitore    | Saprofago |
 | 8        | Pascolatore   | Cacciatore   | Inseguitore    | Riduttore            |
 | 9        | Pascolatore   | Raccoglitore | Inseguitore    | Dirottatore          |
-| 10       | Pascolatore   | Mangiatore   | Uccisore       | Intimidatore         |
+| 10       | Pascolatore   | Divoratore   | Uccisore       | Intimidatore         |
 | 11       | Pascolatore   | Cacciatore   | Inseguitore    | Riduttore            |
 | 12       | Pascolatore   | Raccoglitore | Sirena          | Dirottatore          |
 | 13 o più | Pascolatore   | Raccoglitore | Inseguitore    | Intimidatore         |
@@ -86,7 +86,7 @@ Le creature terrestri che esemplificano questi sottotipi specifici sono indicate
 
 **Inseguitore** (lupo): Animali che uccidono la preda attaccandola e stancandola dopo un inseguimento. I cacciatori hanno Atletica. Destrezza +4, Istinto +2, Branco +2.
 
-**Mangiatore** (formica legionaria): I Mangiatori mangeranno tutto ciò che incontrano, inclusi i personaggi. Resistenza +4. Branco +2.
+**Divoratore** (formica legionaria): I Divoratori mangeranno tutto ciò che incontrano, inclusi i personaggi. Resistenza +4. Branco +2.
 
 **Filtro** (verme): Gli erbivori che attraversano il loro ambiente con i loro corpi sono chiamati filtri. A differenza dei pascolatori, che si spostano verso il cibo, i filtri muovono un flusso di materia attraverso se stessi e filtrano il cibo. Resistenza +4.
 
@@ -112,136 +112,114 @@ Le creature terrestri che esemplificano questi sottotipi specifici sono indicate
 
 **Intrappolatore** (ragno): Un animale che permette alla sua preda di entrare in una trappola. In generale, qualsiasi creatura sorpresa da un intrappolatore viene catturata nella sua trappola. Branco –2.
 
-### Step Four: Determine Animal Size and Characteristics
+### Passo Quattro: Determinare Taglia e Caratteristiche degli Animali 
 
-For each creature, roll 2D6 for its Size and apply any Size DMs based on
-terrain and movement. The creature’s Size determines its Weight,
-Strength, Dexterity and Endurance – for example, a roll of 7 means that
-the creature has a mass of 100kg, a Strength score of 3D6, a Dexterity
-score of 3D6 and an Endurance of 3D6.
+Per ogni creatura, tira 2D6 per la sua Taglia e applica qualsiasi MD di Taglia basato su terreno e movimento. La Taglia della creatura determina il suo Peso, Forza, Destrezza e Resistenza: ad esempio, un tiro di 7 significa che questa creatura ha una massa di 100 kg, un punteggio di Forza di 3D6, un punteggio di Destrezza di 3D6 e una Resistenza di 3D6.
 
-Intelligence for most animals is 0 or 1. Roll 2D6+DMs for the animal’s
-Instinct and Pack. To determine the number appearing value, consult the
-Number Appearing by Pack Characteristic Score table.
+L'intelligenza per la maggior parte degli animali è 0 o 1. Tira 2D6 + MD per Istinto e Branco dell'animale. Per determinare il valore del numero di incontri, consultare la tabella *Numero di incontri secondo Punteggio di Branco*.
 
-All animals have at least Athletics 0, Recon 0, and Survival 0, and most
-will have 1D6 ranks split among these skills, Natural Weapons, and any
-skills listed in their behavior.
+Tutti gli animali hanno almeno Atletica 0, Ricognizione 0 e Sopravvivenza 0 e la maggior parte avrà 1D6 raghi divisi tra queste abilità, Armi Naturali e qualsiasi altra abilità elencata nel loro comportamento.
 
-#### Table: Animal Size
+#### Tabella: Taglia dell'Animale
 
-| 2D6       | Weight (kg) | Strength | Dexterity | Endurance |
-|-----------|-------------|----------|-----------|-----------|
-| 1 or less | 1           | 1        | 1D6       | 1         |
-| 2         | 3           | 2        | 1D6       | 2         |
-| 3         | 6           | 1D6      | 2D6       | 1D6       |
-| 4         | 12          | 1D6      | 2D6       | 1D6       |
-| 5         | 25          | 2D6      | 3D6       | 2D6       |
-| 6         | 50          | 2D6      | 4D6       | 2D6       |
-| 7         | 100         | 3D6      | 3D6       | 3D6       |
-| 8         | 200         | 3D6      | 3D6       | 3D6       |
-| 9         | 400         | 4D6      | 2D6       | 4D6       |
-| 10        | 800         | 4D6      | 2D6       | 4D6       |
-| 11        | 1,600       | 5D6      | 2D6       | 5D6       |
-| 12        | 3,200       | 5D6      | 1D6       | 5D6       |
-| 13        | 5,000       | 6D6      | 1D6       | 6D6       |
-| 14        | 10,000      | 6D6      | 1D6       | 6D6       |
-| 15        | 15,000      | 7D6      | 1D6       | 7D6       |
-| 16        | 20,000      | 7D6      | 1D6       | 7D6       |
-| 17        | 25,000      | 8D6      | 1D6       | 8D6       |
-| 18        | 30,000      | 8D6      | 1D6       | 8D6       |
-| 19        | 35,000      | 9D6      | 1D6       | 9D6       |
-| 20+       | 40,000      | 9D6      | 1D6       | 9D6       |
+| 2D6       | Peso   (kg) | Forza    | Destrezza | Resistenza |
+|:---------:|:-----------:|:--------:|:---------:|:----------:|
+| 1 o meno  | 1           | 1        | 1D6       | 1          |
+| 2         | 3           | 2        | 1D6       | 2          |
+| 3         | 6           | 1D6      | 2D6       | 1D6        |
+| 4         | 12          | 1D6      | 2D6       | 1D6        |
+| 5         | 25          | 2D6      | 3D6       | 2D6        |
+| 6         | 50          | 2D6      | 4D6       | 2D6        |
+| 7         | 100         | 3D6      | 3D6       | 3D6        |
+| 8         | 200         | 3D6      | 3D6       | 3D6        |
+| 9         | 400         | 4D6      | 2D6       | 4D6        |
+| 10        | 800         | 4D6      | 2D6       | 4D6        |
+| 11        | 1,600       | 5D6      | 2D6       | 5D6        |
+| 12        | 3,200       | 5D6      | 1D6       | 5D6        |
+| 13        | 5,000       | 6D6      | 1D6       | 6D6        |
+| 14        | 10,000      | 6D6      | 1D6       | 6D6        |
+| 15        | 15,000      | 7D6      | 1D6       | 7D6        |
+| 16        | 20,000      | 7D6      | 1D6       | 7D6        |
+| 17        | 25,000      | 8D6      | 1D6       | 8D6        |
+| 18        | 30,000      | 8D6      | 1D6       | 8D6        |
+| 19        | 35,000      | 9D6      | 1D6       | 9D6        |
+| 20+       | 40,000      | 9D6      | 1D6       | 9D6        |
 
-#### Table: Number Appearing by Pack Characteristic Score
+#### Tabella: Numbero di Incontri per Punteggio di Branco
 
-| Pack  | Number Appearing |
-|-------|------------------|
-| 0     | 1                |
-| 1–2   | 1D3              |
-| 3–5   | 1D6              |
-| 6–8   | 2D6              |
-| 9–11  | 3D6              |
-| 12–14 | 4D6              |
-| 15+   | 5D6              |
+| Branco  | Number di incontri |
+|:-------:|:------------------:|
+| 0       | 1                  |
+| 1–2     | 1D3                |
+| 3–5     | 1D6                |
+| 6–8     | 2D6                |
+| 9–11    | 3D6                |
+| 12–14   | 4D6                |
+| 15+     | 5D6                |
 
-### Step Five: Determine Animal’s Weapons, Armor and Base Speed
+### Passo Cinque: Determinare Armi, Armatura e Velocità di Base
 
-Roll 2D6 separately for the animal’s Weapons and Armor.
+Tira 2D6 separatamente per le armi e l'armatura dell'animale.
 
-**Weapons**: When generating weapons, roll 2D6 and consult the Animal
-Weapons table. Add a +8 DM if the animal is a Carnivore, and a +4 if it
-is an Omnivore; subtract a –6 DM if the animal is a Herbivore.
-Scavengers automatically have Teeth in addition to any other weapons. If
-a number is present after the Weapons type, then add that number to the
-number of damage dice the creature rolls. Damage from attacks depends on
-the creature’s Strength score, as shown in the Damage by Strength table.
+**Armi**: quando generi le armi, tira 2D6 e consulta la Tabella delle *Armi animali*. Aggiungi un MD+8 se l'animale è un Carnivoro e un +4 se è un Onnivoro; sottrai MD-6 se l'animale è un Erbivoro. Gli spazzini hanno automaticamente Denti in aggiunta a qualsiasi altra arma. Se un numero è presente dopo il tipo di armi, aggiungi quel numero al
+numero di dadi di danno che la creatura tira. Il danno da attacchi dipende dal punteggio di Forza della creatura, come mostrato nella tabella Danni secondo Forza.
 
-**Armor**: When generating an animal’s armor, roll 2D6-7, and add the
-animal’s Size result (the die roll result that determined the animal’s
-size, not the actual weight of the animal.) Add a +4 DM when rolling for
-armor if the animal is a Herbivore, and a +2 if it is an Scavenger;
-apply a –2 DM if the animal is a Carnivore. Also, Flyers suffer a –2 DM
-when determining armor. Consult the Animal Armor table for the animal’s
-armor rating.
+**Armatura**: quando generi l'armatura di un animale, tira 2D6-7 e aggiungi il risultato della Taglia dell'animale (il risultato del tiro di dado che ha determinato la taglia dell'animale, non il peso effettivo dell'animale.) Aggiungi un MD+4 quando tiri per l'armatura se l'animale è un Erbivoro e +2 se è uno Spazzino; applica un MD-2 se l'animale è un Carnivoro. Inoltre, i Volanti subiscono un MD-2 quando si determina l'armatura. Consulta la tabella *Armatura Animale* per il punteggio di armatura dell'animale.
 
-**Base Speed**: An animal’s base speed is determined by generating a
-Speed Multiplier, as per the Animal Speed Multiplier by Subtype table,
-and multiplying that by 6, which is the average speed of a human in
-meters per minor action. If an Animal Speed Multiplier value falls below
-the value found in the Minimum Speed column, round it up to the Minimum
-Speed value.
+**Velocità base**: la velocità base di un animale è determinata generando un Moltiplicatore di Velocità, come da Tabella *Moltiplicatore di velocità animale per sottotipo* e moltiplicandolo per 6, che è la velocità media di un essere umano in metri per un'azione minore. Se il valore di un moltiplicatore di velocità animale scende al di sotto
+del valore trovato nella colonna Velocità minima, arrotondalo al minimo
+Valore di velocità.
 
-#### Table: Animal Weapons
+#### Tabella: Armi Animali
 
-| 2D6       | Weapons                 |
-|-----------|-------------------------|
-| 1 or less | Hooves                  |
-| 2         | Hooves and Horns        |
-| 3         | Horns                   |
-| 4         | Hooves and Teeth        |
-| 5         | Horns and Teeth         |
-| 6         | Thrasher                |
-| 7         | Claws                   |
-| 8         | Teeth                   |
-| 9         | Claws and Teeth         |
-| 10        | Claws +1                |
-| 11        | Stinger                 |
-| 12        | Teeth +1                |
-| 13        | Claws +1 and Teeth +1   |
-| 14        | Claws +1 and Stinger +1 |
-| 15        | Claws +2                |
-| 16        | Teeth +2                |
-| 17        | Claws +2 and Teeth +2   |
-| 18        | Claws +2 and Stinger +2 |
-| 19+       | Projectile              |
+| 2D6      | Armi                        |
+|:--------:|:---------------------------:|
+| 1 o meno | Zoccoli                     |
+| 2        | Zoccoli e Corna             |
+| 3        | Corna                       |
+| 4        | Zoccoli e Denti             |
+| 5        | Corna e Denti               |
+| 6        | Trebbiatrice                |
+| 7        | Artigli                     |
+| 8        | Denti                       |
+| 9        | Artigli e Denti             |
+| 10       | Artigli +1                  |
+| 11       | Pungiglione                 |
+| 12       | Denti +1                    |
+| 13       | Artigli +1 e Denti +1       |
+| 14       | Artigli +1 e Pungiglione +1 |
+| 15       | Artigli +2                  |
+| 16       | Denti +2                    |
+| 17       | Artigli +2 e Denti +2       |
+| 18       | Artigli +2 e Pungiglione +2 |
+| 19+      | Proiettile                  |
 
-#### Table: Animal Armor
+#### Tabella: Armatura Animale
 
-| 2D6       | Armor |
-|-----------|-------|
-| 1 or less | 0     |
-| 2         | 0     |
-| 3         | 0     |
-| 4         | 1     |
-| 5         | 1     |
-| 6         | 2     |
-| 7         | 2     |
-| 8         | 3     |
-| 9         | 3     |
-| 10        | 4     |
-| 11        | 4     |
-| 12        | 5     |
-| 13        | 5     |
-| 14        | 6     |
-| 15        | 6     |
-| 16        | 7     |
-| 17+       | 7     |
+| 2D6       | Armatura |
+|:---------:|:--------:|
+| 1 o meno  | 0        |
+| 2         | 0        |
+| 3         | 0        |
+| 4         | 1        |
+| 5         | 1        |
+| 6         | 2        |
+| 7         | 2        |
+| 8         | 3        |
+| 9         | 3        |
+| 10        | 4        |
+| 11        | 4        |
+| 12        | 5        |
+| 13        | 5        |
+| 14        | 6        |
+| 15        | 6        |
+| 16        | 7        |
+| 17+       | 7        |
 
-#### Table: Damage by Strength
+#### Tabella: Danno secondo Forza
 
-| Strength | Damage |
-|----------|--------|
+| Forza    | Danno  |
+|:--------:|:------:|
 | 1–10     | 1D6    |
 | 11–20    | 2D6    |
 | 21–30    | 3D6    |
@@ -253,192 +231,152 @@ Speed value.
 | 81-90    | 9D6    |
 | 91+      | 10D6   |
 
-#### Table: Animal Speed Multiplier by Subtype
+#### Tabella: Moltiplicatori di Velocità Animale per Sottotipo
 
-| Type          | Speed Multiplier | Minimum Speed |
-|---------------|------------------|---------------|
-| Carnivore     |                  |               |
-| Chaser        | 1D6-2            | 2             |
-| Killer        | 1D6-3            | 1             |
-| Pouncer       | 1D6-4            | 1             |
-| Siren         | 1D6-4            | 0             |
-| Trapper       | 1D6-5            | 0             |
-| Herbivore     |                  |               |
-| Filter        | 1D6-5            | 0             |
-| Grazer        | 1D6-2            | 2             |
-| Intermittent  | 1D6-4            | 1             |
-| Omnivore      |                  |               |
-| Eater         | 1D6-3            | 1             |
-| Gatherer      | 1D6-3            | 1             |
-| Hunter        | 1D6-4            | 1             |
-| Scavenger     |                  |               |
-| Carrion-eater | 1D6-3            | 1             |
-| Hijacker      | 1D6-4            | 1             |
-| Intimidator   | 1D6-4            | 1             |
-| Reducer       | 1D6-4            | 1             |
+| Tipo           | Moltiplicatore di Velocità | Velocità Minima |
+|:--------------:|:--------------------------:|:---------------:|
+| Carnivoro      |                            |                 |
+| Inseguitore    | 1D6-2                      | 2               |
+| Uccisore       | 1D6-3                      | 1               |
+| Saltatatore    | 1D6-4                      | 1               |
+| Sirena         | 1D6-4                      | 0               |
+| Intrappolatore | 1D6-5                      | 0               |
+| Erbivoro       |                            |                 |
+| Filtro         | 1D6-5                      | 0               |
+| Pascolatore    | 1D6-2                      | 2               |
+| Intermittente  | 1D6-4                      | 1               |
+| Onnivoro       |                            |                 |
+| Divoratore     | 1D6-3                      | 1               |
+| Raccoglitore   | 1D6-3                      | 1               |
+| Cacciatore     | 1D6-4                      | 1               |
+| Spazzino       |                            |                 |
+| Saprofago      | 1D6-3                      | 1               |
+| Dirottatore    | 1D6-4                      | 1               |
+| Intimidatore   | 1D6-4                      | 1               |
+| Riduttore      | 1D6-4                      | 1               |
 
-## Universal Animal Format
+## Formato Universale Animale
 
-The following format is used to represent animal’s basic game statistics
-in the Cepheus Engine rules.
+Il seguente formato viene utilizzato per rappresentare le statistiche di gioco di base degli animali nelle regole del Cepheus Engine.
 
-\[Animal Name; optional\]
+> \[Nome Animale; opzionale\]
+> 
+> \[Taglia\]kg \[Sottotipo\] (\[Tipo\]), \[Terreno\] \[Movimento\], \[PPU > Animale, sostituire Educazioe con Instnto e Status Sociale con Branco\],
+> \#Inc: \[Numero di Incontri\]
+> 
+> \[Lista delle abilità, in ordine alfabetico, con il livello di abilità > segnato dopo il nome delle abilità\]
+> 
+> \[Armi Animali\]; \[Armatura Animale\]; Velocità: \[Velocità\]m
+> 
+> \[Descrizione; opzionale\]
 
-\[Size\]kg \[Subtype\] (\[Type\]), \[Terrain\] \[Locomotion\], \[Animal
-UPP, replacing Education with Instinct and Social Standing with Pack\],
-\#App: \[Number Appearing\]
+Per esempio, questa creatura potrebbe rappresentare un piccolo alieno volante parassita che ama sminuzzare le cose e mangiarle:
 
-\[Animal Skill List, in alphabetical order, with skill levels listed
-after skill names\]
+6kg Divoratore (Onnivoro), Colline Volante, 6A5168, \#Inc: 2d6
 
-\[Animal weapons\]; \[Animal armor\]; Speed: \[Speed\]m
+Atletica-0, Mischia(Armi Naturali)-1, Ricognizione-1, Sopravvivenza-2
 
-\[Animal Description; optional\]
+Artigli (2d6); Nascondersi (1); Velocità: 6m
 
-For example, this creature could represent a tough little flying alien
-pest that loves to shred things and eat them:
+## Animali in Combattimento
 
-6kg Eater (Omnivore), Hill Flyer, 6A5168, \#App: 2d6
+Salvo diversa indicazione, gli animali agiscono proprio come i personaggi in combattimento. La categoria di gittata delle armi di un animale può essere trovata nella tabella *Gittata delle armi animali*.
 
-Athletics-0, Melee(Natural Weapons)-1, Recon-1, Survival-2
+#### Tabella: Gittata delle armi animali
 
-Claws (2d6); Hide (1); Speed: 6m
+| Arma         | Gittata                  |
+|:------------:|:------------------------:|
+| Artigli      | mischia (gittata estesa) |
+| Zoccoli      | mischia (gittata estesa) |
+| Corna        | mischia (gittata estesa) |
+| Proiettili   | a distanza (lancio)      |
+| Pungiglione  | mischia (ravvicinata)    |
+| Denti        | mischia (ravvicinata)    |
+| Trebbiatrice | mischia (ravvicinata)    |
 
-## Animals in Combat
+## Creare Tabelle per gli Incontri
 
-Unless otherwise noted, animals operate just like characters in combat.
-The range category of an animal’s weapons can be found in the Animal
-Weapon Ranges table.
+Il sistema per la creazione di animali nelle regole del Cepheus Engine può essere utilizzato per generare creature al volo. Tuttavia, il sistema funziona al meglio quando l'Arbitro prepara una tabella per gli incontri per ogni terreno che si può incontrare. Questo non solo fornisce all'Arbitro statistiche per le avventure nella natura selvaggia, ma fornisce anche una grande quantità di potenziali dati di base per espandere il mondo all'interno dell'universo che l'Arbitro ha creato.
 
-#### Table: Animal Weapon Ranges
+Per creare una tabella degli incontri, prima l'Arbitro deve selezionare un formato di tabella. Sebbene una tabella degli incontri possa essere in qualsiasi formato l'Arbitro desideri, i due formati più comunemente usati sono rappresentati in queste regole come il *Modello di Tabella 1D6 Incontri Animali* e il *Modello di Tabella 2D6 Incontri Animali*. È da notare che i modelli forniscono solo il tipo di animale (carnivoro, erbivoro, onnivoro o spazzino) e, nel caso della tabella 2D6, l'evento.
 
-| Weapon     | Range                  |
-|------------|------------------------|
-| Claws      | melee (extended reach) |
-| Hooves     | melee (extended reach) |
-| Horns      | melee (extended reach) |
-| Projectile | ranged (thrown)        |
-| Stinger    | melee (close quarters) |
-| Teeth      | melee (close quarters) |
-| Thrasher   | melee (close quarters) |
+Ogni voce dovrebbe essere generata a turno. Quando una tabella degli incontri indica che si verificherà un evento, l'Arbitro dovrebbe creare un evento appropriato al mondo e al terreno. Un evento può essere qualsiasi cosa, incluso un disastro naturale o un evento sismico, una caratteristica interessante del terreno o una curiosità, una flora o un clima insoliti. La tabella *Incontri su Terreno Collinare* è un esempio di una tabella degli incontri completata.
 
-## Creating Encounter Tables
+#### Modello di Tabella 1D6 di Incontri Animali
 
-The system for creating animals in the Cepheus Engine rules can be used
-to generate creatures on the fly. However, the system works best when
-the Referee prepares an encounter table for each terrain likely to be
-encountered. This not only gives the Referee statistics for wilderness
-adventuring, but also provided a large amount of potential background
-data for expanding the world within the universe the Referee has
-created.
+| 1D6 | Tipo di Animale |
+|:---:|:---------------:|
+| 1   | Spazzino        |
+| 2   | Erbivoro        |
+| 3   | Erbivoro        |
+| 4   | Erbivoro        |
+| 5   | Onnivoro        |
+| 6   | Carnivoro       |
 
-To create an encounter table, first the Referee should select a table
-format. Although an encounter table can be in whatever format the
-Referee desires, the two formats most commonly used are represented in
-these rules as the 1D6 Animal Encounter Table Template and the 2D6
-Animal Encounter Table Template. Note that the Templates only provide an
-animal's type (carnivore, herbivore, omnivore or scavenger), and in the
-case of the 2D6 table, event.
+#### Modello di Tabella 2D6 Incontri Animali
 
-Each entry should be generated in turn. When an encounter table
-indicates that an event will occur, the Referee should create an event
-appropriate to the world and terrain. An event may be almost anything,
-including a natural disaster or seismic event, an interesting terrain
-feature or curiosity, unusual flora or weather. The Hills Terrain
-Encounter Table is an example of a completed encounter table.
+| 2D6 | Risultato |
+|:---:|:---------:|
+| 2   | Spazzino  |
+| 3   | Onnivoro  |
+| 4   | Spazzino  |
+| 5   | Onnivoro  |
+| 6   | Erbivoro  |
+| 7   | Erbivoro  |
+| 8   | Erbivoro  |
+| 9   | Carnivoro |
+| 10  | Evento    |
+| 11  | Carnivoro |
+| 12  | Carnivoro |
 
-#### 1D6 Animal Encounter Table Template
+#### Tabella: Incontri su Terreno Collinare
 
-| 1D6 | Animal Type |
-|-----|-------------|
-| 1   | Scavenger   |
-| 2   | Herbivore   |
-| 3   | Herbivore   |
-| 4   | Herbivore   |
-| 5   | Omnivore    |
-| 6   | Carnivore   |
+| 2d6 | \#Inc                                                                                          | Taglia  | Sottotipo         | Movimento | PPU    | Armi                             | Armatura        |
+|-----|------------------------------------------------------------------------------------------------|---------|-------------------|-----------|--------|----------------------------------|-----------------|
+| 2   | 2d6                                                                                            | 100kg   | Dirottatore (S)   | C 12m     | 9H91A7 | Denti (1d6)                      | Pelliccia (2)   |
+| 3   | 4d6                                                                                            | 200kg   | Raccoglitore (O)  | C 6m      | CC816D | Denti (2d6)                      | Scaglie (3)     |
+| 4   | 1d6                                                                                            | 25kg    | Intimidatore (S)  | C 6m      | 995174 | Artigli (1d6), denti (1d6)       | Nascondersi (3) |
+| 5   | 3d6                                                                                            | 100kg   | Cacciatore (O)    | C 6m      | D94184 | Pungiglione (2d6)                | Nascondersi (2) |
+| 6   | 3d6                                                                                            | 25kg    | Pascolatore (E)   | C 12m     | 34A1DB | Zoccoli (1d6), corna (1d6)       | Guscio (2)      |
+| 7   | 3d6                                                                                            | 6kg     | Intermittente (E) | V 6m      | 38217B | Corna (1d6)                      | Pelliccia (1)   |
+| 8   | 3d6                                                                                            | 5.000kg | Pascolatore (E)   | C 12m     | N3M16B | Zoccoli (3d6), corna (3d6)       | Guscio (7)      |
+| 9   | 4d6                                                                                            | 400kg   | Inseguitore (C)   | C 12m     | E8B1AE | Artigli (3d6), pungiglione (3d6) | Pelliccia (1)   |
+| 10  | **Evento**: Scogliera, alta 1d6x5 metri (Determina a casa se il gruppo sta in sommità o sotto) |         |                   |           |        |                                  |                 |
+| 11  | 2d6                                                                                            | 800kg   | Inseguitore (C)   | C 12m     | AAD1A6 | Proiettile (2d6)                 | Nascondersi (2) |
+| 12  | 1d6                                                                                            | 3.200kg | Uccisore (C)      | C 12m     | B7G18A | Denti (3d6)                      | Pelliccia (3)   |
 
-#### 2D6 Animal Encounter Table Template
+## Usare le Tabelle di Incontri
 
-| 2D6 | Result    |
-|-----|-----------|
-| 2   | Scavenger |
-| 3   | Omnivore  |
-| 4   | Scavenger |
-| 5   | Omnivore  |
-| 6   | Herbivore |
-| 7   | Herbivore |
-| 8   | Herbivore |
-| 9   | Carnivore |
-| 10  | Event     |
-| 11  | Carnivore |
-| 12  | Carnivore |
+Ogni giorno una banda di avventurieri può avere uno o più incontri con alcune forme di vita animale. Come regola generale, l'Arbitro controllerà un incontro una volta mentre la banda è in viaggio e una volta mentre la banda è ferma (per riposo, esercizio, accampamento o qualsiasi altra cosa). C'è una terza possibilità (5+ su 1D6) che si verifichi un incontro con animali in uno dei tipi di terreno specificati. L'Arbitro può scegliere di modificare questa frequenza a seconda delle condizioni planetarie o locali.
 
-#### Table: Hills Terrain Encounter Table
+Inoltre, sono sempre possibili incontri specifici in luoghi specifici. Per esempio, l'Arbitro potrebbe aver già popolato un luogo (forse un rudere) con animali specifici. Questi non sono soggetti alle normali regole degli incontri casuali.
 
-| 2d6 | \#App                                                                                          | Size    | Subtype          | Move  | UPP    | Weapons                    | Armor      |
-|-----|------------------------------------------------------------------------------------------------|---------|------------------|-------|--------|----------------------------|------------|
-| 2   | 2d6                                                                                            | 100kg   | Hijacker (S)     | W 12m | 9H91A7 | Teeth (1d6)                | Fur (2)    |
-| 3   | 4d6                                                                                            | 200kg   | Gatherer (O)     | W 6m  | CC816D | Teeth (2d6)                | Scales (3) |
-| 4   | 1d6                                                                                            | 25kg    | Intimidator (S)  | W 6m  | 995174 | Claws (1d6), teeth (1d6)   | Hide (3)   |
-| 5   | 3d6                                                                                            | 100kg   | Hunter (O)       | W 6m  | D94184 | Stinger (2d6)              | Hide (2)   |
-| 6   | 3d6                                                                                            | 25kg    | Grazer (H)       | W 12m | 34A1DB | Hooves (1d6), horns (1d6)  | Shell (2)  |
-| 7   | 3d6                                                                                            | 6kg     | Intermittent (H) | F 6m  | 38217B | Horns (1d6)                | Fur (1)    |
-| 8   | 3d6                                                                                            | 5,000kg | Grazer (H)       | W 12m | N3M16B | Hooves (3d6), horns (3d6)  | Shell (7)  |
-| 9   | 4d6                                                                                            | 400kg   | Chaser (C)       | W 12m | E8B1AE | Claws (3d6), stinger (3d6) | Fur (1)    |
-| 10  | **Event**: Cliff, standing 1d6x5 meters tall (Randomly determine if group is at top or bottom) |         |                  |       |        |                            |            |
-| 11  | 2d6                                                                                            | 800kg   | Chaser (C)       | W 12m | AAD1A6 | Projectile (2d6)           | Hide (2)   |
-| 12  | 1d6                                                                                            | 3,200kg | Killer (C)       | W 12m | B7G18A | Teeth (3d6)                | Fur (3)    |
+Per la loro natura senza vita, i mondi nel Vuoto (e qualsiasi altro mondo senza vita) tendono ad avere tabelle degli incontri composte principalmente da eventi. In un mondo senz'aria, gli eventi potrebbero includere pozze di limo che funzionano come una sabbie mobili, anomalie magnetiche, eruzioni solari o forse tracce lasciate da esploratori precedenti.
 
-## Using the Encounter Tables
+## Reazioni Animali negli Incontri
 
-Each day an adventuring band may possibly have one or more encounters
-with some animal life forms. As a general rule, the Referee will check
-for an encounter once while the band is travelling and once while the
-band is halted (for rest, exercise, encampment, or whatever). There is a
-one-third chance (5+ on 1D6) that an animal encounter will occur in any
-of the specified terrain types. The Referee may choose to modify this
-frequency depending on planetary or local conditions.
+Quando i personaggi disturbano un animale o attirano in altro modo l'attenzione su se stessi mentre si trovano nel loro territorio tira 2D6 e consulta la tabella *Reazioni Animali per Sottotipo*. Se il risultato sulla tabella non è né attacco né fuga, l'animale resta fermo finché non viene provocato di nuovo, nel qual caso tira di nuovo.
 
-In addition, specific encounters at specific locations are always
-possible. For example, the Referee may already have populated a location
-(perhaps a ruin) with specific animals. These are not subject to normal
-random encounter rules.
+#### Tabella: Reazioni Animali per Sottotipo
 
-By their lifeless nature, vacuum worlds (and any other world without
-life) tend to have encounter tables comprised primarily of events. On an
-airless world, events could include silt pools that operate like
-quicksand, magnetic anomalies, solar flares, or possibly tracks left by
-previous explorers.
-
-## Animal Reactions in Encounters
-
-When characters disturb an animal or otherwise draw attention to
-themselves while within its territory roll 2D6 and consult the Animal
-Reactions by Subtype table. If the result on the table is neither attack
-nor flee, then the animal stands still until provoked again, in which
-case roll again.
-
-#### Table: Animal Reactions by Subtype
-
-| Type          | Attack                                                                                                       | Flee                                   |
-|---------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| Carnivore     |                                                                                                              |                                        |
-| Chaser        | If the chasers outnumber the characters, they attack.                                                        | 5-                                     |
-| Killer        | 6+                                                                                                           | 3-                                     |
-| Pouncer       | If the pouncer has surprise, it attacks.                                                                     | If the pouncer is surprised, it flees. |
-| Siren         | If the siren has surprise, it attacks.                                                                       | 4-                                     |
-| Trapper       | If the trapper has surprise, it attacks.                                                                     | 5-                                     |
-| Herbivore     |                                                                                                              |                                        |
-| Filter        | 10+ if possible                                                                                              | 5-                                     |
-| Grazer        | 8+                                                                                                           | 6-                                     |
-| Intermittent  | 10+                                                                                                          | 4-                                     |
-| Omnivore      |                                                                                                              |                                        |
-| Eater         | 5+                                                                                                           | 4-                                     |
-| Gatherer      | 9+                                                                                                           | 7-                                     |
-| Hunter        | If the hunter is bigger than at least one character, then it attacks on a 6+. Otherwise, it attacks on a 10+ | 5-                                     |
-| Scavenger     |                                                                                                              |                                        |
-| Carrion-eater | 11+                                                                                                          | 7-                                     |
-| Hijacker      | 7+                                                                                                           | 6-                                     |
-| Intimidator   | 8+                                                                                                           | 7-                                     |
-| Reducer       | 10+                                                                                                          | 7-                                     |
+| Tipo           | Attacco                                                                                                          | Fuga                               |
+|----------------|------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| Carnivoro      |                                                                                                                  |                                    |
+| Inseguitore    | Se i cacciatori sono più numerosi dei personaggi, attaccano.                                                     | 5-                                 |
+| Uccisore       | 6+                                                                                                               | 3-                                 |
+| Saltatore      | Se il saltatore ha sorpresa, attacca.                                                                            | Se il saltatore è sorpreso, fugge. |
+| Sirena         | Se la sirena hs sorpresa, attacca.                                                                               | 4-                                 |
+| Intrappolatore | Se l'intrappolatore ha sorpresa, attacca.                                                                        | 5-                                 |
+| Erbivoro       |                                                                                                                  |                                    |
+| Filtro         | 10+ se possibile                                                                                                 | 5-                                 |
+| Pascolatore    | 8+                                                                                                               | 6-                                 |
+| Intermittente  | 10+                                                                                                              | 4-                                 |
+| Onnivoro       |                                                                                                                  |                                    |
+| Divoratore     | 5+                                                                                                               | 4-                                 |
+| Raccoglitore   | 9+                                                                                                               | 7-                                 |
+| Cacciatore     | Se il cacciatore è più grande di almeno un personaggio, allora attacca con un 6+. Altrimenti, attacca con un 10+ | 5-                                 |
+| Spazzino       |                                                                                                                  |                                    |
+| Saprofago      | 11+                                                                                                              | 7-                                 |
+| Dirottatore    | 7+                                                                                                               | 6-                                 |
+| Intimidatore   | 8+                                                                                                               | 7-                                 |
+| Riduttore      | 10+                                                                                                              | 7-                                 |
