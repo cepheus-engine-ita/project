@@ -1,193 +1,116 @@
-# CHAPTER 13: PLANETARY WILDERNESS ENCOUNTERS
+# CAPITOLO 13: INCONTRI PLANETARI
 
-Characters in the uncivilized areas on the planet’s surface quickly find
-out that they are not alone. So long as a world can support life, animal
-encounters and other natural events are common, regardless of the
-current terrain. This chapter discusses various encounters that can
-occur in the wilderness on a planet’s surface.
+I personaggi nelle aree incivili sulla superficie del pianeta scoprono rapidamente che non sono soli. Finché un mondo può sostenere la vita, incontri di animali e di altri eventi naturali sono comuni, indipendentemente dal terreno corrente. Questo capitolo discute vari incontri che possono si verificano nel deserto sulla superficie di un pianeta.
 
-## Animal Encounters
+## Incontri di animali
 
-Animals in any ecological system interact with each other, forming food
-chains, obeying instincts, defending territory, and generally living out
-their lives. When people enter such an ecological system, they will
-encounter the animals of the system, prompting natural reactions, such
-as attack or flight.
+Gli animali in qualsiasi sistema ecologico interagiscono tra loro, formando la catena del cibo, obbendendo agli istinti, difendendo il territorio e in generale vivendo le proprie vite. Quando le persone entrano in un tale sistema ecologico, lo incontraranno gli animali di tale sistema, provocando reazioni naturali, come come attacco o fuga.
 
-Although the precise nature of animals may change, and they may prove
-quite alien to ordinary experience, most will conform to the broad
-classifications given below. A Referee may choose to establish his own
-ecological system on a specific world, ignoring the encounter system
-outlined here. This system, however, is intended to allow broad latitude
-in both animal types and attack/defense mechanisms, while remaining
-essentially logical and reasonable.
+Sebbene la specifica natura degli animali possa cambiare ed questi potrebbero dimostrarsi del tutto estranei all'esperienza ordinaria, la maggior parte di essi si conformerà alle classificazioni di massima fornite di seguito. Un Arbitro può scegliere di stabilire il proprio sistema ecologico su uno specifico mondo, ignorando il sistema degli incontri delineato qui. Questo sistema, tuttavia, è pensato per consentire un'ampia gamma sia di tipi di animali che di meccanismi di attacco/ difesa, pur rimanendo essenzialmente logico e ragionevole.
 
-**Animal Types**: Nearly all animals may be classified into four basic
-categories: herbivore, omnivore, carnivore, and scavenger. Specific
-definitions for these terms are provided in a later section of these
-rules, and differ from the precise scientific definitions in current
-use. Within each category, a variety of animal types exist, based on
-specific feeding/hunting habits; examples of this concept are grazers,
-chasers, and pouncers.
+**Tipi di animali**: quasi tutti gli animali possono essere classificati in quattro categorie di base: erbivoro, onnivoro, carnivoro e spazzino. Specifiche definizioni di questi termini sono fornite in una sezione successiva di queste regole, e differiscono dalle definizioni scientifiche d'uso corrente. All'interno di ogni categoria esistono diversi tipi di animali, basati su abitudini specifiche di alimentazione/caccia; esempi di questo concetto sono i pascolatori, gli inseguitori e i saltatori.
 
-Animals which are encountered may be further classified into various
-categories and types, and specific attack and defense mechanisms
-determined. The resulting description indicates the actions an animal
-will take without resorting to such confining labels as bear or tiger.
-While a Referee may well elect to use such names, this system also
-allows the players freedom to encounter truly alien beasts as well.
+Gli animali che si incontrano possono essere  ulteriormente classificati in varie categorie, tipi e da specifici meccanismi di attacco e difesa. La descrizione risultante indica le azioni che un animale effettuerà senza ricorrere a etichette così limitanti come "orso" o "tigre". Sebbene un Arbitro possa scegliere di utilizzare tali nomi, questo sistema consente ai giocatori la libertà di incontrare anche bestie veramente aliene.
 
-### Animals and Characteristics
+### Animali e Caratteristiche
 
-Animals have a similar range of characteristics to humans, but there are
-several differences:
+Gli animali hanno una gamma di caratteristiche simile a quella umana, ma ci sono diverse differenze:
 
-**Instinct**: Instinct is the animal equivalent of Education. Animals
-apply their Instinct DM to tasks such as sensing prey or solving
-problems.
+**Istinto**: Istinto è l'equivalente animale dell'Educazione. Gli animali applicano il loro MD di Istinto a compiti come rilevare la preda o risolvere i problemi.
 
-**Pack**: Pack is the animal equivalent of Social Standing. The higher a
-creature’s Pack score, the larger the group that it is associated with,
-and the more standing the creature has in that group.
+**Branco**: Branco è l'equivalente animale di Status Sociale. Maggiore è il punteggio di Branco della creatura, più grande è il gruppo a cui essa è associata, e più importanza ha la creatura in quel gruppo.
 
-### Planetary Themes
+### Temi Planetari
 
-A world's ecology can be extremely diverse. However, the Referee may
-elect to implement specific themes on a planetary basis, to create
-consistency and flavor in presentation. Distinctive features help make
-each world stand out to the players as unique experiences. These could
-range from basic symmetry to reproductive methods (and the associated
-genders), from the number of limb pairs to the common sensory organs.
-The implementation of a planetary theme lies at the discretion of the
-Referee.
+L'ecologia di un mondo può essere estremamente diversificata. Tuttavia, l'Arbitro può scegliere di implementare temi specifici su base planetaria, per creare
+coerenza e dare sapore alla rapresentazione. Le caratteristiche distintive aiutano ogni mondo a distinguersi come esperienze uniche per i giocatori. Queste caratteristiche potrebbero variare dalla simmetria di base ai metodi riproduttivi (e ai generi ad essi legati), dal numero di coppie di arti agli organi sensoriali comuni.
+L'implementazione di un tema planetario è a discrezione dell'Arbitro.
 
-### Step One: Choose a Terrain
+### Passo Uno: Scegli un terreno
 
-Terrain has an impact on the type of animals one might encounter. Giant
-aquatic creatures are not found in forests, after all, nor are feathered
-flying creatures found flying at the bottom of the ocean. The first step
-in the rules for creating animals in the Cepheus Engine is to choose the
-creature’s terrain, as terrain can have a significant impact on an
-animal’s statistics.
+Il terreno ha un impatto sul tipo di animali che si potrebbero incontrare. Creature acquatiche giganti non si trovano nelle foreste, dopotutto, né creature piumate volanti possono essere trovare a volare sul fondo dell'oceano. Il primo passo nelle regole per la creazione di animali nel Cepheus Engine è scegliere il terreno della creatura, poiché il terreno può avere un impatto significativo su le statistiche degli animali.
 
-The Terrain DM Chart details modifiers for animal subtypes and sizes, In
-addition, the result of 1D6 determines the basic movement for a given
-creature (A for Amphibious, F for Flight, S for Swimming, and W for
-Walking). Some movement codes have a number after them; these are an
-additional Size DM for the animal.
+La tabella MD del Terreno mostra in dettaglio i modificatori per sottotipi e dimensioni di animali.
+Inoltre, il risultato di 1D6 determina il movimento di base per una determinata creatura (A per anfibio, V per volo, N per nuoto e C per camminare). Alcuni codici di movimento hanno un numero dopo di loro; questi sono un MD di Dimensione addizionale per l'animale.
 
-#### Table: Terrain DM Chart
+#### Tabella: MD del Terreno
 
-| Terrain              | Subtype DM | Size DM | 1    | 2    | 3    | 4    | 5    | 6    |
-|----------------------|------------|---------|------|------|------|------|------|------|
-| Clear                | +3         | \-      | W    | W    | W    | W    | W+2  | F –6 |
-| Plain or Prairie     | +4         | \-      | W    | W    | W    | W +2 | W +4 | F –6 |
-| Desert (hot or cold) | +3         | –3      | W    | W    | W    | W    | F –4 | F –6 |
-| Hills, Foothills     | \-         | \-      | W    | W    | W    | W +2 | F –4 | F –6 |
-| Mountain             | \-         | \-      | W    | W    | W    | F–2  | F –4 | F –6 |
-| Forest               | –4         | –4      | W    | W    | W    | W    | F –4 | F –6 |
-| Woods                | –2         | –1      | W    | W    | W    | W    | W    | F –6 |
-| Jungle               | –4         | –3      | W    | W    | W    | W    | W +2 | F –6 |
-| Rainforest           | –2         | –2      | W    | W    | W    | W +2 | W +4 | F –6 |
-| Rough, Broken        | –3         | –3      | W    | W    | W    | W +2 | F –4 | F –6 |
-| Swamp, Marsh         | –2         | +4      | S –6 | A +2 | W    | W    | F –4 | F –6 |
-| Beach, Shore         | +3         | +2      | S +1 | A+2  | W    | W    | F –4 | F –6 |
-| Riverbank            | +1         | +1      | S –4 | A    | W    | W    | W    | F –6 |
-| Ocean shallows       | +4         | +1      | S +4 | S +2 | S    | S    | F –4 | F –6 |
-| Open ocean           | +4         | –4      | S +6 | S +4 | S +2 | S    | F –4 | F –6 |
-| Deep ocean           | +4         | +2      | S +8 | S +6 | S +4 | S +2 | S    | S –2 |
+| Terreno                  | MD Sottotipo | MD Dimensione | 1    | 2    | 3    | 4    | 5    | 6    |
+|--------------------------|--------------|---------------|------|------|------|------|------|------|
+| Libero                   | 3            | \-            | C    | C    | C    | C    | C2   | V –6 |
+| Pianura o Prateria       | 5            | \-            | C    | C    | C    | C 3  | C 5  | V –6 |
+| Deserto (caldo o freddo) | 5            | –3            | C    | C    | C    | C    | V –4 | V –6 |
+| Colline                  | \-           | \-            | C    | C    | C    | C 5  | V –4 | V –6 |
+| Montagna                 | \-           | \-            | C    | C    | C    | V–2  | V –4 | V –6 |
+| Foresta                  | –4           | –4            | C    | C    | C    | C    | V –4 | V –6 |
+| Boschi                   | –2           | –1            | C    | C    | C    | C    | C    | V –6 |
+| Jungle                   | –4           | –3            | C    | C    | C    | C    | C 9  | V –6 |
+| Foresta Pluviale         | –2           | –2            | C    | C    | C    | C 10 | C 12 | V –6 |
+| Accidentato, Irregolare  | –3           | –3            | C    | C    | C    | C 11 | V –4 | V –6 |
+| Palude, Marcita          | –2           | 14            | N –6 | A 12 | C    | C    | V –4 | V –6 |
+| Spiaggia, Costa          | 14           | 13            | N 12 | A 13 | C    | C    | V –4 | V –6 |
+| Rive Fluviali            | 13           | 13            | N –4 | A    | C    | C    | C    | V –6 |
+| Fondali Oceanici         | 17           | 14            | N 17 | N 15 | N    | N    | V –4 | V –6 |
+| Oceano Aperto            | 18           | –4            | N 20 | N 18 | N 16 | N    | V –4 | V –6 |
+| Oceano Profondo          | 19           | 17            | N 23 | N 21 | N 19 | N 17 | N    | S –2 |
 
-### Step Two: Determine the Animal’s Type and Subtype
+### Passo Due: Determinaree Tipo e Sottotipo dell'animale
 
-The Referee should then determine the animal’s type and subtype. If the
-Referee is building up an encounter table, the animal’s type is obvious:
-the type necessary to fill in this entry on the encounter table.
-Otherwise, the Referee must choose an appropriate type: Carnivore,
-Herbivore, Omnivore or Scavenger. The Referee might also roll on the 1D6
-Animal Encounter Table Template to randomly choose an animal type.
+L'Arbitro dovrebbe quindi determinare il tipo e il sottotipo dell'animale. Se l'Arbitro sta costruendo una tabella degli incontri, il tipo di animale è ovvio: il tipo necessario per compilare questa voce nella tabella degli incontri. In caso contrario, l'Arbitro deve scegliere un tipo appropriato: Carnivoro, Erbivoro, Onnivoro o Spazzino. L'Arbitro potrebbe anche tirare sulla tabella 1D6 Modelli di Incontri Animali per scegliere a caso un tipo di animale.
 
-Once the animal type has been determined, the Referee rolls 2D6, and add
-in the terrain’s Subtype DM. After that, the Referee consults the
-Subtype by Animal Type table under the column of the animal’s type to
-determine the animal’s subtype.
+Una volta che il tipo di animale è stato determinato, l'Arbitro tira 2D6 e aggiunge l'MD del Sottotipo di terreno. Successivamente, l'Arbitro consulta la Tabella *Sottotipo per tipo di animale* sotto la colonna del tipo di animale per determinare il sottotipo dell'animale.
 
 #### Table: Subtype by Animal Type
 
-| 2D6        | Herbivore    | Omnivore | Carnivore | Scavenger     |
-|------------|--------------|----------|-----------|---------------|
-| 1 or less  | Filter       | Gatherer | Pouncer   | Carrion-Eater |
-| 2          | Filter       | Eater    | Siren     | Reducer       |
-| 3          | Intermittent | Gatherer | Pouncer   | Hijacker      |
-| 4          | Intermittent | Eater    | Killer    | Carrion-Eater |
-| 5          | Intermittent | Gatherer | Trapper   | Intimidator   |
-| 6          | Intermittent | Hunter   | Pouncer   | Reducer       |
-| 7          | Grazer       | Hunter   | Chaser    | Carrion-Eater |
-| 8          | Grazer       | Hunter   | Chaser    | Reducer       |
-| 9          | Grazer       | Gatherer | Chaser    | Hijacker      |
-| 10         | Grazer       | Eater    | Killer    | Intimidator   |
-| 11         | Grazer       | Hunter   | Chaser    | Reducer       |
-| 12         | Grazer       | Gatherer | Siren     | Hijacker      |
-| 13 or more | Grazer       | Gatherer | Chaser    | Intimidator   |
+| 2D6      | Erbivoro      | Onnivoro     | Carnivoro      | Spazzino             |
+|:--------:|:-------------:|:------------:|:--------------:|:--------------------:|
+| 1 o meno | Filtro        | Raccoglitore | Saltatore      | Saprofago |
+| 2        | Filtro        | Mangiatore   | Sirena          | Riduttore            |
+| 3        | Intermittente | Raccoglitore | Saltatore      | Dirottatore          |
+| 4        | Intermittente | Mangiatore   | Uccisore       | Saprofago |
+| 5        | Intermittente | Raccoglitore | Intrappolatore | Intimidatore         |
+| 6        | Intermittente | Cacciatore   | Saltatore      | Riduttore            |
+| 7        | Pascolatore   | Cacciatore   | Inseguitore    | Saprofago |
+| 8        | Pascolatore   | Cacciatore   | Inseguitore    | Riduttore            |
+| 9        | Pascolatore   | Raccoglitore | Inseguitore    | Dirottatore          |
+| 10       | Pascolatore   | Mangiatore   | Uccisore       | Intimidatore         |
+| 11       | Pascolatore   | Cacciatore   | Inseguitore    | Riduttore            |
+| 12       | Pascolatore   | Raccoglitore | Sirena          | Dirottatore          |
+| 13 o più | Pascolatore   | Raccoglitore | Inseguitore    | Intimidatore         |
 
-### Step Three: Note Modifiers and Skills by Subtype
+### Passo Tre: Annotare Modificatori e Abilità per Sottotipo
 
-Terran creatures that exemplify these specific subtypes are noted in
-brackets after the name. The Referee should make note of the
-characteristic modifiers and skills that are noted after the description
-– the exact level of skills varies depending on the particular creature.
+Le creature terrestri che esemplificano questi sottotipi specifici sono indicate in parentesi dopo il nome. L'Arbitro dovrebbe prendere nota dei modificatori di caratteristica e abilità che vengono segnati dopo la descrizione - il livello esatto di abilità varia a seconda della specifica creatura.
 
-**Carrion-Eater** (vulture): Scavengers which wait for all other threats
-to disperse before beginning. Carrion-eaters have Recon. Instinct +2.
+**Saprofago** (avvoltoio): gli Spazzini che aspettano che tutte le altre minacce si disperdano prima di iniziare. I saprofagi hanno Ricognizione. Istinto +2.
 
-**Chaser** (wolf): Animals which kill their prey by attacking and
-exhausting it after a chase. Chasers have Athletics. Dexterity +4,
-Instinct +2, Pack +2.
+**Inseguitore** (lupo): Animali che uccidono la preda attaccandola e stancandola dopo un inseguimento. I cacciatori hanno Atletica. Destrezza +4, Istinto +2, Branco +2.
 
-**Eater** (army ant): Eaters will eat anything they encounter, including
-characters. Endurance +4. Pack +2.
+**Mangiatore** (formica legionaria): I Mangiatori mangeranno tutto ciò che incontrano, inclusi i personaggi. Resistenza +4. Branco +2.
 
-**Filter** (earthworm): Herbivores which pass their environment through
-their bodies are termed filters. Unlike grazers, which move to food,
-filters move a flow of matter through themselves and filter out the
-food. Endurance +4.
+**Filtro** (verme): Gli erbivori che attraversano il loro ambiente con i loro corpi sono chiamati filtri. A differenza dei pascolatori, che si spostano verso il cibo, i filtri muovono un flusso di materia attraverso se stessi e filtrano il cibo. Resistenza +4.
 
-**Gatherer** (raccoon, chimpanzee): Gatherers are herbivores that
-collect and store food. Gatherers have Recon. Pack +2.
+**Raccoglitore** (procione, scimpanzé): I Raccoglitori sono erbivori che raccolgono e immagazzinano il cibo. I raccoglitori hanno Ricognizione. Branco +2.
 
-**Grazer** (antelope): Grazers move from food source to food source,
-often in large packs. Their primary form of defense tends to be fleeing
-danger. Instinct +2, Pack +4.
+**Pascolatore** (antilope): I pascolatori si spostano da una fonte di cibo all'altra, spesso in grandi mandrie. La loro principale forma di difesa tende a essere la fuga dal pericolo. Istinto +2, Branco +4.
 
-**Hijacker** (lion): Scavengers which steal the kills of others through
-brute force or weight of numbers are hijackers. Strength +2, Pack +2.
+**Dirottatore** (leone): Spazzini che rubano le uccisioni degli altri con la forza bruta o superando in numero i concorrenti sono dirottatori. Forza +2, Branco +2.
 
-**Hunter** (baboon): Opportunistic predators that stalk easy prey.
-Hunters have Survival. Instinct +2.
+**Cacciatore** (babbuino): Predatori opportunisti che perseguitano prede facili. I cacciatori hanno Sopravvivenza. Istinto +2.
 
-**Intermittent** (elephant): Herbivores that do not devote their entire
-time to searching for food. Intermittents have Pack +4.
+**Intermittente** (elefante): Erbivori che non dedicano tutto il loro tempo alla ricerca del cibo. Gli intermittenti hanno Branco +4.
 
-**Intimidator** (coyote): Scavengers which establish their claim to food
-by frightening or intimidating other creatures.
+**Intimidatore** (coyote): Spazzini che affermano la loro pretesa di cibo spaventando o intimidendo altre creature.
 
-**Killer** (shark): Carnivores that possess a raw killing instinct,
-attacking in a frenzied manner. Killers have Natural Weapons and either
-Strength or Dexterity +4, Instinct +4, Pack –2.
+**Uccisori** (squalo): Carnivori che possiedono un crudo istinto omicida, attaccando in modo frenetico. Gli uccisori hanno Armi Naturali e Forza o Destrezza +4, Istinto +4, Branco –2.
 
-**Pouncer** (cat): Pouncers kill by stalking and ambushing their prey.
-Pouncers have Recon and Athletics. Dexterity +4, Instinct +4.
+**Saltatori** (gatto): I saltatori uccidono inseguendo e tendendo un'imboscata alla preda. I saltatori hanno Ricognizione e Atletica. Destrezza +4, Istinto +4.
 
-**Reducer** (vermin): Reducers are scavengers that act constantly on all
-available food, devouring even the remains left by other scavengers.
-Pack +4
+**Riduttori** (parassita): I riduttori sono spazzini che agiscono costantemente su tutto il cibo disponibile, divorando anche i resti lasciati da altri spazzini. Branco +4
 
-**Siren** (venus fly-trap): Sirens create a lure to attract prey.
-Usually, this lure will be specific to the species the siren preys on,
-but some rare lures are universal. Pack –4.
+**Sirena** (venere acchiappamosche): Le sirene creano un'esca per attirare la preda. Di solito, questa esca sarà specifica per la specie che la sirena preda, ma alcune esche rare sono universali. Branco –4.
 
-**Trapper** (spider): An animal which allows its prey to enter a trap.
-Generally, any creature surprised by a trapper is caught in its trap.
-Pack –2.
+**Intrappolatore** (ragno): Un animale che permette alla sua preda di entrare in una trappola. In generale, qualsiasi creatura sorpresa da un intrappolatore viene catturata nella sua trappola. Branco –2.
 
 ### Step Four: Determine Animal Size and Characteristics
 
