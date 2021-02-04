@@ -1,4 +1,4 @@
-# CHAPTER 17: ADVENTURES
+# CAPITOLO 17: AVVENTURE
 
 I giocatori in un universo di Cepheus Engine sono avventurieri, puro e semplice. Cercheranno esperienze e imprese, godendosi il brivido e l'eccitazione che derivano dal perseguimento dei loro obiettivi. Le avventure di Cepheus Engine racchiudono il potenziale di avventura che può essere trovato nella fantascienza dell'era classica. Le opportunità sono virtualmente illimitate, limitate solo dalle circostanze dello scenario e dalle capacità dei personaggi. L'Arbitro genera e giudica gli incontri che costituiscono gli elementi fondanti di queste avventure. Mentre i personaggi si spostano da un'avventura all'altra, le storie creano una campagna, ambientata in un universo creato dall'Arbitro. Qui sta il nucleo di una grande esperienza di gioco di ruolo.
 
