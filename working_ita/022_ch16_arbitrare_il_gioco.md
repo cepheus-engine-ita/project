@@ -1,4 +1,4 @@
-# CHAPTER 16: REFEREEING THE GAME
+# CHAPTER 16: ARBITRARE IL GIOCO
 
 L'Arbitro è la persona che si assume la responsabilità di condurre una partita del Cepheus Engine. L'Arbitro crea l'avventura, la guida attraverso i giocatori, assume i ruoli dei vari personaggi non giocanti che i personaggi giocanti incontrano e gestisce qualsiasi domanda sulle regole. Sebbene gestire il gioco sia una grande responsabilità, non è così difficile come potrebbe sembrare e fornire un gioco divertente e divertente per i tuoi amici può essere piuttosto gratificante.
 
@@ -65,6 +65,7 @@ Ci sono due modi per rendere un compito più facile o più difficile: modificare
 ### Modificatori di circostanze
 
 Alcune circostanze rendono un controllo più facile o più difficile, risultando in un bonus o una penalità che viene aggiunto al risultato del controllo. L'arbitro può modificare le probabilità di successo in due modi:
+
 - Se un personaggio ha un aiuto, come buoni strumenti, aiuti competenti o altre circostanze favorevoli, riceve un bonus +1 alla sua prova di abilità.
 - Se un personaggio è ostacolato, come avere strumenti difettosi, assistenza incompetente o altre circostanze negative, riceve una penalità di -1 alla sua prova di abilità.
 
@@ -93,7 +94,7 @@ Il gioco in solitario non è limitato agli Arbitri. I giocatori possono anche im
 
 ### Creazione del personaggio
 
-Un arbitro ha sempre bisogno di personaggi non giocanti. Usa le informazioni nel **Capitolo 1: Creazione del personaggio** per generare nuovi personaggi. Questi personaggi possono facilmente diventare futuri patrroni, incontri casuali, nemici, alleati o semplicemente personaggi di sfondo per un universo di Cepheus Engine.
+Un arbitro ha sempre bisogno di personaggi non giocanti. Usa le informazioni nel **Capitolo 1: Creazione del personaggio** per generare nuovi personaggi. Questi personaggi possono facilmente diventare futuri patroni, incontri casuali, nemici, alleati o semplicemente personaggi di sfondo per un universo di Cepheus Engine.
 
 ### Combattimento personale
 
