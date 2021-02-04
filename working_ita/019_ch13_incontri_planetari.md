@@ -1,16 +1,16 @@
 # CAPITOLO 13: INCONTRI PLANETARI
 
-I personaggi nelle aree incivili sulla superficie del pianeta scoprono rapidamente che non sono soli. Finché un mondo può sostenere la vita, incontri di animali e di altri eventi naturali sono comuni, indipendentemente dal terreno corrente. Questo capitolo discute vari incontri che possono si verificano nel deserto sulla superficie di un pianeta.
+I personaggi nelle aree incivili sulla superficie del pianeta scoprono rapidamente che non sono soli. Finché un mondo può sostenere la vita, incontri di animali e di altri eventi naturali sono comuni, indipendentemente dal terreno attuale. Questo capitolo tratta di vari incontri che possono verificarsi nella natura selvaggia sulla superficie di un pianeta.
 
 ## Incontri di animali
 
-Gli animali in qualsiasi sistema ecologico interagiscono tra loro, formando la catena del cibo, obbendendo agli istinti, difendendo il territorio e in generale vivendo le proprie vite. Quando le persone entrano in un tale sistema ecologico, lo incontraranno gli animali di tale sistema, provocando reazioni naturali, come come attacco o fuga.
+Gli animali in qualsiasi sistema ecologico interagiscono tra loro, formando la catena alimentare, obbedendo agli istinti, difendendo il territorio e in generale vivendo le proprie vite. Quando delle persone entrano in un tale sistema ecologico, incontreranno gli animali di tale sistema, provocando reazioni naturali, come come attacco o fuga.
 
-Sebbene la specifica natura degli animali possa cambiare ed questi potrebbero dimostrarsi del tutto estranei all'esperienza ordinaria, la maggior parte di essi si conformerà alle classificazioni di massima fornite di seguito. Un Arbitro può scegliere di stabilire il proprio sistema ecologico su uno specifico mondo, ignorando il sistema degli incontri delineato qui. Questo sistema, tuttavia, è pensato per consentire un'ampia gamma sia di tipi di animali che di meccanismi di attacco/ difesa, pur rimanendo essenzialmente logico e ragionevole.
+Sebbene la specifica natura degli animali possa cambiare e questi potrebbero dimostrarsi del tutto estranei all'esperienza ordinaria, la maggior parte di essi si conformerà alle classificazioni di massima fornite di seguito. Un Arbitro può scegliere di stabilire il proprio sistema ecologico su uno specifico mondo, ignorando il sistema degli incontri delineato qui. Questo sistema, tuttavia, è pensato per consentire un'ampia gamma sia di tipologie di animali che di meccanismi di attacco/ difesa, pur rimanendo essenzialmente logico e ragionevole.
 
-**Tipi di animali**: quasi tutti gli animali possono essere classificati in quattro categorie di base: erbivoro, onnivoro, carnivoro e spazzino. Specifiche definizioni di questi termini sono fornite in una sezione successiva di queste regole, e differiscono dalle definizioni scientifiche d'uso corrente. All'interno di ogni categoria esistono diversi tipi di animali, basati su abitudini specifiche di alimentazione/caccia; esempi di questo concetto sono i pascolatori, gli inseguitori e i saltatori.
+**Tipi di animali**: quasi tutti gli animali possono essere classificati in quattro categorie di base: Erbivoro, Onnivoro, Carnivoro e Spazzino. Specifiche definizioni di questi termini sono fornite in una sezione successiva di queste regole, e differiscono dalle definizioni scientifiche d'uso corrente. All'interno di ogni categoria esistono diversi tipi di animali, basati su abitudini specifiche di alimentazione/caccia; esempi di questo concetto sono i Pascolatori, gli Inseguitori e i Saltatori.
 
-Gli animali che si incontrano possono essere  ulteriormente classificati in varie categorie, tipi e da specifici meccanismi di attacco e difesa. La descrizione risultante indica le azioni che un animale effettuerà senza ricorrere a etichette così limitanti come "orso" o "tigre". Sebbene un Arbitro possa scegliere di utilizzare tali nomi, questo sistema consente ai giocatori la libertà di incontrare anche bestie veramente aliene.
+Gli animali che si incontrano possono essere  ulteriormente classificati in varie categorie, tipi e da specifici meccanismi di attacco e difesa. La descrizione risultante indica le azioni che un animale effettuerà senza ricorrere a etichette limitanti come "orso" o "tigre". Sebbene un Arbitro possa scegliere di utilizzare tali nomi, questo sistema consente ai giocatori la libertà di incontrare anche bestie piuttosto aliene.
 
 ### Animali e Caratteristiche
 
@@ -18,25 +18,24 @@ Gli animali hanno una gamma di caratteristiche simile a quella umana, ma ci sono
 
 **Istinto**: Istinto è l'equivalente animale dell'Educazione. Gli animali applicano il loro MD di Istinto a compiti come rilevare la preda o risolvere i problemi.
 
-**Branco**: Branco è l'equivalente animale di Status Sociale. Maggiore è il punteggio di Branco della creatura, più grande è il gruppo a cui essa è associata, e più importanza ha la creatura in quel gruppo.
+**Branco**: Branco è l'equivalente animale di Status Sociale. Maggiore è il punteggio di Branco della creatura, più grande è il gruppo a cui essa è associata e più importanza ha la creatura in quel gruppo.
 
 ### Temi Planetari
 
 L'ecologia di un mondo può essere estremamente diversificata. Tuttavia, l'Arbitro può scegliere di implementare temi specifici su base planetaria, per creare
-coerenza e dare sapore alla rapresentazione. Le caratteristiche distintive aiutano ogni mondo a distinguersi come esperienze uniche per i giocatori. Queste caratteristiche potrebbero variare dalla simmetria di base ai metodi riproduttivi (e ai generi ad essi legati), dal numero di coppie di arti agli organi sensoriali comuni.
+coerenza e dare sapore alla rappresentazione. Le caratteristiche distintive aiutano ogni mondo a distinguersi come esperienze uniche per i giocatori. Queste caratteristiche potrebbero variare dalla simmetria di base ai metodi riproduttivi (e ai generi sessuali ad essi legati), dal numero di coppie di arti fino agli organi sensoriali comuni.
 L'implementazione di un tema planetario è a discrezione dell'Arbitro.
 
 ### Passo Uno: Scegli un terreno
 
-Il terreno ha un impatto sul tipo di animali che si potrebbero incontrare. Creature acquatiche giganti non si trovano nelle foreste, dopotutto, né creature piumate volanti possono essere trovare a volare sul fondo dell'oceano. Il primo passo nelle regole per la creazione di animali nel Cepheus Engine è scegliere il terreno della creatura, poiché il terreno può avere un impatto significativo su le statistiche degli animali.
+Il terreno ha un impatto sul tipo di animali che si potrebbero incontrare. Creature acquatiche giganti non si trovano nelle foreste, dopotutto, né creature piumate volanti possono essere trovare a volare sul fondo dell'oceano. Il primo passo nelle regole per la creazione di animali nel Cepheus Engine è scegliere il terreno per la creatura, poiché il terreno può avere un impatto significativo su le statistiche degli animali.
 
-La tabella MD del Terreno mostra in dettaglio i modificatori per sottotipi e dimensioni di animali.
-Inoltre, il risultato di 1D6 determina il movimento di base per una determinata creatura (A per anfibio, V per volo, N per nuoto e C per camminare). Alcuni codici di movimento hanno un numero dopo di loro; questi sono un MD di Taglia addizionale per l'animale.
+La tabella MD del Terreno mostra in dettaglio i modificatori per sottotipi e taglie di animali. Inoltre, il risultato di 1D6 determina il movimento di base per una determinata creatura (A per anfibio, C per camminare, N per nuoto e V per volo). Alcuni codici di movimento hanno un numero dopo di loro; questi sono un MD di Taglia addizionale per l'animale.
 
 #### Tabella: MD del Terreno
 
 | Terreno                  | MD Sottotipo | MD Taglia | 1    | 2    | 3    | 4    | 5    | 6    |
-|--------------------------|--------------|-----------|------|------|------|------|------|------|
+| ------------------------ | ------------ | --------- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Libero                   | 3            | \-        | C    | C    | C    | C    | C2   | V –6 |
 | Pianura o Prateria       | 5            | \-        | C    | C    | C    | C 3  | C 5  | V –6 |
 | Deserto (caldo o freddo) | 5            | –3        | C    | C    | C    | C    | V –4 | V –6 |
@@ -54,29 +53,29 @@ Inoltre, il risultato di 1D6 determina il movimento di base per una determinata 
 | Oceano Aperto            | 18           | –4        | N 20 | N 18 | N 16 | N    | V –4 | V –6 |
 | Oceano Profondo          | 19           | 17        | N 23 | N 21 | N 19 | N 17 | N    | S –2 |
 
-### Passo Due: Determinaree Tipo e Sottotipo dell'animale
+### Passo Due: Determinare Tipo e Sottotipo dell'animale
 
-L'Arbitro dovrebbe quindi determinare il tipo e il sottotipo dell'animale. Se l'Arbitro sta costruendo una tabella degli incontri, il tipo di animale è ovvio: il tipo necessario per compilare questa voce nella tabella degli incontri. In caso contrario, l'Arbitro deve scegliere un tipo appropriato: Carnivoro, Erbivoro, Onnivoro o Spazzino. L'Arbitro potrebbe anche tirare sulla tabella 1D6 Modelli di Incontri Animali per scegliere a caso un tipo di animale.
+L'Arbitro dovrebbe quindi determinare il Tipo e il Sottotipo dell'animale. Se l'Arbitro sta costruendo una tabella degli incontri, il tipo di animale è ovvio: il tipo necessario per compilare questa voce nella tabella degli incontri. In caso contrario, l'Arbitro deve scegliere un tipo appropriato: Carnivoro, Erbivoro, Onnivoro o Spazzino. L'Arbitro potrebbe anche tirare sulla tabella *Modello di Tabella di 1D6 Incontri Animali* per scegliere a caso un tipo di animale.
 
-Una volta che il tipo di animale è stato determinato, l'Arbitro tira 2D6 e aggiunge l'MD del Sottotipo di terreno. Successivamente, l'Arbitro consulta la Tabella *Sottotipo per tipo di animale* sotto la colonna del tipo di animale per determinare il sottotipo dell'animale.
+Una volta che il tipo di animale è stato determinato, l'Arbitro tira 2D6 e aggiunge l'MD del Sottotipo di terreno. Successivamente, l'Arbitro consulta la Tabella *Sottotipo per Tipo di Animale* sotto la colonna del tipo di animale per determinare il sottotipo dell'animale.
 
-#### Table: Subtype by Animal Type
+#### Tabella: Sottotipo per Tipo di Animale
 
-| 2D6      | Erbivoro      | Onnivoro     | Carnivoro      | Spazzino             |
-|:--------:|:-------------:|:------------:|:--------------:|:--------------------:|
-| 1 o meno | Filtro        | Raccoglitore | Saltatore      | Saprofago |
-| 2        | Filtro        | Divoratore   | Sirena          | Riduttore            |
-| 3        | Intermittente | Raccoglitore | Saltatore      | Dirottatore          |
-| 4        | Intermittente | Divoratore   | Uccisore       | Saprofago |
-| 5        | Intermittente | Raccoglitore | Intrappolatore | Intimidatore         |
-| 6        | Intermittente | Cacciatore   | Saltatore      | Riduttore            |
-| 7        | Pascolatore   | Cacciatore   | Inseguitore    | Saprofago |
-| 8        | Pascolatore   | Cacciatore   | Inseguitore    | Riduttore            |
-| 9        | Pascolatore   | Raccoglitore | Inseguitore    | Dirottatore          |
-| 10       | Pascolatore   | Divoratore   | Uccisore       | Intimidatore         |
-| 11       | Pascolatore   | Cacciatore   | Inseguitore    | Riduttore            |
-| 12       | Pascolatore   | Raccoglitore | Sirena          | Dirottatore          |
-| 13 o più | Pascolatore   | Raccoglitore | Inseguitore    | Intimidatore         |
+| 2D6      | Erbivoro      | Onnivoro     | Carnivoro      | Spazzino     |
+|:--------:|:-------------:|:------------:|:--------------:|:------------:|
+| 1 o meno | Filtro        | Raccoglitore | Saltatore      | Saprofago    |
+| 2        | Filtro        | Divoratore   | Sirena         | Riduttore    |
+| 3        | Intermittente | Raccoglitore | Saltatore      | Dirottatore  |
+| 4        | Intermittente | Divoratore   | Uccisore       | Saprofago    |
+| 5        | Intermittente | Raccoglitore | Intrappolatore | Intimidatore |
+| 6        | Intermittente | Cacciatore   | Saltatore      | Riduttore    |
+| 7        | Pascolatore   | Cacciatore   | Inseguitore    | Saprofago    |
+| 8        | Pascolatore   | Cacciatore   | Inseguitore    | Riduttore    |
+| 9        | Pascolatore   | Raccoglitore | Inseguitore    | Dirottatore  |
+| 10       | Pascolatore   | Divoratore   | Uccisore       | Intimidatore |
+| 11       | Pascolatore   | Cacciatore   | Inseguitore    | Riduttore    |
+| 12       | Pascolatore   | Raccoglitore | Sirena         | Dirottatore  |
+| 13 o più | Pascolatore   | Raccoglitore | Inseguitore    | Intimidatore |
 
 ### Passo Tre: Annotare Modificatori e Abilità per Sottotipo
 
@@ -84,7 +83,7 @@ Le creature terrestri che esemplificano questi sottotipi specifici sono indicate
 
 **Saprofago** (avvoltoio): gli Spazzini che aspettano che tutte le altre minacce si disperdano prima di iniziare. I saprofagi hanno Ricognizione. Istinto +2.
 
-**Inseguitore** (lupo): Animali che uccidono la preda attaccandola e stancandola dopo un inseguimento. I cacciatori hanno Atletica. Destrezza +4, Istinto +2, Branco +2.
+**Inseguitore** (lupo): Animali che uccidono la preda dopo un inseguimento, attaccandola e stancandola. I cacciatori hanno Atletica. Destrezza +4, Istinto +2, Branco +2.
 
 **Divoratore** (formica legionaria): I Divoratori mangeranno tutto ciò che incontrano, inclusi i personaggi. Resistenza +4. Branco +2.
 
@@ -112,63 +111,61 @@ Le creature terrestri che esemplificano questi sottotipi specifici sono indicate
 
 **Intrappolatore** (ragno): Un animale che permette alla sua preda di entrare in una trappola. In generale, qualsiasi creatura sorpresa da un intrappolatore viene catturata nella sua trappola. Branco –2.
 
-### Passo Quattro: Determinare Taglia e Caratteristiche degli Animali 
+### Passo Quattro: Determinare Taglia e Caratteristiche degli Animali
 
 Per ogni creatura, tira 2D6 per la sua Taglia e applica qualsiasi MD di Taglia basato su terreno e movimento. La Taglia della creatura determina il suo Peso, Forza, Destrezza e Resistenza: ad esempio, un tiro di 7 significa che questa creatura ha una massa di 100 kg, un punteggio di Forza di 3D6, un punteggio di Destrezza di 3D6 e una Resistenza di 3D6.
 
 L'intelligenza per la maggior parte degli animali è 0 o 1. Tira 2D6 + MD per Istinto e Branco dell'animale. Per determinare il valore del numero di incontri, consultare la tabella *Numero di incontri secondo Punteggio di Branco*.
 
-Tutti gli animali hanno almeno Atletica 0, Ricognizione 0 e Sopravvivenza 0 e la maggior parte avrà 1D6 raghi divisi tra queste abilità, Armi Naturali e qualsiasi altra abilità elencata nel loro comportamento.
+Tutti gli animali hanno almeno Atletica 0, Ricognizione 0 e Sopravvivenza 0 e la maggior parte avrà 1D6 ranghi divisi tra queste abilità, Armi Naturali e qualsiasi altra abilità elencata nel loro comportamento.
 
 #### Tabella: Taglia dell'Animale
 
-| 2D6       | Peso   (kg) | Forza    | Destrezza | Resistenza |
-|:---------:|:-----------:|:--------:|:---------:|:----------:|
-| 1 o meno  | 1           | 1        | 1D6       | 1          |
-| 2         | 3           | 2        | 1D6       | 2          |
-| 3         | 6           | 1D6      | 2D6       | 1D6        |
-| 4         | 12          | 1D6      | 2D6       | 1D6        |
-| 5         | 25          | 2D6      | 3D6       | 2D6        |
-| 6         | 50          | 2D6      | 4D6       | 2D6        |
-| 7         | 100         | 3D6      | 3D6       | 3D6        |
-| 8         | 200         | 3D6      | 3D6       | 3D6        |
-| 9         | 400         | 4D6      | 2D6       | 4D6        |
-| 10        | 800         | 4D6      | 2D6       | 4D6        |
-| 11        | 1,600       | 5D6      | 2D6       | 5D6        |
-| 12        | 3,200       | 5D6      | 1D6       | 5D6        |
-| 13        | 5,000       | 6D6      | 1D6       | 6D6        |
-| 14        | 10,000      | 6D6      | 1D6       | 6D6        |
-| 15        | 15,000      | 7D6      | 1D6       | 7D6        |
-| 16        | 20,000      | 7D6      | 1D6       | 7D6        |
-| 17        | 25,000      | 8D6      | 1D6       | 8D6        |
-| 18        | 30,000      | 8D6      | 1D6       | 8D6        |
-| 19        | 35,000      | 9D6      | 1D6       | 9D6        |
-| 20+       | 40,000      | 9D6      | 1D6       | 9D6        |
+| 2D6      | Peso   (kg) | Forza | Destrezza | Resistenza |
+|:--------:|:-----------:|:-----:|:---------:|:----------:|
+| 1 o meno | 1           | 1     | 1D6       | 1          |
+| 2        | 3           | 2     | 1D6       | 2          |
+| 3        | 6           | 1D6   | 2D6       | 1D6        |
+| 4        | 12          | 1D6   | 2D6       | 1D6        |
+| 5        | 25          | 2D6   | 3D6       | 2D6        |
+| 6        | 50          | 2D6   | 4D6       | 2D6        |
+| 7        | 100         | 3D6   | 3D6       | 3D6        |
+| 8        | 200         | 3D6   | 3D6       | 3D6        |
+| 9        | 400         | 4D6   | 2D6       | 4D6        |
+| 10       | 800         | 4D6   | 2D6       | 4D6        |
+| 11       | 1.600       | 5D6   | 2D6       | 5D6        |
+| 12       | 3.200       | 5D6   | 1D6       | 5D6        |
+| 13       | 5.000       | 6D6   | 1D6       | 6D6        |
+| 14       | 10.000      | 6D6   | 1D6       | 6D6        |
+| 15       | 15.000      | 7D6   | 1D6       | 7D6        |
+| 16       | 20.000      | 7D6   | 1D6       | 7D6        |
+| 17       | 25.000      | 8D6   | 1D6       | 8D6        |
+| 18       | 30.000      | 8D6   | 1D6       | 8D6        |
+| 19       | 35.000      | 9D6   | 1D6       | 9D6        |
+| 20+      | 40.000      | 9D6   | 1D6       | 9D6        |
 
-#### Tabella: Numbero di Incontri per Punteggio di Branco
+#### Tabella: Numero di Incontri per Punteggio di Branco
 
-| Branco  | Number di incontri |
-|:-------:|:------------------:|
-| 0       | 1                  |
-| 1–2     | 1D3                |
-| 3–5     | 1D6                |
-| 6–8     | 2D6                |
-| 9–11    | 3D6                |
-| 12–14   | 4D6                |
-| 15+     | 5D6                |
+| Branco | Numero di incontri |
+|:------:|:------------------:|
+| 0      | 1                  |
+| 1–2    | 1D3                |
+| 3–5    | 1D6                |
+| 6–8    | 2D6                |
+| 9–11   | 3D6                |
+| 12–14  | 4D6                |
+| 15+    | 5D6                |
 
 ### Passo Cinque: Determinare Armi, Armatura e Velocità di Base
 
 Tira 2D6 separatamente per le armi e l'armatura dell'animale.
 
-**Armi**: quando generi le armi, tira 2D6 e consulta la Tabella delle *Armi animali*. Aggiungi un MD+8 se l'animale è un Carnivoro e un +4 se è un Onnivoro; sottrai MD-6 se l'animale è un Erbivoro. Gli spazzini hanno automaticamente Denti in aggiunta a qualsiasi altra arma. Se un numero è presente dopo il tipo di armi, aggiungi quel numero al
-numero di dadi di danno che la creatura tira. Il danno da attacchi dipende dal punteggio di Forza della creatura, come mostrato nella tabella Danni secondo Forza.
+**Armi**: quando generi le armi, tira 2D6 e consulta la Tabella delle *Armi animali*. Aggiungi un MD+8 se l'animale è un Carnivoro e un +4 se è un Onnivoro; sottrai MD-6 se l'animale è un Erbivoro. Gli spazzini hanno automaticamente Denti in aggiunta a qualsiasi altra arma. Se un numero è presente dopo il tipo di armi, aggiungilo al numero di dadi di danno che la creatura tira. Il danno da attacchi dipende dal punteggio di Forza della creatura, come mostrato nella tabella Danni secondo Forza.
 
-**Armatura**: quando generi l'armatura di un animale, tira 2D6-7 e aggiungi il risultato della Taglia dell'animale (il risultato del tiro di dado che ha determinato la taglia dell'animale, non il peso effettivo dell'animale.) Aggiungi un MD+4 quando tiri per l'armatura se l'animale è un Erbivoro e +2 se è uno Spazzino; applica un MD-2 se l'animale è un Carnivoro. Inoltre, i Volanti subiscono un MD-2 quando si determina l'armatura. Consulta la tabella *Armatura Animale* per il punteggio di armatura dell'animale.
+**Armatura**: quando generi l'armatura di un animale, tira 2D6-7 e aggiungi il risultato della Taglia dell'animale (il risultato del tiro di dado che ha determinato la taglia dell'animale, non il peso effettivo dell'animale). Aggiungi un MD+4 quando tiri per l'armatura se l'animale è un Erbivoro e +2 se è uno Spazzino; applica un MD-2 se l'animale è un Carnivoro. Inoltre, i Volanti subiscono un MD-2 quando si determina l'armatura. Consulta la tabella *Armatura Animale* per il punteggio di armatura dell'animale.
 
-**Velocità base**: la velocità base di un animale è determinata generando un Moltiplicatore di Velocità, come da Tabella *Moltiplicatore di velocità animale per sottotipo* e moltiplicandolo per 6, che è la velocità media di un essere umano in metri per un'azione minore. Se il valore di un moltiplicatore di velocità animale scende al di sotto
-del valore trovato nella colonna Velocità minima, arrotondalo al minimo
-Valore di velocità.
+**Velocità base**: la velocità base di un animale è determinata generando un Moltiplicatore di Velocità, come da Tabella *Moltiplicatore di velocità animale per sottotipo* e moltiplicandolo per 6, che è la velocità media di un essere umano in metri per  un'azione minore. Se il valore di un moltiplicatore di velocità animale scende al di sotto
+del valore trovato nella colonna Velocità minima, arrotondalo al minimo Valore di velocità.
 
 #### Tabella: Armi Animali
 
@@ -196,40 +193,40 @@ Valore di velocità.
 
 #### Tabella: Armatura Animale
 
-| 2D6       | Armatura |
-|:---------:|:--------:|
-| 1 o meno  | 0        |
-| 2         | 0        |
-| 3         | 0        |
-| 4         | 1        |
-| 5         | 1        |
-| 6         | 2        |
-| 7         | 2        |
-| 8         | 3        |
-| 9         | 3        |
-| 10        | 4        |
-| 11        | 4        |
-| 12        | 5        |
-| 13        | 5        |
-| 14        | 6        |
-| 15        | 6        |
-| 16        | 7        |
-| 17+       | 7        |
+| 2D6      | Armatura |
+|:--------:|:--------:|
+| 1 o meno | 0        |
+| 2        | 0        |
+| 3        | 0        |
+| 4        | 1        |
+| 5        | 1        |
+| 6        | 2        |
+| 7        | 2        |
+| 8        | 3        |
+| 9        | 3        |
+| 10       | 4        |
+| 11       | 4        |
+| 12       | 5        |
+| 13       | 5        |
+| 14       | 6        |
+| 15       | 6        |
+| 16       | 7        |
+| 17+      | 7        |
 
 #### Tabella: Danno secondo Forza
 
-| Forza    | Danno  |
-|:--------:|:------:|
-| 1–10     | 1D6    |
-| 11–20    | 2D6    |
-| 21–30    | 3D6    |
-| 31–40    | 4D6    |
-| 41–50    | 5D6    |
-| 51–60    | 6D6    |
-| 61-70    | 7D6    |
-| 71-80    | 8D6    |
-| 81-90    | 9D6    |
-| 91+      | 10D6   |
+| Forza | Danno |
+|:-----:|:-----:|
+| 1–10  | 1D6   |
+| 11–20 | 2D6   |
+| 21–30 | 3D6   |
+| 31–40 | 4D6   |
+| 41–50 | 5D6   |
+| 51–60 | 6D6   |
+| 61-70 | 7D6   |
+| 71-80 | 8D6   |
+| 81-90 | 9D6   |
+| 91+   | 10D6  |
 
 #### Tabella: Moltiplicatori di Velocità Animale per Sottotipo
 
@@ -238,7 +235,7 @@ Valore di velocità.
 | Carnivoro      |                            |                 |
 | Inseguitore    | 1D6-2                      | 2               |
 | Uccisore       | 1D6-3                      | 1               |
-| Saltatatore    | 1D6-4                      | 1               |
+| Saltatore      | 1D6-4                      | 1               |
 | Sirena         | 1D6-4                      | 0               |
 | Intrappolatore | 1D6-5                      | 0               |
 | Erbivoro       |                            |                 |
@@ -261,7 +258,7 @@ Il seguente formato viene utilizzato per rappresentare le statistiche di gioco d
 
 > \[Nome Animale; opzionale\]
 > 
-> \[Taglia\]kg \[Sottotipo\] (\[Tipo\]), \[Terreno\] \[Movimento\], \[PPU > Animale, sostituire Educazioe con Instnto e Status Sociale con Branco\],
+> \[Taglia\]kg \[Sottotipo\] (\[Tipo\]), \[Terreno\] \[Movimento\], \[PPU > Animale, sostituire Educazione con Istinto e Status Sociale con Branco\],
 > \#Inc: \[Numero di Incontri\]
 > 
 > \[Lista delle abilità, in ordine alfabetico, con il livello di abilità > segnato dopo il nome delle abilità\]
@@ -272,11 +269,10 @@ Il seguente formato viene utilizzato per rappresentare le statistiche di gioco d
 
 Per esempio, questa creatura potrebbe rappresentare un piccolo alieno volante parassita che ama sminuzzare le cose e mangiarle:
 
-6kg Divoratore (Onnivoro), Colline Volante, 6A5168, \#Inc: 2d6
-
-Atletica-0, Mischia(Armi Naturali)-1, Ricognizione-1, Sopravvivenza-2
-
-Artigli (2d6); Nascondersi (1); Velocità: 6m
+> 6kg Divoratore (Onnivoro), Colline Volante, 6A5168, \#Inc: 2d6
+> Atletica-0, Mischia(Armi Naturali)-1, Ricognizione-1, Sopravvivenza-2
+> 
+> Artigli (2d6); Nascondersi (1); Velocità: 6m
 
 ## Animali in Combattimento
 
@@ -332,7 +328,7 @@ Ogni voce dovrebbe essere generata a turno. Quando una tabella degli incontri in
 #### Tabella: Incontri su Terreno Collinare
 
 | 2d6 | \#Inc                                                                                          | Taglia  | Sottotipo         | Movimento | PPU    | Armi                             | Armatura        |
-|-----|------------------------------------------------------------------------------------------------|---------|-------------------|-----------|--------|----------------------------------|-----------------|
+| --- | ---------------------------------------------------------------------------------------------- | ------- | ----------------- | --------- | ------ | -------------------------------- | --------------- |
 | 2   | 2d6                                                                                            | 100kg   | Dirottatore (S)   | C 12m     | 9H91A7 | Denti (1d6)                      | Pelliccia (2)   |
 | 3   | 4d6                                                                                            | 200kg   | Raccoglitore (O)  | C 6m      | CC816D | Denti (2d6)                      | Scaglie (3)     |
 | 4   | 1d6                                                                                            | 25kg    | Intimidatore (S)  | C 6m      | 995174 | Artigli (1d6), denti (1d6)       | Nascondersi (3) |
@@ -351,7 +347,7 @@ Ogni giorno una banda di avventurieri può avere uno o più incontri con alcune 
 
 Inoltre, sono sempre possibili incontri specifici in luoghi specifici. Per esempio, l'Arbitro potrebbe aver già popolato un luogo (forse un rudere) con animali specifici. Questi non sono soggetti alle normali regole degli incontri casuali.
 
-Per la loro natura senza vita, i mondi nel Vuoto (e qualsiasi altro mondo senza vita) tendono ad avere tabelle degli incontri composte principalmente da eventi. In un mondo senz'aria, gli eventi potrebbero includere pozze di limo che funzionano come una sabbie mobili, anomalie magnetiche, eruzioni solari o forse tracce lasciate da esploratori precedenti.
+Per la loro natura senza vita, i mondi di tipo Vuoto (e qualsiasi altro mondo senza vita) tendono ad avere tabelle degli incontri composte principalmente da eventi. In un mondo senz'aria, gli eventi potrebbero includere pozze di limo che funzionano come una sabbie mobili, anomalie magnetiche, eruzioni solari o forse tracce lasciate da esploratori precedenti.
 
 ## Reazioni Animali negli Incontri
 
@@ -360,12 +356,12 @@ Quando i personaggi disturbano un animale o attirano in altro modo l'attenzione 
 #### Tabella: Reazioni Animali per Sottotipo
 
 | Tipo           | Attacco                                                                                                          | Fuga                               |
-|----------------|------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| -------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | Carnivoro      |                                                                                                                  |                                    |
 | Inseguitore    | Se i cacciatori sono più numerosi dei personaggi, attaccano.                                                     | 5-                                 |
 | Uccisore       | 6+                                                                                                               | 3-                                 |
 | Saltatore      | Se il saltatore ha sorpresa, attacca.                                                                            | Se il saltatore è sorpreso, fugge. |
-| Sirena         | Se la sirena hs sorpresa, attacca.                                                                               | 4-                                 |
+| Sirena         | Se la sirena ha sorpresa, attacca.                                                                               | 4-                                 |
 | Intrappolatore | Se l'intrappolatore ha sorpresa, attacca.                                                                        | 5-                                 |
 | Erbivoro       |                                                                                                                  |                                    |
 | Filtro         | 10+ se possibile                                                                                                 | 5-                                 |
