@@ -1,4 +1,4 @@
-# CHAPTER 16: ARBITRARE IL GIOCO
+# CAPITOLO 16: ARBITRARE IL GIOCO
 
 L'Arbitro è la persona che si assume la responsabilità di condurre una partita del Cepheus Engine. L'Arbitro crea l'avventura, la guida attraverso i giocatori, assume i ruoli dei vari personaggi non giocanti che i personaggi giocanti incontrano e gestisce qualsiasi domanda sulle regole. Sebbene gestire il gioco sia una grande responsabilità, non è così difficile come potrebbe sembrare e fornire un gioco divertente e divertente per i tuoi amici può essere piuttosto gratificante.
 
