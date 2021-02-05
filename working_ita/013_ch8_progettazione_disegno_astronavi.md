@@ -14,7 +14,7 @@ La progettazione delle nave spaziali segue un processo molto metodico nelle rego
 
 1.  Scegli uno scafo per la nave
     1.  Determina la configurazione dello scafo
-    2.  Installa armatura (opzionale)
+    2.  Installa la corazza (opzionale)
 2.  Scegli il motore di manovra (opzionale, ma altamente consigliato)
 3.  Scegli i motori di Balzo (opzionale)
 4.  Scegli il generatore
@@ -75,7 +75,7 @@ Una nave può avere una qualsiasi delle tre configurazioni: standard (un cuneo, 
 
 **Standard**: Una nave con scafo standard può ancora entrare nell'atmosfera ma è molto sgraziata e pesante, capace solo di fare una planata controllata verso la superficie. Riportarlo nello spazio richiede un'elaborata configurazione di lancio e una spesa considerevole. Una nave con scafo standard può avere bocchettoni per raccogliere carburante da un gigante del gas, ma il processo sarà molto più difficile e meno efficiente. Le navi più grandi di questo tipo trasporteranno spesso un sottomarino specializzato per eseguire l'effettiva scrematura atmosferica.
 
-**Razionalizzato**: la razionalizzazione di una nave aumenta il costo dello scafo del 10%. Questa razionalizzazione include bocchettoni per il carburante che consentono la schiumatura di carburante non raffinato da giganti gassosi o la raccolta di acqua da laghi o oceani aperti. La razionalizzazione potrebbe non essere adattata; deve essere incluso al momento della costruzione.
+**Razionalizzato**: la razionalizzazione di una nave aumenta il costo dello scafo del 10%. Questa razionalizzazione include bocchettoni per il carburante che consentono il prelievo di carburante non raffinato da giganti gassosi o la raccolta di acqua da laghi o oceani aperti. La razionalizzazione potrebbe non essere adattata; deve essere incluso al momento della costruzione.
 
 **Distribuito**: una nave distribuita riduce il costo del suo scafo del 10%. È completamente non aerodinamico e se entra in un'atmosfera o in una forte gravità cadrà sulla superficie del pianeta. Non può montare prese di carburante.
 
@@ -87,19 +87,19 @@ Una nave può avere una qualsiasi delle tre configurazioni: standard (un cuneo, 
 | Standard       | x1.0                               | Le operazioni in atmosfera subiscono un MD-2                                                                                         |
 | Razionalizzato | x1.1                               | Include i bocchettoni di carburante                                                                                                  |
 
-### Ship Armor
+### Corazza della nave
 
-Armor is added in 5% increments of the ship’s tonnage. An armored ship decreases radiation exposure from space phenomena by 400 rads. (This does not apply to meson attacks and nuclear missiles, which bypass the armor or breach the hull to deliver their radiation hits).
+La corazza viene aggiunta con incrementi del 5% del tonnellaggio della nave. Una nave corazzata riduce l'esposizione alle radiazioni da fenomeni spaziali di 400 rad. (Questo non si applica agli attacchi mesonici e ai missili nucleari, che aggirano la corazza o violano lo scafo per sferrare i loro colpi a radiazioni).
 
-#### Table: Ship Armor by Type
+#### Tabella: Corazza per Tipo
 
-| Armor Type        | TL  | Protection              | Cost             |
-|-------------------|-----|-------------------------|------------------|
-| Titanium Steel    | 7   | 2 per 5%, minimum 1 ton | 5% of base hull  |
-| Crystaliron       | 10  | 4 per 5%, minimum 1 ton | 20% of base hull |
-| Bonded Superdense | 14  | 6 per 5%, minimum 1 ton | 50% of base hull |
+| Tipo di corazza   | LT | Protezione           | Costo                   |
+|-------------------|----|----------------------|-------------------------|
+| Titanio           | 7  | 2 per 5%, minimo 1 t | 5% dello scafo di base  |
+| Crystaliron       | 10 | 4 per 5%, minimo 1 t | 20% dello scafo di base |
+| Superdensa | 14 | 6 per 5%, minimo 1 t | 50% dello scafo di base |
 
-For example, a heavily armored warship might take Bonded Superdense armor twice. This would take up 10% of the hull’s volume and cost 100% of the base cost of the hull, but give 12 points of armor.
+Per esempio, una nave da guerra pesantemente corazzata potrebbe installare due volte la corazza Superdensa. Ciò richiederebbe il 10% del volume dello scafo e costerebbe il 100% del costo base dello scafo, ma darebbe 12 punti di corazza.
 
 ### Ship Armor Options
 
