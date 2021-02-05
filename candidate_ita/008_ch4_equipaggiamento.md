@@ -770,7 +770,7 @@ e li rende capaci di fare azioni, persino negli ambienti più insoliti.
 | Zaino Propulsore         | 9   | Cr2,000   | 5    |
 | Generatore Portatile     | 10  | Cr500,000 | 15   |
 
-**Abbigliamento Artico: **Protegge dal clima glaciale (-20°C o meno).
+**Abbigliamento Artico**: Protegge dal clima glaciale (-20°C o meno).
 Fornisce un MD+2 su tutte le prove di Resistenza effettuate per
 resistere agli effetti di esposizione al clima freddo. Il peso è ridotto
 di 1kg ogni 5 LT.
@@ -847,11 +847,11 @@ Le abilità tecniche richiedono strumenti specialistici di vario tipo.
 | Toolkit Scientifico    | 9   | Cr1,000 | 12   |
 | Toolkit di Agrimensura | 9   | Cr1,000 | 12   |
 
-**Grimaldelli: **Permettono di forzare normali serratura meccaniche. Gli
+**Grimaldelli**: Permettono di forzare normali serratura meccaniche. Gli
 strumenti da scasso sono illegali sui mondi con livello di legge 8+; su
 questi mondi il prezzo cresce a Cr100 o più.
 
-**Kit Medico: **Questo kit medico contiene dispositivi diagnostici e
+**Kit Medico**: Questo kit medico contiene dispositivi diagnostici e
 scanner, strumenti chirurgici e una quantità di medicinali e
 antibiotici, permettendo al medico di praticare l’arte nel suo campo.
 
