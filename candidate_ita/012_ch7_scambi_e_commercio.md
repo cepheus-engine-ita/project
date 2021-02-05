@@ -15,7 +15,7 @@ Il commercio speculativo segue una procedura di base. La seguente checklist deli
 
 ## Trovare un fornitore
 
-Il primo passo del processo è semplice: trova un fornitore con qualcosa da vendere. I personaggi possono cercare più fornitori, ma c'è un MD-1 per tentativo precedente su un pianeta in un dato mese.
+Il primo passo del processo è semplice: trova un fornitore con qualcosa da vendere. I personaggi possono cercare più fornitori, ma è applicato un MD-1 per tentativo precedente su un pianeta in un dato mese.
 
 *Trovare un fornitore*: Intermediario, Educazione o Status Sociale, 1D6 giorno, Difficoltà Media (+0).
 
