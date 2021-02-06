@@ -101,68 +101,67 @@ La corazza viene aggiunta con incrementi del 5% del tonnellaggio della nave. Una
 
 Per esempio, una nave da guerra pesantemente corazzata potrebbe installare due volte la corazza Superdensa. Ciò richiederebbe il 10% del volume dello scafo e costerebbe il 100% del costo base dello scafo, ma darebbe 12 punti di corazza.
 
-### Ship Armor Options
+### Opzioni per le corazze delle navi
 
-The following are options that can be added to a ship’s armor.
+Le seguenti sono opzioni che possono essere aggiunte alla corazza di una nave.
 
-**Reflec** (TL 10): Reflec coating on the hull increases the ship’s armor against lasers by 3. Adding Reflec costs MCr0.1 per ton of hull and can only be added once.
+**Reflec** (LT 10): Il rivestimento Reflec sullo scafo aumenta la corazza della nave per un valore pari a  3 contro i laser. Aggiungere il Reflex costa MCr0.1 per tonnellata di scafo e può essere aggiunto solo una volta.
 
-**Self-Sealing** (TL 9): A self-sealing hull automatically repairs minor breaches such as micrometeoroid impacts, and prevents hull hits from leading to explosive decompression. It costs MCr0.01 per ton of hull.
+**Autosigillante** (LT 9): uno scafo autosigillante ripara automaticamente piccole rotture come gli impatti di micrometeoriti e impedisce che i colpi allo scafo portino a una decompressione esplosiva. Costa 0,01 MCr per tonnellata di scafo.
 
-**Stealth** (TL 11): A stealth coating absorbs radar and lidar beams, and also disguises heat emissions. This gives a –4 DM on any Comms rolls to detect or lock onto the ship. Adding Stealth costs MCr0.1 per ton of hull, and can only be added once.
+**Stealth** (LT 11): un rivestimento stealth assorbe i raggi radar e lidar e nasconde le emissioni di calore. Questo dà un MD–4 su ogni tiro di Comunicazione per rilevare o agganciare la nave. Aggiungere lo Stealth costa MCr0.1 per tonnellata di scafo e può essere aggiunto solo una volta.
 
-### Hull and Structure
+### Scafo e struttura
 
-Initial damage is applied to the Hull; once the Hull is breached, further damage goes to the Structure. When all Structure Points have been lost, the ship has been smashed to pieces. A ship has one Hull Point per 50 tons of displacement (rounded down) and one Structure Point per 50 tons of displacement (rounded up).
+Il danno iniziale viene applicato allo scafo; una volta che si fa breccia nello scafo, ulteriori danni vanno alla struttura. Quando tutti i punti struttura sono stati esauriti, la nave è stata fatta a pezzi. Una nave ha un Punto Scafo per 50 tonnellate di dislocamento (arrotondato per difetto) e un Punto Struttura per 50 tonnellate di dislocamento (arrotondato per eccesso).
 
-## Ship Sections
+## Sezioni della nave
 
-Most vessels are divided into two primary sections.
+La maggior parte delle navi è divisa in due sezioni principali.
 
-### The Engineering Section
+### La Sezione Ingegneria
 
-The Engineering section contains the drives and power plant necessary
-for proper operation and movement.
+La sezione Ingegneria contiene i motori e il generatore necessari per il corretto funzionamento e movimento.
 
-### The Main Compartment
+### Il Compartimento Principale
 
-The ship’s main compartment contains all non-drive features of the ship, including the bridge, ship’s computer, the staterooms, the low passage berths, the cargo hold and other items.
+Il Compartimento Principale della nave contiene tutte le funzioni della nave non inerenti al motore, inclusi il ponte, il computer della nave, le cabine, le cuccette per il Passaggio Minore, la stiva e altri oggetti.
 
-## Ship Drives
+## Motori
 
-A non-starship must have a maneuver drive (M-Drive) and a power plant (P-Plant). A starship must have a Jump drive (J-Drive) and a power plant; a maneuver drive may also be installed, but is not required.
+Una nave non stellare deve avere un motore di manovra (Motore-M) e un generatore (Generatore). Un'astronave deve avere un motore a Balzo (Motore-B) e un generatore; può essere installato anche un motore di manovra, ma non è necessario.
 
-#### Table: Drive Costs
+#### Tabella: Costi dei Motori
 
-| Drive Code | J-Drive Tons  | MCr | M-Drive Tons  | MCr | P-Plant Tons  | MCr |
-|------------|---------------|-----|---------------|-----|---------------|-----|
-| A          | 10            | 10  | 2             | 4   | 4             | 8   |
-| B          | 15            | 20  | 3             | 8   | 7             | 16  |
-| C          | 20            | 30  | 5             | 12  | 10            | 24  |
-| D          | 25            | 40  | 7             | 16  | 13            | 32  |
-| E          | 30            | 50  | 9             | 20  | 16            | 40  |
-| F          | 35            | 60  | 11            | 24  | 19            | 48  |
-| G          | 40            | 70  | 13            | 28  | 22            | 56  |
-| H          | 45            | 80  | 15            | 32  | 25            | 64  |
-| J          | 50            | 90  | 17            | 36  | 28            | 72  |
-| K          | 55            | 100 | 19            | 40  | 31            | 80  |
-| L          | 60            | 110 | 21            | 44  | 34            | 88  |
-| M          | 65            | 120 | 23            | 48  | 37            | 96  |
-| N          | 70            | 130 | 25            | 52  | 40            | 104 |
-| P          | 75            | 140 | 27            | 56  | 43            | 112 |
-| Q          | 80            | 150 | 29            | 60  | 46            | 120 |
-| R          | 85            | 160 | 31            | 64  | 49            | 128 |
-| S          | 90            | 170 | 33            | 68  | 52            | 136 |
-| T          | 95            | 180 | 35            | 72  | 55            | 144 |
-| U          | 100           | 190 | 37            | 76  | 58            | 152 |
-| V          | 105           | 200 | 39            | 80  | 61            | 160 |
-| W          | 110           | 210 | 41            | 84  | 64            | 168 |
-| X          | 115           | 220 | 43            | 88  | 67            | 176 |
-| Y          | 120           | 230 | 45            | 92  | 70            | 182 |
-| Z          | 125           | 240 | 47            | 96  | 73            | 192 |
+| Codice Motore | Motore-B (t) | MCr | Motore-M (t) | MCr | Generatore (t) | MCr |
+|---------------|--------------|-----|--------------|-----|----------------|-----|
+| A             | 10           | 10  | 2            | 4   | 4              | 8   |
+| B             | 15           | 20  | 3            | 8   | 7              | 16  |
+| C             | 20           | 30  | 5            | 12  | 10             | 24  |
+| D             | 25           | 40  | 7            | 16  | 13             | 32  |
+| E             | 30           | 50  | 9            | 20  | 16             | 40  |
+| F             | 35           | 60  | 11           | 24  | 19             | 48  |
+| G             | 40           | 70  | 13           | 28  | 22             | 56  |
+| H             | 45           | 80  | 15           | 32  | 25             | 64  |
+| J             | 50           | 90  | 17           | 36  | 28             | 72  |
+| K             | 55           | 100 | 19           | 40  | 31             | 80  |
+| L             | 60           | 110 | 21           | 44  | 34             | 88  |
+| M             | 65           | 120 | 23           | 48  | 37             | 96  |
+| N             | 70           | 130 | 25           | 52  | 40             | 104 |
+| P             | 75           | 140 | 27           | 56  | 43             | 112 |
+| Q             | 80           | 150 | 29           | 60  | 46             | 120 |
+| R             | 85           | 160 | 31           | 64  | 49             | 128 |
+| S             | 90           | 170 | 33           | 68  | 52             | 136 |
+| T             | 95           | 180 | 35           | 72  | 55             | 144 |
+| U             | 100          | 190 | 37           | 76  | 58             | 152 |
+| V             | 105          | 200 | 39           | 80  | 61             | 160 |
+| W             | 110          | 210 | 41           | 84  | 64             | 168 |
+| X             | 115          | 220 | 43           | 88  | 67             | 176 |
+| Y             | 120          | 230 | 45           | 92  | 70             | 182 |
+| Z             | 125          | 240 | 47           | 96  | 73             | 192 |
 
 
-#### Table: Drive Performance by Hull Volume, Smaller Hulls
+#### Tabella: Performance del Motore per Volume dello Scafo (Scafi Minori)
 
 |     | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000 |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
@@ -191,7 +190,7 @@ A non-starship must have a maneuver drive (M-Drive) and a power plant (P-Plant).
 | Y   | –   | –   | –   | –   | –   | –   | 6   | 6   | 6   | 6    |
 | Z   | –   | –   | –   | –   | –   | –   | 6   | 6   | 6   | 6    |
 
-#### Table: Drive Performance by Hull Volume, Larger Hulls
+#### Tabella: Performance del Motore per Volume dello Scafo (Scafi Maggiori)
 
 |     | 1200 | 1400 | 1600 | 1800 | 2000 | 3000 | 4000 | 5000 |
 |-----|------|------|------|------|------|------|------|------|
@@ -220,7 +219,7 @@ A non-starship must have a maneuver drive (M-Drive) and a power plant (P-Plant).
 | Y   | 5    | 5    | 5    | 4    | 4    | 3    | 2    | 1    |
 | Z   | 6    | 5    | 5    | 5    | 4    | 4    | 2    | 2    |
 
-For maneuver drives, the potential is the Thrust number (Tn), which is the number of Gs acceleration available. For Jump drives, the potential is the Jump number (Jn), or Jump range in parsecs. The power plant rating (A-Z) must be at least equal to either the maneuver drive or Jump drive rating, whichever is higher.
+Per i motori di manovra, il potenziale è il numero di spinta (Np), che è la quantità di G disponibile. Per le unità a Balzo, il potenziale è il numero di Balzo (Nb) o il raggio di Balzo in parsec. Il valore nominale della centrale (A-Z) deve essere almeno uguale al valore del motore di manovra o del motore di Balzo, a seconda di quale sia maggiore.
 
 ### Fuel
 
