@@ -457,11 +457,11 @@ Il tonnellaggio e il costo delineati nella tabella *Costo e tonnellaggio dell'ha
 
 ## Armamenti
 
-Una nave ha un punto fisso ogni 100 tonnellate di nave e ogni sistema d'arma ne occupa uno. Un sistema d'arma può includere più armi: ad esempio, una torretta tripla contiene tre laser, lanciamissili, spargisabbia o una combinazione di tre armi.
+Una nave ha un pilone alare ogni 100 tonnellate di nave e ogni sistema d'arma ne occupa uno. Un sistema d'arma può includere più armi: ad esempio, una torretta tripla contiene tre laser, lanciamissili, spargisabbia o una combinazione di tre armi.
 
 ### Torrette
 
-Una torretta può essere attaccata a ogni punto fisso della nave. Se è installata una torretta, è necessario assegnare una tonnellata di spazio ai sistemi di controllo antincendio:
+Una torretta può essere attaccata a ogni pilone alare della nave. Se è installata una torretta, è necessario assegnare una tonnellata di spazio ai sistemi di controllo antincendio:
 
 #### Tabella: Dislocamento e Costo Torrette
 
@@ -549,262 +549,234 @@ Gli **Schermi antimesoni** bloccano gli attacchi delle armi mesoniche prevenendo
 
 Gli **Smorzatori Nucleari** inibiscono le reazioni di fusione, riducendo i danni da armi a fusione e missili nucleari di 2D6 quando vengono colpiti.
 
-## Universal Ship Description Format
+## Formato descrizione nave universale
 
-After a ship design has been created, it must be presented in a format that allows players to use the information within the game. The Cepheus Engine describes ship designs using a universal ship description format, which is essentially a paragraph of text laid out in the following manner. Examples can be found in **Chapter 9: Common Vessels**.
+Dopo che la progettazione di una nave è terminata, deve essere presentata in un formato che consenta ai giocatori di utilizzare le informazioni all'interno del gioco. Il Cepheus Engine descrive i progetti delle navi utilizzando un formato di descrizione della nave universale, che è essenzialmente un paragrafo di testo disposto nel modo seguente. Esempi possono essere trovati nel **Capitolo 9: Vascelli comuni**.
 
-\[Ship's Tech Level\] \[Ship Descriptive Name\]
+\[Livello Tecnologico della Nave\] \[Nome della Nave\]
 
-Using a \[Ship Hull Displacement\]-ton hull (\[Hull Damage Value\] Hull,
-\[Structure Damage Value\] Structure,), the \[Ship Descriptive Name\] is
-\[General Description of Ship's Function\]. It mounts jump drive \[Jump
-Drive Code\], maneuver drive \[Maneuver Drive Code\], and power plant
-\[Power Plant Code\], giving a performance of Jump-\[Jump Number\] and
-\[Thrust Number\]-G acceleration. Fuel tankage of \[Fuel Tonnage\] tons
-supports the power plant for \[Weeks of Power\] and \[Number of Jumps\]
-jump-\[Jump Number\]. \[Any additional fuel usage notes.\] Adjacent to
-the bridge is a computer Model \[Computer Number, followed by a slash
-and bis or fib options noted, if purchased\]. The ship is equipped with
-\[Sensors Type\] sensors (\[Sensors DM\].) There are \[Number of
-Staterooms\] staterooms and \[Number of Low Berths\] low berths. The
-ship has \[Number of Hardpoints\] hardpoints and \[Fire Control
-Tonnage\] tons allocated for fire control. Installed on the hardpoints
-are \[Describe number and type of turrets, and any weapon systems that
-have been installed, if any. Also note any ammunition carried for
-missiles and sandcasters.\] This ship has \[Number of Screens
-Installed\] screens: \[Describe number and type of screens\]. There are
-\[Number of Small Craft Hangers\] small craft hangars, \[Describe number
-and contents of each hangar\]. Cargo capacity is \[Cargo Tonnage\] tons.
-The hull is \[Hull Configuration\], and is armored with \[Armor Type\]
-(\[Armor Rating\] points.) \[Note any Ship's Armor options that have
-been installed.\] Special features include \[List additional components
-here, included fuel processors and fuel scoops\]. The ship requires a
-crew of \[Crew Total\]: \[List crew positions\]. The ship can carry up
-to \[Double the Number of Non-Crew Staterooms\] additional passengers at
-double occupancy and \[Number of Low Berths\] low passengers. The ship
-costs MCr\[Cost of Ship\] (including discounts and fees) and takes
-\[Construction Time\] weeks to build.
+Utilizzando un \[Dislocamento dello scafo della nave \] - tonnellate di scafo (\[Valore di danno allo scafo\] Scafo, \[Valore di danno alla struttura \] Struttura,), il \[Nome della nave\] è \[Descrizione generale della funzione della nave\]. Monta motore a Balzo \[Codice motore a Balzo\], motore di manovra \[Codice motore di manovra\] e generatore \[Codice generatore\], fornendo prestazioni di Balzo - \[numero di Balzo\] e \[numero di spinta\] - Accelerazione G. Un serbatoio di \[Tonnellate di carburante\] tonnellate supporta il generatore per \Settimane di energia\] e \[Numero di Balzi\] balzo-\[Numero di Balzo\]. \[Eventuali note aggiuntive sull'utilizzo di carburante.\] Adiacente al ponte c'è un modello di computer \[Numero computer, seguito da una barra e da una nota delle opzioni bis o fib, se acquistate\]. La nave è dotata di sensori \[Tipo di sensori\] (\[Sensori MD\].) Ci sono \[Numero di cabine\] cabine e \[Numero di cuccette inferiori\] cuccette inferiori. La nave ha \[Numero di piloni alari\] piloni alari e \[Tonnellaggio controllo incendi\] tonnellate assegnate per il controllo del fuoco. Sui piloni alari sono installati \[Descrivi il numero e il tipo di torrette e tutti i sistemi d'arma installati, se ce ne sono. Nota anche le munizioni trasportate per missili e spargisabbia.\] Questa nave ha schermi \[Numero di schermi installati\]: \[Descrivi numero e tipo di schermi\]. Ci sono \[Numero di hangar per veicoli piccoli\] hangar per veicoli piccoli \[Descrivi il numero e il contenuto di ogni hangar\]. La capacità di carico è di \[Tonellate di carico\] tonnellate. Lo scafo è \[Configurazione scafo\] ed è blindato con \[Tipo di corazza\] (\[Valore corazza\] punti.) \[Segna le opzioni di corazza della nave che sono state installate.\] Le caratteristiche speciali includono \[Elenco componenti aggiuntivi qui, inclusi processori di carburante e bocchettoni di carburante\]. La nave richiede un equipaggio di \[Totale equipaggio\]: \[Elenca posizioni equipaggio\]. La nave può trasportare fino a \[il doppio del numero di cabine senza equipaggio\] passeggeri aggiuntivi in ​​doppia occupazione e \[numero di cuccette inferiori\] passeggeri di classe inferiore. La nave costa MCr \[Costo della nave\] (inclusi sconti e commissioni) e richiede \[Tempo di costruzione\] settimane per essere costruita.
 
-## Alternative Star Drives
+## Motori Stellari Alternativi
 
-In classic era science-fiction games such as the Cepheus Engine, the only form of faster-than-light movement is typically the Jump drive, which always takes one week to travel a number of parsecs equal to its Jump rating and consumes a vast amount of fuel. If the Referee wishes to model other science fiction settings with their own forms of “star drive”, the classic Jump drive rules may not be entirely appropriate. The alternative drives below use all the same rules as the Jump drive (mass, fuel, power consumption, range) unless otherwise stated.
+Nei giochi di fantascienza dell'era classica come Cepheus Engine, l’unica forma di movimento più veloce della luce è sempre stato il classico motore a Balzo, che impiega sempre una settimana per attraversare un numero di parsec pari al suo punteggio di Balzo e consuma un’enorme quantità di carburante. Se l’Arbitro vuole prendere a modello altre ambientazioni fantascientifiche con la loro forma di motore stellare, le regole del motore a Balzo classico potrebbero non essere completamente adeguate. I motori alternativi descritti di seguito usano le stesse regole del motore a Balzo (massa, carburante, consumo di energia, portata) a meno che non sia specificato altrimenti.
 
-Some of these drives consume much less fuel or allow much faster travel than the Jump drive, so introducing these drives will vastly impact the carrying capacity of a starship, the profitability of trade, the speed of communication and so forth.
+Alcuni di questi motori consumano meno carburante, o permettono viaggi più veloci del motore a Balzo, per cui introdurli avrà un impatto fortissimo sulla capacità di trasporto di un’astronave, la redditività del commercio, la velocità di comunicazione e così via.
 
-### Warp Drive
+### Motore a Curvatura
 
-The ship warps space around it, allowing it to move faster-than-light while staying in our universe. A warp drive does not have a maximum range – instead, the ship’s drive rating indicates the number of parsecs crossed per week of travel. Warp travel consumes fuel at twice the normal rate for the ship’s power plant rather than needing a single massive expenditure in the manner of a Jump drive.
+La nave curva lo spazio attorno a sé, cosa che le permette di muoversi più veloce della luce pur restando nel nostro universo. Un motore a curvatura non ha una portata massima – invece, il punteggio di motore della nave indica il numero di parsec attraversati per ogni settimana di viaggio. Il motore a curvatura consuma il carburante al doppio della normale velocità del generatore della nave, invece di aver bisogno di un singolo, massiccio consumo come un motore a Balzo.
 
-### Teleport Drive
+### Motore a Teletrasporto
 
-The ship instantaneously jumps from one point to another. This works just like the standard Jump drive without the week-long wait in hyperspace. Instead, no time whatsoever elapses during the transition from one place to another. A teleport consumes no extra fuel but jumping is a strain on the ship’s systems and multiple successive jumps can damage the drive. 
-### Hyperspace Drive
+La nave salta istantaneamente da un punto a un altro. Questo funziona esattamente come il normale motore
+a Balzo senza l’attesa di una settimana nell’iperspazio. Invece di questo, non passa nemmeno un secondo durante la transizione da
+un luogo a un altro. Un teletrasporto non consuma carburante extra, ma saltare è uno sforzo per i sistemi della nave, e salti molteplici
+consecutivi possono danneggiare il motore.
 
-The portal drive functions by opening up a gateway into hyperspace, through which the ship can pass. When in hyperspace, the ship uses its conventional engines to travel, then opens up a second gateway back to the normal universe, effectively taking a short cut through a higher dimension. A hyperspace drive is limited by the size of the spacecraft that can pass through the portal – see the Hyperspace Portal Size table. A hyperspace drive consumes no extra fuel, but takes up twice as much space as a jump drive. While in hyperspace, the spacecraft moves at a rate of one parsec per day per maneuver drive rating.
+### Motore Iperspaziale
 
-#### Table: Hyperspace Portal Size
+Il motore a portale funziona aprendo un cancello verso l’iperspazio, attraverso cui la nave può passare. Quando è nell’iperspazio, la nave usa i suoi motori convenzionali per viaggiare, poi apre un secondo cancello per tornare nell’universo normale, prendendo in pratica una scorciatoia attraverso un’altra dimensione. Un motore iperspaziale è limitato dalle dimensioni dell’astronave che può passare attraverso il portale – si veda la tabella Dimensioni del Portale Iperspaziale. Un motore iperspaziale non consuma carburante aggiuntivo, ma occupa il doppio dello spazio di un motore a Balzo. Nell’iperspazio, l’astronave si muove ogni giorno alla velocità di un parsec moltiplicato per il punteggio del motore di manovra.
 
-| Rating | Size | Rating | Size |
-|--------|------|--------|------|
-| A      | 200  | **N**  | 2800 |
-| B      | 400  | **P**  | 3000 |
-| C      | 800  | **Q**  | 3200 |
-| D      | 1000 | **R**  | 3400 |
-| E      | 1200 | **S**  | 3600 |
-| F      | 1400 | **T**  | 3800 |
-| G      | 1600 | **U**  | 4000 |
-| H      | 1800 | **V**  | 4200 |
-| J      | 2000 | **W**  | 4400 |
-| K      | 2200 | **X**  | 4600 |
-| L      | 2400 | **Y**  | 4800 |
-| M      | 2600 | **Z**  | 5000 |
+#### Tabella: Dimensioni del Portale Iperspaziale
 
-## Alternative Power Plants
+| Classe | Dimensione | Classe | Dimensione |
+|--------|------------|--------|------------|
+| **A**  | 200        | **N**  | 2.800      |
+| **B**  | 400        | **P**  | 3.000      |
+| **C**  | 800        | **Q**  | 3.200      |
+| **D**  | 1.000      | **R**  | 3.400      |
+| **E**  | 1.200      | **S**  | 3.600      |
+| **F**  | 1.400      | **T**  | 3.800      |
+| **G**  | 1.600      | **U**  | 4.000      |
+| **H**  | 1.800      | **V**  | 4.200      |
+| **J**  | 2.000      | **W**  | 4.400      |
+| **K**  | 2.200      | **X**  | 4.600      |
+| **L**  | 2.400      | **Y**  | 4.800      |
+| **M**  | 2.600      | **Z**  | 5.000      |
 
-The Cepheus Engine system posits the development of highly efficient fusion power plants, but other settings may use different sources of power. Unless otherwise noted, these power plants use all the same rules as the standard fusion power plants.
+## Generatori Alternativi
 
-### Fission Plants
+Il Cepheus Engine presuppone lo sviluppo di generatori a fusione ad alta efficienza, ma altre ambientazioni possono usare fonti d’energia differenti. A meno che sia specificato altrimenti, questi generatori usano tutti le stesse regole dei normali generatori a fusione.
 
-A fission plant requires radioactive elements as fuel. Fission drives only produce the same amount power as a fusion drive of the same type. However, they are twice the size and price of a fusion power plant. Fission plant fuel costs Cr1,000,000 per ton. Fission plants use the same amount of fuel in a year that standard fusion power plants require for two weeks.
+### Generatori a Fissione
 
-### Antimatter Power Plants
+Un generatore a fissione richiede elementi radioattivi come carburante. I motori a fissione producono solo la metà di energia dei motori a fusione dello stesso tipo. Tuttavia, avrà il doppio delle dimensioni e del prezzo di un generatore a fusione. Il carburante del generatore a fissione costa Cr1.000.000 per tonnellata. I generatori a fissione utilizzano in un anno la stessa quantità di combustibile che i generatori a fusione standard richiedono per due settimane.
 
-Antimatter power plants work by annihilating small amounts of hydrogen and anti-hydrogen. No tonnage needs to be allocated to fuel, but the plant must be refueled once per month, at a cost of Cr5,000 per ton of drive.
+### Generatori ad Antimateria
 
-## Small Craft Design
+I generatori ad antimateria operano annichilendo piccole quantità di idrogeno e anti-idrogeno. Non è necessario allocare tonnellaggio per il carburante, ma il motore deve essere riempito una volta al mese, al costo di 5.000 Cr per tonnellata di motore
 
-Small craft design follows the rules for standard ship design, with the
-following changes.
+## Progettazione di Veicoli Piccoli
 
-### Small Craft Ship Hull
+La progettazione di piccoli veicoli segue le regole per la progettazione di navi standard, con i seguenti cambiamenti.
 
-Small craft use the Small Craft Ship Hull by Displacement table below. The cost of streamlining and distributed configurations are calculated as per standard ship design rules.
+### Scafo di Veicoli Piccoli
 
-#### Table: Ship Hull by Displacement
+I Veicoli Piccoli usano la tabella *Scafo dei Veicoli Piccoli per Dislocamento* qui sotto. Il costo delle configurazioni aerodinamica e distribuita sono calcolati con le regole standard di progettazione delle navi.
 
-| Hull    | Hull Code | Price (MCr) | Construction Time (weeks) |
-|---------|-----------|-------------|---------------------------|
-| 10 tons | s1        | 1.1         | 28                        |
-| 15 tons | s2        | 1.15        | 29                        |
-| 20 tons | s3        | 1.2         | 29                        |
-| 25 tons | s4        | 1.25        | 30                        |
-| 30 tons | s5        | 1.3         | 30                        |
-| 35 tons | s6        | 1.35        | 30                        |
-| 40 tons | s7        | 1.4         | 31                        |
-| 45 tons | s8        | 1.45        | 31                        |
-| 50 tons | s9        | 1.5         | 32                        |
-| 55 tons | sA        | 1.55        | 32                        |
-| 60 tons | sB        | 1.6         | 32                        |
-| 65 tons | sC        | 1.65        | 33                        |
-| 70 tons | sD        | 1.7         | 33                        |
-| 75 tons | sE        | 1.75        | 34                        |
-| 80 tons | sF        | 1.8         | 34                        |
-| 85 tons | sG        | 1.85        | 34                        |
-| 90 tons | sH        | 1.9         | 35                        |
-| 95 tons | sJ        | 1.95        | 35                        |
+#### Tabella: Scafo dei Veicoli Piccoli per Dislocamento
 
-### Small Craft Armor
+| Scafo | Codice Scafo | Prezzo (MCr) | Tempo di Costruzione (settimane) |
+|-------|--------------|--------------|----------------------------------|
+| 10 t  | s1           | 1,1          | 28                               |
+| 15 t  | s2           | 1,15         | 29                               |
+| 20 t  | s3           | 1,2          | 29                               |
+| 25 t  | s4           | 1,25         | 30                               |
+| 30 t  | s5           | 1,3          | 30                               |
+| 35 t  | s6           | 1,35         | 30                               |
+| 40 t  | s7           | 1,4          | 31                               |
+| 45 t  | s8           | 1,45         | 31                               |
+| 50 t  | s9           | 1,5          | 32                               |
+| 55 t  | sA           | 1,55         | 32                               |
+| 60 t  | sB           | 1,6          | 32                               |
+| 65 t  | sC           | 1,65         | 33                               |
+| 70 t  | sD           | 1,7          | 33                               |
+| 75 t  | sE           | 1,75         | 34                               |
+| 80 t  | sF           | 1,8          | 34                               |
+| 85 t  | sG           | 1,85         | 34                               |
+| 90 t  | sH           | 1,9          | 35                               |
+| 95 t  | sJ           | 1,95         | 35                               |
 
-Small craft armor is purchased in the same manner as standard ship armor. However, small craft have a maximum armor value, based on type. Armor options may be purchased as per the standard ship design rules.
+### Corazza dei Veicoli Piccoli
 
-#### Table: Maximum Small Craft Armor by Type
+La corazza dei veicoli piccoli viene acquistata allo stesso modo della corazza delle navi standard. Tuttavia, i veicoli piccoli hanno un valore di corazza massimo, in base al tipo. Le opzioni di corazza possono essere acquistate secondo le regole di progettazione delle navi standard.
 
-| Armor Type        | Maximum Armor Value         |
-|-------------------|-----------------------------|
-| Titanium Steel    | TL or 9, whichever is less  |
-| Crystaliron       | TL or 13, whichever is less |
-| Bonded Superdense | TL                          |
+#### Tabella: Massima Corazza dei Veicoli Piccoli per Tipo
 
-### 
+| Tipo Corazza | Valore Massimo di Corazza           |
+|--------------|-------------------------------------|
+| Titanio      | LT o 9, qualunque sia il più basso  |
+| Crystaliron  | LT o 13, qualunque sia il più basso |
+| Superdenso   | LT                                  |
 
-### Small Craft Drives
+### Motori di Veicoli Piccoli
 
-A small craft must have a maneuver drive (M-Drive) and a power plant (P-Plant). The costs for each are captured in the Small Craft Drive Costs table. The performance of small craft drives are found in the Small Craft Drive Performance by Hull Volume table.
+Un veicolo piccolo deve avere un motore di manovra (Motore-M) e un generatore (Generatore). I costi di ciascuno sono riportati nella tabella *Costi dei motori per veicoli piccoli*. Le prestazioni dei motori di veicoli piccoli si trovano nella tabella *Prestazioni motori di veicoli piccoli in base al volume dello scafo*.
 
-#### Table: Small Craft Drive Costs
+#### Tabella: Costi dei motori per veicoli piccoli
 
-| Drive Code | M-Drive Tonnage | MCr | P-Plant Tonnage | MCr |
-|------------|-----------------|-----|-----------------|-----|
-| sA         | 0,5             | 1   | 1,2             | 3   |
-| sB         | 1,              | 2   | 1,5             | 3,5 |
-| sC         | 1,5             | 3   | 1,8             | 4   |
-| sD         | 2,              | 3,5 | 2,1             | 4,5 |
-| sE         | 2,5             | 4   | 2,4             | 5   |
-| sF         | 3,              | 6   | 2,7             | 5,5 |
-| sG         | 3,5             | 8   | 3               | 6   |
-| sH         | 4,              | 9   | 3,3             | 6,5 |
-| sJ         | 4,5             | 10  | 3,6             | 7   |
-| sK         | 5               | 11  | 3,9             | 7,5 |
-| sL         | 6               | 12  | 4,5             | 8   |
-| sM         | 7               | 14  | 5,1             | 9   |
-| sN         | 8               | 16  | 5,7             | 10  |
-| sP         | 9               | 18  | 6,3             | 12  |
-| sQ         | 10              | 20  | 6,9             | 14  |
-| sR         | 11              | 22  | 7,5             | 16  |
-| sS         | 12              | 24  | 8,1             | 18  |
-| sT         | 13              | 26  | 8,7             | 20  |
-| sU         | 14              | 28  | 9,3             | 22  |
-| sV         | 15              | 30  | 9,.9            | 24  |
-| sW         | 16              | 32  | 10,5            | 26  |
+| Codice Motore | Tonnellate Motore-M | MCr | Tonnellate Generatore | MCr |
+|---------------|---------------------|-----|-----------------------|-----|
+| sA            | 0,5                 | 1   | 1,2                   | 3   |
+| sB            | 1,                  | 2   | 1,5                   | 3,5 |
+| sC            | 1,5                 | 3   | 1,8                   | 4   |
+| sD            | 2,                  | 3,5 | 2,1                   | 4,5 |
+| sE            | 2,5                 | 4   | 2,4                   | 5   |
+| sF            | 3,                  | 6   | 2,7                   | 5,5 |
+| sG            | 3,5                 | 8   | 3                     | 6   |
+| sH            | 4,                  | 9   | 3,3                   | 6,5 |
+| sJ            | 4,5                 | 10  | 3,6                   | 7   |
+| sK            | 5                   | 11  | 3,9                   | 7,5 |
+| sL            | 6                   | 12  | 4,5                   | 8   |
+| sM            | 7                   | 14  | 5,1                   | 9   |
+| sN            | 8                   | 16  | 5,7                   | 10  |
+| sP            | 9                   | 18  | 6,3                   | 12  |
+| sQ            | 10                  | 20  | 6,9                   | 14  |
+| sR            | 11                  | 22  | 7,5                   | 16  |
+| sS            | 12                  | 24  | 8,1                   | 18  |
+| sT            | 13                  | 26  | 8,7                   | 20  |
+| sU            | 14                  | 28  | 9,3                   | 22  |
+| sV            | 15                  | 30  | 9,.9                  | 24  |
+| sW            | 16                  | 32  | 10,5                  | 26  |
 
 
-#### Table: Small Craft Drive Performance by Hull Volume
+#### Tabella: Prestazioni motori di veicoli piccoli in base al volume dello scafo
 
-| Drive Code | 10  | 15  | 20  | 25  | 30  | 35  | 40  | 45  | 50  | 55  | 60  | 65  | 70  | 75  | 80  | 85  | 90  | 95  |
-|------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| sA         | 2   | 1   | 1   | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  |
-| sB         | 4   | 2   | 2   | 1   | 1   | 1   | 1   | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  |
-| sC         | 6   | 4   | 3   | 2   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | --  | --  | --  | --  | --  | --  | --  |
-| sD         | --  | 5   | 4   | 3   | 2   | 2   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | --  | --  | --  |
-| sE         | --  | 6   | 5   | 4   | 3   | 2   | 2   | 2   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
-| sF         | --  | --  | 6   | 4   | 4   | 3   | 3   | 2   | 2   | 2   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
-| sG         | --  | --  | --  | 5   | 4   | 4   | 3   | 3   | 2   | 2   | 2   | 2   | 2   | 1   | 1   | 1   | 1   | 1   |
-| sH         | --  | --  | --  | 6   | 5   | 4   | 4   | 3   | 3   | 2   | 2   | 2   | 2   | 2   | 2   | 1   | 1   | 1   |
-| sJ         | --  | --  | --  | --  | 6   | 5   | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   | 2   | 2   | 1   |
-| sK         | --  | --  | --  | --  | 6   | 5   | 5   | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   | 2   | 2   |
-| sL         | --  | --  | --  | --  | --  | 6   | 6   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 2   |
-| sM         | --  | --  | --  | --  | --  | --  | --  | 6   | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 3   | 2   |
-| sN         | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 5   | 5   | 4   | 4   | 4   | 4   | 3   | 3   | 3   |
-| sP         | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 5   | 5   | 4   | 4   | 4   | 4   | 3   |
-| sQ         | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 5   | 5   | 5   | 4   | 4   | 4   |
-| sR         | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 5   | 5   | 5   | 4   | 4   |
-| sS         | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 6   | 5   | 5   | 5   |
-| sT         | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 6   | 5   | 5   |
-| sU         | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 5   |
-| sV         | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   |
-| sW         | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   |
+| Codice Motore | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 |
+|---------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| sA            | 2  | 1  | 1  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| sB            | 4  | 2  | 2  | 1  | 1  | 1  | 1  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| sC            | 6  | 4  | 3  | 2  | 2  | 1  | 1  | 1  | 1  | 1  | 1  | -- | -- | -- | -- | -- | -- | -- |
+| sD            | -- | 5  | 4  | 3  | 2  | 2  | 2  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | -- | -- | -- |
+| sE            | -- | 6  | 5  | 4  | 3  | 2  | 2  | 2  | 2  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+| sF            | -- | -- | 6  | 4  | 4  | 3  | 3  | 2  | 2  | 2  | 2  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+| sG            | -- | -- | -- | 5  | 4  | 4  | 3  | 3  | 2  | 2  | 2  | 2  | 2  | 1  | 1  | 1  | 1  | 1  |
+| sH            | -- | -- | -- | 6  | 5  | 4  | 4  | 3  | 3  | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 1  | 1  |
+| sJ            | -- | -- | -- | -- | 6  | 5  | 4  | 4  | 3  | 3  | 3  | 2  | 2  | 2  | 2  | 2  | 2  | 1  |
+| sK            | -- | -- | -- | -- | 6  | 5  | 5  | 4  | 4  | 3  | 3  | 3  | 2  | 2  | 2  | 2  | 2  | 2  |
+| sL            | -- | -- | -- | -- | -- | 6  | 6  | 5  | 4  | 4  | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 2  |
+| sM            | -- | -- | -- | -- | -- | -- | -- | 6  | 5  | 5  | 4  | 4  | 4  | 3  | 3  | 3  | 3  | 2  |
+| sN            | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 5  | 5  | 4  | 4  | 4  | 4  | 3  | 3  | 3  |
+| sP            | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 5  | 5  | 4  | 4  | 4  | 4  | 3  |
+| sQ            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 5  | 5  | 5  | 4  | 4  | 4  |
+| sR            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 5  | 5  | 5  | 4  | 4  |
+| sS            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 6  | 5  | 5  | 5  |
+| sT            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 6  | 5  | 5  |
+| sU            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 5  |
+| sV            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  |
+| sW            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  |
 
-### Small Craft Fuel
+### Carburante dei Veicoli Piccoli
 
-The fuel requirements for a small craft's power plant follow the standard ship design rules, except the values are rounded down to the nearest 0.1 of a ton, rather than the nearest ton. In addition, the minimum fuel volume for a small craft is one week rather than two weeks. For your convenience, the Small Craft Power Plant Fuel Requirements table provides calculated values for fuel per week by Drive Code.
+I requisiti di carburante per il generatore di un veicoli piccolo seguono le regole di progettazione delle navi standard, tranne per il fatto che i valori sono arrotondati per difetto allo 0,1 di tonnellata più vicino, piuttosto che alla tonnellata più vicina. Inoltre, il volume minimo di carburante per un veicolo piccolo è di una settimana anziché due. Per comodità, la tabella *Requisiti del carburante per veicoli piccoli* fornisce i valori calcolati per il carburante alla settimana in base al codice di guida.
 
-#### 
+#### Tabella: Requisiti del carburante per veicoli piccoli
 
-#### Table: Small Craft Power Plant Fuel Requirements
-
-| Drive Code | P-Plant (tons) | Fuel/Wk (tons) |
-|------------|----------------|----------------|
-| sA         | 1.2            | 0.4            |
-| sB         | 1.5            | 0.5            |
-| sC         | 1.8            | 0.6            |
-| sD         | 2.1            | 0.7            |
-| sE         | 2.4            | 0.8            |
-| sF         | 2.7            | 0.9            |
-| sG         | 3              | 1              |
-| sH         | 3.3            | 1.1            |
-| sJ         | 3.6            | 1.2            |
-| sK         | 3.9            | 1.3            |
-| sL         | 4.5            | 1.5            |
-| sM         | 5.1            | 1.7            |
-| sN         | 5.7            | 1.9            |
-| sP         | 6.3            | 2.1            |
-| sQ         | 6.9            | 2.3            |
-| sR         | 7.5            | 2.5            |
-| sS         | 8.1            | 2.7            |
-| sT         | 8.7            | 2.9            |
-| sU         | 9.3            | 3.1            |
-| sV         | 9.9            | 3.3            |
-| sW         | 10.5           | 3.5            |
-| sX         | 11.1           | 3.7            |
-| sY         | 11.7           | 3.9            |
-| sZ         | 12.3           | 4.1            |
+| Codice Motore | Generatore (t) | Carburante/Settimana (t) |
+|---------------|----------------|--------------------------|
+| sA            | 1.2            | 0.4                      |
+| sB            | 1.5            | 0.5                      |
+| sC            | 1.8            | 0.6                      |
+| sD            | 2.1            | 0.7                      |
+| sE            | 2.4            | 0.8                      |
+| sF            | 2.7            | 0.9                      |
+| sG            | 3              | 1                        |
+| sH            | 3.3            | 1.1                      |
+| sJ            | 3.6            | 1.2                      |
+| sK            | 3.9            | 1.3                      |
+| sL            | 4.5            | 1.5                      |
+| sM            | 5.1            | 1.7                      |
+| sN            | 5.7            | 1.9                      |
+| sP            | 6.3            | 2.1                      |
+| sQ            | 6.9            | 2.3                      |
+| sR            | 7.5            | 2.5                      |
+| sS            | 8.1            | 2.7                      |
+| sT            | 8.7            | 2.9                      |
+| sU            | 9.3            | 3.1                      |
+| sV            | 9.9            | 3.3                      |
+| sW            | 10.5           | 3.5                      |
+| sX            | 11.1           | 3.7                      |
+| sY            | 11.7           | 3.9                      |
+| sZ            | 12.3           | 4.1                      |
 
 
-### Small Craft Cockpits and Control Cabins
+### Cabine di pilotaggio e cabine di controllo per veicoli piccoli
 
-Small craft do not have bridges. Instead, a cockpit or control cabin serves the same function. A cockpit is more cramped, but takes up less tonnage. The cost for a cabin or cockpit is the same – MCr 0.1 per 20 tons of ship. Additional cabin space costs MCr 0.05 per ton. Cockpits and control cabins come equipped with a basic communications, sensor and emissions-control electronics suite. More advanced systems can be installed per the standard ship design rules.
+I veicoli piccoli non hanno ponti. Invece, una cabina di pilotaggio o una cabina di controllo svolge la stessa funzione. Una cabina di pilotaggio è più angusta, ma occupa meno tonnellaggio. Il costo per una cabina o un pozzetto è lo stesso: 0,1 MCr per 20 tonnellate di nave. Lo spazio aggiuntivo in cabina costa MCr 0,05 per tonnellata. Le cabina di pilotaggio e le cabine di controllo sono dotati di una suite di comunicazioni di base, sensori ed elettronica di controllo delle emissioni. È possibile installare sistemi più avanzati secondo le regole di progettazione delle navi standard.
 
-#### Table: Small Craft Cockpits and Control Cabins
+#### Tabella: Cabine di pilotaggio e cabine di controllo per veicoli piccoli
 
-| Small Craft Size    | Size (tons)            | Crew                   |
-|---------------------|------------------------|------------------------|
-| 1-Man Cockpit       | 1.5                    | 1 crew                 |
-| 2-Man Cockpit       | 3                      | 2 crew                 |
-| 1-Man Control Cabin | 3                      | 1 crew                 |
-| 2-Man Control Cabin | 6                      | 2 crew, 1 passenger    |
-| More Cabin Space    | 1.5 tons per passenger | 1 additional passenger |
+| Dimensioni Veicolo                | Dimensioni (t)       | Equipaggio               |
+|-----------------------------------|----------------------|--------------------------|
+| 1-Uomo per Cabina di pilotaggio   | 1.5                  | 1 membro                 |
+| 2-Uomini per Cabina di pilotaggio | 3                    | 2 membri                 |
+| 1-Uomo per Cabina di Controllo    | 3                    | 1 membro                 |
+| 2-Uomini per Cabina di Controllo  | 6                    | 2 membri, 1 passeggero   |
+| Più spazio di cabina              | 1.5 t per passeggero | 1 passeggero addizionale |
 
-### Airlock
+### Camere di decompressione
 
-Unlike larger vessels, a small craft does not have an airlock by default. Airlocks take up one ton each and cost MCr0.2. If a craft does not have an airlock, then the crew cannot leave the craft except when it is landed or in a pressurized landing bay without opening the ship up to vacuum.
+A differenza delle navi più grandi, un veicolo piccolo non ha una camera di decompressione per impostazione predefinita. Le camere di decompressione occupano una tonnellata ciascuna e costano MCr0.2. Se un veicolo non ha una camera di decombressione, l'equipaggio non può lasciare il veicolo tranne quando è atterrata o in una baia di atterraggio pressurizzata senza aprire la nave al vuoto.
 
-### Small Craft Crew
+### Equipaggio
 
-All small craft of 50 tons or under require a minimum crew of one to operate and maintain the ship. Small craft larger than 50 tons require a minimum crew of two.
+Tutti i veicoli piccoli di 50 tonnellate o meno richiedono un equipaggio minimo di uno per operare e mantenere la nave. I veicoli più grandi di 50 tonnellate richiedono un equipaggio minimo di due.
 
-### Small Craft Armaments
+### Armamenti di veicoli piccoli
 
-A small craft has one hardpoint, despite being less than 100 tons. Small craft follow the standard ship design rules regarding armaments, with some exceptions.
+Un veicolo piccolo ha un solo pilone alare, nonostante sia inferiore a 100 tonnellate. I veicoli piccoli seguono le regole di progettazione delle navi standard relative agli armamenti, con alcune eccezioni.
 
-Meson, particle beam and fusion bays cannot be fitted.
+Mesoni, raggi di particelle e batterie a fusioni non possono essere montati.
 
-The armaments allowed to a small craft are restricted by its power plant type. It may only equip up to the number of lasers and particle weapons allowed by the vessel’s power plant, as shown in the Maximum Energy Weapons by Power Plant table. The number of missile launchers or projectile weapons is not limited by the power plant letter.
+Gli armamenti consentiti su un veicolo piccolo sono limitati dal tipo di generatore. Può equipaggiare solo fino al numero di laser e armi particellari consentito dal generatore della nave, come mostrato nella tabella *Massima Energia delle armi per generatore*. Il numero di lanciamissili o armi a proiettili non è limitato dalla lettera del generatore.
 
-#### Table: Maximum Energy Weapons by Power Plant
 
-| Drive Code | Maximum Number |
-|------------|----------------|
-| sA–sF      | 0              |
-| sG–sK      | 1              |
-| sL–sR      | 2              |
-| sS–sZ      | 3              |
+#### Tabella: Massima Energia delle armi per generatore
+
+| Codice Motore | Numero Massimo |
+|:-------------:|:--------------:|
+| sA–sF         | 0              |
+| sG–sK         | 1              |
+| sL–sR         | 2              |
+| sS–sZ         | 3              |
