@@ -83,7 +83,8 @@ Una nave può avere una qualsiasi delle tre configurazioni: standard (un cuneo, 
 
 | Configurazione | Modificatore del costo dello scafo | Notes                                                                                                                                |
 |----------------|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Distribuito    | x0.9                               | Impossibile montare i bocchettoni del carburante. Le operazioni atmosferiche subiscono MD-4 (le prove fallite infliggono 2D6 danni). |
+| Distribuito    | x0.9                               | Impossibile montare i | Razionalizzato | x1.1                               | Include i bocchettoni di carburante                                                                                                  |
+ del carburante. Le operazioni atmosferiche subiscono MD-4 (le prove fallite infliggono 2D6 danni). |
 | Standard       | x1.0                               | Le operazioni in atmosfera subiscono un MD-2                                                                                         |
 | Razionalizzato | x1.1                               | Include i bocchettoni di carburante                                                                                                  |
 
@@ -270,291 +271,283 @@ La dimensione del ponte cambia a seconda delle dimensioni della nave. Il costo p
 | 1,100 – 2.000 t | 40 t             |
 | Più di 2.000 t  | 60 t             |
 
-## Ship Computer
+## Computer di bordo
 
-The ship computer is identified by its model number; the computer table indicates details of price, capacity, and tech level available.
+Il computer della nave è identificato dal numero di modello; la tabella *Modelli Computer di Bordo* indica i dettagli di costo, capacità e livello tecnologico disponibile.
 
-#### Table: Ship Computer Models
+#### Tabella: Modelli Computer di Bordo
 
-| Computer | TL  | Rating | Cost      |
-|----------|-----|--------|-----------|
-| Model 1  | 7   | 5      | Cr30,000  |
-| Model 2  | 9   | 10     | Cr160,000 |
-| Model 3  | 11  | 15     | MCr2      |
-| Model 4  | 12  | 20     | MCr5      |
-| Model 5  | 13  | 25     | MCr10     |
-| Model 6  | 14  | 30     | MCr20     |
-| Model 7  | 15  | 35     | MCr30     |
+| Computer | LT | Classe    | Costo     |
+|----------|----|-----------|-----------|
+| Model 1  | 7  | 5         | Cr30.000  |
+| Model 2  | 9  | 10        | Cr160.000 |
+| Model 3  | 11 | 15        | MCr2      |
+| Model 4  | 12 | 20        | MCr5      |
+| Model 5  | 13 | 25        | MCr10     |
+| Model 6  | 14 | 30        | MCr20     |
+| Model 7  | 15 | 35        | MCr30     |
 
-### Ship Computer Options
+### Opzioni per Computer di Bordo
 
-The following options are available for ship’s computers.
+Le seguenti opzioni sono disponibili per i computer della nave.
 
-**Jump Control Specialization** (bis): A computer’s rating can be increased by 5 for the purposes of running Jump Control programs only. This increases the computer’s cost by 50%.
+**Specializzazione in Controllo di Balzo** (bis): La classe di un computer può essere aumentata di 5 esclusivamente ai fini di eseguire programmi Controllo di Balzo. Questo aumenta il costo del computer del 50%.
 
-**Hardened Systems** (fib): A computer and its connections can be hardened against attack by electromagnetic pulse weapons. A hardened system is immune to EMP, but costs 50% more.
+**Sistemi Rafforzati** (fib): Un computer e le sue connessioni possono essere rinforzati contro gli attacchi di armi a impulso elettromagnetico. Un sistema rafforzato è immune all’EMP, ma costa il 50% in più.
 
-Both options can be applied to the same computer by doubling its cost
-(+100%).
+Entrambe le opzioni possono essere applicate allo stesso computer raddoppiandone il costo (+100%).
 
-### Ship Software
+### Software
 
-Ship computers run highly specialized software packages designed to support numerous functions, such as managing the Jump drive, evading incoming fire, controlling ship’s weapons and executing automatic repairs. Ship’s computers automatically provide the means for basic control of the vessel, as well as extensive library data on numerous topics and a basic level of security (Security/0).
+I computer delle navi eseguono pacchetti software altamente specializzati progettati per supportare numerose funzioni, come la gestione del motore a Balzo, l'evasione del fuoco in arrivo, il controllo delle armi della nave e l'esecuzione di riparazioni automatiche. I computer della nave forniscono automaticamente i mezzi per il controllo di base del vascello, oltre a un'ampia libreria di dati su numerosi argomenti e un livello di sicurezza di base (Sicurezza / 0).
 
-#### Table: Ship Software
+#### Tabella: Software
 
-| Program          | TL  | Rating                | Cost (MCr)           | Notes                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|------------------|-----|-----------------------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Auto-Repair      | 10+ | 10 per repair attempt | 5 per repair attempt | Computer may attempt one repair per turn, or give a DM+1 to an attempt; at TL 12, can purchase an additional repair attempt (or DM+1) for twice the Rating and Cost.                                                                                                                                                                                                                                                         |
-| Evade            | 9+  | 5 + 5 per DM-1        | 1 per DM-1           | Imposes DM-1 on incoming fire; every two TLs higher, can purchase an addition DM-1, to a maximum of DM-3 at TL 13.                                                                                                                                                                                                                                                                                                           |
-| Fire Control     | 9+  | 5 per weapon          | 2 per weapon         | Ship’s computer may fire one weapon; for each additional weapon, TL is increased by 1 (the ship can fire up to 2 weapons at TL 10, 3 at TL 11, and so on). The ship’s computer may also sacrifice controlling a weapon to give a DM+1 from computer targeting on another attack, whether that weapon is controlled by the ship’s computer or by an actual gunner. Maximum of five weapons may be controlled by this program. |
-| Jump Control     | 9+  | 5 per Jn              | 0.1xJn               | Governs Jump drives up to a given Jump number (Jn); TL is the same as the TL required for a given Jump number.                                                                                                                                                                                                                                                                                                               |
-| Jump Course Tape | 9+  | 1 per Jn              | 0.001xJn             | Provides jump plot from one specific world to a specific destination system. Price based on number of parsecs between worlds; TL is the same as the TL required for a given Jump number needed to cover that Jump.                                                                                                                                                                                                           |
+| Programma                  | LT  | Classe           | Costo (MCr)          | Note                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|----------------------------|-----|------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Autoriparazione           | 10+ | 10 per tentativo | 5 per repair attempt | Il computer può tentare una riparazione per turno, o fornire un MD+ 1 a un tentativo; a LT 12, può acquistare un ulteriore tentativo di riparazione (o MD+ 1) per il doppio della classe e del costo.                                                                                                                                                                                                                                                         |
+| Evasione                   | 9+  | 5 + 5 per MD-1   | 1 per MD-1           | Impone MD-1 al fuoco in arrivo; ogni due LT superiori è possibile acquistare un MD-1 aggiuntivo, fino a un massimo di MD-3 a LT 13.                                                                                                                                                                                                                                                                                                                           |
+| Controllo Fuoco            | 9+  | 5 per arma       | 2 per arma           | Il computer della nave può sparare con un'arma; per ogni arma aggiuntiva, la LT è aumentata di 1 (la nave può sparare fino a 2 armi a LT 10, 3 a LT 11 e così via). Il computer della nave può anche sacrificare il controllo di un'arma per dare un MD+ 1 dal targeting del computer su un altro attacco, sia che quell'arma sia controllata dal computer della nave sia da un vero mitragliere. Questo programma può controllare un massimo di cinque armi. |
+| Controllo Balzo            | 9+  | 5 per Nb         | 0.1xNb               | Governa il motore a Balzo fino a un dato numero di Balzi (Nb); il LT è lo stesso richiesto per un dato numero di Balzi.                                                                                                                                                                                                                                                                                                                                       |
+| Nastro Registrazione Rotta | 9+  | 1 per Nb         | 0.001xNb             | Fornisce una rotta di Balzo da un mondo specifico a un sistema di destinazione specifico. Prezzo basato sul numero di parsec tra i mondi; il LT è lo stesso richiesto per un dato numero di Balzi necessario per coprire quel Balzo.                                                                                                                                                                                                                          |
 
-## Ship Electronics
+## Elettronica
 
-A ship comes with a basic communications, sensor and emissions-control electronics suite, but more advanced systems can be installed. The Dice Modifier applies to jamming and counter-jamming attempts.
+Una nave è fornita automaticamente di sistemi base di comunicazione, sensori e controllo di emissioni, ma è possibile installare sistemi più avanzati. Il Modificatore ai Dadi si applica ai tentativi di disturbo e di contrasto dei disturbi.
 
-#### Table: Ship Electronics
+#### Tabella: Elettronica
 
-| System         | TL  | DM  | Includes                                                    | Tons               | Cost               |
-|----------------|-----|-----|-------------------------------------------------------------|--------------------|--------------------|
-| Standard       | 8   | –4  | Radar, Lidar                                                | Included in bridge | Included in bridge |
-| Basic Civilian | 9   | –2  | Radar, Lidar                                                | 1                  | Cr50,000           |
-| Basic Military | 10  | +0  | Radar, Lidar, Jammers                                       | 2                  | MCr1               |
-| Advanced       | 11  | +1  | Radar, Lidar, Densitometer, Jammers                         | 3                  | MCr2               |
-| Very Advanced  | 12  | +2  | Radar, Lidar, Densitometer, Jammers, Neural Activity Sensor | 5                  | MCr4               |
+| Sistema          | LT | MD | Include                                                             | Tonnellate        | Costo             |
+|------------------|----|----|---------------------------------------------------------------------|-------------------|-------------------|
+| Standard         | 8  | –4 | Radar, Lidar                                                        | Incluse nel ponte | Incluse nel ponte |
+| Civile di Base   | 9  | –2 | Radar, Lidar                                                        | 1                 | Cr50.000          |
+| Militare di Base | 10 | +0 | Radar, Lidar, Disturbatori                                          | 2                 | MCr1              |
+| Avanzato         | 11 | +1 | Radar, Lidar, Densitometro, Disturbatori                            | 3                 | MCr2              |
+| Molto Avanzato   | 12 | +2 | Radar, Lidar, Densitometro, Disturbatori, Sensori Attività Neurale  | 5                 | MCr4              |
 
-**Radar/Lidar** detects physical objects. It can be active or passive. If a ship is using active sensors, it is easier to detect (+2 DM to Comms checks) but detects more about its surroundings.
+Il **Radar / Lidar** rileva oggetti fisici. Può essere attivo o passivo. Se una nave utilizza sensori attivi, è più facile da rilevare (MD+2 alle prove di Comunicazioni) ma rileva di più nelle vicinanze.
 
-**Jammers** can jam or counter-jam radio communications and sensor
-locks.
+I **Disturbatori** possono bloccare o contrastare le comunicazioni radio e i blocchi dei sensori.
 
-**Densitometers** can determine the internal structure and makeup of an
-object.
+I **Densitometri** possono determinare la struttura interna e la composizione di un oggetto.
 
-**Neural Activity Sensor** detects neural activity and intelligence.
+I **Sensori Attività Neurale** rilevano l'attività neurale e l'intelligenza.
 
-## Ship Crew
+## Equipaggio
 
-All vessels require a crew to operate and maintain the ship. Small independently-owned vessels tend to operate with a minimum of crew, while corporate and military vessels maintain a full complement.
+Tutte le navi richiedono un equipaggio per operare e mantenere la nave. Le piccole navi di proprietà indipendente tendono a operare con un minimo di equipaggio, mentre le navi aziendali e militari mantengono una dotazione completa.
 
-#### Table: Ship Crew Requirements
+#### Tabella: Requisiti Equipaggio
 
-| Position               | Minimum                               | Full Complement                                                                                                       |
-|------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Command                | None                                  | One commanding officer or Captain, one executive officer, three administrative personnel (for ships over 1,000 tons)  |
-| Pilot                  | One                                   | Three (one per 8-hour shift)                                                                                          |
-| Navigator              | One (optional with computer software) | One                                                                                                                   |
-| Engineer               | One                                   | One per 35 tons of drives and power plant                                                                             |
-| Sensors Operator       | None                                  | One                                                                                                                   |
-| Medic                  | None                                  | One per 120 passengers and crew                                                                                       |
-| Steward                | None                                  | One per four high passengers or ten middle passengers (assumes Steward-1)                                             |
-| Turret Gunner          | One per turret weapon                 | One per turret weapon                                                                                                 |
-| Bay Gunner             | One per bay weapon                    | Two per bay weapon                                                                                                    |
-| Screen Operator        | One per screen device                 | Four per screen device                                                                                                |
-| Chief Security Officer | None                                  | One (optional)                                                                                                        |
-| Flight Crew            | None                                  | One per smallcraft or vehicle carried in hangars or launch tubes, plus one support crew per three vehicles or vessels |
-| Marine                 | None                                  | On ships over 1,000 tons, may have up to 30 per 1,000 tons                                                            |
-| Other                  | None                                  | As needed (i.e. medical staff, scientists, surveyors, etc.)                                                           |
+| Posizione                | Minimo                               | Staff Completo                                                                                                                    |
+|--------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Comando                  | Nessuno                              | Un comandante o capitano, un ufficiale esecutivo, tre membri del personale amministrativo (per navi oltre 1.000 tonnellate)       |
+| Pilota                   | Uno                                  | Tre (uno ogni 8 ore di turno)                                                                                                     |
+| Navigatore               | Uno (opzionale se presente software) | Uno                                                                                                                               |
+| Ingegnere                | Uno                                  | Uno ogni 35 t di motori e generatori                                                                                              |
+| Operatore Sensori        | Nessuno                              | Uno                                                                                                                               |
+| Medico                   | Nessuno                              | Uno ogni 120 tra passeggeri ed equipaggio                                                                                         |
+| Steward                  | Nessuno                              | Uno ogni quattro passeggeri di Classe Superiore o dieci passeggeri di Classe Media (presume Steward-1)                            |
+| Artigliere Torrette      | Uno ogni torretta                    | Uno per torretta                                                                                                                  |
+| Artigliere Batteria      | Uno ogni batteria                    | Due per batteria                                                                                                                  |
+| Operatore Schermi        | Uno ogni schermo                     | Quattro ogni schermo                                                                                                              |
+| Ufficiale Capo Sicurezza | Nessuno                              | Uno (opzionale)                                                                                                                   |
+| Equipaggio di Volo       | Nessuno                              | Uno ogni veicolo piccolo o veicolo trasportato in hangar o tubi di lancio, più un equipaggio di supporto ogni tre veicoli o navi |
+| Marine                   | Nessuno                              | Sulle navi di oltre 1.000 tonnellate, si possono averne fino a 30 ogni 1.000 tonnellate                                           |
+| Altri                    | Nessuno                              | Secondo necessità (es. Personale medico, scienziati, geometri, ecc.)                                                              |
 
-### Staterooms
+### Cabine
 
-Each stateroom is sufficient for one person, displaces 4 tons, and costs Cr500,000. No stateroom can contain more than two persons, such as for middle passengers, as it would strain the ship’s life support equipment. The tonnage and cost of the staterooms includes the life support systems needed to keep the crew alive.
+Ogni cabina è sufficiente per una persona, disloca 4 tonnellate e costa Cr 500.000. Nessuna cabina, però, può contenere più di due persone, esattamente come per i passeggeri di Classe Media, poiché questo metterebbe sotto sforzo l’equipaggiamento di supporto vitale della nave. Il tonnellaggio e il costo delle cabine includono i sistemi di supporto vitale necessari a mantenere vivi gli occupanti.
 
-### Low Passage Berths
+### Cuccette di Passaggio Inferiore
 
-One low passage berth carries one low passenger, costs Cr50,000, and displaces one-half ton.
+Una cuccetta di passaggio inferiore può trasportare un passeggero di classe inferiore, costa Cr. 50.000 e disloca mezza tonnellata.
+È anche possibile installare cuccette basse d’emergenza; non trasportano passeggeri, ma possono essere usate per la sopravvivenza. Ciascuna di esse costa Cr 100.000 e disloca una tonnellata. Ognuna di queste cuccette può contenere quattro persone.
 
-Emergency low berths are also available; they will not carry passengers, but can be used for survival. Each costs Cr100,000 and displaces one ton. Each holds four persons.
+### Caserma
 
-### Barracks
+Una caserma occupa 2 tonnellate e costa MCr0.1 per marine. Le caserme possono essere utilizzate solo per ospitare truppe destinate ad operazioni di abbordaggio o assalto. Le truppe alloggiate nelle caserme non possono essere utilizzate per ridurre il numero di equipaggi di servizio imbarcati.
 
-A barracks takes up 2 tons per marine, and costs MCr0.1 per marine. Barracks can only be used to accommodate troops intended for boarding or assault operations. Troops accommodated in barracks cannot be used to reduce the number of service crew embarked.
+## Componenti aggiuntivi
 
-## Additional Ship Components
+Di seguito sono riportati esempi di componenti aggiuntivi di navi che potrebbero rivelarsi utili per determinati progetti di navi.
 
-The following are examples of additional ship components that might prove useful for certain ship designs.
+### Armeria
 
-### Armory
+Le navi che trasportano un gran numero di marine o soldati possono beneficiare di un'armeria, un negozio di armi specializzato. Possono accedere all'armeria solo personale in possesso dei codici corretti (di solito gli ufficiali superiori della nave e il team di sicurezza) e contiene un'ampia varietà di armi. In termini di gioco, un'armeria ha abbastanza pistole per l'equipaggio, abbastanza acceleratori o fucili gauss per ogni marine e una selezione di altre attrezzature militari come granate, pacchetti di droga da combattimento, armature da combattimento e apparecchiature di comunicazione. Un'armeria generale per un veicolo spaziale costa MCr0,5 e occupa 2 tonnellate di spazio.
 
-Ships carrying a large number of marines or soldiers can benefit from an armory, a specialized weapons store. An armory can only be accessed by those with the correct codes (usually the ship’s senior officers and security team) and contains a wide variety of weapons. In game terms, an armory has enough snub pistols for the crew, enough accelerator or gauss rifles for any marines, and a selection of other military equipment like grenades, combat drug packs, combat armor and communications equipment. A general armory for a spacecraft costs MCr0.5 and takes up 2 tons of space.
+Per quanto riguarda le navi militari, il numero di armerie costruite nel progetto della nave si basa sulle dimensioni dell'equipaggio. Viene installato un arsenale ogni 50 membri dell'equipaggio o ogni 10 marines, al fine di fornire un adeguato spazio di stoccaggio per attrezzature, armi e munizioni.
 
-Where military vessels are concerned, the number of armories built into the ship’s design is based on crew size. One armory is installed for either every 50 crew members, or every 10 marines, in order to provide adequate storage for equipment, weapons and ammunition.
+### Sala riunioni
 
-### Briefing Room
+Una sala riunioni specializzata è utile sugli incrociatori mercenari e su altre navi da avventurieri, dove le squadre possono discutere i piani o incontrare i clienti in privato. Una sala riunioni fornisce un MD+1 ai controlli tattici effettuati durante la pianificazione delle missioni a bordo della nave. Le navi con ponti di comando e squadroni di caccia richiedono sale riunioni e strutture aggiuntive. Le navi ammiraglie devono quindi avere una sala riunioni per sezione navale e una sala riunioni ogni 20 caccia o equipaggio di bombardieri.
 
-A specialized briefing room is useful on mercenary cruisers and other adventuring ships, where teams can discuss plans or meet with clients privately. A briefing room gives a +1 DM to Tactics checks made when planning missions on board ship. Ships with command bridges and fighter squadrons require additional briefing rooms and facilities. Capital ships must therefore have one briefing room per ship section, and one briefing room for every 20 fighter or bomber crew.
+### Stiva
 
-### Cargo Hold
+I piani di progettazione devono indicare la capacità di carico. Non ci sono costi, ma il carico trasportato non può superare la capacità di carico. Lo spazio rimasto dopo l'installazione di tutti i sistemi può essere assegnato allo spazio di carico.
 
-The design plan must indicate cargo capacity. There is no cost but cargo carried may not exceed cargo capacity. Any space left over after all systems have been installed may be allocated to cargo space.
+### Celle di detenzione
 
-### Detention Cells
+Principalmente su navi militari e governative, una cella di detenzione viene utilizzata per tenere i prigionieri. Una cella di detenzione disloca 2 tonnellate e costa MCr0.25.
 
-Found primarily on military and government vessels, a detention cell is used to keep prisoners. A detention cell displaces 2 tons and costs MCr0.25.
+### Bocchettoni di Carburante
 
-### Fuel Scoops
+I bocchettoni di carburante consentono a una nave non aerodinamica di raccogliere carburante non raffinato da un gigante gassoso. Le navi aerodinamiche hanno bocchettoni di carburante incorporate. L'aggiunta di bocchettoni costa MCr1 e non richiede tonnellaggio.
 
-Fuel scoops allow an unstreamlined ship to gather unrefined fuel from a gas giant. Streamlined ships have fuel scoops built in. Adding scoops costs MCr1 and requires no tonnage.
+### Processori di carburante
 
-### Fuel Processors
+I processori di carburante convertono il carburante non raffinato in carburante raffinato. Una tonnellata di processori di carburante può convertire 20 tonnellate di idrogeno non raffinato in carburante raffinato ogni giorno. Una tonnellata di apparecchiature per il trattamento del carburante costa Cr50.000.
 
-Fuel processors convert unrefined fuel into refined fuel. One ton of fuel processors can convert 20 tons of unrefined hydrogen into refined fuel per day. A ton of fuel processing equipment costs Cr50,000.
+### Laboratorio
 
-### Laboratory
+Lo spazio assegnato ai laboratori può essere utilizzato per la ricerca e la sperimentazione. Quattro tonnellate di spazio del laboratorio consentono a uno scienziato di eseguire ricerche a bordo della nave. Il costo per l'attrezzatura di ricerca varia a seconda del tipo di ricerca intrapresa, ma generalmente è di circa MCr1.0 ogni 4 tonnellate.
 
-Space allocated to laboratories can be used for research and experimentation. Each four tons of lab space allows for one scientist to perform research on board ship. The cost for research equipment varies depending on the type of research undertaken, but is generally around MCr1.0 per 4 tons.
+### Tubi di lancio
 
-### Launch Tubes
+Il lancio e il recupero di veicoli piccoli da un vascello più grande di solito è un'attività che richiede 30 minuti per lanciare o recuperare un veicolo piccolo. I tubi di lancio consentono di lanciare e recuperare rapidamente piccoli vascelli da una nave. La dimensione di un tubo di lancio è venticinque volte il tonnellaggio della più grande imbarcazione che verrà schierata in questo modo e costano MCr0,5 per tonnellata. Con un tubo di lancio, è possibile lanciare fino a dieci piccoli vascelli ogni round. È possibile installare più tubi di lancio.
 
-Launching and recovering small craft from a larger vessel is usually an activity taking 30 minutes to launch or recovery one craft. Launch tubes allow small craft to be launched and recovered rapidly from a ship. The size of a launch tube is twenty–five times the tonnage of the largest craft that will be deployed in this manner, and they cost MCr0.5 per ton. With a launch tube, up to ten small craft can be launched per round. Multiple launch tubes can be installed.
+### Biblioteca
 
-### Library
+Una biblioteca contiene file di computer, leggii, schermi di visualizzazione, oloarchivi e persino copie cartacee di libri. Una buona libreria è utile sia per la ricerca che per il passare del tempo nello spazio di Balzo. Avere una biblioteca a bordo di una nave offre una settimana in più di addestramento per nuove abilità ogni settimana trascorsa nello spazio di Balzo. Una libreria per un veicolo spaziale costa MCr4 e occupa 4 tonnellate di spazio.
 
-A library room contains computer files as well as lecterns, display screens, holotanks and even hard copies of books. A good library is useful for both research and passing time in jump space. Having a library on board a ship gives one extra week of training time for new skills per week spent in jump space. A library for a spacecraft costs MCr4 and takes up 4 tons of space.
+### Lussi
 
-### Luxuries
+I lussi costano Cr 100.000 a tonnellata, e rendono la vita a bordo più piacevole. Ogni tonnellata di lussi conta come un livello dell’abilità Steward ai fini del trasporto passeggeri, e permette perciò a una nave di trasportare passeggeri per il passaggio medio e superiore senza dover avere uno steward addestrato a bordo.
 
-Luxuries cost Cr100,000 per ton, and make life on board ship more pleasant. Each ton of luxuries counts as one level of the Steward skill for the purposes of carrying passengers, and therefore allows a ship to carry middle and high passage passengers without carrying a trained steward on board.
+### Deposito della Nave
 
-### Ship’s Locker
+Ogni nave ha un deposito. L’equipaggiamento tipico portato a bordo include abiti protettivi, tute spaziali, armi come doppiette o pistole, munizioni, bussole e aiuti per la sopravvivenza e rifugi portatili. I contenuti del deposito sono definiti solo quando servono, ma includono sempre tute spaziali e altri oggetti utili. Il deposito della nave di solito è protetto da una serratura biometrica regolata in modo da aprire agli ufficiali della nave.
 
-Every ship has a ship’s locker. Typical equipment carried aboard will include protective clothing, vacc suits, weapons such as shotguns or pistols, ammunition, compasses and survival aids, and portable shelters. The contents of the locker are defined only when they need to be but always contains vacc suits and other useful items. The ship’s locker is usually protected by a biometric lock keyed to the ship’s officers.
+### Rifugio
 
-### Vault
+Un rifugio è una speciale camera corazzata nel cuore di un'astronave, progettata per sopravvivere ad attacchi che annienterebbero il resto della nave. Un rifugio ha altri quattro punti Scafo e Struttura che entrano in gioco solo quando la nave che ospita il rifugio viene distrutta. Un rifugio può contenere merci, cabine o altri componenti interni equivalenti fino a 6 tonnellate. Un rifugio richiede 12 tonnellate di spazio e costa MCr6.
 
-A vault is a special armored chamber in the heart of a spacecraft, designed to survive attacks that would annihilate the rest of the ship. A vault has another four Hull and Structure points that only come into play when the ship housing the vault is destroyed. A vault can contain cargo, staterooms or any other internal components equivalent up to 6 tons. A vault requires 12 tons of space and costs MCr6.
+### Hangar Veicoli e Droni
 
-### Vehicle and Drone Hangar
+Il tonnellaggio e il costo delineati nella tabella *Costo e tonnellaggio dell'hangar per veicoli e droni* copre l'intero spazio dell'hangar, che consente la riparazione e la manutenzione di piccole imbarcazioni quando tornano sulla nave. L'hangar comprende pezzi di ricambio e attrezzature specializzate di collaudo e riparazione per il veicolo immagazzinato. Non include il costo dei veicoli o dei droni. Un hangar personalizzato occupa un tonnellaggio pari al tonnellaggio del veicolo da immagazzinare, più il 30% e costa MCr0.2 per tonnellata.
 
-The tonnage and cost outlined in the Hangar Cost and Tonnage for Vehicles and Drones table covers full-scale hangar space, which allows for repairs and maintenance of small craft when they are back on the ship. The hangar includes spare parts and specialized testing and repair equipment for the stored craft. It does not include the cost of the vehicles or drones. A custom hangar takes up tonnage equal to the tonnage of the vehicle to be stored, plus 30% and costs MCr0.2 per ton.
+**Aeroscafo, ATV**: Questi sono veicoli, immagazzinati nella o sulla nave.
 
-**Air/Raft, ATV**: These are vehicles, stored in or on the ship.
+**Capsule di fuga**: Questo copre l'installazione di bolle di salvataggio e altre capsule di salvataggio per l'intero equipaggio.
 
-**Escape Pods**: This covers the installation of rescue bubbles and
-other escape pods for the entire crew.
+**Scialuppa di salvataggio, Scialuppa, Shuttle, Pinaccia, Cutter**: sono tuti veicoli piccoli, appesi sullo scafo della nave.
 
-**Life Boat, Ship’s Boat, Shuttle, Pinnace, Cutter**: These are all small craft, hangered either in or on the ship’s hull.
+**Droni minerari**: i droni minerari consentono a una nave di minare asteroidi. Ogni set di droni minerari occupa dieci tonnellate e consente alla nave di processare 1D6x10 tonnellate di asteroidi per giorno lavorativo. Il tonnellaggio assegnato include i macchinari per la movimentazione del minerale, consentendo alla nave di imbarcare il minerale e trasferirlo alla stiva.
 
-**Mining Drones**: Mining drones allow a ship to mine asteroids. Each set of mining drones takes up ten tons, and allows the ship to process 1D6x10 tons of asteroid per working day. The tonnage allocated includes ore handling machinery, allowing the ship to take on ore and transfer it to the cargo bay.
+**Droni sonda**: i droni sonda servono per il rilevamento di superfici planetarie. Ogni tonnellata di droni sonda contiene cinque droni. I droni sonda possono essere lanciati dall'orbita in gusci di rientro usa e getta, ma devono essere recuperati manualmente. I droni sonda sono anche in grado di rilevare satelliti orbitanti, relitti e altri detriti spaziali. Possono anche essere utilizzati come relè di comunicazione.
 
-**Probe Drones**: Probe drones are for surveying planetary surfaces. Each ton of probe drones contains five drones. Probe drones can be dropped from orbit in disposable entry shells but must be recovered manually. Probe drones are also capable of surveying orbiting satellites, derelicts and other space debris. They can also be used as communications relays.
+**Droni riparatori**: il trasporto di droni di riparazione consente a una nave di effettuare riparazioni sul campo di battaglia con il software Autoriparazione o se gestita da un personaggio con abilità di meccanico o ingegnere. I droni di riparazione hanno le stesse statistiche dei robot di riparazione solo senza un programma Intelletto. Per ulteriori informazioni sui robot di riparazione, vedere **Robot e droni** nel **Capitolo 4: Equipaggiamento**.
 
-**Repair Drones**: Carrying repair drones allows a ship to make battlefield repairs with the AutoRepair software or when managed by a character with Mechanic or Engineer skills. Repair drones have the same statistics as repair robots only without an Intellect program. For more information on repair robots, see **Robots and Drones** in **Chapter 4: Equipment**.
+#### Tabella: Costo e tonnellaggio dell'hangar per veicoli e droni
 
-#### Table: Hangar Cost and Tonnage for Vehicles and Drones
+| Veicolo o Drone          | Tonnellate          | Costo di Installazione (MCr) |
+|--------------------------|---------------------|------------------------------|
+| ATV                      | 13                  | 2,6                          |
+| Aeroscafo                | 5                   | 1                            |
+| Cutter                   | 65                  | 13                           |
+| Capsule di fuga          | 0,5 ogni passeggero | 0,1 ogni passeggero          |
+| Scialuppa di salvataggio | 26                  | 5,2                          |
+| Droni minerari           | 10                  | 2                            |
+| Pinaccia                 | 52                  | 10,4                         |
+| Droni sonda (5)          | 1                   | 0,2                          |
+| Droni riparatori         | 1% di scafo         | 0,2 ogni tonnellata          |
+| Scialuppa                | 39                  | 7,8                          |
+| Shuttle                  | 122,5               | 24,5                         |
 
-| Vehicle or Drone | Tons              | Installation Cost (MCr) |
-|------------------|-------------------|-------------------------|
-| ATV              | 13                | 2.6                     |
-| Air/Raft         | 5                 | 1                       |
-| Cutter           | 65                | 13                      |
-| Escape Pods      | 0.5 per passenger | 0.1 per passenger       |
-| Life Boat        | 26                | 5.2                     |
-| Mining Drones    | 10                | 2                       |
-| Pinnace          | 52                | 10.4                    |
-| Probe Drones (5) | 1                 | 0.2                     |
-| Repair Drones    | 1% of ship’s hull | 0.2 per ton             |
-| Ship’s Boat      | 39                | 7.8                     |
-| Shuttle          | 122.5             | 24.5                    |
+## Armamenti
 
-## Armaments
+Una nave ha un punto fisso ogni 100 tonnellate di nave e ogni sistema d'arma ne occupa uno. Un sistema d'arma può includere più armi: ad esempio, una torretta tripla contiene tre laser, lanciamissili, spargisabbia o una combinazione di tre armi.
 
-A ship has one hardpoint per 100 tons of ship and each weapon system takes up one hardpoint. A weapon system may include multiple weapons – for example, a triple turret contains three lasers, missile launchers, sandcasters or some combination of three weapons.
+### Torrette
 
-### Turrets
+Una torretta può essere attaccata a ogni punto fisso della nave. Se è installata una torretta, è necessario assegnare una tonnellata di spazio ai sistemi di controllo antincendio:
 
-One turret may be attached to each hardpoint on the ship. If a turret is installed, then one ton of space must be allocated to fire control systems:
+#### Tabella: Dislocamento e Costo Torrette
 
-#### Table: Turret Displacement and Cost
+| Arma                 | LT | Tonnellate | Costo (MCr) |
+|----------------------|----|------------|-------------|
+| Torretta Singola     | 7  | 1          | 0,2         |
+| Torretta Doppia      | 8  | 1          | 0,5         |
+| Torretta Tripla      | 9  | 1          | 1           |
+| Torretta a scomparsa | 10 | 2          | +1          |
+| Montaggio fisso      | \- | 0          | x 0,5       |
 
-| Weapon         | TL  | Tons | Cost (MCr) |
-|----------------|-----|------|------------|
-| Single Turret  | 7   | 1    | 0.2        |
-| Double Turret  | 8   | 1    | 0.5        |
-| Triple Turret  | 9   | 1    | 1          |
-| Pop-Up Turret  | 10  | 2    | +1         |
-| Fixed Mounting | \-  | 0    | x 0.5      |
+Le torrette **singole**, **doppie** e **triple** possono contenere una, due o tre armi.
 
-**Single**, **Double** and **Triple** turrets can hold one, two or three
-weapons.
+**A scomparsa** è una qualità che può essere applicata a qualsiasi tipo di torretta: la torretta è nascosta in un guscio o in una rientranza sullo scafo ed è rilevabile solo quando è schierata. Una nave con tutte le sue armi in torrette a scomparsa sembra disarmata a una scansione casuale del sensore.
 
-**Pop-Up** is a quality that can be applied to any type of turret – the turret is concealed in a pod or recess on the hull, and is detectable only when deployed. A ship with all its weapons in pop-up turrets looks unarmed to a casual sensor scan.
+**Montaggio fisso** Le armi non possono muoversi, si limitano a sparare in una direzione (normalmente dritto) e si trovano principalmente sui caccia. Un montaggio fisso costa la metà di una torretta dello stesso tipo, quindi un singolo montaggio fisso costa MCr0.1, un doppio montaggio fisso costa MCr0.25 e un triplo montaggio fisso costa MCr0.5.
 
-**Fixed Mounting** weapons cannot move, are limited to firing in one direction (normally straight ahead), and are found mainly on fighters. A fixed mounting costs half as much as a turret of the same type, so a single fixed mounting costs MCr0.1, a double fixed mounting costs MCr0.25, and a triple fixed mounting costs MCr0.5.
+#### Tabella: Armi a Torretta
 
-#### Table: Turret Weapons
+| Arma                | LT | Gittata Ottimale | Danno                    | Costo (MCr) | Note                    |
+|---------------------|----|------------------|--------------------------|-------------|-------------------------|
+| Missiliere          | 6  | Speciale         | Dipende dal missile      | 0,75        |                         |
+| Laser a Impulso     | 7  | Corta            | 2D6                      | 0,5         | Soffre MD-2 all'attacco |
+| Spargisabbia        | 7  | Speciale         | Special                  | 0,25        |                         |
+| Raggi di Particelle | 8  | Lunga            | 3D6 + colpi a radiazioni | 4           |                         |
+| Raggi Laser         | 9  | Media            | 1D6                      | 1           |                         |              |
 
-| Weapon        | TL  | Optimum Range | Damage              | Cost (MCr) | Notes                  |
-|---------------|-----|---------------|---------------------|------------|------------------------|
-| Missile Rack  | 6   | Special       | Depends on missile  | 0.75       |                        |
-| Pulse Laser   | 7   | Short         | 2D6                 | 0.5        | Suffers DM-2 to attack |
-| Sandcaster    | 7   | Special       | Special             | 0.25       |                        |
-| Particle Beam | 8   | Long          | 3D6 + radiation hit | 4          |                        |
-| Beam Laser    | 9   | Medium        | 1D6                 | 1          |                        |
+Le **Missiliere** lanciano armi semoventi progettate per esplodere all'impatto.
 
-**Missile racks** launch self-propelled weapons designed to explode on impact.
+I **laser a impulso** sparano brevi e rapide raffiche di energia intensa. I laser a impulso sono notoriamente imprecisi e subiscono un MD-2 su tutti i tiri per colpire.
 
-**Pulse lasers** fire short, rapid bursts of intense energy. Pulse lasers are notoriously inaccurate and suffer a DM -2 on all attack rolls.
+Lo **Spargisabbia** riduce il danno di un'arma a raggio di 1D6. Lo Spargisabbia richiede munizioni. Venti tamburi di Spargisabbia occupano una tonnellata di spazio, possono essere prodotti a LT5 e costano Cr10.000.
 
-**Sandcasters** reduces the damage from a beam weapon by 1D6. Sandcasters require ammunition. Twenty sandcaster barrels take up one ton of space, can be manufactured at TL5, and cost Cr10,000.
+I **raggi di particelle** sparano un raggio ad alta energia di particelle subatomiche. L'impatto del raggio interrompe la struttura molecolare del bersaglio, provocando un colpo di squadra di radiazioni oltre al normale danno.
 
-**Particle beams** fire a high-energy beam of subatomic particles. The beam’s impact disrupts the molecular structure of the target, causing a radiation crew hit in addition to normal damage.
+I **raggi laser** emettono un flusso continuo di intensa energia.
 
-**Beam lasers** fire a continuous stream of intense energy.
+Nessun lanciatore include munizioni nel suo costo di acquisto. Missili, siluri e così via devono essere acquistati separatamente.
 
-No launcher includes ammunition in its purchase cost. Missiles, torpedoes and so forth must be purchased separately.
+### Missili
 
-### Missiles
+I missili sono armi semoventi o dirette da telecomando, che trasportano un esplosivo convenzionale o nucleare. Possono essere lanciati da rastrelliere missilistiche montate su torrette o da banchi missilistici montati sulla baia. Dodici missili occupano una tonnellata di spazio. I missili sono in grado di Spinta 10, ma hanno una durata limitata di 60 minuti (circa 4 turni) prima di rimanere senza carburante. Esistono tre tipi comuni di missili: standard, intelligenti e nucleari.
 
-Missiles are weapons that are self-propelled or directed by remote control, carrying a conventional or nuclear explosive. They may be fired from missile racks mounted in turrets or from bay-mounted missile banks. Twelve missiles take up one ton of space. Missiles are capable of Thrust 10, but have a limited endurance of 60 minutes (roughly 4 turns) before running out of fuel. There are three common types of missiles: Standard, Smart and Nuclear.
+#### Tabella: Missili
 
-#### Table: Missile Types
+| Tipo di Missile | LT | Danno                     | Costo per Missile | Note                                                                                                                                     |
+|-----------------|----|---------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Nucleare        | 6  | 2D6+ 1 colpi a radiazioni | Cr3.750           | Il colpo a radiazione subisce un MD- pari all'armatura della nave                                                                        |
+| Standard        | 6  | 1D6                       | Cr1.250           |                                                                                                                                          |
+| Intelligente    | 8  | 1D6                       | Cr2.500           | Il tiro per colpire è sempre 8+ e può attaccare a ogni turno se fallisce fino a quando non viene distrutto, inceppato o senza carburante |
 
-| Missile Type | TL  | Damage               | Cost per Missile | Notes                                                                                                                |
-|--------------|-----|----------------------|------------------|----------------------------------------------------------------------------------------------------------------------|
-| Nuclear      | 6   | 2D6+ 1 radiation hit | Cr3,750          | Radiation hit suffers a –DM equal to the ship's armor                                                                |
-| Standard     | 6   | 1D6                  | Cr1,250          |                                                                                                                      |
-| Smart        | 8   | 1D6                  | Cr2,500          | Attack roll is always 8+, and may attack every turn if they miss until they are destroyed, jammed or run out of fuel |
+### Batterie
 
-### Bays
+Le batterie sono molto più grandi delle torrette, e occupano 50 tonnellate di spazio e un punto d’appoggio, oltre a una tonnellata di spazio per il controllo del tiro.
 
-Bay weapons are much larger than turrets, and take up 50 tons of space and one hard point, as well as one ton of space for fire control.
+#### Tabella: Batterie
 
-#### 
+| Arma                | LT | Gittata  | Danno                          | Costo (MCr) |
+|---------------------|----|----------|--------------------------------|-------------|
+| Batteria di missili | 6  | Speciale | Lancia salve di dodici missili | 12          |
+| Raggi a particelle  | 8  | Lunga    | 6D6 + 1 colpi a radiazioni     | 20          |
+| Armi a mesoni       | 11 | Lunga    | 5D6 + 1 colpi a radiazioni     | 50          |
+| Cannoni a fusione   | 12 | Media    | 5D6                            | 8           |
 
-#### Table: Bay Weapons
+Le **batterie di missili** lanciano sciami di dodici razzi per volta.
 
-| Weapon        | TL  | Range   | Damage                               | Cost (MCr) |
-|---------------|-----|---------|--------------------------------------|------------|
-| Missile Bank  | 6   | Special | Launches a flight of twelve missiles | 12         |
-| Particle Beam | 8   | Long    | 6D6 + 1 radiation hit                | 20         |
-| Meson Gun     | 11  | Long    | 5D6 + 1 radation hit                 | 50         |
-| Fusion Gun    | 12  | Medium  | 5D6                                  | 8          |
+I **raggi di particelle** sono versioni più grandi delle armi montate sulle torrette.
 
-**Missile banks** fire flights of twelve missiles at a time.
+Le **armi a mesoni** non tengono conto dell’armatura, poiché il colpo diventa pericoloso solo dopo che ha già attraversato lo scafo. I cannoni a mesoni infliggono anche un colpo da radiazioni automatico sull’equipaggio di qualsiasi bersaglio colpito.
 
-**Particle beam** bays fire a larger and more powerful beam of subatomic particles than particle beam turret weapons.
+I **cannoni a fusione** sparano un raggio diretto di idrogeno a temperatura di fusione ai bersagli.
 
-**Meson weapons** are unaffected by armor, as the blast only becomes harmful after it has already passed through the hull. Meson guns also inflict an automatic radiation hit on the crew of any target struck.
+### Schermi
 
-**Fusing weapons** fire a stream of hydrogen particles that are undergoing a fusion reaction.
+Gli schermi sono sistemi difensivi che proteggono da attacchi specifici.
 
-### Screens
+#### Tabella: Schermi
 
-Screens are defensive systems that protect against specific attacks.
-
-#### Table: Screens
-
-| Screen         | TL  | Effect                                                                                                                                                                                                                                     | Tons | Cost (MCr) |
+| Schermo         | LT  | Effetto                                                                                                                                                                                                                                     | Tonnellata | Costo (MCr) |
 |----------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------------|
-| Meson Screen   | 12  | Protects against meson weapon damage, reducing damage by 2D6. Meson screens reduce radiation damage from meson guns and meson flicker weapons. Radiation hits from these weapons suffer a –DM equal to twice the active number of screens. | 50   | 60         |
-| Nuclear Damper | 12  | Reduces fusion gun damage and nuclear missile damage by 2D6, removes automatic radiation hit from nuclear missile attacks                                                                                                                  | 50   | 50         |
+| Schermo antimesoni   | 12  | Protegge dai danni delle armi mesoniche, riducendo i danni di 2D6. Gli schermi antimesoni riducono i danni da radiazioni causati dai cannoni mesonici e dalle armi a lampi mesonici. I colpi di radiazioni di queste armi subiscono un MD- pari al doppio del numero di schermi attivi.| 50   | 60         |
+| Smorzatore Nucleare | 12  | Riduce il danno di cannoni a fusione e missili nucleari di 2d6, rimuove il colpo automatico all’equipaggio dei missili nucleari.                                                                                                                  | 50   | 50         |
 
-**Meson screens** block attacks from meson weapons by preventing meson decay.
+Gli **Schermi antimesoni** bloccano gli attacchi delle armi mesoniche prevenendo il decadimento del mesone.
 
-**Nuclear dampers** inhibit fusion reactions, reducing the damage from fusion weapons and nuclear missiles by 2D6 when affected.
+Gli **Smorzatori Nucleari** inibiscono le reazioni di fusione, riducendo i danni da armi a fusione e missili nucleari di 2D6 quando vengono colpiti.
 
 ## Universal Ship Description Format
 
