@@ -12,25 +12,25 @@ I progetti di navi nuovi e unici non possono trarre vantaggio dal design standar
 
 La progettazione delle nave spaziali segue un processo molto metodico nelle regole del Cepheus Engine.
 
-1.  Scegli uno scafo per la nave
-    1.  Determina la configurazione dello scafo
-    2.  Installa la corazza (opzionale)
-2.  Scegli il motore di manovra (opzionale, ma altamente consigliato)
-3.  Scegli i motori di Balzo (opzionale)
-4.  Scegli il generatore
-5.  Determina i requisiti di carburante
-6.  Determina il tipo di ponte di comando
-7.  Scegli i computer della nave
-    1.  Scegli il software del computer
-8.  Scegli i componenti elettronici della nave
-9.  Determina il numero di membri dell'equipaggio
-    1.  Scegli le cabine e le cuccette minori
+1. Scegli uno scafo per la nave
+   1. Determina la configurazione dello scafo
+   2. Installa la corazza (opzionale)
+2. Scegli il motore di manovra (opzionale, ma altamente consigliato)
+3. Scegli i motori di Balzo (opzionale)
+4. Scegli il generatore
+5. Determina i requisiti di carburante
+6. Determina il tipo di ponte di comando
+7. Scegli i computer della nave
+   1. Scegli il software del computer
+8. Scegli i componenti elettronici della nave
+9. Determina il numero di membri dell'equipaggio
+   1. Scegli le cabine e le cuccette minori
 10. Determina funzionalità aggiuntive (opzionale)
 11. Determina le torrette, i banchi o gli schermi (opzionale)
-    1.  Determina le armi (opzionale)
+    1. Determina le armi (opzionale)
 12. Assegna lo spazio rimanente al carico
 13. Calcola il costo finale e il tempo di costruzione
-    1.  Applica uno sconto di design standard del 10% (opzionale)
+    1. Applica uno sconto di design standard del 10% (opzionale)
 
 ## Una nota sulla ridondanza dei sistemi
 
@@ -48,26 +48,26 @@ Lo scafo della nave è il guscio in cui sono collocati tutti gli altri component
 
 #### Tabella: Scafo della nave per Dislocamento
 
-| Scafo   | Codice    | Costo (MCr) | Tempo di costruzione (settimane) |
-|---------|-----------|-------------|----------------------------------|
-| 100 t   | 1         | 2           | 36                               |
-| 200 t   | 2         | 8           | 44                               |
-| 300 t   | 3         | 12          | 52                               |
-| 400 t   | 4         | 16          | 60                               |
-| 500 t   | 5         | 32          | 68                               |
-| 600 t   | 6         | 48          | 76                               |
-| 700 t   | 7         | 64          | 84                               |
-| 800 t   | 8         | 80          | 92                               |
-| 900 t   | 9         | 90          | 100                              |
-| 1.000 t | A         | 100         | 108                              |
-| 1.200 t | C         | 120         | 124                              |
-| 1.400 t | E         | 140         | 140                              |
-| 1.600 t | G         | 160         | 156                              |
-| 1.800 t | J         | 180         | 172                              |
-| 2.000 t | L         | 200         | 188                              |
-| 3.000 t | M         | 300         | 268                              |
-| 4.000 t | N         | 400         | 348                              |
-| 5.000 t | P         | 500         | 428                              |
+| Scafo   | Codice | Costo (MCr) | Tempo di costruzione (settimane) |
+| ------- | ------ | ----------- | -------------------------------- |
+| 100 t   | 1      | 2           | 36                               |
+| 200 t   | 2      | 8           | 44                               |
+| 300 t   | 3      | 12          | 52                               |
+| 400 t   | 4      | 16          | 60                               |
+| 500 t   | 5      | 32          | 68                               |
+| 600 t   | 6      | 48          | 76                               |
+| 700 t   | 7      | 64          | 84                               |
+| 800 t   | 8      | 80          | 92                               |
+| 900 t   | 9      | 90          | 100                              |
+| 1.000 t | A      | 100         | 108                              |
+| 1.200 t | C      | 120         | 124                              |
+| 1.400 t | E      | 140         | 140                              |
+| 1.600 t | G      | 160         | 156                              |
+| 1.800 t | J      | 180         | 172                              |
+| 2.000 t | L      | 200         | 188                              |
+| 3.000 t | M      | 300         | 268                              |
+| 4.000 t | N      | 400         | 348                              |
+| 5.000 t | P      | 500         | 428                              |
 
 ### Configurazione della nave
 
@@ -83,8 +83,7 @@ Una nave può avere una qualsiasi delle tre configurazioni: standard (un cuneo, 
 
 | Configurazione | Modificatore del costo dello scafo | Notes                                                                                                                                |
 |----------------|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Distribuito    | x0.9                               | Impossibile montare i | Razionalizzato | x1.1                               | Include i bocchettoni di carburante                                                                                                  |
- del carburante. Le operazioni atmosferiche subiscono MD-4 (le prove fallite infliggono 2D6 danni). |
+| Distribuito    | x0.9                               | Impossibile montare i bocchettoni del carburante. Le operazioni atmosferiche subiscono MD-4 (le prove fallite infliggono 2D6 danni)  |
 | Standard       | x1.0                               | Le operazioni in atmosfera subiscono un MD-2                                                                                         |
 | Razionalizzato | x1.1                               | Include i bocchettoni di carburante                                                                                                  |
 
@@ -94,11 +93,11 @@ La corazza viene aggiunta con incrementi del 5% del tonnellaggio della nave. Una
 
 #### Tabella: Corazza per Tipo
 
-| Tipo di corazza   | LT | Protezione           | Costo                   |
-|-------------------|----|----------------------|-------------------------|
-| Titanio           | 7  | 2 per 5%, minimo 1 t | 5% dello scafo di base  |
-| Crystaliron       | 10 | 4 per 5%, minimo 1 t | 20% dello scafo di base |
-| Superdensa | 14 | 6 per 5%, minimo 1 t | 50% dello scafo di base |
+| Tipo di corazza | LT  | Protezione           | Costo                   |
+| --------------- | --- | -------------------- | ----------------------- |
+| Titanio         | 7   | 2 per 5%, minimo 1 t | 5% dello scafo di base  |
+| Crystaliron     | 10  | 4 per 5%, minimo 1 t | 20% dello scafo di base |
+| Superdensa      | 14  | 6 per 5%, minimo 1 t | 50% dello scafo di base |
 
 Per esempio, una nave da guerra pesantemente corazzata potrebbe installare due volte la corazza Superdensa. Ciò richiederebbe il 10% del volume dello scafo e costerebbe il 100% del costo base dello scafo, ma darebbe 12 punti di corazza.
 
@@ -135,7 +134,7 @@ Una nave non stellare deve avere un motore di manovra (Motore-M) e un generatore
 #### Tabella: Costi dei Motori
 
 | Codice Motore | Motore-B (t) | MCr | Motore-M (t) | MCr | Generatore (t) | MCr |
-|---------------|--------------|-----|--------------|-----|----------------|-----|
+| ------------- | ------------ | --- | ------------ | --- | -------------- | --- |
 | A             | 10           | 10  | 2            | 4   | 4              | 8   |
 | B             | 15           | 20  | 3            | 8   | 7              | 16  |
 | C             | 20           | 30  | 5            | 12  | 10             | 24  |
@@ -161,11 +160,10 @@ Una nave non stellare deve avere un motore di manovra (Motore-M) e un generatore
 | Y             | 120          | 230 | 45           | 92  | 70             | 182 |
 | Z             | 125          | 240 | 47           | 96  | 73             | 192 |
 
-
 #### Tabella: Performance del Motore per Volume dello Scafo (Scafi Minori)
 
 |     | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000 |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
 | A   | 2   | 1   | –   | –   | –   | –   | –   | –   | –   | –    |
 | B   | 4   | 2   | 1   | 1   | –   | –   | –   | –   | –   | –    |
 | C   | 6   | 3   | 2   | 1   | 1   | 1   | –   | –   | –   | –    |
@@ -194,7 +192,7 @@ Una nave non stellare deve avere un motore di manovra (Motore-M) e un generatore
 #### Tabella: Performance del Motore per Volume dello Scafo (Scafi Maggiori)
 
 |     | 1200 | 1400 | 1600 | 1800 | 2000 | 3000 | 4000 | 5000 |
-|-----|------|------|------|------|------|------|------|------|
+| --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | A   | –    | –    | –    | –    | –    | –    | –    | –    |
 | B   | –    | –    | –    | –    | –    | –    | –    | –    |
 | C   | –    | –    | –    | –    | –    | –    | –    | –    |
@@ -231,7 +229,7 @@ La quantità di carburante richiesta dal generatore dipende dal tonnellaggio del
 #### Tabella: Requisiti del carburante del generatore
 
 | Codice Motore | Generatore (t) | Carburante/settimana (t) | Volume Carburante min. |
-|---------------|----------------|--------------------------|------------------------|
+| ------------- | -------------- | ------------------------ | ---------------------- |
 | A             | 4              | 1                        | 2                      |
 | B             | 7              | 2                        | 4                      |
 | C             | 10             | 3                        | 6                      |
@@ -257,7 +255,6 @@ La quantità di carburante richiesta dal generatore dipende dal tonnellaggio del
 | Y             | 70             | 23                       | 46                     |
 | Z             | 73             | 24                       | 48                     |
 
-
 ## Ponte
 
 La dimensione del ponte cambia a seconda delle dimensioni della nave. Il costo per il ponte della nave è di 0,5 MCr per 100 tonnellate di nave.
@@ -265,7 +262,7 @@ La dimensione del ponte cambia a seconda delle dimensioni della nave. Il costo p
 #### Tabella: Dimensioni del Ponte
 
 | Dimensioni Nave | Dimensioni Ponte |
-|-----------------|------------------|
+| --------------- | ---------------- |
 | 200 t o meno    | 10 t             |
 | 300 t – 1.000 t | 20 t             |
 | 1,100 – 2.000 t | 40 t             |
@@ -277,15 +274,15 @@ Il computer della nave è identificato dal numero di modello; la tabella *Modell
 
 #### Tabella: Modelli Computer di Bordo
 
-| Computer | LT | Classe    | Costo     |
-|----------|----|-----------|-----------|
-| Model 1  | 7  | 5         | Cr30.000  |
-| Model 2  | 9  | 10        | Cr160.000 |
-| Model 3  | 11 | 15        | MCr2      |
-| Model 4  | 12 | 20        | MCr5      |
-| Model 5  | 13 | 25        | MCr10     |
-| Model 6  | 14 | 30        | MCr20     |
-| Model 7  | 15 | 35        | MCr30     |
+| Computer | LT  | Classe | Costo     |
+| -------- | --- | ------ | --------- |
+| Model 1  | 7   | 5      | Cr30.000  |
+| Model 2  | 9   | 10     | Cr160.000 |
+| Model 3  | 11  | 15     | MCr2      |
+| Model 4  | 12  | 20     | MCr5      |
+| Model 5  | 13  | 25     | MCr10     |
+| Model 6  | 14  | 30     | MCr20     |
+| Model 7  | 15  | 35     | MCr30     |
 
 ### Opzioni per Computer di Bordo
 
@@ -303,13 +300,13 @@ I computer delle navi eseguono pacchetti software altamente specializzati proget
 
 #### Tabella: Software
 
-| Programma                  | LT  | Classe           | Costo (MCr)          | Note                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|----------------------------|-----|------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Autoriparazione           | 10+ | 10 per tentativo | 5 per repair attempt | Il computer può tentare una riparazione per turno, o fornire un MD+ 1 a un tentativo; a LT 12, può acquistare un ulteriore tentativo di riparazione (o MD+ 1) per il doppio della classe e del costo.                                                                                                                                                                                                                                                         |
-| Evasione                   | 9+  | 5 + 5 per MD-1   | 1 per MD-1           | Impone MD-1 al fuoco in arrivo; ogni due LT superiori è possibile acquistare un MD-1 aggiuntivo, fino a un massimo di MD-3 a LT 13.                                                                                                                                                                                                                                                                                                                           |
-| Controllo Fuoco            | 9+  | 5 per arma       | 2 per arma           | Il computer della nave può sparare con un'arma; per ogni arma aggiuntiva, la LT è aumentata di 1 (la nave può sparare fino a 2 armi a LT 10, 3 a LT 11 e così via). Il computer della nave può anche sacrificare il controllo di un'arma per dare un MD+ 1 dal targeting del computer su un altro attacco, sia che quell'arma sia controllata dal computer della nave sia da un vero mitragliere. Questo programma può controllare un massimo di cinque armi. |
-| Controllo Balzo            | 9+  | 5 per Nb         | 0.1xNb               | Governa il motore a Balzo fino a un dato numero di Balzi (Nb); il LT è lo stesso richiesto per un dato numero di Balzi.                                                                                                                                                                                                                                                                                                                                       |
-| Nastro Registrazione Rotta | 9+  | 1 per Nb         | 0.001xNb             | Fornisce una rotta di Balzo da un mondo specifico a un sistema di destinazione specifico. Prezzo basato sul numero di parsec tra i mondi; il LT è lo stesso richiesto per un dato numero di Balzi necessario per coprire quel Balzo.                                                                                                                                                                                                                          |
+| Programma                  | LT  | Classe           | Costo (MCr)     | Note                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -------------------------- | --- | ---------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Autoriparazione            | 10+ | 10 per tentativo | 5 per tentativo | Il computer può tentare una riparazione per turno, o fornire un MD+ 1 a un tentativo; a LT 12, può acquistare un ulteriore tentativo di riparazione (o MD+ 1) per il doppio della classe e del costo.                                                                                                                                                                                                                                                         |
+| Evasione                   | 9+  | 5 + 5 per MD-1   | 1 per MD-1      | Impone MD-1 al fuoco in arrivo; ogni due LT superiori è possibile acquistare un MD-1 aggiuntivo, fino a un massimo di MD-3 a LT 13.                                                                                                                                                                                                                                                                                                                           |
+| Controllo Fuoco            | 9+  | 5 per arma       | 2 per arma      | Il computer della nave può sparare con un'arma; per ogni arma aggiuntiva, la LT è aumentata di 1 (la nave può sparare fino a 2 armi a LT 10, 3 a LT 11 e così via). Il computer della nave può anche sacrificare il controllo di un'arma per dare un MD+ 1 dal targeting del computer su un altro attacco, sia che quell'arma sia controllata dal computer della nave sia da un vero mitragliere. Questo programma può controllare un massimo di cinque armi. |
+| Controllo Balzo            | 9+  | 5 per Nb         | 0.1xNb          | Governa il motore a Balzo fino a un dato numero di Balzi (Nb); il LT è lo stesso richiesto per un dato numero di Balzi.                                                                                                                                                                                                                                                                                                                                       |
+| Nastro Registrazione Rotta | 9+  | 1 per Nb         | 0.001xNb        | Fornisce una rotta di Balzo da un mondo specifico a un sistema di destinazione specifico. Prezzo basato sul numero di parsec tra i mondi; il LT è lo stesso richiesto per un dato numero di Balzi necessario per coprire quel Balzo.                                                                                                                                                                                                                          |
 
 ## Elettronica
 
@@ -317,13 +314,13 @@ Una nave è fornita automaticamente di sistemi base di comunicazione, sensori e 
 
 #### Tabella: Elettronica
 
-| Sistema          | LT | MD | Include                                                             | Tonnellate        | Costo             |
-|------------------|----|----|---------------------------------------------------------------------|-------------------|-------------------|
-| Standard         | 8  | –4 | Radar, Lidar                                                        | Incluse nel ponte | Incluse nel ponte |
-| Civile di Base   | 9  | –2 | Radar, Lidar                                                        | 1                 | Cr50.000          |
-| Militare di Base | 10 | +0 | Radar, Lidar, Disturbatori                                          | 2                 | MCr1              |
-| Avanzato         | 11 | +1 | Radar, Lidar, Densitometro, Disturbatori                            | 3                 | MCr2              |
-| Molto Avanzato   | 12 | +2 | Radar, Lidar, Densitometro, Disturbatori, Sensori Attività Neurale  | 5                 | MCr4              |
+| Sistema          | LT  | MD  | Include                                                            | Tonnellate        | Costo             |
+| ---------------- | --- | --- | ------------------------------------------------------------------ | ----------------- | ----------------- |
+| Standard         | 8   | –4  | Radar, Lidar                                                       | Incluse nel ponte | Incluse nel ponte |
+| Civile di Base   | 9   | –2  | Radar, Lidar                                                       | 1                 | Cr50.000          |
+| Militare di Base | 10  | +0  | Radar, Lidar, Disturbatori                                         | 2                 | MCr1              |
+| Avanzato         | 11  | +1  | Radar, Lidar, Densitometro, Disturbatori                           | 3                 | MCr2              |
+| Molto Avanzato   | 12  | +2  | Radar, Lidar, Densitometro, Disturbatori, Sensori Attività Neurale | 5                 | MCr4              |
 
 Il **Radar / Lidar** rileva oggetti fisici. Può essere attivo o passivo. Se una nave utilizza sensori attivi, è più facile da rilevare (MD+2 alle prove di Comunicazioni) ma rileva di più nelle vicinanze.
 
@@ -339,22 +336,22 @@ Tutte le navi richiedono un equipaggio per operare e mantenere la nave. Le picco
 
 #### Tabella: Requisiti Equipaggio
 
-| Posizione                | Minimo                               | Staff Completo                                                                                                                    |
-|--------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| Comando                  | Nessuno                              | Un comandante o capitano, un ufficiale esecutivo, tre membri del personale amministrativo (per navi oltre 1.000 tonnellate)       |
-| Pilota                   | Uno                                  | Tre (uno ogni 8 ore di turno)                                                                                                     |
-| Navigatore               | Uno (opzionale se presente software) | Uno                                                                                                                               |
-| Ingegnere                | Uno                                  | Uno ogni 35 t di motori e generatori                                                                                              |
-| Operatore Sensori        | Nessuno                              | Uno                                                                                                                               |
-| Medico                   | Nessuno                              | Uno ogni 120 tra passeggeri ed equipaggio                                                                                         |
-| Steward                  | Nessuno                              | Uno ogni quattro passeggeri di Classe Superiore o dieci passeggeri di Classe Media (presume Steward-1)                            |
-| Artigliere Torrette      | Uno ogni torretta                    | Uno per torretta                                                                                                                  |
-| Artigliere Batteria      | Uno ogni batteria                    | Due per batteria                                                                                                                  |
-| Operatore Schermi        | Uno ogni schermo                     | Quattro ogni schermo                                                                                                              |
-| Ufficiale Capo Sicurezza | Nessuno                              | Uno (opzionale)                                                                                                                   |
+| Posizione                | Minimo                               | Staff Completo                                                                                                                   |
+| ------------------------ | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Comando                  | Nessuno                              | Un comandante o capitano, un ufficiale esecutivo, tre membri del personale amministrativo (per navi oltre 1.000 tonnellate)      |
+| Pilota                   | Uno                                  | Tre (uno ogni 8 ore di turno)                                                                                                    |
+| Navigatore               | Uno (opzionale se presente software) | Uno                                                                                                                              |
+| Ingegnere                | Uno                                  | Uno ogni 35 t di motori e generatori                                                                                             |
+| Operatore Sensori        | Nessuno                              | Uno                                                                                                                              |
+| Medico                   | Nessuno                              | Uno ogni 120 tra passeggeri ed equipaggio                                                                                        |
+| Steward                  | Nessuno                              | Uno ogni quattro passeggeri di Classe Superiore o dieci passeggeri di Classe Media (presume Steward-1)                           |
+| Artigliere Torrette      | Uno ogni torretta                    | Uno per torretta                                                                                                                 |
+| Artigliere Batteria      | Uno ogni batteria                    | Due per batteria                                                                                                                 |
+| Operatore Schermi        | Uno ogni schermo                     | Quattro ogni schermo                                                                                                             |
+| Ufficiale Capo Sicurezza | Nessuno                              | Uno (opzionale)                                                                                                                  |
 | Equipaggio di Volo       | Nessuno                              | Uno ogni veicolo piccolo o veicolo trasportato in hangar o tubi di lancio, più un equipaggio di supporto ogni tre veicoli o navi |
-| Marine                   | Nessuno                              | Sulle navi di oltre 1.000 tonnellate, si possono averne fino a 30 ogni 1.000 tonnellate                                           |
-| Altri                    | Nessuno                              | Secondo necessità (es. Personale medico, scienziati, geometri, ecc.)                                                              |
+| Marine                   | Nessuno                              | Sulle navi di oltre 1.000 tonnellate, si possono averne fino a 30 ogni 1.000 tonnellate                                          |
+| Altri                    | Nessuno                              | Secondo necessità (es. Personale medico, scienziati, geometri, ecc.)                                                             |
 
 ### Cabine
 
@@ -442,7 +439,7 @@ Il tonnellaggio e il costo delineati nella tabella *Costo e tonnellaggio dell'ha
 #### Tabella: Costo e tonnellaggio dell'hangar per veicoli e droni
 
 | Veicolo o Drone          | Tonnellate          | Costo di Installazione (MCr) |
-|--------------------------|---------------------|------------------------------|
+| ------------------------ | ------------------- | ---------------------------- |
 | ATV                      | 13                  | 2,6                          |
 | Aeroscafo                | 5                   | 1                            |
 | Cutter                   | 65                  | 13                           |
@@ -465,13 +462,13 @@ Una torretta può essere attaccata a ogni pilone alare della nave. Se è install
 
 #### Tabella: Dislocamento e Costo Torrette
 
-| Arma                 | LT | Tonnellate | Costo (MCr) |
-|----------------------|----|------------|-------------|
-| Torretta Singola     | 7  | 1          | 0,2         |
-| Torretta Doppia      | 8  | 1          | 0,5         |
-| Torretta Tripla      | 9  | 1          | 1           |
-| Torretta a scomparsa | 10 | 2          | +1          |
-| Montaggio fisso      | \- | 0          | x 0,5       |
+| Arma                 | LT  | Tonnellate | Costo (MCr) |
+| -------------------- | --- | ---------- | ----------- |
+| Torretta Singola     | 7   | 1          | 0,2         |
+| Torretta Doppia      | 8   | 1          | 0,5         |
+| Torretta Tripla      | 9   | 1          | 1           |
+| Torretta a scomparsa | 10  | 2          | +1          |
+| Montaggio fisso      | \-  | 0          | x 0,5       |
 
 Le torrette **singole**, **doppie** e **triple** possono contenere una, due o tre armi.
 
@@ -481,13 +478,13 @@ Le torrette **singole**, **doppie** e **triple** possono contenere una, due o tr
 
 #### Tabella: Armi a Torretta
 
-| Arma                | LT | Gittata Ottimale | Danno                    | Costo (MCr) | Note                    |
-|---------------------|----|------------------|--------------------------|-------------|-------------------------|
-| Missiliere          | 6  | Speciale         | Dipende dal missile      | 0,75        |                         |
-| Laser a Impulso     | 7  | Corta            | 2D6                      | 0,5         | Soffre MD-2 all'attacco |
-| Spargisabbia        | 7  | Speciale         | Special                  | 0,25        |                         |
-| Raggi di Particelle | 8  | Lunga            | 3D6 + colpi a radiazioni | 4           |                         |
-| Raggi Laser         | 9  | Media            | 1D6                      | 1           |                         |              |
+| Arma                | LT  | Gittata Ottimale | Danno                    | Costo (MCr) | Note                    |
+| ------------------- | --- | ---------------- | ------------------------ | ----------- | ----------------------- |
+| Missiliere          | 6   | Speciale         | Dipende dal missile      | 0,75        |                         |
+| Laser a Impulso     | 7   | Corta            | 2D6                      | 0,5         | Soffre MD-2 all'attacco |
+| Spargisabbia        | 7   | Speciale         | Special                  | 0,25        |                         |
+| Raggi di Particelle | 8   | Lunga            | 3D6 + colpi a radiazioni | 4           |                         |
+| Raggi Laser         | 9   | Media            | 1D6                      | 1           |                         |
 
 Le **Missiliere** lanciano armi semoventi progettate per esplodere all'impatto.
 
@@ -507,11 +504,11 @@ I missili sono armi semoventi o dirette da telecomando, che trasportano un esplo
 
 #### Tabella: Missili
 
-| Tipo di Missile | LT | Danno                     | Costo per Missile | Note                                                                                                                                     |
-|-----------------|----|---------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| Nucleare        | 6  | 2D6+ 1 colpi a radiazioni | Cr3.750           | Il colpo a radiazione subisce un MD- pari all'armatura della nave                                                                        |
-| Standard        | 6  | 1D6                       | Cr1.250           |                                                                                                                                          |
-| Intelligente    | 8  | 1D6                       | Cr2.500           | Il tiro per colpire è sempre 8+ e può attaccare a ogni turno se fallisce fino a quando non viene distrutto, inceppato o senza carburante |
+| Tipo di Missile | LT  | Danno                     | Costo per Missile | Note                                                                                                                                     |
+| --------------- | --- | ------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Nucleare        | 6   | 2D6+ 1 colpi a radiazioni | Cr3.750           | Il colpo a radiazione subisce un MD- pari all'armatura della nave                                                                        |
+| Standard        | 6   | 1D6                       | Cr1.250           |                                                                                                                                          |
+| Intelligente    | 8   | 1D6                       | Cr2.500           | Il tiro per colpire è sempre 8+ e può attaccare a ogni turno se fallisce fino a quando non viene distrutto, inceppato o senza carburante |
 
 ### Batterie
 
@@ -519,12 +516,12 @@ Le batterie sono molto più grandi delle torrette, e occupano 50 tonnellate di s
 
 #### Tabella: Batterie
 
-| Arma                | LT | Gittata  | Danno                          | Costo (MCr) |
-|---------------------|----|----------|--------------------------------|-------------|
-| Batteria di missili | 6  | Speciale | Lancia salve di dodici missili | 12          |
-| Raggi a particelle  | 8  | Lunga    | 6D6 + 1 colpi a radiazioni     | 20          |
-| Armi a mesoni       | 11 | Lunga    | 5D6 + 1 colpi a radiazioni     | 50          |
-| Cannoni a fusione   | 12 | Media    | 5D6                            | 8           |
+| Arma                | LT  | Gittata  | Danno                          | Costo (MCr) |
+| ------------------- | --- | -------- | ------------------------------ | ----------- |
+| Batteria di missili | 6   | Speciale | Lancia salve di dodici missili | 12          |
+| Raggi a particelle  | 8   | Lunga    | 6D6 + 1 colpi a radiazioni     | 20          |
+| Armi a mesoni       | 11  | Lunga    | 5D6 + 1 colpi a radiazioni     | 50          |
+| Cannoni a fusione   | 12  | Media    | 5D6                            | 8           |
 
 Le **batterie di missili** lanciano sciami di dodici razzi per volta.
 
@@ -540,10 +537,10 @@ Gli schermi sono sistemi difensivi che proteggono da attacchi specifici.
 
 #### Tabella: Schermi
 
-| Schermo         | LT  | Effetto                                                                                                                                                                                                                                     | Tonnellata | Costo (MCr) |
-|----------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------------|
-| Schermo antimesoni   | 12  | Protegge dai danni delle armi mesoniche, riducendo i danni di 2D6. Gli schermi antimesoni riducono i danni da radiazioni causati dai cannoni mesonici e dalle armi a lampi mesonici. I colpi di radiazioni di queste armi subiscono un MD- pari al doppio del numero di schermi attivi.| 50   | 60         |
-| Smorzatore Nucleare | 12  | Riduce il danno di cannoni a fusione e missili nucleari di 2d6, rimuove il colpo automatico all’equipaggio dei missili nucleari.                                                                                                                  | 50   | 50         |
+| Schermo             | LT  | Effetto                                                                                                                                                                                                                                                                                 | Tonnellata | Costo (MCr) |
+| ------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- |
+| Schermo antimesoni  | 12  | Protegge dai danni delle armi mesoniche, riducendo i danni di 2D6. Gli schermi antimesoni riducono i danni da radiazioni causati dai cannoni mesonici e dalle armi a lampi mesonici. I colpi di radiazioni di queste armi subiscono un MD- pari al doppio del numero di schermi attivi. | 50         | 60          |
+| Smorzatore Nucleare | 12  | Riduce il danno di cannoni a fusione e missili nucleari di 2d6, rimuove il colpo automatico all’equipaggio dei missili nucleari.                                                                                                                                                        | 50         | 50          |
 
 Gli **Schermi antimesoni** bloccano gli attacchi delle armi mesoniche prevenendo il decadimento del mesone.
 
@@ -555,7 +552,7 @@ Dopo che la progettazione di una nave è terminata, deve essere presentata in un
 
 \[Livello Tecnologico della Nave\] \[Nome della Nave\]
 
-Utilizzando un \[Dislocamento dello scafo della nave \] - tonnellate di scafo (\[Valore di danno allo scafo\] Scafo, \[Valore di danno alla struttura \] Struttura,), il \[Nome della nave\] è \[Descrizione generale della funzione della nave\]. Monta motore a Balzo \[Codice motore a Balzo\], motore di manovra \[Codice motore di manovra\] e generatore \[Codice generatore\], fornendo prestazioni di Balzo - \[numero di Balzo\] e \[numero di spinta\] - Accelerazione G. Un serbatoio di \[Tonnellate di carburante\] tonnellate supporta il generatore per \Settimane di energia\] e \[Numero di Balzi\] balzo-\[Numero di Balzo\]. \[Eventuali note aggiuntive sull'utilizzo di carburante.\] Adiacente al ponte c'è un modello di computer \[Numero computer, seguito da una barra e da una nota delle opzioni bis o fib, se acquistate\]. La nave è dotata di sensori \[Tipo di sensori\] (\[Sensori MD\].) Ci sono \[Numero di cabine\] cabine e \[Numero di cuccette inferiori\] cuccette inferiori. La nave ha \[Numero di piloni alari\] piloni alari e \[Tonnellaggio controllo incendi\] tonnellate assegnate per il controllo del fuoco. Sui piloni alari sono installati \[Descrivi il numero e il tipo di torrette e tutti i sistemi d'arma installati, se ce ne sono. Nota anche le munizioni trasportate per missili e spargisabbia.\] Questa nave ha schermi \[Numero di schermi installati\]: \[Descrivi numero e tipo di schermi\]. Ci sono \[Numero di hangar per veicoli piccoli\] hangar per veicoli piccoli \[Descrivi il numero e il contenuto di ogni hangar\]. La capacità di carico è di \[Tonellate di carico\] tonnellate. Lo scafo è \[Configurazione scafo\] ed è blindato con \[Tipo di corazza\] (\[Valore corazza\] punti.) \[Segna le opzioni di corazza della nave che sono state installate.\] Le caratteristiche speciali includono \[Elenco componenti aggiuntivi qui, inclusi processori di carburante e bocchettoni di carburante\]. La nave richiede un equipaggio di \[Totale equipaggio\]: \[Elenca posizioni equipaggio\]. La nave può trasportare fino a \[il doppio del numero di cabine senza equipaggio\] passeggeri aggiuntivi in ​​doppia occupazione e \[numero di cuccette inferiori\] passeggeri di classe inferiore. La nave costa MCr \[Costo della nave\] (inclusi sconti e commissioni) e richiede \[Tempo di costruzione\] settimane per essere costruita.
+Utilizzando un \[Dislocamento dello scafo della nave \] - tonnellate di scafo (\[Valore di danno allo scafo\] Scafo, \[Valore di danno alla struttura \] Struttura,), il \[Nome della nave\] è \[Descrizione generale della funzione della nave\]. Monta motore a Balzo \[Codice motore a Balzo\], motore di manovra \[Codice motore di manovra\] e generatore \[Codice generatore\], fornendo prestazioni di Balzo - \[numero di Balzo\] e \[numero di spinta\] - Accelerazione G. Un serbatoio di \[Tonnellate di carburante\] tonnellate supporta il generatore per \Settimane di energia\] e \[Numero di Balzi\] balzo-\[Numero di Balzo\]. \[Eventuali note aggiuntive sull'utilizzo di carburante.\] Adiacente al ponte c'è un modello di computer \[Numero computer, seguito da una barra e da una nota delle opzioni bis o fib, se acquistate\]. La nave è dotata di sensori \[Tipo di sensori\] (\[Sensori MD\].) Ci sono \[Numero di cabine\] cabine e \[Numero di cuccette inferiori\] cuccette inferiori. La nave ha \[Numero di piloni alari\] piloni alari e \[Tonnellaggio controllo incendi\] tonnellate assegnate per il controllo del fuoco. Sui piloni alari sono installati \[Descrivi il numero e il tipo di torrette e tutti i sistemi d'arma installati, se ce ne sono. Nota anche le munizioni trasportate per missili e spargisabbia.\] Questa nave ha schermi \[Numero di schermi installati\]: \[Descrivi numero e tipo di schermi\]. Ci sono \[Numero di hangar per veicoli piccoli\] hangar per veicoli piccoli \[Descrivi il numero e il contenuto di ogni hangar\]. La capacità di carico è di \[Tonnellate di carico\] tonnellate. Lo scafo è \[Configurazione scafo\] ed è blindato con \[Tipo di corazza\] (\[Valore corazza\] punti.) \[Segna le opzioni di corazza della nave che sono state installate.\] Le caratteristiche speciali includono \[Elenco componenti aggiuntivi qui, inclusi processori di carburante e bocchettoni di carburante\]. La nave richiede un equipaggio di \[Totale equipaggio\]: \[Elenca posizioni equipaggio\]. La nave può trasportare fino a \[il doppio del numero di cabine senza equipaggio\] passeggeri aggiuntivi in ​​doppia occupazione e \[numero di cuccette inferiori\] passeggeri di classe inferiore. La nave costa MCr \[Costo della nave\] (inclusi sconti e commissioni) e richiede \[Tempo di costruzione\] settimane per essere costruita.
 
 ## Motori Stellari Alternativi
 
@@ -581,7 +578,7 @@ Il motore a portale funziona aprendo un cancello verso l’iperspazio, attravers
 #### Tabella: Dimensioni del Portale Iperspaziale
 
 | Classe | Dimensione | Classe | Dimensione |
-|--------|------------|--------|------------|
+| ------ | ---------- | ------ | ---------- |
 | **A**  | 200        | **N**  | 2.800      |
 | **B**  | 400        | **P**  | 3.000      |
 | **C**  | 800        | **Q**  | 3.200      |
@@ -618,7 +615,7 @@ I Veicoli Piccoli usano la tabella *Scafo dei Veicoli Piccoli per Dislocamento* 
 #### Tabella: Scafo dei Veicoli Piccoli per Dislocamento
 
 | Scafo | Codice Scafo | Prezzo (MCr) | Tempo di Costruzione (settimane) |
-|-------|--------------|--------------|----------------------------------|
+| ----- | ------------ | ------------ | -------------------------------- |
 | 10 t  | s1           | 1,1          | 28                               |
 | 15 t  | s2           | 1,15         | 29                               |
 | 20 t  | s3           | 1,2          | 29                               |
@@ -645,7 +642,7 @@ La corazza dei veicoli piccoli viene acquistata allo stesso modo della corazza d
 #### Tabella: Massima Corazza dei Veicoli Piccoli per Tipo
 
 | Tipo Corazza | Valore Massimo di Corazza           |
-|--------------|-------------------------------------|
+| ------------ | ----------------------------------- |
 | Titanio      | LT o 9, qualunque sia il più basso  |
 | Crystaliron  | LT o 13, qualunque sia il più basso |
 | Superdenso   | LT                                  |
@@ -657,7 +654,7 @@ Un veicolo piccolo deve avere un motore di manovra (Motore-M) e un generatore (G
 #### Tabella: Costi dei motori per veicoli piccoli
 
 | Codice Motore | Tonnellate Motore-M | MCr | Tonnellate Generatore | MCr |
-|---------------|---------------------|-----|-----------------------|-----|
+| ------------- | ------------------- | --- | --------------------- | --- |
 | sA            | 0,5                 | 1   | 1,2                   | 3   |
 | sB            | 1,                  | 2   | 1,5                   | 3,5 |
 | sC            | 1,5                 | 3   | 1,8                   | 4   |
@@ -680,32 +677,31 @@ Un veicolo piccolo deve avere un motore di manovra (Motore-M) e un generatore (G
 | sV            | 15                  | 30  | 9,.9                  | 24  |
 | sW            | 16                  | 32  | 10,5                  | 26  |
 
-
 #### Tabella: Prestazioni motori di veicoli piccoli in base al volume dello scafo
 
-| Codice Motore | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 |
-|---------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-| sA            | 2  | 1  | 1  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| sB            | 4  | 2  | 2  | 1  | 1  | 1  | 1  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| sC            | 6  | 4  | 3  | 2  | 2  | 1  | 1  | 1  | 1  | 1  | 1  | -- | -- | -- | -- | -- | -- | -- |
-| sD            | -- | 5  | 4  | 3  | 2  | 2  | 2  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | -- | -- | -- |
-| sE            | -- | 6  | 5  | 4  | 3  | 2  | 2  | 2  | 2  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
-| sF            | -- | -- | 6  | 4  | 4  | 3  | 3  | 2  | 2  | 2  | 2  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
-| sG            | -- | -- | -- | 5  | 4  | 4  | 3  | 3  | 2  | 2  | 2  | 2  | 2  | 1  | 1  | 1  | 1  | 1  |
-| sH            | -- | -- | -- | 6  | 5  | 4  | 4  | 3  | 3  | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 1  | 1  |
-| sJ            | -- | -- | -- | -- | 6  | 5  | 4  | 4  | 3  | 3  | 3  | 2  | 2  | 2  | 2  | 2  | 2  | 1  |
-| sK            | -- | -- | -- | -- | 6  | 5  | 5  | 4  | 4  | 3  | 3  | 3  | 2  | 2  | 2  | 2  | 2  | 2  |
-| sL            | -- | -- | -- | -- | -- | 6  | 6  | 5  | 4  | 4  | 4  | 3  | 3  | 3  | 3  | 2  | 2  | 2  |
-| sM            | -- | -- | -- | -- | -- | -- | -- | 6  | 5  | 5  | 4  | 4  | 4  | 3  | 3  | 3  | 3  | 2  |
-| sN            | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 5  | 5  | 4  | 4  | 4  | 4  | 3  | 3  | 3  |
-| sP            | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 5  | 5  | 4  | 4  | 4  | 4  | 3  |
-| sQ            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 5  | 5  | 5  | 4  | 4  | 4  |
-| sR            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 5  | 5  | 5  | 4  | 4  |
-| sS            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 6  | 5  | 5  | 5  |
-| sT            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 6  | 5  | 5  |
-| sU            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  | 5  |
-| sV            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  | 6  |
-| sW            | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 6  |
+| Codice Motore | 10  | 15  | 20  | 25  | 30  | 35  | 40  | 45  | 50  | 55  | 60  | 65  | 70  | 75  | 80  | 85  | 90  | 95  |
+| ------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| sA            | 2   | 1   | 1   | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  |
+| sB            | 4   | 2   | 2   | 1   | 1   | 1   | 1   | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  |
+| sC            | 6   | 4   | 3   | 2   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | --  | --  | --  | --  | --  | --  | --  |
+| sD            | --  | 5   | 4   | 3   | 2   | 2   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | --  | --  | --  |
+| sE            | --  | 6   | 5   | 4   | 3   | 2   | 2   | 2   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
+| sF            | --  | --  | 6   | 4   | 4   | 3   | 3   | 2   | 2   | 2   | 2   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
+| sG            | --  | --  | --  | 5   | 4   | 4   | 3   | 3   | 2   | 2   | 2   | 2   | 2   | 1   | 1   | 1   | 1   | 1   |
+| sH            | --  | --  | --  | 6   | 5   | 4   | 4   | 3   | 3   | 2   | 2   | 2   | 2   | 2   | 2   | 1   | 1   | 1   |
+| sJ            | --  | --  | --  | --  | 6   | 5   | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   | 2   | 2   | 1   |
+| sK            | --  | --  | --  | --  | 6   | 5   | 5   | 4   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   | 2   | 2   |
+| sL            | --  | --  | --  | --  | --  | 6   | 6   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 2   |
+| sM            | --  | --  | --  | --  | --  | --  | --  | 6   | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 3   | 2   |
+| sN            | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 5   | 5   | 4   | 4   | 4   | 4   | 3   | 3   | 3   |
+| sP            | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 5   | 5   | 4   | 4   | 4   | 4   | 3   |
+| sQ            | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 5   | 5   | 5   | 4   | 4   | 4   |
+| sR            | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 5   | 5   | 5   | 4   | 4   |
+| sS            | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 6   | 5   | 5   | 5   |
+| sT            | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 6   | 5   | 5   |
+| sU            | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   | 5   |
+| sV            | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   | 6   |
+| sW            | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | --  | 6   |
 
 ### Carburante dei Veicoli Piccoli
 
@@ -714,7 +710,7 @@ I requisiti di carburante per il generatore di un veicoli piccolo seguono le reg
 #### Tabella: Requisiti del carburante per veicoli piccoli
 
 | Codice Motore | Generatore (t) | Carburante/Settimana (t) |
-|---------------|----------------|--------------------------|
+| ------------- | -------------- | ------------------------ |
 | sA            | 1.2            | 0.4                      |
 | sB            | 1.5            | 0.5                      |
 | sC            | 1.8            | 0.6                      |
@@ -740,7 +736,6 @@ I requisiti di carburante per il generatore di un veicoli piccolo seguono le reg
 | sY            | 11.7           | 3.9                      |
 | sZ            | 12.3           | 4.1                      |
 
-
 ### Cabine di pilotaggio e cabine di controllo per veicoli piccoli
 
 I veicoli piccoli non hanno ponti. Invece, una cabina di pilotaggio o una cabina di controllo svolge la stessa funzione. Una cabina di pilotaggio è più angusta, ma occupa meno tonnellaggio. Il costo per una cabina o un pozzetto è lo stesso: 0,1 MCr per 20 tonnellate di nave. Lo spazio aggiuntivo in cabina costa MCr 0,05 per tonnellata. Le cabina di pilotaggio e le cabine di controllo sono dotati di una suite di comunicazioni di base, sensori ed elettronica di controllo delle emissioni. È possibile installare sistemi più avanzati secondo le regole di progettazione delle navi standard.
@@ -748,7 +743,7 @@ I veicoli piccoli non hanno ponti. Invece, una cabina di pilotaggio o una cabina
 #### Tabella: Cabine di pilotaggio e cabine di controllo per veicoli piccoli
 
 | Dimensioni Veicolo                | Dimensioni (t)       | Equipaggio               |
-|-----------------------------------|----------------------|--------------------------|
+| --------------------------------- | -------------------- | ------------------------ |
 | 1-Uomo per Cabina di pilotaggio   | 1.5                  | 1 membro                 |
 | 2-Uomini per Cabina di pilotaggio | 3                    | 2 membri                 |
 | 1-Uomo per Cabina di Controllo    | 3                    | 1 membro                 |
@@ -757,7 +752,7 @@ I veicoli piccoli non hanno ponti. Invece, una cabina di pilotaggio o una cabina
 
 ### Camere di decompressione
 
-A differenza delle navi più grandi, un veicolo piccolo non ha una camera di decompressione per impostazione predefinita. Le camere di decompressione occupano una tonnellata ciascuna e costano MCr0.2. Se un veicolo non ha una camera di decombressione, l'equipaggio non può lasciare il veicolo tranne quando è atterrata o in una baia di atterraggio pressurizzata senza aprire la nave al vuoto.
+A differenza delle navi più grandi, un veicolo piccolo non ha una camera di decompressione per impostazione predefinita. Le camere di decompressione occupano una tonnellata ciascuna e costano MCr0.2. Se un veicolo non ha una camera di decompressione, l'equipaggio non può lasciare il veicolo tranne quando è atterrata o in una baia di atterraggio pressurizzata senza aprire la nave al vuoto.
 
 ### Equipaggio
 
@@ -770,7 +765,6 @@ Un veicolo piccolo ha un solo pilone alare, nonostante sia inferiore a 100 tonne
 Mesoni, raggi di particelle e batterie a fusioni non possono essere montati.
 
 Gli armamenti consentiti su un veicolo piccolo sono limitati dal tipo di generatore. Può equipaggiare solo fino al numero di laser e armi particellari consentito dal generatore della nave, come mostrato nella tabella *Massima Energia delle armi per generatore*. Il numero di lanciamissili o armi a proiettili non è limitato dalla lettera del generatore.
-
 
 #### Tabella: Massima Energia delle armi per generatore
 
