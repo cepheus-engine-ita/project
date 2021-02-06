@@ -221,54 +221,54 @@ Una nave non stellare deve avere un motore di manovra (Motore-M) e un generatore
 
 Per i motori di manovra, il potenziale è il numero di spinta (Np), che è la quantità di G disponibile. Per le unità a Balzo, il potenziale è il numero di Balzo (Nb) o il raggio di Balzo in parsec. Il valore nominale della centrale (A-Z) deve essere almeno uguale al valore del motore di manovra o del motore di Balzo, a seconda di quale sia maggiore.
 
-### Fuel
+### Carburante
 
-Fuel needed for a Jump depends on the size of the ship and the length of the Jump and is calculated as 0.1 x Hull tonnage x Jump distance. A single Jump of that distance consumes that much fuel.
+Il carburante necessario per un balzo dipende dalle dimensioni della nave e dalla lunghezza del balzo ed è calcolato come 0,1 x tonnellaggio scafo x distanza di balzo. Un singolo balzo a quella distanza consuma quindi quella quantità di carburante.
 
-The amount of fuel required by the power plant depends on the tonnage of the power plant itself, and is calculated as one-third of the power plant tonnage per week, rounded down to the nearest ton. Space-faring vessels require a minimum of two weeks’ worth of fuel for the power plant. Deep space vessels may store four, six or even eight weeks of power plant fuel. For your convenience, the Power Plant Fuel Requirements table provides calculated values for both the fuel per week and minimum fuel volume by Drive Code.
+La quantità di carburante richiesta dal generatore dipende dal tonnellaggio del generatore stesso ed è calcolata come un terzo del tonnellaggio del generatore a settimana, arrotondata per difetto alla tonnellata più vicina. Le navi spaziali richiedono un minimo di due settimane di carburante per il generatore. Le navi per lo spazio profondo possono immagazzinare quattro, sei o anche otto settimane di carburante per il generatore. Per comodità, la tabella dei *Requisiti del carburante del generatore* fornisce i valori calcolati sia per il carburante settimanale che per il volume minimo di carburante in base al codice motore.
 
-#### Table: Power Plant Fuel Requirements
+#### Tabella: Requisiti del carburante del generatore
 
-| Drive Code | P\-Plant \(tons\) | Fuel/Wk \(tons\) | Min\. Fuel Volume |
-|------------|-------------------|------------------|-------------------|
-| A          | 4                 | 1                | 2                 |
-| B          | 7                 | 2                | 4                 |
-| C          | 10                | 3                | 6                 |
-| D          | 13                | 4                | 8                 |
-| E          | 16                | 5                | 10                |
-| F          | 19                | 6                | 12                |
-| G          | 22                | 7                | 14                |
-| H          | 25                | 8                | 16                |
-| J          | 28                | 9                | 18                |
-| K          | 31                | 10               | 20                |
-| L          | 34                | 11               | 22                |
-| M          | 37                | 12               | 24                |
-| N          | 40                | 13               | 26                |
-| P          | 43                | 14               | 28                |
-| Q          | 46                | 15               | 30                |
-| R          | 49                | 16               | 32                |
-| S          | 52                | 17               | 34                |
-| T          | 55                | 18               | 36                |
-| U          | 58                | 19               | 38                |
-| V          | 61                | 20               | 40                |
-| W          | 64                | 21               | 42                |
-| X          | 67                | 22               | 44                |
-| Y          | 70                | 23               | 46                |
-| Z          | 73                | 24               | 48                |
+| Codice Motore | Generatore (t) | Carburante/settimana (t) | Volume Carburante min. |
+|---------------|----------------|--------------------------|------------------------|
+| A             | 4              | 1                        | 2                      |
+| B             | 7              | 2                        | 4                      |
+| C             | 10             | 3                        | 6                      |
+| D             | 13             | 4                        | 8                      |
+| E             | 16             | 5                        | 10                     |
+| F             | 19             | 6                        | 12                     |
+| G             | 22             | 7                        | 14                     |
+| H             | 25             | 8                        | 16                     |
+| J             | 28             | 9                        | 18                     |
+| K             | 31             | 10                       | 20                     |
+| L             | 34             | 11                       | 22                     |
+| M             | 37             | 12                       | 24                     |
+| N             | 40             | 13                       | 26                     |
+| P             | 43             | 14                       | 28                     |
+| Q             | 46             | 15                       | 30                     |
+| R             | 49             | 16                       | 32                     |
+| S             | 52             | 17                       | 34                     |
+| T             | 55             | 18                       | 36                     |
+| U             | 58             | 19                       | 38                     |
+| V             | 61             | 20                       | 40                     |
+| W             | 64             | 21                       | 42                     |
+| X             | 67             | 22                       | 44                     |
+| Y             | 70             | 23                       | 46                     |
+| Z             | 73             | 24                       | 48                     |
 
 
-## Bridge
+## Ponte
 
-The size of the bridge varies depending on the size of the ship. The cost for the ship’s bridge is MCr0.5 per 100 tons of ship.
+La dimensione del ponte cambia a seconda delle dimensioni della nave. Il costo per il ponte della nave è di 0,5 MCr per 100 tonnellate di nave.
 
-#### Table: Bridge Size
+#### Tabella: Dimensioni del Ponte
 
-| Ship Size            | Bridge Size |
-|----------------------|-------------|
-| 200 tons or less     | 10 tons     |
-| 300 tons – 1000 tons | 20 tons     |
-| 1,100 – 2000 tons    | 40 tons     |
-| More than 2,000 tons | 60 tons     |
+| Dimensioni Nave | Dimensioni Ponte |
+|-----------------|------------------|
+| 200 t o meno    | 10 t             |
+| 300 t – 1.000 t | 20 t             |
+| 1,100 – 2.000 t | 40 t             |
+| Più di 2.000 t  | 60 t             |
 
 ## Ship Computer
 
