@@ -1,234 +1,230 @@
 # CAPITOLO 10: COMBATTIMENTO SPAZIALE
 
-Space combat is a staple in classic science fiction, and the Cepheus Engine has rules to cover it. This chapter details the basics for space combat. These rules for vehicle and starship combat presented here are designed to allow for more roleplaying and involvement of the characters. Movement and maneuvering are abstracted to allow for cinematic battles as vessels attempt to maneuver into a position of pursuit and advantage against their opponents, or frantically try to shake pursuit.
+Il combattimento spaziale è un punto fondamentale nella fantascienza classica e le regole del Cepheus Engine ovviamente lo coprono. Questo capitolo descrive le basi per il combattimento spaziale. Le regole per il combattimento di veicoli e astronavi presentate qui sono progettate per consentire più gioco di ruolo e coinvolgimento dei personaggi. Il movimento e le manovre sono astratte per consentire battaglie cinematografiche mentre i vascelli tentano di  inseguire e ottenere una posizione di vantaggio sui loro avversari, o cercano freneticamente di sganciarsi da un inseguimento.
 
-Range is similarly abstracted, needing only to note whether the range for all vessels involved for each round is Close, Short, Medium, Long, Very Long, or Extreme.
+La gittata è similmente astratta, è necessario solo annotare per tutte le navi coinvolte per ogni round se essa sia Ravvicinata, Corta, Media, Lunga, Molto Lunga o Estrema.
 
-## Space Combat Checklist
+## Checklist del Combattimento Spaziale
 
-Like personal combat, space combat in the Cepheus Engine is cyclical. Everybody acts in turn in a regular cycle called a turn. Each turn in space combat lasts one kilosecond. Generally, space combat runs in the following way:
+Come il combattimento personale, il combattimento spaziale nel Cepheus Engine è ciclico. Ognuno agisce a turno in un ciclo regolare chiamato turno. Ogni turno nel combattimento spaziale dura un chilosecondo. Generalmente, il combattimento spaziale si svolge nel modo seguente:
 
-1. The Referee determines the range at which the encounter begins.
-2. All crew members are assigned to a position on board their vessel.
-3. The Referee determines which characters are aware of their opponents at the start of the battle. If some but not all vessels are aware of their opponents, the vessels that are aware of their opponents are considered to get an automatic 12 on their initiative roll, giving them an Initiative of 12 + Dexterity DM.
+1. L'arbitro determina la gittata in cui inizia l'incontro.
+2. Tutti i membri dell'equipaggio sono assegnati a una posizione a bordo della loro nave.
+3. L'Arbitro determina quali personaggi sono a conoscenza dei loro avversari all'inizio della battaglia. Se alcune ma non tutte le navi sono consapevoli dei loro avversari, si considera che le navi consapevoli dei loro avversari ottengano un 12 automatico al loro tiro di iniziativa, dando loro un'Iniziativa di 12 + MD Destrezza.
+4. Eventuali navi rimanenti tirano l'iniziativa. Tutte le navi sono ora pronte per iniziare il primo turno di combattimento.
+5. Tutte le navi agiscono in ordine di iniziativa.
+    1. All'inizio di ogni turno di combattimento, un Capitano può dichiarare che il suo equipaggio sta agendo frettolosamente.
+    2. I membri dell'equipaggio della nave risolvono le loro azioni.
+    3. Dopo che ogni membro dell'equipaggio ha completato le proprie azioni, qualsiasi danno viene risolto se i sistemi d'arma della nave colpiscono le navi nemiche.
+6. Quando ogni vascello ha svolto un turno, il combattente con il totale di iniziativa più alto agisce di nuovo e il Punto 5 si ripete fino al termine del combattimento.
 
-4.  Any remaining vessels roll initiative. All vessels are now ready to begin their first turn of combat.
+## Gittata nel combattimento spaziale
 
-5. All vessels act in initiative order.
+Se due vascelli si incontrano casualmente mentre viaggiano attraverso le profondità dello spazio, lontano da qualsiasi altro oggetto o vascello, l'incontro inizierà ad una gittata Molto Lunga. Più spesso, le navi si ingaggiano vicino a un pianeta, dove la gittata è Corta o Media.
 
-    1. At the start of each combat turn, a Captain may declare that their crew is acting hastily.
-    2. The crew members of the vessel resolve their actions.
-    3. After every crew member has completed their actions, any damage is resolved if the vessel’s weapon systems hit enemy ships.
-6. When every vessel has had a turn, the combatant with the highest initiative total acts again, and Step 5 repeats until combat ends.
+#### Tabella: Bande di Gittata del Combattimento Spaziale
 
-## Range in Space Combat
+| Gittata     | Distanza                   | Dettagli Sensori Rilevati                                                                                                                                             |   |
+|-------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Adiacente   | 1 km <                     | Sorgenti individuali di attività neurale (solo sensori molto avanzati)                                                                                                |   |
+| Vicina      | 1 fino a 10 km             | Sistemi navali individuali, livello di attività neurale (solo sensori molto avanzati)                                                                                 |   |
+| Corta       | 10 fino a 1250 km          | Dettagli visivi fini, singole fonti di calore, struttura interna (solo sensori Avanzati e Molto Avanzati), presenza di attività neurale (solo sensori Molto Avanzati) |   |
+| Media       | 1.250 fino a 10.000 km     | Fonte di emissioni EM, struttura esterna (solo sensori Avanzati e Molto Avanzati)                                                                                     |   |
+| Lunga       | 10.000 fino a 25.000 km    | Configurazione e forma della nave, attività termica, struttura esterna (solo sensori Avanzati e Molto Avanzati)                                                       |   |
+| Molto Lunga | 25.000 km fino a 50.000 km | Presenza della nave e livello di attività, sagoma dell'oggetto di base                                                                                                |   |
+| Distante    | 50.000 km+                 |                                                                                                                                                                       |   |
 
-If two vessels randomly encounter each other while travelling through the depths of space, far from any other objects or vessels, the encounter will begin at Very Long range. More often, ships engage near a planet, where the range is Short or Medium.
+#### Tabella: Difficoltà di Attacco nel Combattimento Spaziale per Tipo di Arma
 
-#### Table: Space Combat Range Bands
+| Arma                | Adiacente       | Vicina          | Corta     | Media     | Lunga     | Molto Lunga     | Distante  |
+|---------------------|-----------------|-----------------|-----------|-----------|-----------|-----------------|-----------|
+| Laser a Impulsi     | Difficile       | Difficile       | Media     | Difficile | Difficile | Molto Difficile | --        |
+| Raggio Laser        | Difficile       | Difficile       | Difficile | Media     | Difficile | Difficile       | Difficile |
+| Raggio a Particelle | Molto Difficile | Difficile       | Difficile | Difficile | Media     | Difficile       | Difficile |
+| Arma a Fusione      | Difficile       | Difficile       | Difficile | Media     | Difficile | Difficile       | Difficile |
+| Arma a Mesoni       | Molto Difficile | Molto Difficile | Difficile | Difficile | Media     | Difficile       | Difficile |
+| Spargisabbia        | Routine         | Media           | Difficile | --        | --        | --              | --        |
 
-| Range     | Distance               | Sensor Details Detected                                                                                                                                              |     |
-|-----------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Adjacent  | &lt;1 km               | Individual sources of neural activity (Very Advanced sensors only)                                                                                                   |     |
-| Close     | 1 to 10 km             | Individual ship systems, level of neural activity (Very Advanced sensors only)                                                                                       |     |
-| Short     | 10 to 1250 km          | Fine visual details, individual heat sources, internal structure (Advanced and Very Advanced sensors only), presence of neural activity (Very Advanced sensors only) |     |
-| Medium    | 1250 to 10,000 km      | Source of EM emissions, external structure (Advanced and Very Advanced sensors only)                                                                                 |     |
-| Long      | 10,000 km to 25,000 km | Ship configuration and shape, thermal activity, external structure (Advanced and Very Advanced sensors only)                                                         |     |
-| Very Long | 25,000 km to 50,000 km | Ship's presence and level of activity, basic object silhouette                                                                                                       |     |
-| Distant   | 50,000 km+             |                                                                                                                                                                      |     |
+## Posizioni dell'equipaggio
 
-#### Table: Space Combat Attack Difficulties by Weapon Type
+All'inizio di un ingaggio, tutto l'equipaggio deve essere assegnato a una posizione a bordo della nave. Può esserci un solo pilota, ma a parte questo, un numero qualsiasi di persone può occupare la stessa posizione.
 
-| Weapon        | Adjacent       | Close          | Short     | Medium    | Long      | Very Long      | Distant   |
-|---------------|----------------|----------------|-----------|-----------|-----------|----------------|-----------|
-| Pulse Laser   | Difficult      | Difficult      | Average   | Difficult | Difficult | Very Difficult | --        |
-| Beam Laser    | Difficult      | Difficult      | Difficult | Average   | Difficult | Difficult      | Difficult |
-| Particle Beam | Very Difficult | Difficult      | Difficult | Difficult | Average   | Difficult      | Difficult |
-| Fusion Gun    | Difficult      | Difficult      | Difficult | Average   | Difficult | Difficult      | Difficult |
-| Meson Gun     | Very Difficult | Very Difficult | Difficult | Difficult | Average   | Difficult      | Difficult |
-| Sandcaster    | Routine        | Average        | Difficult | --        | --        | --             | --        |
+#### Tabella: Posizioni dell'equipaggio
 
-## Crew Positions
+| Posizione                      | Responsabilità                                                                                                                            |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Artigliere di Batteria         | Ogni arma di batteria ha il suo mitragliere.                                                                                              |
+| Capitano                       | Comanda la nave e può usare abilità di Comando e Tattica.                                                                                 |
+| Ufficiale Capo della Sicurezza | Comanda i marines e può usare abilità di Comando e Tattica in azioni di abbordaggio.                                                      |
+| Controllo Danni                | Un personaggio assegnato al controllo dei danni può riparare qualsiasi sistema.                                                           |
+| Ingegnere                      | È possibile assegnare un tecnico a ciascuno dei motori M e B.                                                                             |
+| Marine                         | Si prepara a respingere gli abbordatori o ad abbordare le navi nemiche.                                                                   |
+| Passeggero                     | I passeggeri sono le persone a bordo della nave a cui non è stata assegnata una posizione e si presume che stiano in attesa nelle cabine. |
+| Pilota                         | Guida la nave, responsabile del cambio di rotta e delle manovre evasive.                                                                  |
+| Ufficiale Sensori              | Un personaggio assegnato alle comunicazioni e ai sensori.                                                                                 |
+| Artigliere di Torretta         | Ogni torretta ha il suo artigliere. Un personaggio deve scegliere quale torretta sta equipaggiando all'inizio del combattimento.          |
 
-At the start of an engagement, all crew must be assigned to a position on board ship. There can be only one pilot, but other than that, any number of people can occupy the same position.
+### Posizioni Automatizzate
 
-#### Table: Crew Positions
+Il computer della nave può coprire diverse posizioni se esegue il software appropriato:
 
-| Position               | Responsibility                                                                                                     |
-|------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Bay Gunner             | Each bay weapon has its own gunner.                                                                                |
-| Captain                | Commands the ship, and can use Leadership and Tactics skills.                                                      |
-| Chief Security Officer | Commands marines, and can use Leadership and Tactics skills in abstract boarding actions.                          |
-| Damage Control         | A character assigned to free-floating damage control can repair any system.                                        |
-| Drive Engineer         | An engineer can be assigned to each of the M-drive and the J-drive.                                                |
-| Marine                 | Prepares to repel boarders, or to board enemy ships.                                                               |
-| Passenger              | Passengers are all people aboard ship who are not assigned a position and are assumed to be waiting in staterooms. |
-| Pilot                  | Flies the ship, responsible for changing course and for evasive maneuvers.                                         |
-| Sensors Operator       | A character assigned to communications and sensors.                                                                |
-| Turret Gunner          | Each turret has its own gunner. A character must choose which turret he is manning at the start of the combat.     |
+- I programmi di controllo del fuoco possono agire come **artiglieri** o aiutare quelli esistenti.
+- Una nave equipaggiata con droni di riparazione e software di riparazione automatica funge da **controllo dei danni**.
+- Una nave che esegue i programmi Intelletto e Pilota Esperto può essere il **pilota**.
+- Una nave dotata di droni di riparazione e che esegue i programmi Intelletto e Ingegnere esperto può essere un **ingegnere**.
 
-### Automated Positions
+## Iniziativa
 
-The ship's computer can cover several positions if it is running the appropriate software:
+Ogni nave in un ingaggio tira 2D6 per determinare il punteggio iniziale di Iniziativa. La nave con un punteggio di Spinta maggiore guadagna MD+1 al suo tiro.
 
-- Fire Control programs can either act as **gunners** or aid existing gunners.
+Il Capitano di ogni nave (o di ogni flotta, se è coinvolta più di una nave su ciascun lato) può effettuare una prova di Tattica. L'Effetto viene aggiunto all'Iniziativa della nave (o della flotta).
 
-- A ship equipped with repair drones and Auto-Repair software acts as **damage control**.
-- A ship running an Intellect program and Expert Pilot can be the **pilot**.
-- A ship equipped with repair drones and running an Intellect program and Expert Engineer can be a **drive engineer**.
+## Il turno di combattimento spaziale
 
-## Initiative
+Ogni turno nel combattimento spaziale dura circa un chilosecondo (1.000 secondi) di tempo di gioco. In un turno di combattimento, le navi hanno Iniziativa individuale. Le azioni vengono eseguite in ordine decrescente di iniziativa. Se due navi hanno la stessa iniziativa, la nave con la spinta più alta inizia per prima. Se sono ancora in parità, le navi agiscono contemporaneamente. Quando una nave agisce, i membri dell'equipaggio della nave eseguono tutte le loro azioni contemporaneamente. Ogni membro dell'equipaggio ottiene un'azione minore e un'azione significativa.
 
-Each ship in an engagement rolls 2D6 to determine their starting Initiative score. The ship with a greater Thrust score gains a +1 DM to its roll.
+Una volta che tutti hanno agito, il turno di combattimento termina e inizia un nuovo turno. L'iniziativa non viene ripetuta ma è dinamica e può essere modificata su e giù dalle azioni intraprese durante un turno.
 
-The Captain of each vessel (or each fleet, if more than one ship is involved on each side) may a Tactics check. The Effect is added to the Initiative of the vessel (or fleet).
+## Nota sulle azioni personali
 
-## The Space Combat Turn
+Poiché un turno di combattimento spaziale rappresenta oltre 150 round di combattimento personale, è logico che i membri dell'equipaggio possano intraprendere molte azioni personali nel corso di un singolo turno di combattimento. Molto di questo è astratto nelle varie azioni di combattimento spaziale. La maggior parte delle azioni personali ha un impatto minimo sul combattimento spaziale. Per i membri dell'equipaggio che desiderano perseguire un'azione personale durante il combattimento spaziale, come usare un'abilità psionica, queste azioni contano come azioni minori sulla scala del combattimento spaziale. Questo è trascurabile sul resto del tempo del personaggio durante il turno di combattimento, e mette in evidenza gli atti primari che un personaggio potrebbe voler perseguire senza togliere al resto del combattimento spaziale.
 
-Each turn in space combat lasts around one kilosecond (1,000 seconds) of game time. In a combat turn, vessels have individual Initiative. Actions are taken in descending order of Initiative. If two vessels have the same Initiative, the vessel with the highest Thrust goes first. If they are still tied, then vessels act simultaneously. When a vessel acts, the crew members of the vessel take all of their actions at once. Each crew member gets a minor action and a significant action.
+#### Tabella: Riepilogo delle azioni di combattimento spaziale
 
-Once everyone has acted a combat turn is over and a new turn begins. Initiative is not re-rolled but is dynamic, and may be adjusted up and down by actions taken during a turn.
+| Descrizione                        | Tipo          | Membro Equipaggio                      |
+|------------------------------------|---------------|----------------------------------------|
+| Cambiare Posizione                 | Minore        | Chiunque                               |
+| Azione Personale                   | Minore        | Chiunque                               |
+| Ricaricare i sistemi d'arma        | Significativa | Chiunque                               |
+| Varie                              | Varia         | Chiunque                               |
+| Coordinare l'equipaggio            | Significativa | Capitano                               |
+| Aumentare l'iniziativa             | Significativa | Capitano                               |
+| Abbordaggio                        | Significativa | Ufficiale Capo della Sicurezza, Marine |
+| Riparazione sistemi danneggiati    | Significativa | Controllo Danni                        |
+| Sparare Raffica                    | Reazione      | Artigliere                             |
+| Difesa puntiforme                  | Reazione      | Artigliere                             |
+| Azionare gli schermi               | Reazione      | Artigliere                             |
+| Attacco                            | Significativa | Artigliere                             |
+| Calcolare Rotta di Balzo           | Significativa | Navigatore                             |
+| Controllo Gittata                  | Significativa | Navigatore                             |
+| Calibrare Velocità                 | Minore        | Pilota                                 |
+| Mantenere Rotta                    | Minore        | Pilota                                 |
+| Eludere Fuoco in Arrivo            | Reazione      | Pilota                                 |
+| Evitare Collisione                 | Significativa | Pilota                                 |
+| Rompere l'inseguimento             | Significativa | Pilota                                 |
+| Agganciarsi a un altro vascello    | Significativa | Pilota                                 |
+| Manovre Evasive                    | Significativa | Pilota                                 |
+| Allineare il tiro                  | Significativa | Pilota                                 |
+| Inseguire                          | Significativa | Pilota                                 |
+| Speronamento                       | Significativa | Pilota                                 |
+| Guerra elettronica                 | Significativa | Ufficiale Sensori                      |
+| Intercettare Comunicazione Nemiche | Significativa | Ufficiale Sensori                      |
+| Mantere Comunicazioni              | Significativa | Ufficiale Sensori                      |
+| Mira con Sensori                   | Significativa | Ufficiale Sensori                      |
 
-## Note on Personal Actions
+## Azioni minori
 
-As a space combat turn represents over 150 personal combat rounds, it stands to reason that crew members may engage in a lot of personal actions over the course of a single combat turn. Much of this is abstracted into the various space combat actions. Most personal actions have minimal impact on space combat. For crew members that do want to pursue a personal action during space combat, such as use a psionic ability, these actions count as minor actions on the space combat scale. This glosses over the remainder of the character's time during the combat turn, and highlights the primary acts that a character might want to pursue without taking away from the rest of the space combat.
+Come nel combattimento personale, le azioni minori sono azioni intese per svolgere compiti che non richiedono concentrazione significativa. Ogni membro dell'equipaggio può eseguire fino a tre azioni minori per turno, al costo di un'azione significativa.
 
-#### Table: Space Combat Action Summary
+### Calibrare la velocità
 
-| Description                    | Type        | Crew Member                    |
-|--------------------------------|-------------|--------------------------------|
-| Change Positions               | Minor       | Anyone                         |
-| Personal Action                | Minor       | Anyone                         |
-| Reload Weapons System          | Significant | Anyone                         |
-| Miscellaneous                  | Varies      | Anyone                         |
-| Coordinate Crew                | Significant | Captain                        |
-| Increase Initiative            | Significant | Captain                        |
-| Boarding Action                | Significant | Chief Security Officer, Marine |
-| Repair Damaged System          | Significant | Damage Control                 |
-| Fire Sand                      | Reaction    | Gunner                         |
-| Point Defense                  | Reaction    | Gunner                         |
-| Trigger Screens                | Reaction    | Gunner                         |
-| Attack                         | Significant | Gunner                         |
-| Calculate Jump Plot            | Significant | Navigator                      |
-| Range Check                    | Significant | Navigator                      |
-| Adjust Speed                   | Minor       | Pilot                          |
-| Maintain Course                | Minor       | Pilot                          |
-| Dodge Incoming Fire            | Reaction    | Pilot                          |
-| Avoid Collision                | Significant | Pilot                          |
-| Break Pursuit                  | Significant | Pilot                          |
-| Dock With Another Vessel       | Significant | Pilot                          |
-| Evasive Manuevers              | Significant | Pilot                          |
-| Line Up The Shot               | Significant | Pilot                          |
-| Pursuit                        | Significant | Pilot                          |
-| Ram                            | Significant | Pilot                          |
-| Electronic Warfare             | Significant | Sensors Operator               |
-| Intercept Enemy Communications | Significant | Sensors Operator               |
-| Maintain Communications        | Significant | Sensors Operator               |
-| Sensor Targeting               | Significant | Sensors Operator               |
+Il pilota può aumentare o diminuire la velocità della nave fino a un valore pari alla sua spinta. Ciò non richiede alcuna prova di abilità.
 
-## Minor Actions
+### Cambiare posizione
 
-As in personal combat, minor actions are actions intended to perform tasks that do not require significant focus and concentration. Each crew member can take up to three minor actions per turn, at the loss of a significant action.
+I membri dell'equipaggio cambiano le posizioni e quindi occupano la loro nuova posizione piuttosto che quella precedente.
 
-### Adjust Speed
+### Mantiere la rotta
 
-The pilot may increase or decrease the vessel's speed up to an amount equal to its Thrust. This requires no skill check.
+Il pilota mantiene il vascello sulla rotta e direzione correnti, rimanendo alla velocità corrente. Questo non richiede alcuna prova di abilità.
 
-### Change Positions
+### Azione personale
 
-Crew members changes crew positions, and are now considered to be manning their new position rather than their previous one.
+Un membro dell'equipaggio può perseguire qualsiasi azione personale che generalmente richiede meno di un minuto.
 
-### Maintain Course
+### Varie
 
-The pilot keeps the vessel on its current course and heading, remaining at the current speed. This requires no skill check.
+L'Arbitro può consentire a un personaggio di eseguire una prova di abilità o altra azione come azione minore se l'uso dell'abilità non richiede la piena attenzione del personaggio o azioni fisiche complesse.
 
-### Personal Action
+## Azioni significative
 
-A crew member may pursue any personal action that generally takes less than a minute.
+Le azioni significative hanno lo scopo di fare qualcosa entro circa 3 secondi. Puoi eseguire una singola azione significativa per turno o rinunciarvi per eseguire un totale di tre azioni minori.
 
-### Miscellaneous
+### Eseguire azioni minori
 
-The Referee may permit a character to perform a skill check or other action as a minor action if the use of the skill does not require the character's full attention or complex physical actions.
+Un personaggio può compiere tre azioni minori invece di un'azione significativa.
 
-## Significant Actions
+### Attacco
 
-Significant actions are intended to do something within about 3 seconds. You can perform a single significant action per turn, or forego it to perform a total of three minor actions.
+Un artigliere può attaccare qualsiasi bersaglio entro la gittata del sistema d'arma che sta utilizzando. L'artigliere attacca effettuando un tiro di prova di abilità Armi a Torretta o Armi di Batteria a una Difficoltà determinata dalla gittata, aggiungendo qualsiasi Bersaglio computerizzato, Bersaglio sensore o altri modificatori attivi in questo round per la sua nave. La nave nemica può reagire schivando, difendendo puntiformemente o attivando gli schermi (vedi Reazioni). Un artigliere può sparare con una o tutte le armi nella sua torretta o batteria, ma ciascuna torretta o batteria può sparare solo una volta per round. Se l'attacco ha successo, infliggerà danni. Il danno viene risolto dopo che tutti gli attacchi sono stati effettuati nel turno di una nave. I missili non colpiscono nello stesso round in cui vengono lanciati; il loro danno viene risolto nel turno di combattimento in cui colpiscono il bersaglio.
 
-### Take Minor Actions
+### Evitare Collisioni
 
-A character can take two minor actions instead of a significant action.
+Quando una nave si sta muovendo a gittata corta o vicina attraverso un campo di detriti, traffico, un campo di asteroidi, un anello planetario o una situazione simile in cui vi è una ragionevole possibilità di collisione con un altro oggetto, il pilota deve effettuare una prova per evitare collisioni ogni turno. Una collisione infligge 1D6 danni per ogni punto della velocità attuale della nave.
 
-### Attack
+#### Tabella: Evitare Collisioni
 
-A gunner may attack any target within the range of the weapon system they are manning. The gunner attacks by making a Turret Weapons or Bay Weapons skill check roll at a Difficulty determined by range, adding any Computer Targeting, Sensor Targeting, or other modifiers in effect this round for his vessel. The enemy ship may react by dodging, point defense or triggering screens (see Reactions). A gunner may fire any or all of the weapons in his turret or bay but each turret or bay may only fire once per round. If the attack is successful it will inflict damage. Damage is resolved after all attacks have been made in a vessel’s turn. Missiles do not impact in the same round they are launched; their damage is resolved in the combat turn that they impact their target.
+| Situazione                                             | Difficoltà           |
+|--------------------------------------------------------|----------------------|
+| Traffico (5 o più vascelli a Corta Gittata), detriti   | Media (+0)           |
+| Campo di asteroidi, bassa densità                      | Difficile (-2)       |
+| Campo di asteroidi, media densità                      | Molto Difficile (-4) |
+| Campo di asteroidi, alta densità                       | Formidabile (-6)     |
+| Velocità significativamente diversa tra nave e detriti | MD -2                |
 
-### Avoid Collision
+### Abbordaggio
 
-When a vessel is moving at Short or Close range through a debris field, traffic, an asteroid belt, a planetary ring, or similar situation where there is a reasonable chance of collision with another object, the pilot must make an Avoid Collision check each turn. A collision inflicts 1D6 damage for every point of the vessel’s current speed.
+Se due navi sono adiacenti o attraccate, si può tentare un'azione di abbordaggio. Se le navi sono attraccate, gli attaccanti possono attraversare in sicurezza attraverso le camere di decompressione. Se le navi sono semplicemente adiacenti, gli attaccanti devono usare i propulsori o i veicoli picoli per attraversarle. Durante l'attraversamento, gli attaccanti possono essere attaccati con armi da difesa puntuale o sparando raffiche. Una volta attraversato, le azioni di abbordaggio possono essere risolte utilizzando le regole di combattimento personali o le regole di abbordaggio astratte.
 
-#### Table: Collision Avoidance
+### Rompere l'inseguimento
 
-| Situation                                              | Difficulty          |
-|--------------------------------------------------------|---------------------|
-| Traffic (5 or more vessels within Short range), debris | Average (+0)        |
-| Asteroid field, light density                          | Difficult (-2)      |
-| Asteroid field, average density                        | Very Difficult (-4) |
-| Asteroid field, heavy density                          | Formidable (-6)     |
-| Significant speed difference between ship and debris   | DM -2               |
+Se una nave viene inseguita (come per l'azione Inseguimento) il pilota o il guidatore può interrompere l'inseguimento con una prova di abilità di Pilota opposta con successo contro il suo avversario. Una volta che l'inseguimento è terminato e la nave che insegue perde tutti i bonus di attacco accumulati contro quel bersaglio.
 
-### Boarding Action
+### Calcolare Rotta di Balzo
 
-If two ships are Adjacent or docked, then a boarding action can be attempted. If the ships are docked, then the attackers may cross over safely via airlocks. If the ships are merely adjacent, then the attackers must use thruster packs or small craft to cross over. While crossing, the attackers may be attacked with point defense weapons or by firing sand. Once across, boarding actions can be resolved using the personal combat rules or the abstract boarding rules.
-
-### Break Pursuit
-
-If a vessel is being pursued (as per the Pursuit action) the pilot or driver may break the pursuit with a successful opposed Pilot skill check against his opponent. Once the pursuit has broken and the pursuing vessel loses all accumulated attack bonuses against that target.
-
-### Calculate Jump Plot
-
-The navigator can hastily calculate a Jump Plot as a significant action in space combat. Normally an Easy (+4) Education-based Navigation skill check, hastening it to fit within one space combat turn imposes a DM-1 on the skill check.
+Il navigatore può calcolare prontamente una Rotta di Balzo come azione significativa nel combattimento spaziale. Normalmente una prova Facile (+4) di abilità di Navigazione basata su Educazione, accelerandola per adattarla a un turno di combattimento spaziale, impone un MD-1 alla prova di abilità.
 
 ### Dock with Another Vessel
 
-The pilot must make a successful Average(+0) Pilot check. If the other ship does not wish to be docked with then make opposed Pilot checks; the ship trying to dock suffers a –2 DM. When docked, boarding actions can take place.
+Il pilota deve effettuare una prova di Pilota Media (+0) riuscita. Se l'altra nave non desidera essere attraccata, entrambe effettuano prove di Pilota opposte; la nave che cerca di attraccare subisce un MD-2. Una volta attraccato, possono essere eseguite le azioni di abbordaggio.
 
-### Coordinate Crew
+### Coordinare Equipaggio
 
-The Captain makes an Average(+0) Leadership skill check. The Captain gains a pool of points equal to the Effect of the skill check (minimum of 1), which he can distribute to individual crew members as DMs (granting a +1 DM per point) on skill or ability checks during the combat turn.
+Il Capitano effettua una prova di abilità di Comando Media (+0). Il Capitano guadagna un pool di punti pari all'Effetto della prova di abilità (minimo 1), che può distribuire ai singoli membri dell'equipaggio come MD (che garantisce MD+1 per punto) alle prove di abilità o abilità durante il turno di combattimento.
 
-### Electronic Warfare
+### Guerra Elettronica 
 
-A sensors operator may attempt to jam radio communications and sensor locks by making an opposed Intelligence-based Comms check against the sensors operator of the opposing vessel. Electronic warfare can be used to break sensor locks.
+Un operatore di sensori può tentare di bloccare le comunicazioni radio e il blocco dei sensori effettuando una prova di Comunicazioni basate su Intelligenza contro l'operatore dei sensori della nave avversaria. La guerra elettronica può essere utilizzata per rompere i blocchi dei sensori.
 
-Alternatively, electronic warfare can be used to attack smart missiles that are targeting the ship. The sensors operator makes a Difficult (–2) Comms check and, if successful, a single attacking smart missile ceases attacking. The sensors operator may continue making checks to disable smart missiles until he fails one, with a cumulative –1 DM each time.
+In alternativa, la guerra elettronica può essere utilizzata per attaccare i missili intelligenti che prendono di mira la nave. L'operatore dei sensori effettua una prova di Comunicazioni Difficile (–2) e, in caso di successo, un singolo missile intelligente che sta attaccando cessa di attaccare. L'operatore dei sensori può continuare a fare controlli per disabilitare i missili intelligenti fino a quando non ne fallisce uno, con un MD cumulativo di -1 per tentativo.
 
-### Evasive Manuevers
+### Manovee Evasive
 
-The pilot operates the vessel in an erratic manner in an attempt to avoid being hit by opposing weapons fire. The Pilot makes an Average(+0) Pilot skill. If successful, any attack rolls targeting the pilot's vessel suffer a DM-1 penalty, or DM-2 with an Exceptional Success.
+Il pilota manovra la nave in modo irregolare nel tentativo di evitare di essere colpito dal fuoco delle armi avversarie. Il pilota effettua una prova di abilità Pilota Media (+0). In caso di successo, qualsiasi tiro di attacco diretto al vascello subisce una penalità MD-1, o MD-2 con un Successo Eccezionale.
 
-### Increase Initiative
+### Aumentare l'iniziativa
 
-The Captain of a vessel may make a Leadership check and increase the Initiative of his vessel by the Effect of the check. This increase only applies for the following turn.
+Il Capitano di una nave può effettuare una prova di Comando e aumentare l'Iniziativa della sua nave per effetto della prova. Questo aumento si applica solo per il turno successivo.
 
-### Intercept Enemy Communications
+### Intercettare le comunicazioni nemiche
 
-The sensors operator may attempt to intercept enemy communications. This requires a Difficult(-2) Comms skill check. Encryption (if any) must also be broken. Knowledge of enemy intentions can be valuable to a Captain, if they know how to use it. The Captain may make an Easy (+4) Tactics check to gain an advantage from intercepted communications. If successful, the Captain gains knowledge of the enemy’s dispositions or intentions. This translates to a one-time DM+4 bonus to any skill check affecting the enemy (e.g. a pilot’s attempt to evade a sudden attack, or a gunner’s precise shot just as the enemy vessel turns to present a better target.) Of course, the enemy must have communications for them to be intercepted.
+L'operatore dei sensori può tentare di intercettare le comunicazioni nemiche. Ciò richiede una prova di abilità di Comunicazione Difficile (-2). Anche la crittografia (se presente) deve essere interrotta. La conoscenza delle intenzioni del nemico può essere preziosa per un capitano, se sa come usarla. Il Capitano può effettuare una prova di Tattica Facile (+4) per ottenere un vantaggio dalle comunicazioni intercettate. In caso di successo, il Capitano acquisisce la conoscenza delle disposizioni o delle intenzioni del nemico. Ciò si traduce in un bonus MD 4 una tantum a qualsiasi prova di abilità che ha effetto sul nemico (ad esempio il tentativo di un pilota di eludere un attacco improvviso o il tiro preciso di un mitragliere proprio mentre la nave nemica si gira per mirare un bersaglio migliore). Ovviamente, il nemico deve avere comunicazioni da poter essere intercettate.
 
-### Line Up the Shot
+### Allineare il tiro
 
-A pilot may attempt to aid his gunners by providing a stable firing platform along an optimum attack vector. The pilot makes a Pilot check to aid his gunners, granting a DM+1 on all attacks rolls this turn with a success, or a DM+2 with an Exceptional Success.
+Un pilota può tentare di aiutare i suoi artiglieri fornendo una piattaforma di tiro stabile lungo un vettore di attacco ottimale. Il pilota effettua una prova di Pilota per aiutare i suoi artiglieri, concedendo un MD+1 su tutti i tiri di attacco in questo turno con un successo, o un MD+2 con un Successo Eccezionale.
 
-### Maintain Communications
+### Mantieni le comunicazioni
 
-The sensors operator can establish and maintain communications between allied vessels with a Routine(+2) Comms skill check. If there is significant interference or a lot of communications going on (e.g. due to bad comm. discipline among a fleet), treat as Considerable Noise (DM-2). Deliberate comms jamming requires an opposed Comms skill check with the jammer. If reliable communications are not established, vessels cannot act in concert, and Tactics skill cannot be applied.
+L'operatore dei sensori può stabilire e mantenere comunicazioni tra le navi alleate con una prova di abilità di Comunicazioni di Routine (+2). Se sono presenti interferenze significative o molte comunicazioni in corso (ad esempio a causa di una cattiva disciplina di comunicazione tra una flotta), trattare come Rumore Considerevole (MD-2). Il disturbo intenzionale delle comunicazioni richiede una prova di abilità di Comunicazioni opposta contro il disturbatore. Se non vengono stabilite comunicazioni affidabili, le navi non possono agire di concerto e l'abilità Tattica non può essere applicata.
 
 ### Pursuit
 
-If a pilot makes a successful opposed Pilot skill check against another vessel within Short or Close range travelling at the same speed as the pilot's vessel, the successful pilot has placed his vessel in pursuit of his target maintaining the current range and matching the target ship move for move. Once a pursuit has been established, it must be maintained each turn to take advantage of the position. Maintaining a pursuit is a significant action that does not require a skill check. It is automatically maintained unless the target succeeds at the Break Pursuit action, manages to extend the range between the vessels to Medium or greater, or succeeds in outpacing the speed of the pursuing vessel by 7+ points. For each turn (after the first) that a vessel maintains pursuit of another vessel, it gains a cumulative DM+1 to hit when attacking the vessel being pursued, up to a maximum of DM+4.
+Se un pilota effettua con successo una prova di abilità di Pilota opposto contro un'altra nave, entro una gittata adiacente o vicina che viaggia alla stessa velocità della nave del pilota, il pilota che ha superato la prova ha posizionato la sua nave all'inseguimento del suo bersaglio, mantenendo la distanza corrente ed eguagliando il movimento alla nave bersaglio. Una volta stabilito un inseguimento, deve essere mantenuto ogni turno per sfruttare la posizione. Mantenere un inseguimento è un'azione significativa che non richiede una prova di abilità. Viene mantenuto automaticamente a meno che il bersaglio non riesca nell'azione Rompere Inseguimento, non riesca ad estendere la gittata tra le navi a Media o superiore, o riesca a superare la velocità della nave inseguitrice di 7+ punti. Per ogni turno (dopo il primo) in cui una nave continua all'inseguimento di un'altra nave, ottiene un MD cumulativo + 1 per colpire quando attacca la nave inseguita, fino a un massimo di MD+4.
 
-### Ram
+### Speronamento
 
-Ramming is a potentially suicidal maneuver in which a pilot intentionally crashes his vessel into the hull of another vessel. This action may only be attempted at Close range, and if the ramming vessel is moving faster than the target. To successfully ram another vessel requires an opposed Pilot skill check between both vessels. A collision inflicts 1D6 damage for every point of difference in speed between the two vessels.
+Lo speronamento è una manovra potenzialmente suicida in cui un pilota fa schiantare intenzionalmente la sua nave contro lo scafo di un'altra nave. Questa azione può essere tentata solo a distanza ravvicinata e se la nave speronante si sta muovendo più velocemente del bersaglio. Per speronare con successo un'altra nave richiede una prova di abilità di Pilota opposta tra entrambe le navi. Una collisione infligge 1D6 danni per ogni punto di differenza di velocità tra le due navi.
 
 ### Range Check
 
