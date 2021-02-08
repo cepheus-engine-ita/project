@@ -13,9 +13,9 @@ Come il combattimento personale, il combattimento spaziale nel Cepheus Engine è
 3. L'Arbitro determina quali personaggi sono a conoscenza dei loro avversari all'inizio della battaglia. Se alcune ma non tutte le navi sono consapevoli dei loro avversari, si considera che le navi consapevoli dei loro avversari ottengano un 12 automatico al loro tiro di iniziativa, dando loro un'Iniziativa di 12 + MD Destrezza.
 4. Eventuali navi rimanenti tirano l'iniziativa. Tutte le navi sono ora pronte per iniziare il primo turno di combattimento.
 5. Tutte le navi agiscono in ordine di iniziativa.
-    1. All'inizio di ogni turno di combattimento, un Capitano può dichiarare che il suo equipaggio sta agendo frettolosamente.
-    2. I membri dell'equipaggio della nave risolvono le loro azioni.
-    3. Dopo che ogni membro dell'equipaggio ha completato le proprie azioni, qualsiasi danno viene risolto se i sistemi d'arma della nave colpiscono le navi nemiche.
+   1. All'inizio di ogni turno di combattimento, un Capitano può dichiarare che il suo equipaggio sta agendo frettolosamente.
+   2. I membri dell'equipaggio della nave risolvono le loro azioni.
+   3. Dopo che ogni membro dell'equipaggio ha completato le proprie azioni, qualsiasi danno viene risolto se i sistemi d'arma della nave colpiscono le navi nemiche.
 6. Quando ogni vascello ha svolto un turno, il combattente con il totale di iniziativa più alto agisce di nuovo e il Punto 5 si ripete fino al termine del combattimento.
 
 ## Gittata nel combattimento spaziale
@@ -24,20 +24,20 @@ Se due vascelli si incontrano casualmente mentre viaggiano attraverso le profond
 
 #### Tabella: Bande di Gittata del Combattimento Spaziale
 
-| Gittata     | Distanza                   | Dettagli Sensori Rilevati                                                                                                                                             |   |
-|-------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| Adiacente   | 1 km <                     | Sorgenti individuali di attività neurale (solo sensori molto avanzati)                                                                                                |   |
-| Vicina      | 1 fino a 10 km             | Sistemi navali individuali, livello di attività neurale (solo sensori molto avanzati)                                                                                 |   |
-| Corta       | 10 fino a 1250 km          | Dettagli visivi fini, singole fonti di calore, struttura interna (solo sensori Avanzati e Molto Avanzati), presenza di attività neurale (solo sensori Molto Avanzati) |   |
-| Media       | 1.250 fino a 10.000 km     | Fonte di emissioni EM, struttura esterna (solo sensori Avanzati e Molto Avanzati)                                                                                     |   |
-| Lunga       | 10.000 fino a 25.000 km    | Configurazione e forma della nave, attività termica, struttura esterna (solo sensori Avanzati e Molto Avanzati)                                                       |   |
-| Molto Lunga | 25.000 km fino a 50.000 km | Presenza della nave e livello di attività, sagoma dell'oggetto di base                                                                                                |   |
-| Distante    | 50.000 km+                 |                                                                                                                                                                       |   |
+| Gittata     | Distanza                   | Dettagli Sensori Rilevati                                                                                                                                             |     |
+| ----------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Adiacente   | 1 km <                     | Sorgenti individuali di attività neurale (solo sensori molto avanzati)                                                                                                |     |
+| Vicina      | 1 fino a 10 km             | Sistemi navali individuali, livello di attività neurale (solo sensori molto avanzati)                                                                                 |     |
+| Corta       | 10 fino a 1250 km          | Dettagli visivi fini, singole fonti di calore, struttura interna (solo sensori Avanzati e Molto Avanzati), presenza di attività neurale (solo sensori Molto Avanzati) |     |
+| Media       | 1.250 fino a 10.000 km     | Fonte di emissioni EM, struttura esterna (solo sensori Avanzati e Molto Avanzati)                                                                                     |     |
+| Lunga       | 10.000 fino a 25.000 km    | Configurazione e forma della nave, attività termica, struttura esterna (solo sensori Avanzati e Molto Avanzati)                                                       |     |
+| Molto Lunga | 25.000 km fino a 50.000 km | Presenza della nave e livello di attività, sagoma dell'oggetto di base                                                                                                |     |
+| Distante    | 50.000 km+                 |                                                                                                                                                                       |     |
 
 #### Tabella: Difficoltà di Attacco nel Combattimento Spaziale per Tipo di Arma
 
 | Arma                | Adiacente       | Vicina          | Corta     | Media     | Lunga     | Molto Lunga     | Distante  |
-|---------------------|-----------------|-----------------|-----------|-----------|-----------|-----------------|-----------|
+| ------------------- | --------------- | --------------- | --------- | --------- | --------- | --------------- | --------- |
 | Laser a Impulsi     | Difficile       | Difficile       | Media     | Difficile | Difficile | Molto Difficile | --        |
 | Raggio Laser        | Difficile       | Difficile       | Difficile | Media     | Difficile | Difficile       | Difficile |
 | Raggio a Particelle | Molto Difficile | Difficile       | Difficile | Difficile | Media     | Difficile       | Difficile |
@@ -52,7 +52,7 @@ All'inizio di un ingaggio, tutto l'equipaggio deve essere assegnato a una posizi
 #### Tabella: Posizioni dell'equipaggio
 
 | Posizione                      | Responsabilità                                                                                                                            |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Artigliere di Batteria         | Ogni arma di batteria ha il suo mitragliere.                                                                                              |
 | Capitano                       | Comanda la nave e può usare abilità di Comando e Tattica.                                                                                 |
 | Ufficiale Capo della Sicurezza | Comanda i marines e può usare abilità di Comando e Tattica in azioni di abbordaggio.                                                      |
@@ -92,7 +92,7 @@ Poiché un turno di combattimento spaziale rappresenta oltre 150 round di combat
 #### Tabella: Riepilogo delle azioni di combattimento spaziale
 
 | Descrizione                        | Tipo          | Membro Equipaggio                      |
-|------------------------------------|---------------|----------------------------------------|
+| ---------------------------------- | ------------- | -------------------------------------- |
 | Cambiare Posizione                 | Minore        | Chiunque                               |
 | Azione Personale                   | Minore        | Chiunque                               |
 | Ricaricare i sistemi d'arma        | Significativa | Chiunque                               |
@@ -119,7 +119,7 @@ Poiché un turno di combattimento spaziale rappresenta oltre 150 round di combat
 | Speronamento                       | Significativa | Pilota                                 |
 | Guerra elettronica                 | Significativa | Ufficiale Sensori                      |
 | Intercettare Comunicazione Nemiche | Significativa | Ufficiale Sensori                      |
-| Mantere Comunicazioni              | Significativa | Ufficiale Sensori                      |
+| Mantenere Comunicazioni            | Significativa | Ufficiale Sensori                      |
 | Mira con Sensori                   | Significativa | Ufficiale Sensori                      |
 
 ## Azioni minori
@@ -134,7 +134,7 @@ Il pilota può aumentare o diminuire la velocità della nave fino a un valore pa
 
 I membri dell'equipaggio cambiano le posizioni e quindi occupano la loro nuova posizione piuttosto che quella precedente.
 
-### Mantiere la rotta
+### Mantenere la rotta
 
 Il pilota mantiene il vascello sulla rotta e direzione correnti, rimanendo alla velocità corrente. Questo non richiede alcuna prova di abilità.
 
@@ -156,7 +156,7 @@ Un personaggio può compiere tre azioni minori invece di un'azione significativa
 
 ### Attacco
 
-Un artigliere può attaccare qualsiasi bersaglio entro la gittata del sistema d'arma che sta utilizzando. L'artigliere attacca effettuando un tiro di prova di abilità Armi a Torretta o Armi di Batteria a una Difficoltà determinata dalla gittata, aggiungendo qualsiasi Bersaglio computerizzato, Bersaglio sensore o altri modificatori attivi in questo round per la sua nave. La nave nemica può reagire schivando, difendendo puntiformemente o attivando gli schermi (vedi Reazioni). Un artigliere può sparare con una o tutte le armi nella sua torretta o batteria, ma ciascuna torretta o batteria può sparare solo una volta per round. Se l'attacco ha successo, infliggerà danni. Il danno viene risolto dopo che tutti gli attacchi sono stati effettuati nel turno di una nave. I missili non colpiscono nello stesso round in cui vengono lanciati; il loro danno viene risolto nel turno di combattimento in cui colpiscono il bersaglio.
+Un artigliere può attaccare qualsiasi bersaglio entro la gittata del sistema d'arma che sta utilizzando. L'artigliere attacca effettuando un tiro di prova di abilità Armi a Torretta o Armi di Batteria a una Difficoltà determinata dalla gittata, aggiungendo qualsiasi Bersaglio computerizzato, Bersaglio sensore o altri modificatori attivi in questo round per la sua nave. La nave nemica può reagire schivando, difendendo in modo puntiforme attivando gli schermi (vedi Reazioni). Un artigliere può sparare con una o tutte le armi nella sua torretta o batteria, ma ciascuna torretta o batteria può sparare solo una volta per round. Se l'attacco ha successo, infliggerà danni. Il danno viene risolto dopo che tutti gli attacchi sono stati effettuati nel turno di una nave. I missili non colpiscono nello stesso round in cui vengono lanciati; il loro danno viene risolto nel turno di combattimento in cui colpiscono il bersaglio.
 
 ### Evitare Collisioni
 
@@ -165,7 +165,7 @@ Quando una nave si sta muovendo a gittata corta o vicina attraverso un campo di 
 #### Tabella: Evitare Collisioni
 
 | Situazione                                             | Difficoltà           |
-|--------------------------------------------------------|----------------------|
+| ------------------------------------------------------ | -------------------- |
 | Traffico (5 o più vascelli a Corta Gittata), detriti   | Media (+0)           |
 | Campo di asteroidi, bassa densità                      | Difficile (-2)       |
 | Campo di asteroidi, media densità                      | Molto Difficile (-4) |
@@ -174,7 +174,7 @@ Quando una nave si sta muovendo a gittata corta o vicina attraverso un campo di 
 
 ### Abbordaggio
 
-Se due navi sono adiacenti o attraccate, si può tentare un'azione di abbordaggio. Se le navi sono attraccate, gli attaccanti possono attraversare in sicurezza attraverso le camere di decompressione. Se le navi sono semplicemente adiacenti, gli attaccanti devono usare i propulsori o i veicoli picoli per attraversarle. Durante l'attraversamento, gli attaccanti possono essere attaccati con armi da difesa puntuale o sparando raffiche. Una volta attraversato, le azioni di abbordaggio possono essere risolte utilizzando le regole di combattimento personali o le regole di abbordaggio astratte.
+Se due navi sono adiacenti o attraccate, si può tentare un'azione di abbordaggio. Se le navi sono attraccate, gli attaccanti possono attraversare in sicurezza attraverso le camere di decompressione. Se le navi sono semplicemente adiacenti, gli attaccanti devono usare i propulsori o i veicoli piccoli per attraversarle. Durante l'attraversamento, gli attaccanti possono essere attaccati con armi da difesa puntuale o sparando raffiche. Una volta attraversato, le azioni di abbordaggio possono essere risolte utilizzando le regole di combattimento personali o le regole di abbordaggio astratte.
 
 ### Rompere l'inseguimento
 
@@ -184,7 +184,7 @@ Se una nave viene inseguita (come per l'azione Inseguimento) il pilota o il guid
 
 Il navigatore può calcolare prontamente una Rotta di Balzo come azione significativa nel combattimento spaziale. Normalmente una prova Facile (+4) di abilità di Navigazione basata su Educazione, accelerandola per adattarla a un turno di combattimento spaziale, impone un MD-1 alla prova di abilità.
 
-### Dock with Another Vessel
+### Agganciare un altro vascello
 
 Il pilota deve effettuare una prova di Pilota Media (+0) riuscita. Se l'altra nave non desidera essere attraccata, entrambe effettuano prove di Pilota opposte; la nave che cerca di attraccare subisce un MD-2. Una volta attraccato, possono essere eseguite le azioni di abbordaggio.
 
@@ -192,13 +192,13 @@ Il pilota deve effettuare una prova di Pilota Media (+0) riuscita. Se l'altra na
 
 Il Capitano effettua una prova di abilità di Comando Media (+0). Il Capitano guadagna un pool di punti pari all'Effetto della prova di abilità (minimo 1), che può distribuire ai singoli membri dell'equipaggio come MD (che garantisce MD+1 per punto) alle prove di abilità o abilità durante il turno di combattimento.
 
-### Guerra Elettronica 
+### Guerra Elettronica
 
 Un operatore di sensori può tentare di bloccare le comunicazioni radio e il blocco dei sensori effettuando una prova di Comunicazioni basate su Intelligenza contro l'operatore dei sensori della nave avversaria. La guerra elettronica può essere utilizzata per rompere i blocchi dei sensori.
 
 In alternativa, la guerra elettronica può essere utilizzata per attaccare i missili intelligenti che prendono di mira la nave. L'operatore dei sensori effettua una prova di Comunicazioni Difficile (–2) e, in caso di successo, un singolo missile intelligente che sta attaccando cessa di attaccare. L'operatore dei sensori può continuare a fare controlli per disabilitare i missili intelligenti fino a quando non ne fallisce uno, con un MD cumulativo di -1 per tentativo.
 
-### Manovee Evasive
+### Manovre Evasive
 
 Il pilota manovra la nave in modo irregolare nel tentativo di evitare di essere colpito dal fuoco delle armi avversarie. Il pilota effettua una prova di abilità Pilota Media (+0). In caso di successo, qualsiasi tiro di attacco diretto al vascello subisce una penalità MD-1, o MD-2 con un Successo Eccezionale.
 
@@ -218,7 +218,7 @@ Un pilota può tentare di aiutare i suoi artiglieri fornendo una piattaforma di 
 
 L'operatore dei sensori può stabilire e mantenere comunicazioni tra le navi alleate con una prova di abilità di Comunicazioni di Routine (+2). Se sono presenti interferenze significative o molte comunicazioni in corso (ad esempio a causa di una cattiva disciplina di comunicazione tra una flotta), trattare come Rumore Considerevole (MD-2). Il disturbo intenzionale delle comunicazioni richiede una prova di abilità di Comunicazioni opposta contro il disturbatore. Se non vengono stabilite comunicazioni affidabili, le navi non possono agire di concerto e l'abilità Tattica non può essere applicata.
 
-### Pursuit
+### Inseguimento
 
 Se un pilota effettua con successo una prova di abilità di Pilota opposto contro un'altra nave, entro una gittata adiacente o vicina che viaggia alla stessa velocità della nave del pilota, il pilota che ha superato la prova ha posizionato la sua nave all'inseguimento del suo bersaglio, mantenendo la distanza corrente ed eguagliando il movimento alla nave bersaglio. Una volta stabilito un inseguimento, deve essere mantenuto ogni turno per sfruttare la posizione. Mantenere un inseguimento è un'azione significativa che non richiede una prova di abilità. Viene mantenuto automaticamente a meno che il bersaglio non riesca nell'azione Rompere Inseguimento, non riesca ad estendere la gittata tra le navi a Media o superiore, o riesca a superare la velocità della nave inseguitrice di 7+ punti. Per ogni turno (dopo il primo) in cui una nave continua all'inseguimento di un'altra nave, ottiene un MD cumulativo + 1 per colpire quando attacca la nave inseguita, fino a un massimo di MD+4.
 
@@ -228,7 +228,7 @@ Lo speronamento è una manovra potenzialmente suicida in cui un pilota fa schian
 
 ### Verifica gittata
 
-Il Navigatore effettua una prova di abilità di Navigazione contro un'altro vascello avversario. La nave con il risultato più alto può scegliere di aumentare, diminuire o mantenere la gittata tra le navi per il round.
+Il Navigatore effettua una prova di abilità di Navigazione contro un altro vascello avversario. La nave con il risultato più alto può scegliere di aumentare, diminuire o mantenere la gittata tra le navi per il round.
 
 ### Ricaricare il sistema delle armi
 
@@ -241,16 +241,16 @@ Un personaggio al controllo dei danni può tentare di riparare un sistema danneg
 #### Tabella: Risultato Riparazione Danni
 
 | Effetto Prova Meccanica | Colpi Riparati |
-|-------------------------|---------------|
-| 0                       | 1             |
-| 1–5                     | 2             |
-| 6+                      | 3             |
+| ----------------------- | -------------- |
+| 0                       | 1              |
+| 1–5                     | 2              |
+| 6+                      | 3              |
 
 Una nave con droni di riparazione e il software di Autoriparazione effettua anche uno o due prove di riparazione durante il turno della nave (a meno che non venga utilizzata per assistere altri tentativi di riparazione). Il software di Autoriparazione standard effettua il controllo con un MD+1. Queste sono solo riparazioni sul campo di battaglia e si romperanno non appena la battaglia sarà finita a meno che non vengano riparate adeguatamente.
 
 ### Targeting del sensore
 
-L'operatore dei sensori può tentare di trascorrere il turno fornendo un migliore controllo del fuoco e mirando i dati ai cannonieri, auspicabilmente aumentando le loro possibilità di colpire i loro bersagli. L'operatore dei sensori dovrebbe effettuare una prova di abilità di Comunicazioni basato su Educazione rispetto al valore di disturbo del sensore del bersaglio, per ciascun vascello da prendere di mira. In caso di successo, tutti i cannonieri sulla nave ottengono un bonus MD+1 ai loro attacchi in questo turno, o un MD+2 in caso di Successo Eccezionale. Quando si utilizzano i missili, l'attacco iniziale ottiene questo bonus - il singolo missile per colpire non ne beneficia direttamente. I missili intelligenti non sono influeanzati.
+L'operatore dei sensori può tentare di trascorrere il turno fornendo un migliore controllo del fuoco e mirando i dati ai cannonieri, auspicabilmente aumentando le loro possibilità di colpire i loro bersagli. L'operatore dei sensori dovrebbe effettuare una prova di abilità di Comunicazioni basato su Educazione rispetto al valore di disturbo del sensore del bersaglio, per ciascun vascello da prendere di mira. In caso di successo, tutti i cannonieri sulla nave ottengono un bonus MD+1 ai loro attacchi in questo turno, o un MD+2 in caso di Successo Eccezionale. Quando si utilizzano i missili, l'attacco iniziale ottiene questo bonus - il singolo missile per colpire non ne beneficia direttamente. I missili intelligenti non sono influenzati.
 
 ### Varie
 
@@ -268,12 +268,12 @@ L'iniziativa della nave determina quante volte essa può reagire in un round.
 
 #### Tabella: Reazioni per Iniziativa
 
-| Initiativa | Reazioni  |
-|------------|-----------|
-| 0–4        | 1         |
-| 5–8        | 2         |
-| 9–12       | 3         |
-| 13+        | 4         |
+| Iniziativa | Reazioni |
+| ---------- | -------- |
+| 0–4        | 1        |
+| 5–8        | 2        |
+| 9–12       | 3        |
+| 13+        | 4        |
 
 ### Schivare il fuoco in arrivo
 
@@ -317,266 +317,262 @@ In circostanze in cui l'Arbitro potrebbe voler risolvere un'azione di abbordaggi
 
 #### Tabella: Risoluzione dell'abbordaggio astratto
 
-| Grado                | L'accante vince                                                                                                                                                                                                                                                                  | Defender Wins                                                                                                                                                                                                                                                                                                                     |
-|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grado                | L'accante vince                                                                                                                                                                                                                                                                  | Il Difensore vince                                                                                                                                                                                                                                                                                                                |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Successo             | Il difensore perde le reazioni in questo round;<br>L'attaccante guadagna MD + 2 al successivo tiro di Tattica avversaria per le azioni di abbordaggio; La nave subisce un singolo colpo di danno interno.                                                                        | Il difensore guadagna MD+2 al successivo tiro di Tattica avversaria per le azioni di abbordaggio;<br>La nave subisce un singolo colpo di danno interno.                                                                                                                                                                           |
 | Successo Eccezionale | L'attaccante abborda con successo la nave (l'equipaggio del difensore può abbandonare la nave, oppure essere catturato o ucciso a discrezione dell'attaccante); <br>Ha bisogno di un turno per prendere il controllo della nave; <br>La nave subisce 2D6 danni di danno interno. | L'attaccante viene respinto sulla propria nave o nello spazio (o catturato o ucciso a discrezione del difensore, se le forze dell'attaccante non sono in grado di ritirarsi); <br>Se le navi sono ancora attraccate, il difensore può scegliere di lanciare un'azione di abbordaggio contro l'ex attaccante nel turno successivo. |
 
+### Missili
+
+A differenza delle armi a raggio, che viaggiano alla velocità della luce e quindi colpiscono la nave nemica quasi istantaneamente, le armi da lancio impiegano tempo per attraversare il golfo dello spazio. I missili viaggiano a Spinta 10 verso il loro obiettivo designato e la loro posizione può essere tracciata come velivolo aggiuntivo nella battaglia o, per semplicità, si può presumere che colpiscano dopo un numero di turni dipendente dalla gittata di lancio, come mostrato nella Tabella della gittata di lancio del missile. I missili non possono essere usati a gittata adiacente o ravvicinata.
 
-### Missiles
+#### Tabella: Gittata di Lancio dei Missili
 
-Unlike beam weapons, which travel at the speed of light and so hit the enemy vessel almost instantly, missile weapons take time to cross the gulf of space. Missiles travel at Thrust 10 towards their designated target and their position can either be tracked as additional craft in the battle or, for the sake of simplicity, they can be assumed to strike after a number of turns dependent on launch range, as shown in the Missile Launch Range table. Missiles cannot be used at Adjacent or Close range.
+| Gittata     | Turni all'impatto |
+| ----------- | ----------------- |
+| Adiacente   | \-                |
+| Vicina      | \-                |
+| Corta       | 1                 |
+| Media       | 1                 |
+| Lunga       | 1                 |
+| Molto Lunga | 2                 |
+| Distante    | 2                 |
 
-#### Table: Missile Launch Range
+Quando il missile viene lanciato, l'artigliere deve effettuare una prova di abilità Armi a Torretta o Armi a Batteria per determinare la precisione del lancio. L'effetto della prova di abilità determina la possibilità che il missile colpisca il bersaglio. Un bersaglio può reagire ai missili in arrivo schivando o difendendosi. Questa reazione non ha luogo fino al turno in cui i missili arrivano a destinazione, quindi qualsiasi risposta del bersaglio deve attendere fino ad allora.
 
-| Range     | Turns to Impact |
-|-----------|-----------------|
-| Adjacent  | \-              |
-| Close     | \-              |
-| Short     | 1               |
-| Medium    | 1               |
-| Long      | 1               |
-| Very Long | 2               |
-| Distant   | 2               |
+#### Tabella: Tiro per colpire rispetto all'Effetto di Prova Abilità
 
-When the missile is launched, the gunner must make a Turret Weapons or Bay Weapons skill check to determine the accuracy of the launch. The effect of the skill check determines the chance that the missile will strike its target when it hits. A target may react to incoming missiles by dodging or point defense. This reaction does not take place until the turn the missiles arrive at their destination, so any target response must wait until then.
+| Prova Armi a Torretta o Armi a Batteria | Tiro per Colpire per Missile |     |
+| --------------------------------------- | ---------------------------- | --- |
+| Fallimento con Effetto –6 o meno        | 11+                          |     |
+| Fallimento con Effetto da –1 a –5       | 10+                          |     |
+| Successo con Effetto 0                  | 8+                           |     |
+| Successo con Effetto 1–5                | 7+                           |     |
+| Successo con Effetto 6+                 | 6+                           |     |
 
-#### Table: Missile To-Hit By Skill Check Effect
+#### Missili intelligenti
 
-| Turret Weapons/Bay Weapons check | Missile to-hit roll |     |
-|----------------------------------|---------------------|-----|
-| Failed With Effect –6 or less    | 11+                 |     |
-| Failed With Effect –1 to –5      | 10+                 |     |
-| Succeeded With Effect 0          | 8+                  |     |
-| Succeeded With Effect 1–5        | 7+                  |     |
-| Succeeded With Effect 6+         | 6+                  |     |
+Il tiro per colpire i missili intelligenti è sempre 8+ e se mancano, effettuano un altro attacco ogni turno fino a quando non vengono distrutti con la difesa puntiforme, bloccati con l'ECM, senza carburante o altrimenti dissuasi.
 
-#### Smart Missiles
+### Manovre planetarie
 
-The missile to-hit roll for smart missiles is always 8+ and if they miss they make another attack every turn until they are destroyed with point defense, jammed with ECM, run out of fuel or otherwise dissuaded.
+A breve distanza da un pianeta, diventano possibili alcune manovre planetarie.
 
-### Planetary Maneuvers
+**Inserimento in orbita**: il pilota può tentare di inserire la nave in orbita attorno a un pianeta. In caso di errore di inserimento orbitale, la nave non riesce ad entrare nell'orbita corretta e l'orbita inizierà costantemente a decadere attirando la nave verso l'atmosfera del pianeta in un rientro incontrollato (vedi Rientro atmosferico sotto). Questa è un'azione significativa che richiede una prova di Abilità Pilota di routine (+2).
 
-Within close range of a planet, certain planetary maneuvers become possible.
+**Rientro in atmosfera**: il pilota può tentare di far uscire la nave dall'orbita nell'atmosfera di un pianeta. Questa è un'azione significativa con una prova di abilità di Pilota Media (+0), con qualsiasi MD applicabile dalla tabella Rientro in atmosfera. Le atmosfere esotiche, corrosive o insidiose devono essere trattate come standard se non diversamente specificato.
 
-**Orbital Insertion**: The pilot may attempt to insert the ship into orbit around a planet. In an orbital insertion fails, the ship fails to enter the proper orbit, and the orbit will steadily begin to decay drawing the ship towards the planet’s atmosphere in an uncontrolled reentry (see Atmospheric Reentry below). This is a significant action requiring a Routine(+2) Pilot skill check.
+#### Tabella: Rientro in Atmosfera
 
-**Atmospheric Entry**: The pilot may attempt to transition the ship out of orbit and into the atmosphere of a planet. This is a significant action with an Average (+0) Pilot skill check, with any applicable DMs from the Atmospheric Entry table. Exotic, Corrosive, or Insidious atmospheres should be treated as Standard unless specified otherwise.
+| Classificazioni Mondo      | MD                  |
+| -------------------------- | ------------------- |
+| Dimensione Mondo 9+        | -2                  |
+| Dimensione Mondo 4 o meno  | +2                  |
+| Atmosfera Mondo 1 o meno   | Successo Automatico |
+| Atmosfera Mondo 2-5, 14(E) | +2                  |
+| Atmosfera Mondo 8-9, 13(D) | -2                  |
 
-#### Table: Atmospheric Entry
+### Regole per Armi Speciali
 
-| World Values                | DM           |
-|-----------------------------|--------------|
-| World Size 9+               | -2           |
-| World Size 4 or less        | +2           |
-| World Atmosphere 1 or less  | Auto Success |
-| World Atmosphere 2-5, 14(E) | +2           |
-| World Atmosphere 8-9, 13(D) | -2           |
+Diversi tipi di armi hanno le proprie regole.
 
-### Special Weapon Rules
+- **Armi mesoniche**: ignorano la corazza e tirano sempre sulla tabella dei danni interni. Inoltre, infliggono automaticamente un colpo a radiazioni all'equipaggio in aggiunta a qualsiasi altro danno.
+- **Cannoni a fusione**: infliggono un colpo a radiazioni dell'equipaggio oltre a qualsiasi altro danno. Il colpo di radiazione bonus subisce un MD pari alla corazza della nave.
+- **Raggi di particelle**: infliggono un colpo a radiazioni dell'equipaggio in aggiunta a qualsiasi altro danno. Il colpo di radiazione bonus subisce un MD pari alla corazza della nave.
+- **Missili nucleari**: infliggono un colpo dell'equipaggio a radiazioni oltre al normale danno. Il colpo a radiazione bonus subisce un MD- pari alla corazza della nave.
+- **Spargisabbia**: sebbene lo scopo principale di uno spargisabbia sia bloccare gli attacchi con raggio in arrivo, possono anche essere usati come attacco. Uno spargisabbia ha una gittata Vicina e infligge 1 punto di danno.
 
-Several types of weapons have their own rules.
+## Danno
 
-- **Meson Guns**: Meson guns ignore armor and always roll on the Internal Damage table. Furthermore, they also automatically inflict a radiation crew hit in addition to any other damage.
-- **Fusion Guns**: Fusion guns inflict a radiation crew hit in addition to any other damage. The bonus radiation hit suffers a –DM equal to the ship's armor.
-- **Particle Beams**: Particle beams inflict a radiation crew hit in addition to any other damage. The bonus radiation hit suffers a –DM equal to the ship's armor.
-- **Nuclear Missiles**: Nuclear missile hits inflict a radiation crew hit in addition to their normal damage. The bonus radiation hit suffers a –DM equal to the ship's armor. 
-- **Sandcasters**: While the primary purpose of a sandcaster is to block incoming beam attacks, they can also be used as an attack. A sandcaster has a range of Close and inflicts 1 point of damage.
+I sistemi possono subire un numero variabile di colpi prima di essere distrutti, a seconda del sistema in questione. Una nave può sopportare un punto di danno allo scafo ogni cinquanta tonnellate, arrotondando per difetto. Una nave che esaurisce i danni allo scafo verrà rapidamente resa inabile. Una nave può sopportare un punto di danno alla struttura ogni cinquanta tonnellate, arrotondando a un minimo di uno. Una nave che esaurisce la struttura si rompe e viene completamente distrutta.
 
-## Damage
+Gli effetti del danno sono determinati sottraendo la corazza della nave dal danno tirato dall'arma, quindi consultando la tabella dei Danni da Combattimento Spaziale per determinare il numero di colpi inflitti. Quindi tira sulla tabella Posizione dei colpi nel combattimento spaziale per ogni colpo. Veicoli piccoli usano la colonna relativa. Le navi di 100 tonnellate o più grandi usano la colonna Colpo esterno (nave) finché una nave non ha subito danni sufficienti per spazzare via il suo scafo, quindi usa la colonna Colpo interno (nave). Un doppio colpo applica due colpi alla stessa posizione. Un triplo colpo applica tre colpi alla stessa posizione.
 
-Systems can take a variable number of hits before being destroyed, depending on the system in question. A ship can endure one point of Hull damage per fifty tons, rounding down. A ship that runs out of Hull Damage will rapidly be incapacitated. A ship can endure one point of Structure damage per fifty tons, rounding down to a minimum of one. A ship that runs out of Structure breaks up and is completely destroyed.
+#### Tabella: Danni da Combattimento Spaziale
 
-The effects of damage are determined by subtracting the ship's armor from the damage rolled by the weapon, then consulting the Space Combat Damage table to determine the number of hits inflicted. Then roll on the Space Combat Hit Location table for each hit. Small craft use the Small craft column. Vessels of 100 tons or larger use the External Hit (Vessel) column until a ship has suffered enough damage to wipe out its Hull, and then uses the Internal Hit (Vessel) column. A double hit applies two hits to the same location. A triple hit applies three hits to the same location.
+| Danno                | Effetto                                   |
+| -------------------- | ----------------------------------------- |
+| 0 o meno             | Nessun danno                              |
+| 1–4                  | Singolo Colpo                             |
+| 5–8                  | Due singoli Colpi                         |
+| 9–12                 | Doppio Colpo                              |
+| 12–16                | Tre singoli colpi                         |
+| 16–20                | Due singoli Colpi, Doppio Colpo           |
+| 21–24                | Due Doppi Colpi                           |
+| 24–28                | Triplo Colpo                              |
+| 29–32                | Triplo Colpo, Singolo Colpo               |
+| 33–36                | Triplo Colpo, Doppio Colpo                |
+| 37–40                | Triplo Colpo, Doppio Colpo, Singolo Colpo |
+| 41–44                | Due Tripli Colpi                          |
+| Ogni tre colpi extra | +1 Singolo Colpo                          |
+| Ogni sei colpi extra | +1 Doppio Colpo                           |
 
-#### Table: Space Combat Damage
+#### Tabella: Posizione dei colpi nel combattimento spaziale
 
-| Damage                       | Effect                             |
-|------------------------------|------------------------------------|
-| 0 or less                    | No damage                          |
-| 1–4                          | Single Hit                         |
-| 5–8                          | Two Single Hits                    |
-| 9–12                         | Double Hit                         |
-| 12–16                        | Three Single Hits                  |
-| 16–20                        | Two Single Hits, Double Hit        |
-| 21–24                        | Two Double Hits                    |
-| 24–28                        | Triple Hit                         |
-| 29–32                        | Triple Hit, Single Hit             |
-| 33–36                        | Triple Hit, Double Hit             |
-| 37–40                        | Triple Hit, Double Hit, Single Hit |
-| 41–44                        | Two Triple Hits                    |
-| For every extra three points | +1 Single Hit                      |
-| For every extra six points   | +1 Double Hit                      |
+| 2D6 | Colpo Esterno (Nave) | Colpo Interno (Nave) | Veicoli Piccoli |
+| --- | -------------------- | -------------------- | --------------- |
+| 2   | Scafo                | Struttura            | Scafo           |
+| 3   | Sensori              | Generatore           | Generatore      |
+| 4   | Motore-M             | Motore-B             | Stiva           |
+| 5   | Torretta             | Batteria             | Carburante      |
+| 6   | Scafo                | Struttura            | Scafo           |
+| 7   | Corazza              | Equipaggio           | Corazza         |
+| 8   | Scafo                | Struttura            | Scafo           |
+| 9   | Carburante           | Stiva                | Torretta        |
+| 10  | Motore-M             | Motore-B             | Motore-M        |
+| 11  | Sensori              | Generatore           | Equipaggio      |
+| 12  | Scafo                | Ponte                | Ponte           |
 
-#### Table: Space Combat Hit Location
+### Scafo
 
-| 2D6 | External Hit (Vessel) | Internal Hit (Vessel) | Small Craft |
-|-----|-----------------------|-----------------------|-------------|
-| 2   | Hull                  | Structure             | Hull        |
-| 3   | Sensors               | Power Plant           | Power Plant |
-| 4   | M-Drive               | J-Drive               | Hold        |
-| 5   | Turret                | Bay                   | Fuel        |
-| 6   | Hull                  | Structure             | Hull        |
-| 7   | Armor                 | Crew                  | Armor       |
-| 8   | Hull                  | Structure             | Hull        |
-| 9   | Fuel                  | Hold                  | Turret      |
-| 10  | M-Drive               | J-Drive               | M-Drive     |
-| 11  | Sensors               | Power Plant           | Crew        |
-| 12  | Hull                  | Bridge                | Bridge      |
+Riduci di uno lo scafo della nave. Se lo scafo di una nave è 0, applica i colpi alla posizione nella stessa riga della colonna Colpo interno.
 
-### Hull
+### Struttura
 
-Reduce the ship's Hull by one. If a ship's Hull is 0, then apply the hits to the location in the same row of the Internal Damage column.
+Riduci di uno la struttura della nave. Se la struttura di una nave viene ridotta a 0, la nave viene distrutta.
 
-### Structure
+### Corazza
 
-Reduce the ship's Structure by one. If a ship's Structure is reduced to 0, the ship is destroyed.
+Riduci di uno la corazza della nave. Se la corazza della nave è già 0, conta come un colpo allo scafo.
 
-### Armor
+### Torretta
 
-Reduce the ship's armor by one. If the ship's armor is already 0, then this counts as a Hull hit.
+Viene colpita una torretta casuale.
 
-### Turret
+**Primo colpo**: il meccanismo di tracciamento della torretta è danneggiato. Può ancora essere usato, ma tutti gli attacchi subiscono un MD-2.
 
-A random turret is hit.
+**Secondo colpo**: la torretta e tutte le armi in essa contenute sono disabilitate.
 
-**First Hit**: The turret's tracking mechanism is damaged. It can still be used, but all attacks suffer a –2 DM.
+**Terzo colpo**: la torretta e tutte le armi in essa contenute vengono distrutte.
 
-**Second Hit**: The turret and all weapons in it are disabled.
+**Colpi successivi**: contano come colpi allo scafo.
 
-**Third Hit**: The turret and all weapons in it are destroyed.
+### Batteria
 
-**Subsequent Hits**: Count as Hull hits.
+Viene colpito una batteria casuale.
 
-### Bay
+**Primo colpo**: il meccanismo di mira della batteria è danneggiato. Può ancora essere usato, ma tutti gli attacchi subiscono un MD-2.
 
-A random bay is hit.
+**Secondo colpo**: la batteria di armi è disabilitata.
 
-**First Hit**: The bay's targeting mechanism is damaged. It can still be used, but all attacks suffer a –2 DM.
+**Terzo colpo**: la batteria di armi viene distrutta.
 
-**Second Hit**: The bay weapon is disabled.
+**Colpi successivi**: contano come colpi alla struttura.
 
-**Third Hit**: The bay weapon is destroyed.
+### Motore-B
 
-**Subsequent Hits**: Count as Structure hits.
+Il motore a Balzo è colpito
 
-### J-Drive
+* Primo colpo**: Tutti i tentativi di Balzo subiscono un MD–2 alle prove di Ingegneria.
 
-The Jump drive is hit.
+**Secondo colpo**: Il motore a Balzo è disabilitato.
 
-**First Hit**: All attempts at Jump suffer a –2 DM to Engineering
-checks.
+**Terzo colpo**: Il motore a salto viene distrutto.
 
-**Second Hit**: The jump drive is disabled.
+**Colpi successivi**: contano come colpi alla struttura.
 
-**Third Hit**: The jump drive is destroyed.
+### Motore-M
 
-**Subsequent Hits**: Count as Structure hits.
+Il motore di manovra è colpito.
 
-### M-Drive
+**Primo colpo**: Riduce la spinta della nave di uno.
 
-The maneuver drive is hit.
+**Secondo Colpo**: Riduce la spinta della nave del 50%.
 
-**First Hit**: Reduce the ship's thrust by one.
+**Terzo Colpo**: Il motore è disabilitato.
 
-**Second Hit**: Reduce the ship's thrust by 50%.
+**Colpi successivi**: contano come colpi allo scafo.
 
-**Third Hit**: The drive is disabled.
+### Generatore
 
-**Subsequent Hits**: Count as Hull hits.
+Il generatore è colpito
 
-### Power Plant
+**Primo colpo**: Danneggiato.
 
-The power plant is hit.
+**Secondo Colpo**: L'equipaggio subisce un colpo dell'equipaggio, tirando sulla Colonna Danno Da Radiazione.
 
-**First Hit**: Damaged.
+**Terzo Colpo**: il generatore è distrutto e la nave è disabilitata.
 
-**Second Hit**: The crew suffers a Crew Hit, rolling on the Radiation
-Damage column.
+**Colpi successivi**: contano come colpi alla struttura.
 
-**Third Hit**: The Power Plant is destroyed and the ship is disabled.
+### Sensori
 
-**Subsequent Hits**: Count as Structure Hits.
+I sensori vengono colpiti.
 
-### Sensors
+**Primo colpo**: MD–2 a tutte le prove di Comunicazioni per utilizzare i sensori.
 
-The sensors are hit.
+**Secondo colpo**: i sensori sono disabilitati impedendo alla nave di fare
+prove di Comunicazioni per l'utilizzo di sensori e per effettuare attacchi su obiettivi a gittata superiore ad Adiacente.
 
-**First Hit**: –2 DM to all Comms checks to use sensors.
+**Terzo colpo**: i sensori vengono distrutti.
 
-**Second Hit**: Sensors are disabled preventing the ship from making
-Comms checks for using sensors and on making attacks on targets beyond
-Adjacent range.
+**Colpi successivi**: contano come colpi allo scafo.
 
-**Third Hit**: Sensors are destroyed.
+### Ponte
 
-**Subsequent Hits**: Count as Hull hits.
+Il ponte è colpito.
 
-### Bridge
+**Primo colpo**: l'equipaggio subisce un Colpo, tirando sulla colonna Danno Normale.
 
-The bridge is hit.
+**Secondo colpo**: il ponte è disabilitato. Fino a quando il ponte non viene riparato, la nave non può eseguire alcuna azione di Pilota o Sensore, non può balzare e qualsiasi attacco subisce un MD-2.
 
-**First Hit**: The crew suffers a Crew Hit, rolling on the Normal Damage column.
+**Terzo colpo**: il ponte è distrutto.
 
-**Second Hit**: The bridge is disabled. Until the bridge is repaired, the ship cannot take any Pilot or Sensor actions, it cannot jump, and any attacks suffer a –2 DM.
+**Colpi successivi**: contano come colpi alla struttura.
 
-**Third Hit**: The bridge is destroyed.
+### Carburante
 
-**Subsequent Hits**: Count as Structure Hits.
+Il carburante viene colpito.
 
-### Fuel
+**Primo colpo**: provoca una piccola perdita di carburante di 1D6 tonnellate all'ora.
 
-The fuel is hit.
+**Secondo colpo**: distrugge 1D6x10% del carburante immagazzinato.
 
-**First Hit**: Causes a minor fuel leak of 1D6 tons per hour.
+**Terzo colpo**: distrugge il serbatoio del carburante.
 
-**Second Hit**: Destroys 1D6x10% of stored fuel.
+**Colpi successivi**: contano come colpi alla struttura.
 
-**Third Hit**: Destroys fuel tank.
+### Stiva
 
-**Subsequent Hits**: Count as Structure Hits.
+La stiva è colpita
 
-### Hold
+**Primo colpo**: distrugge l'1D6x10% del carico immagazzinato.
 
-The crago hold is hit.
+**Secondo colpo**: distrugge l'1D6x10% del carico immagazzinato.
 
-**First Hit**: Destroys 1D6x10% of stored cargo.
+**Terzo colpo**: distrugge la stiva e tutto ciò che contiene.
 
-**Second Hit**: Destroys 1D6x10% of stored cargo.
+**Colpi successivi**: contano come colpi alla struttura.
 
-**Third Hit**: Destroys cargo hold and everything in it.
+### Equipaggio
 
-**Subsequent Hits**: Count as Structure Hits.
+Ogni colpo sull'equipaggio indica che radiazioni o detriti volanti hanno ferito uno o più membri dell'equipaggio. Tira 2D6 sulla colonna appropriata nella tabella Danni all'equipaggio.
 
-### Crew
+#### Tabella: Danni all'equipaggio
 
-Each hit on the crew indicates that radiation or flying debris has injured one or more crew. Roll 2D6 on the appropriate column on the Crew Damage table.
+| Tiro     | Danno Normale                                       | Danno da Radiazioni                                  |
+| -------- | --------------------------------------------------- | ---------------------------------------------------- |
+| 4 o meno | Evasione fortuita - nessun danno                    | Evasione fortuita - nessun danno                     |
+| 5–8      | Un membro dell'equipaggio casuale subisce 2D6 danni | Un membro dell'equipaggio casuale subisce 2D6x10 rad |
+| 9–10     | Un membro dell'equipaggio casuale subisce 4D6 danni | Un membro dell'equipaggio casuale subisce 4D6x10 rad |
+| 11       | Tutto l'equipaggio subisce 2D6 danni                | Tutto l'equipaggio subisce 2D6x10 rad                |
+| 12       | Tutto l'equipaggio subisce 4D6 danni                | Tutto l'equipaggio subisce 4D6x10 rad                |
 
-#### Table: Crew Damage
+## Danno in scala: navi armi contro bersagli su scala personale
 
-| Roll      | Normal Damage                             | Radiation Damage                           |
-|-----------|-------------------------------------------|--------------------------------------------|
-| 4 or less | Lucky escape – no damage                  | Lucky escape – no radiation                |
-| 5–8       | One random crew member suffers 2D6 damage | One random crew member suffers 2D6x10 rads |
-| 9–10      | One random crew member suffers 4D6 damage | One random crew member suffers 4D6x10 rads |
-| 11        | All crew suffer 2D6 damage                | All crew suffer 2D6x10 rads                |
-| 12        | All crew suffer 4D6 damage                | All crew suffer 4D6x10 rads                |
+Le armi delle navi subiscono un MD-4 per colpire un bersaglio specifico sulla scala di combattimento personale. La tabella dei danni in scala copre il danno inflitto alla scala di combattimento personale quando le armi della nave colpiscono bersagli su scala personale.
 
-## Scaling Damage: Ship Weapons Against Personal-Scale Targets
+#### Tabella: Danno in scala
 
-Ship weapons suffer a DM -4 to hit a specific target on the personal combat scale. The Scaling Damage table covers the damage inflicted on the personal combat scale when ship weapons strike personal-scale targets.
-
-#### Table: Scaling Damage
-
-| Ship Weapon            | Personal Combat Damage   |
-|------------------------|--------------------------|
-| Beam Laser             | 1D6x50                   |
-| Fusion Gun (bay)       | 5D6x50                   |
-| Meson Gun (bay)        | 5D6x50, plus 4D6x10 rads |
-| Nuclear Missile        | 2D6x50, plus 4D6x10 rads |
-| Particle Beam (bay)    | 6D6x50, plus 4D6x10 rads |
-| Particle Beam (turret) | 3D6x50, plus 4D6x10 rads |
-| Pulse Laser            | 2D6x50                   |
-| Sandcaster             | 8D6                      |
-| Smart Missile          | 1D6x50                   |
-| Standard Missile       | 1D6x50                   |
+| Arma                           | Danno Combattimento Personale |
+| ------------------------------ | ----------------------------- |
+| Raggio Laser                   | 1D6x50                        |
+| Cannone a Fusione (Batteria)   | 5D6x50                        |
+| Cannone a Mesoni (Batteria)    | 5D6x50, più 4D6x10 rad        |
+| Missile Nucleare               | 2D6x50, più 4D6x10 rad        |
+| Raggio a particelle (Batteria) | 6D6x50, più 4D6x10 rad        |
+| Raggio a particelle (Torretta) | 3D6x50, più 4D6x10 rad        |
+| Laser a Impulsi                | 2D6x50                        |
+| Spargisabbia                   | 8D6                           |
+| Missile Intelligente           | 1D6x50                        |
+| Missile Standard               | 1D6x50                        |
