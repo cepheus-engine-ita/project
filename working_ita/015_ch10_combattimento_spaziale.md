@@ -256,68 +256,66 @@ L'operatore dei sensori può tentare di trascorrere il turno fornendo un miglior
 
 Un personaggio può effettuare una prova di abilità o fare qualcos'altro come azione significativa quando tale azione richiede la piena attenzione del personaggio, concentrazione, azioni fisiche complicate o una combinazione di queste. Qualsiasi prova di abilità con un intervallo di tempo di 1-6 minuti è semplicemente considerata un'azione significativa durante il combattimento spaziale.
 
-## Reactions
+## Reazioni
 
-As in Personal Combat, reactions are actions taken immediately in response to the action of another. A ship may react to incoming attacks. The following situations allow reactions:
+Come nel combattimento personale, le reazioni sono azioni intraprese immediatamente in risposta all'azione di un altro. Una nave può reagire agli attacchi in arrivo. Le seguenti situazioni consentono reazioni:
 
-- Targeted by a beam attack
-- Incoming missile
-- Attempted boarding
+- Essere agganciati da un attacco a raggi
+- Missile in arrivo
+- Tentativo di abbordaggio
 
-The ship's Initiative determines how many times it may react in a round.
+L'iniziativa della nave determina quante volte essa può reagire in un round.
 
-#### Table: Reactions By Initiative
+#### Tabella: Reazioni per Iniziativa
 
-| Initiative | Reactions |
+| Initiativa | Reazioni  |
 |------------|-----------|
 | 0–4        | 1         |
 | 5–8        | 2         |
 | 9–12       | 3         |
 | 13+        | 4         |
 
-### Dodge Incoming Fire
+### Schivare il fuoco in arrivo
 
-To dodge, the pilot must make a Pilot check. If successful, the attack suffers a –2 DM.
+Per schivare, il pilota deve effettuare una prova di Pilota. Se ha successo, l'attacco subisce MD–2.
 
-### Fire Sand
+### Sparare Raffiche
 
-Turrets equipped with sandcasters can fire sand at incoming beam attacks. Each reaction spent on firing sand allows the gunner to make a Turret Weapons roll. If successful the damage of each beam in the incoming attack is reduced by 1D6. Resolve each beam separately. Each firing of sand costs one canister of sand. Sand can also be directed against incoming boarding parties. If the sand attack is successful, each target in the boarding party takes 8D6 damage.
+Le torrette dotate di spargisabbia possono sparare raffiche contro attacchi a raggi in arrivo. Ogni reazione spesa per sparare raffiche consente al mitragliere di effettuare un tiro di armi da torretta. Se ha successo, il danno di ogni attacco a raggi in arrivo viene ridotto di 1D6. Risolvi ogni raggio separatamente. Ogni lancio di raffiche costa un caricatore. La raffica può anche essere diretta contro abbordaggi in arrivo. Se l'attacco con la raffica ha successo, ogni bersaglio nella squadra di abbordaggio subisce 8D6 danni.
 
-### Point Defense
+### Difesa puntiforme
 
-Turret lasers can be used to destroy incoming missiles. The missiles can only be destroyed in the moments before they strike the spacecraft as they are too small and fast-moving to effectively target at greater ranges. The gunner must make a Turret Weapons check against the missile. If successful, the missile is destroyed. A gunner may keep making Turret Weapons checks against missiles until he misses an attack; each attack suffers a cumulative –1 penalty. Attacks may be directed against different incoming missiles. Point defense can also be used to attack incoming boarders in the same way.
+I laser della torretta possono essere utilizzati per distruggere i missili in arrivo. I missili possono essere distrutti solo nei momenti prima che colpiscano la navicella poiché sono troppo piccoli e in rapido movimento per mirare efficacemente a gittate maggiori. Il cannoniere deve effettuare una prova di Armi da Torretta contro il missile. In caso di successo, il missile viene distrutto. Un artigliere può continuare a effettuare prove di Armi da Torretta contro i missili fino a quando non perde un attacco; ogni attacco subisce una penalità cumulativa di -1. Gli attacchi possono essere diretti contro diversi missili in arrivo. La difesa puntiforme può essere utilizzata  allo stesso modo anche per attaccare gli abbordatori in arrivo.
 
-### Trigger Screens
+### Attivare Schermi
 
-Screens can be activated as long as the commander or one of the gunners has the Screens skill at Level 0 and the ship has the required screen type (nuclear against nuclear missiles and fusion guns; meson against meson guns). Screens reduce the damage from the attack by 2D6+the operator's Screens skill. Nuclear dampers also remove the automatic radiation hit from nuclear missile attacks.
+Gli schermi possono essere attivati fintanto che il comandante o uno dei cannonieri ha l'abilità Schermi al livello 0 e la nave ha il tipo di schermo richiesto (nucleare contro missili nucleari e cannoni a fusione; antimesone contro cannoni mesonici). Gli schermi riducono il danno dall'attacco di 2D6 + l'abilità Schermi dell'operatore. Gli ammortizzatori nucleari rimuovono anche il colpo automatico a radiazioni  dagli attacchi missilistici nucleari.
 
-## Other Actions
+## Altre Azioni
 
-Other types of action can take place during space combat.
+Altri tipi di azione possono aver luogo durante il combattimento spaziale.
 
-### Free Actions
+### Azioni gratuite
 
-Some actions are so fast on the scale of space combat that they do not even qualify as a minor action. A character can perform as many of these free actions as he likes in a turn, although if he performs several the Referee may require him to spend a minor or even a significant action on his various tasks.
+Alcune azioni sono così veloci sulla scala del combattimento spaziale che non si qualificano nemmeno come un'azione minore. Un personaggio può eseguire quante di queste azioni libere desidera in un turno, anche se se ne esegue diverse l'Arbitro può chiedergli di dedicare un'azione minore o anche significativa ai suoi vari compiti.
 
-### Extended Actions
+### Azioni estese
 
-Some skill checks will take longer than a single combat turn to complete. Make a Timing roll for the task and then work out how many six minute combat turns it will take to complete. A character engaging in an extended action cannot do anything else but can abandon their action at any time and return to the normal Initiative order. A character who is hit by an attack while undertaking an extended action must make an 8+ roll using the skill in question with a negative DM equal to the amount of damage the attack causes (after armor). Failure indicates that this turn's work does not count towards the completion of the task. Failure by six or more (an Exceptional Failure) ruins the task and the character must start again.
+Alcune prove di abilità richiederanno più tempo di un singolo turno di combattimento per essere completati. Esegui un tiro di calcolo del tempo per il compito e poi calcola quanti turni di combattimento di sei minuti ci vorranno per completarlo. Un personaggio che intraprende un'azione estesa non può fare nient'altro ma può abbandonare la sua azione in qualsiasi momento e tornare al normale ordine di Iniziativa. Un personaggio che viene colpito da un attacco mentre intraprende un'azione estesa deve effettuare un tiro di 8+ usando l'abilità in questione con un MD negativo pari alla quantità di danno che l'attacco provoca (oltre l'armatura). Il fallimento indica che il lavoro di questo turno non conta per il completamento dell'attività. Un fallimento di sei o più (un Fallimento Eccezionale) interrompe il compito e il personaggio deve ricominciare.
 
-### Delay
+### Ritardo
 
-A vessel does not have to act when its turn comes up in the Initiative order. The Captain may decide to act at any later point during the turn, even interrupting another's actions to do so. When he acts, his Initiative is set to the count on which he acted. If the character has not acted by the end of the turn he may choose to act first in the next turn, effectively giving up his actions in the previous turn in exchange for an Initiative advantage. His new Initiative is set to one higher than that of the current first person in the order. When multiple characters are delaying and all wish to act first in the following turn, their Initiatives are all set to the same score and they act in order of Thrust as normal.
+Una nave non deve per forza agire quando arriva il suo turno nell'ordine di Iniziativa. Il Capitano può decidere di agire in qualsiasi momento successivo durante il turno, anche interrompendo le azioni di un altro per farlo. Quando agisce, la sua Iniziativa è impostata sul conteggio in base al quale ha agito. Se il personaggio non ha agito entro la fine del turno, può scegliere di agire per primo nel turno successivo, rinunciando di fatto alle sue azioni nel turno precedente in cambio di un vantaggio di Iniziativa. La sua nuova iniziativa è impostata su un valore superiore a quello dell'attuale prima persona nell'ordine. Quando più personaggi stanno ritardando e tutti desiderano agire per primi nel turno successivo, le loro Iniziative sono tutte impostate sullo stesso punteggio e agiscono normalmente in ordine di Spinta.
 
-## Special Considerations
+## Considerazioni speciali
 
-The following are special considerations in space combat.
+Le seguenti sono considerazioni speciali nel combattimento spaziale.
 
-### Abstract Boarding Rules
+### Regole di abbordaggio astratte
 
-In circumstances when the Referee may wish to resolve a boarding action without resorting to the personal combat rules, the following alternative method is suggested. On each round of a boarding action, the attacking Chief Security Officer (or Captain, if the CSO is down or not appointed) makes an opposed Intelligence-based Tactics skill check against the Chief Security Officer (or Captain, if the CSO is down or not appointed) of the defenders. The results of each round depend on who wins and the degree of success achieved by the winner of the opposed check, as outlined in the Abstract Boarding Resolution table.
+In circostanze in cui l'Arbitro potrebbe voler risolvere un'azione di abbordaggio senza ricorrere alle regole di combattimento personali, viene suggerito il seguente metodo alternativo. In ogni round di un'azione di abbordaggio, l'Ufficiale Capo della Sicurezza attaccante (o il Capitano, se l'UFS è a terra o vacante) effettua una prova di abilità Tattica opposta basata sull'Intelligenza contro l'Ufficiale Capo della Sicurezza (o il Capitano, se l'UFS è a terra o vacante) dei difensori. I risultati di ogni round dipendono da chi vince e dal grado di successo ottenuto dal vincitore della prova in opposizione, come indicato nella tabella Risoluzione dell'abbordaggio astratto.
 
-#### 
-
-#### Table: Abstract Boarding Resolution
+#### Tabella: Risoluzione dell'abbordaggio astratto
 
 | Degree              | Attacker Wins                                                                                                                                                                                                      | Defender Wins                                                                                                                                                                                                                                                                       |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
