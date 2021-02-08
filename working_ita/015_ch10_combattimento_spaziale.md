@@ -317,10 +317,10 @@ In circostanze in cui l'Arbitro potrebbe voler risolvere un'azione di abbordaggi
 
 #### Tabella: Risoluzione dell'abbordaggio astratto
 
-| Degree              | Attacker Wins                                                                                                                                                                                                      | Defender Wins                                                                                                                                                                                                                                                                       |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Success             | Defender loses reactions this round; Attacker gains DM+2 on next opposed Tactics roll for boarding actions; The ship suffers one Single Hit of internal damage.                                                    | Defender gains DM +2 on next opposed Tactics roll for boarding actions; The ship suffers one Single Hit of internal damage.                                                                                                                                                         |
-| Exceptional Success | Attacker successfully boards ship (Defender crew may abandon ship, or are captured or killed at the discretion of the Attacker); Needs one turn to gain control of ship; Ship takes 2D6 damage of internal damage. | Attacker is driven back to their own ship or out into space (or captured or killed at the discretion of the Defender, if Attacker’s forces are unable to retreat); If ships are still docked, Defender may elect to launch a boarding action against the former Attacker next turn. |
+| Grado                | L'accante vince                                                                                                                                                                                                                                                                  | Defender Wins                                                                                                                                                                                                                                                                                                                     |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Successo             | Il difensore perde le reazioni in questo round;<br>L'attaccante guadagna MD + 2 al successivo tiro di Tattica avversaria per le azioni di abbordaggio; La nave subisce un singolo colpo di danno interno.                                                                        | Il difensore guadagna MD+2 al successivo tiro di Tattica avversaria per le azioni di abbordaggio;<br>La nave subisce un singolo colpo di danno interno.                                                                                                                                                                           |
+| Successo Eccezionale | L'attaccante abborda con successo la nave (l'equipaggio del difensore può abbandonare la nave, oppure essere catturato o ucciso a discrezione dell'attaccante); <br>Ha bisogno di un turno per prendere il controllo della nave; <br>La nave subisce 2D6 danni di danno interno. | L'attaccante viene respinto sulla propria nave o nello spazio (o catturato o ucciso a discrezione del difensore, se le forze dell'attaccante non sono in grado di ritirarsi); <br>Se le navi sono ancora attraccate, il difensore può scegliere di lanciare un'azione di abbordaggio contro l'ex attaccante nel turno successivo. |
 
 
 ### Missiles
@@ -350,10 +350,6 @@ When the missile is launched, the gunner must make a Turret Weapons or Bay Weapo
 | Succeeded With Effect 0          | 8+                  |     |
 | Succeeded With Effect 1–5        | 7+                  |     |
 | Succeeded With Effect 6+         | 6+                  |     |
-
-#### 
-
-#### 
 
 #### Smart Missiles
 
