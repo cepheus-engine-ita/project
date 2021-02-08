@@ -226,35 +226,35 @@ Se un pilota effettua con successo una prova di abilità di Pilota opposto contr
 
 Lo speronamento è una manovra potenzialmente suicida in cui un pilota fa schiantare intenzionalmente la sua nave contro lo scafo di un'altra nave. Questa azione può essere tentata solo a distanza ravvicinata e se la nave speronante si sta muovendo più velocemente del bersaglio. Per speronare con successo un'altra nave richiede una prova di abilità di Pilota opposta tra entrambe le navi. Una collisione infligge 1D6 danni per ogni punto di differenza di velocità tra le due navi.
 
-### Range Check
+### Verifica gittata
 
-The Navigator makes an opposed Navigation skill check with another vessel. The vessel with the highest result may elect to increase, decrease, or maintain the range between the vessels for the round.
+Il Navigatore effettua una prova di abilità di Navigazione contro un'altro vascello avversario. La nave con il risultato più alto può scegliere di aumentare, diminuire o mantenere la gittata tra le navi per il round.
 
-### Reload Weapons System
+### Ricaricare il sistema delle armi
 
-A crew member (usually the gunner) may spend the round reloading one spent missile rack, one spent sandcaster or other individual weapon system.
+Un membro dell'equipaggio (di solito l'artigliere) può impiegare il round ricaricando un banco di missili esaurito, uno spargisabbia esaurito o un altro sistema d'arma individuale.
 
-### Repair Damaged System
+### Riparare il sistema danneggiato
 
-A character on damage control may attempt to repair a damaged system by making an Education-based Mechanics check. If the check is successful, determine how many hits are repaired:
+Un personaggio al controllo dei danni può tentare di riparare un sistema danneggiato effettuando una prova di Meccanica basata sul Educazione. Se la prova ha esito positivo, determina quanti colpi vengono riparati:
 
-#### Table: Damage Repair Results
+#### Tabella: Risultato Riparazione Danni
 
-| Mechanics Check Effect | Hits Repaired |
-|------------------------|---------------|
-| 0                      | 1             |
-| 1–5                    | 2             |
-| 6+                     | 3             |
+| Effetto Prova Meccanica | Colpi Riparati |
+|-------------------------|---------------|
+| 0                       | 1             |
+| 1–5                     | 2             |
+| 6+                      | 3             |
 
-A ship with repair drones and the Auto-Repair software also makes one or two repair checks on the vessel's turn (unless it is being used to assist other repair attempts). The standard Auto-Repair software makes the check with a +1 DM. These are battlefield repairs only and will break down as soon as the battle is over unless repaired properly.
+Una nave con droni di riparazione e il software di Autoriparazione effettua anche uno o due prove di riparazione durante il turno della nave (a meno che non venga utilizzata per assistere altri tentativi di riparazione). Il software di Autoriparazione standard effettua il controllo con un MD+1. Queste sono solo riparazioni sul campo di battaglia e si romperanno non appena la battaglia sarà finita a meno che non vengano riparate adeguatamente.
 
-### Sensor Targeting
+### Targeting del sensore
 
-The sensors operator may attempt to spend the turn providing improved fire control and targeting data to the gunners, hopefully increasing their chances of hitting their targets. The sensors operator should make a Education-based Comms skill check against the target's Sensor Jamming rating, for each vessel that is to targeted. If successful, all gunners on the vessel gain a DM+1 bonus to their attacks this turn, or a DM+2 on an Exceptional Success. When using missiles the initial attack gets this bonus – the individual missile to hit rolls do not benefit directly. Smart missiles are unaffected.
+L'operatore dei sensori può tentare di trascorrere il turno fornendo un migliore controllo del fuoco e mirando i dati ai cannonieri, auspicabilmente aumentando le loro possibilità di colpire i loro bersagli. L'operatore dei sensori dovrebbe effettuare una prova di abilità di Comunicazioni basato su Educazione rispetto al valore di disturbo del sensore del bersaglio, per ciascun vascello da prendere di mira. In caso di successo, tutti i cannonieri sulla nave ottengono un bonus MD+1 ai loro attacchi in questo turno, o un MD+2 in caso di Successo Eccezionale. Quando si utilizzano i missili, l'attacco iniziale ottiene questo bonus - il singolo missile per colpire non ne beneficia direttamente. I missili intelligenti non sono influeanzati.
 
-### Miscellaneous
+### Varie
 
-A character may make a skill check or do something else as a significant action when such an action requires the character's full attention, concentration, complicated physical actions or some combination thereof. Any skill check with a time interval of 1-6 minutes is simply considered a significant action during space combat.
+Un personaggio può effettuare una prova di abilità o fare qualcos'altro come azione significativa quando tale azione richiede la piena attenzione del personaggio, concentrazione, azioni fisiche complicate o una combinazione di queste. Qualsiasi prova di abilità con un intervallo di tempo di 1-6 minuti è semplicemente considerata un'azione significativa durante il combattimento spaziale.
 
 ## Reactions
 
