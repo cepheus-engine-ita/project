@@ -121,7 +121,7 @@ Ecco come affronti una carriera:
 
 - *Società degli esploratori:* Associazione alla esclusiva Società degli esploratori, che garantisce un biglietto di passaggio superiore ogni due mesi e soggiorno gratuito negli ostelli della Società.
 
-- *Passaggio:* ottenere il biglietto indicato per un salto (fino a due parsec).
+- *Passaggio:* ottenere il biglietto indicato per un Balzo (fino a due parsec).
 
 - *Nave da Esploratore:* una nave da ricognizione da 100 tonnellate "prestata" dal Servizio Esploratori come parte del tuo "Servizio Distaccato".
 
@@ -437,651 +437,406 @@ Una **Bolla di salvataggio** è una bolla di plastica di 2 m di diametro. Strati
 
 Uno **Zaino Propulsore** consente le manovre in condizioni di gravità zero.
 
-## Vehicles
+## Veicoli
 
-A wide variety of vehicles exist across cultures and species for
-planetary, atmospheric, and oceanic transportation. The following is a
-list of a few of the more common conveyances.
+Esiste un'ampia varietà di veicoli,  tra le diverse culture e specie, per il trasporto planetario atmosferico e oceanico . Di seguito è riportato un elenco di alcuni dei mezzi di trasporto più comuni.
 
-**Stat table explanation**
+**Spiegazione delle statistiche della tabella**
 
-**Tech Level (TL):** technological level.
+**Livello Tecnologico (LR):** livello tecnologico del mondo di produzione.
 
-**Cost:** in thousands of Credits (Kcr)
+**Costo:** in migliaia di crediti (Kcr)
 
-**Agi:** Agility, representing the vehicle’s maneuverability. Applies as
-DM to skill throws in vehicle combat.
+**Agi:** Agilità, che rappresenta la manovrabilità del veicolo. Si applica come MD ai lanci di abilità nel combattimento con veicoli.
 
-**Spd:** speed in km/h.
+**Vel:** velocità in km/h.
 
-**Light Damage Threshold:** Weapons have to throw this number or above
-on their AV dice to penetrate armor and cause regular damage hits.
+**Soglia Danno Leggero:** Le armi devono lanciare questo numero o superiore sui loro dadi VA per penetrare l'armatura e causare danni regolari.
 
-**Critical Damage Threshold:** Weapons have to throw this number or
-above on their AV dice to cause a critical damage hit. Note that small
-arms do not cause critical damage even in this case.
+**Soglia Danno Critico:** Le armi devono lanciare questo numero o più sui loro dadi VA per causare un danno critico. Notare che le armi leggere non causano danni critici anche in questo caso.
 
-**Weapons:** weapons included in the vehicle’s price by default. Choose
-support weapons from the Support Weapon table below. Support weapons use
-the Heavy Weapons skill. Gunnery weapons use the Gunnery skill.
+**Arma:** armi incluse nel prezzo del veicolo. Scegli le armi di supporto dalla tabella delle armi di supporto di seguito. Le armi di supporto utilizzano l'abilità Armi Pesanti. L'artiglieria usa l'abilità Artiglieria.
 
-**Crew/Psgrs:** the first number shows the number of crew-members the
-vehicle requires; the second, the number of passengers it may carry.
+**Equipaggio/Passeggeri:** il primo numero mostra il numero di membri dell'equipaggio richiesto dal veicolo; il secondo, il numero di passeggeri che può trasportare.
 
-**Cargo:** cargo capacity in kilograms or tons.
+**Carico:** capacità di carico in chilogrammi o tonnellate.
 
-| Vehicle          | TL | Cost    | Agi | Spd (kph) | Light Damage | Critical Damage | Weapons            | Crew/
-Psgrs | Cargo (kg) |
-|------------------|----|---------|-----|-----------|--------------|-----------------|--------------------|-------------|------------|
-| Ground Car       | 5  | KCr6    | +0  | 150       | 3            | 6               |                    | 1/3         | 200        |
-| Motor Boat       | 5  | KCr530  | -3  | 120       | 3            | 6               |                    | 5/10        | 10000      |
-| Truck            | 5  | KCr50   | -1  | 120       | 6            | 9               |                    | 1/1         | 30000      |
-| Main Battle Tank | 6  | KCr100  | -2  | 60        | 25           | 32              | Gunnery,
-2 Support | 4/0         | 100        |
-| APC              | 6  | KCr65   | -1  | 80        | 12           | 15              | Support            | 2/9         | 1000       |
-| Helicopter       | 6  | KCr250  | +1  | 100       | 3            | 6               |                    | 1/7         | 500        |
-| Submersible      | 6  | KCr1700 | -4  | 40        | 3            | 6               |                    | 5/10        | 30000      |
-| ATV, Tracked     | 7  | KCr50   | -1  | 80        | 12           | 15              |                    | 1/15        | 1000       |
-| ATV, Wheeled     | 7  | KCr50   | +0  | 100       | 12           | 15              |                    | 1/15        | 10000      |
-| VTOL Jet         | 7  | KCr500  | +1  | 600       | 3            | 6               |                    | 2/6         | 5000       |
-| Air/Raft         | 8  | KCr275  | +0  | 400       | 3            | 6               |                    | 1/2         | 4000       |
-| G/Carrier        | 8  | KCr1000 | +0  | 620       | 16           | 20              | Support            | 2/12        | 2000       |
-| Speeder          | 8  | KCr890  | +2  | 1500      | 3            | 6               |                    | 1/1         | 4000       |
-| Grav Belt        | 12 | KCr100  | +2  | 300       | -            | -               |                    | 1           | personal   |
+| Veicolo            | LT          | Costo     | Agi   | Vel (km/h)  | Danno Leggero  | Danno Critico     | Armi                 | Equipaggio/   |              |
+|--------------------|-------------|-----------|-------|-------------|----------------|-------------------|----------------------|---------------|--------------|
+| Passeggeri         | Carico (kg) |           |       |             |                |                   |                      |               |              |
+| ------------------ | ----        | --------- | ----- | ----------- | -------------- | ----------------- | -------------------- | ------------- | ------------ |
+| Automobile         | 5           | KCr6      | +0    | 150         | 3              | 6                 |                      | 1/3           | 200          |
+| Barca a motore     | 5           | KCr530    | -3    | 120         | 3              | 6                 |                      | 5/10          | 10000        |
+| Camion             | 5           | KCr50     | -1    | 120         | 6              | 9                 |                      | 1/1           | 30000        |
+| Carro Armato       | 6           | KCr100    | -2    | 60          | 25             | 32                | Artigleria,          |               |              |
+| 2 Supporto         | 4/0         | 100       |       |             |                |                   |                      |               |              |
+| APC                | 6           | KCr65     | -1    | 80          | 12             | 15                | Support              | 2/9           | 1000         |
+| Elicottero         | 6           | KCr250    | +1    | 100         | 3              | 6                 |                      | 1/7           | 500          |
+| Sommergibile       | 6           | KCr1700   | -4    | 40          | 3              | 6                 |                      | 5/10          | 30000        |
+| ATV, Cingolato     | 7           | KCr50     | -1    | 80          | 12             | 15                |                      | 1/15          | 1000         |
+| ATV, Ruote         | 7           | KCr50     | +0    | 100         | 12             | 15                |                      | 1/15          | 10000        |
+| VTOL Jet           | 7           | KCr500    | +1    | 600         | 3              | 6                 |                      | 2/6           | 5000         |
+| Aeroscafo          | 8           | KCr275    | +0    | 400         | 3              | 6                 |                      | 1/2           | 4000         |
+| Gravitrasporto     | 8           | KCr1000   | +0    | 620         | 16             | 20                | Supporto             | 2/12          | 2000         |
+| Speeder            | 8           | KCr890    | +2    | 1500        | 3              | 6                 |                      | 1/1           | 4000         |
+| Gravicintura       | 12          | KCr100    | +2    | 300         | -              | -                 |                      | 1             | personal     |
 
+### Note sui Veicoli
 
-### 
+Gli **ATV**, **Elicottero**, **VTOL Jet**, e **Barca a motore** possono ciascuno montare un'arma di supporto, ma non è inclusa nel prezzo e deve essere acquistata separatamente.
 
-### Vehicle Notes
+Gli ** ATV ** sono pressurizzati, hanno scorte di supporto vitale per una settimana e dispongono di alloggi angusti per tutto l'equipaggio e i passeggeri.
 
-The **ATV**, **Helicopter**, **VTOL Jet**, and **Motorboat** may each
-mount one Support weapon, but it is not included in their price and must
-be purchased separately.
+L'**Aeroscafo** è un'auto gravitazionale di medie dimensioni.
 
-**ATVs** are pressurized, have life-support supplies for a week, and
-feature cramped living quarters for all crew and passengers.
+Il **Gravitrasporto** è spesso chiamato Grav APC, anche se "Elicottero Gravitonico" potrebbe essere più appropriato.
 
-The **Air/Raft** is a medium-sized gravitic car.
+La **Gravicintura** è un mezzo di mobilità antigravità personale e indossabile. La sua batteria a fusione può durare una settimana.
 
-The **G/Carrier** is often called a Grav APC, though “Grav Transport
-Helicopter” might be more appropriate.
+Lo **Speeder** è un veicolo gravitazionale supersonico utilizzato per il trasporto planetario veloce.
 
-The **Grav Belt** is a personal, wearable means of anti-gravity
-mobility. Its fusion battery can last for a week.
+### Artiglieria
 
-The **Speeder** is a supersonic grav vehicle used for fast planetary
-transport.
+Alcuni dei veicoli sopra elencati sono dodati di artiglieria, come il cannone principale sul carro armato. Si tratta di armi anti-armatura montate su veicoli o fisse utilizzate per attaccare obiettivi militari. Usano tutti l'abilità Artiglieria. Come regola generale, le armi da artiglieria generalmente infliggono danni 10D contro il personale entro la loro portata effettiva. Hanno un valore VA di 8D. I dettagli esatti di una data arma da artiglieria sono lasciati all'arbitro.
 
-### Gunnery Weapons
+## Armi
 
-Some of the vehicles listed above possess Gunnery Weapons, such as the
-main gun on a main battle tank. These are vehicle-mounted or
-fixed-position anti-armor weapons used to engage military targets. They
-all use the Gunnery skill. As a rule of a thumb, gunnery weapons
-generally do 10D damage vs. personnel within their effective range. They
-have an AV value of 8D. The exact details of a given gunnery weapon are
-left to the Referee.
+Gli avventurieri interstellari affrontano i loro avversari con lame, proiettili e laser. Qui presentiamo alcune armi comuni e iconiche usate dai viaggiatori stellari.
 
-## Weapons
+### Spiegazione delle statistiche
 
-Interstellar adventurers meet their adversaries with blades, bullets,
-and lasers. Here we present a few common and iconic weapons used by
-starfarers.
+**Livello Tecnologico (LR):** livello tecnologico del mondo di produzione.
 
-### Stat Explanations
 
-**Tech Level (TL):** technological level, as noted above.
 
-**Range:** Effective/Maximum in meters. To attack with a ranged weapon
-within effective range throw Gun Combat (or Heavy Weapon) 8+; beyond
-effective range, throw Gun Combat (or Heavy Weapon) 10+.
+**Gittata:** Efficace/Massimo in metri. Per attaccare con un'arma a distanza entro un raggio d'azione efficace, lancia il Combattimento con armi da fuoco (o Arma Pesante) 8+; oltre il raggio d'azione, lancia il combattimento con la pistola (o l'Arma Pesante) 10+.
 
-**Damage:** damage caused by the weapon.
+**Danno:** danni causati dall'arma.
 
-**Magazine:** The amount of ammunition the weapon holds. If the magazine
-requires additional time to reload, this will be noted.
-
-**Ammo Cost:** per magazine, in Credits.
-
-**Cost:** The weapon’s cost, in Credits.
-
-**Weapon Aspects**
-
-Weapons have Aspects describing their special characteristics, as noted
-on their table.
-
-**Auto X:** A weapon with the Auto aspect is an automatic weapon capable
-of making attacks in three fire modes: single, burst, and full auto, as
-described in the Combat chapter.
-
-**AV X:** anti-vehicular dice. Throw this number of dice when you hit a
-vehicle; if the throw is equal or greater than the vehicle’s armor
-rating, the shot penetrates and causes a damage roll.
-
-**Blast X:** This weapon has an explosive component or is otherwise
-effective against targets in its blast radius. The number given is the
-blast radius in meters.
-
-**Laser:** susceptible to Reflec armor. All lasers have the Zero-G
-aspect automatically.
-
-**Scattergun:** Scatterguns cause 4D damage at Effective range or closer
-and attacks with scatterguns are DM+1. Anyone within 1.5m of the main
-target is also attacked by the scattergun effect. Scatterguns enjoy DM+2
-to hit flying targets within Effective range. Beyond Effective range,
-scatterguns only inflict 2D damage and have no bonus to hit.
-
-**Stun:** Damage is only deducted from END, considering any armor. If
-the target’s END is reduced to 0, the target is incapacitated and unable
-to perform any actions for a number of rounds by which the damage
-exceeded his END. Damage received from Stun weapons is completely healed
-after one hour of rest.
-
-**Zero-G:** does not suffer a penalty for firing a weapon in zero-g
-conditions.
-
-**Common Personal Weapons**
-
-| Weapon                  | TL | Cost   | Range   | Dmg    | Mag | Ammo
-Cost | Aspects        |
-|-------------------------|----|--------|---------|--------|-----|-----------|----------------|
-| Unarmed attack          | -- | --     | --      | STR DM | --  | --        |                |
-| Axe or Staff            | 0  | Cr25   | --      | 2D     | --  | --        |                |
-| Cudgel (Club) or Spear  | 0  | Cr10   | --      | 3D     | --  | --        |                |
-| Dagger                  | 0  | Cr0    | --      | 1D     | --  | --        |                |
-| Sword or Cutlass        | 1  | Cr150  | --      | 3D     | --  | --        |                |
-| Broadsword or Great-Axe | 2  | Cr300  | --      | 4D     | --  | --        |                |
-| Shotgun                 | 4  | Cr200  | 20/40   | 4D     | 6   | Cr10      | Scattergun     |
-| Autopistol              | 5  | Cr150  | 10/50   | 2D     | 16  | Cr7       |                |
-| Rifle                   | 5  | Cr500  | 200/400 | 3D     | 10  | Cr15      | AV 1D          |
-| Submachinegun           | 5  | Cr500  | 30/100  | 2D     | 30  | Cr20      | Auto 3         |
-| Assault Rifle           | 7  | Cr300  | 50/200  | 3D     | 30  | Cr15      | AV 1D, Auto 2  |
-| Light Machinegun        | 7  | Cr1200 | 100/300 | 3D     | 100 | Cr125     | AV 1D, Auto 3, |
-| Body (Stealth) Pistol   | 8  | Cr500  | 5/20    | 2D     | 6   | Cr20      |                |
-| Snub Revolver           | 8  | Cr150  | 5/20    | 2D     | 6   | Cr6       | Zero-G         |
-| Stun Prod               | 8  | Cr300  | --      | 2D     | --  | --        | Stun           |
-| Laser Rifle             | 9  | Cr3500 | 300/500 | 5D     | 30  | Cr1500    | AV 2D, Laser   |
-| Advanced Combat Rifle   | 10 | Cr1000 | 200/400 | 3D     | 40  | Cr30      | AV 1D, Auto 3  |
-| Laser Pistol            | 10 | Cr1500 | 50/200  | 3D     | 10  | Cr500     | Laser          |
-| Stunner                 | 10 | Cr600  | 10/30   | 3D     | 10  | Cr10      | Stun, Zero-G   |
-| Gauss Pistol            | 12 | Cr1000 | 20/100  | 3D     | 30  | Cr30      | AV 1D, Auto 2  |
-| Gauss Rifle             | 12 | Cr1500 | 300/600 | 4D     | 100 | Cr40      | AV 1D, Auto 4  |
-
-
-**A note on unarmed damage:** any character can inflict at least 1 point
-of unarmed damage (before armor, of course) even if their STR DM is 0 or
-lower.
+**Caricatore:** La quantità di munizioni che l'arma contiene. Se il caricatore richiede più tempo per ricaricarsi, questo verrà annotato.
 
-**Common Support Weapons**
+**Costo Munizioni:** per caricatore, in credito.
 
-The following weapons use the Heavy Weapons skill.
-
-| Weapon                        | TL | Cost    | Range   | Dmg        | Mag | Ammo
-Cost | Aspects        |
-|-------------------------------|----|---------|---------|------------|-----|-----------|----------------|
-| GP Machinegun                 | 6  | Cr1500  | 200/400 | 3D         | 100 | Cr150     | Auto 4, AV 2D  |
-| Rocket Launcher               | 6  | Cr2000  | 50/200  | 5D         | 1   | Cr150     | AV 2D, Blast 6 |
-| Under-barrel Grenade Launcher | 7  | Cr1000  | 50/200  | By grenade | 1   | -         |                |
-| Support Laser                 | 8  | Cr5000  | 100/400 | 6D         | 100 | Cr2000    | AV 3D          |
-| Plasma Gun                    | 12 | Cr20000 | 200/500 | 10D        | 40  | Cr2500    | AV 5D          |
+**Costo:** Il costo dell'arma, in crediti.
 
+**Aspetti delle armi**
 
-**Rocket Launcher (TL6):** Rocket launchers are unsafe to use in
-enclosed spaces. Rocket payloads are considered high explosive and are
-not particularly effective against armored vehicles. Armor piercing
-rockets cost Cr500 per rocket: trade Blast 6 for AV 5D, Blast 1. An
-anti-aircraft homing missile costs Cr10000 and does not suffer a penalty
-when firing at fast-moving air vehicles.
+Le armi hanno Aspetti che descrivono le loro caratteristiche speciali, come indicato sulla loro tabella.
 
-**Common Explosives**
+**Auto X:** Un'arma con l'aspetto Auto è un'arma automatica in grado di effettuare attacchi in tre modalità di fuoco: singola, raffica e completamente automatica, come descritto nel capitolo Combattimento.
 
-Throw DEX 6+ to accurately throw a hand grenade within effective range,
-or Heavy Weapons 8+ to accurately launch a grenade from a launcher.
-Throw Demolitions 6+ to properly set up an explosive charge for simple
-demolition. The Effective range for thrown grenades is equal to the
-character’s STR. Maximum range for thrown grenades is STRx2.
+**VA X:** dadi anti-veicoli. Lancia questo numero di dadi quando colpisci un veicolo; se il lancio è uguale o superiore al valore di armatura del veicolo, il colpo penetra e provoca un tiro di danno.
 
-| **Grenade of Explosive** | **TL** | **Cost** | **Range** | **Dmg** | **Aspects**      |
-| ------------------------ | ------ | -------- | --------- | ------- | ---------------- |
-| Dynamite                 | 4      | Cr75     |           | 3D      | AV 2D, Blast 1D  |
-| Fragmentation            | 5      | Cr30     |           | 3D      | AV 2D, Blast 5   |
-| Plastique                | 6      | Cr200    | \-        | 6D      | AV 4D, Blast 10  |
-| HEAP (Anti-Vehicle)      | 7      | Cr50     | Launcher  | 5D      | AV 5D, Blast 1.5 |
-| Flashbang                | 7      | Cr30     |           | Stun    | Blast 10, Stun   |
+**Esplosione X:** Quest'arma ha una componente esplosiva o è comunque efficace contro i bersagli nel suo raggio di esplosione. Il numero fornito è il raggio dell'esplosione in metri.
 
-# Combat
+**Laser:** suscettibile all'armatura Reflec. Tutti i laser hanno automaticamente l'aspetto G-Zero.
 
-Spacers and adventurers often run into trouble among the stars. In many
-cases they will have to fight, be that for a cause or goal – or for
-survival. The following rules allow quick resolution of combats. See the
-weapon descriptions in the previous chapter for various special rules,
-such as for automatic fire or explosive weapons.
+**Pallettoni:** I pallettoni causano danni 4D a portata effettiva o più vicina e gli attacchi con i fucili a dispersione sono MD+1. Chiunque entro 1,5 m dal bersaglio principale viene anche attaccato dall'effetto del fucile a dispersione. I fucili a dispersione godono di MD+2 per colpire bersagli volanti entro il raggio effettivo. Oltre la portata effettiva, i fucili a dispersione infliggono solo danni 2D e non hanno alcun bonus per colpire.
 
-### Combat Rounds
+**Stordente:** Il danno viene dedotto solo dalla RES, considerando qualsiasi armatura. Se la RES del bersaglio è ridotta a 0, il bersaglio è inabile e incapace di eseguire alcuna azione per un numero di round per cui il danno ha superato la sua RES. Il danno ricevuto dalle armi stordenti viene completamente curato dopo un'ora di riposo.
 
-Combat takes place in 6-second segments called Combat Rounds. Characters
-act in descending initiative order, as discussed below, in each combat
-round – unless surprised or otherwise unable to act.
+**G-Zero:** non subisce una penalità per aver sparato con un'arma in condizioni di gravità zero.
 
-## Combat Procedure
+**Armi Personali Comuni**
 
-**1. Surprise**
+| Arma                             | LT       | Costo    | Gittata   | Danno    | Caricatore | Munizioni   |                  |
+|----------------------------------|----------|----------|-----------|----------|------------|-------------|------------------|
+| Costo                            | Aspectti |          |           |          |            |             |                  |
+| -------------------------        | ----     | -------- | --------- | -------- | -----      | ----------- | ---------------- |
+| Attacco Disarmato                | --       | --       | --        | FOR DM   | --         | --          |                  |
+| Ascia o  Bastone                 | 0        | Cr25     | --        | 2D       | --         | --          |                  |
+| Randello (Mazza) o Lancia        | 0        | Cr10     | --        | 3D       | --         | --          |                  |
+| Pugnale                          | 0        | Cr0      | --        | 1D       | --         | --          |                  |
+| Spada o Sciabola                 | 1        | Cr150    | --        | 3D       | --         | --          |                  |
+| Spadone o Great-Axe              | 2        | Cr300    | --        | 4D       | --         | --          |                  |
+| Doppietta                        | 4        | Cr200    | 20/40     | 4D       | 6          | Cr10        | Pallettoni       |
+| Pistola Automatica               | 5        | Cr150    | 10/50     | 2D       | 16         | Cr7         |                  |
+| Fucile                           | 5        | Cr500    | 200/400   | 3D       | 10         | Cr15        | VA 1D            |
+| Mitragliatrice                   | 5        | Cr500    | 30/100    | 2D       | 30         | Cr20        | Auto 3           |
+| Fucile d'Assalto                 | 7        | Cr300    | 50/200    | 3D       | 30         | Cr15        | VA 1D, Auto 2    |
+| Mitragliatrice leggera           | 7        | Cr1200   | 100/300   | 3D       | 100        | Cr125       | VA 1D, Auto 3,   |
+| Pistola Portatile (Stealth)      | 8        | Cr500    | 5/20      | 2D       | 6          | Cr20        |                  |
+| Revolver                         | 8        | Cr150    | 5/20      | 2D       | 6          | Cr6         | Zero-G           |
+| Bastone Stordente                | 8        | Cr300    | --        | 2D       | --         | --          | Stordente        |
+| Fucile Laser                     | 9        | Cr3500   | 300/500   | 5D       | 30         | Cr1500      | VA 2D, Laser     |
+| Fucile Avanzato da Combattimento | 10       | Cr1000   | 200/400   | 3D       | 40         | Cr30        | VA 1D, Auto 3    |
+| Pistola Laser                    | 10       | Cr1500   | 50/200    | 3D       | 10         | Cr500       | Laser            |
+| Storditore                       | 10       | Cr600    | 10/30     | 3D       | 10         | Cr10        | Stun, G-Zero     |
+| Pistola Gauss                    | 12       | Cr1000   | 20/100    | 3D       | 30         | Cr30        | VA 1D, Auto 2    |
+| Fucile Gauss                     | 12       | Cr1500   | 300/600   | 4D       | 100        | Cr40        | VA 1D, Auto 4    |
 
-Before combat, in situations where surprise is possible, each party
-throws Recon 8+. If one party succeeds and the other fails, the winner
-gains surprise. If both sides succeed or both fail, there is no
-surprise. A party deliberately setting up ambush gains DM+2 to surprise
-rolls. Groups in vehicles, or groups of characters numbering 8 or more
-members, suffer DM-2 to surprise rolls.
 
-Surprise grants a “free” combat round during which the surprising party
-may act, but the surprised party may not.
+**Una nota sui danni senz'armi:** qualsiasi personaggio può infliggere almeno 1 danno senz'armi (prima dell'armatura, ovviamente) anche se la sua FOR DM è 0 o inferiore.
 
-**2. Initiative**
+**Armi di Supporto Comuni**
 
-When a fight begins, each combatant throws 2D + their Tactics skill for
-their initiative score. Each round, combatants act in a descending
-initiative order.
+Le seguenti armi utilizzano l'abilità Armi pesanti.
 
-**3. Act in combat**
+| Arma                            | LT      | Costo     | Gittata   | Danno        | Caricatore | Munizioni   |                  |
+|---------------------------------|---------|-----------|-----------|--------------|------------|-------------|------------------|
+| Costo                           | Aspetti |           |           |              |            |             |                  |
+| ------------------------------- | ----    | --------- | --------- | ------------ | -----      | ----------- | ---------------- |
+| Mitragliatrice ad uso generale  | 6       | Cr1500    | 200/400   | 3D           | 100        | Cr150       | Auto 4, VA 2D    |
+| Lanciarazzi                     | 6       | Cr2000    | 50/200    | 5D           | 1          | Cr150       | VA 2D, Esplosione 6   |
+| Lanciagranate sotto la canna    | 7       | Cr1000    | 50/200    | Per granata  | 1          | -           |                  |
+| Laser Supporto                  | 8       | Cr5000    | 100/400   | 6D           | 100        | Cr2000      | VA 3D            |
+| Pistola al Plasma               | 12      | Cr20000   | 200/500   | 10D          | 40         | Cr2500      | VA 5D            |
 
-Each round, each combatant has two actions, as described below. Apply
-any damage caused by an action immediately.
 
-After all combatants have acted, begin a new round, until the battle is
-over.
+**Lanciarazzi (LT):** I lanciarazzi non sono sicuri da usare in spazi chiusi. I carichi utili dei razzi sono considerati altamente esplosivi e non sono particolarmente efficaci contro i veicoli corazzati. I razzi perforanti costano Cr500 per razzo: scambia Esplosione 6 con VA 5D, Esplosione 1. Un missile anti-aereo autoguidato costa Cr10000 e non subisce penalità quando spara a veicoli aerei in rapido movimento.
 
-## Combat Actions
+** Esplosivi comuni **
 
-Each character has two actions per round, chosen from the following
-list.
+Lancia DEX 6+ per lanciare con precisione una bomba a mano entro la gittata effettiva, o Armi Pesanti 8+ per lanciare con precisione una granata da un lanciatore. Tira Demolizioni 6+ per impostare correttamente una carica esplosiva per una semplice demolizione. La gittata effettiva per le granate lanciate è uguale a FOR del personaggio. La gittata massima per le granate lanciate è FORx2.
 
-**Attack:** throw Gun Combat or Heavy Weapons 8+ (as relevant) to hit a
-target in ranged combat. Increase this to 10+ if the target is beyond
-Effective range. Throw Melee 8+ to hit a target in melee combat.
+| **Granata di esplosivo** | **LT** | **Costo** | **Gittata** | **Danno** | **Aspetti**              |
+|--------------------------|--------|-----------|-------------|-----------|--------------------------|
+| Dinamita                 | 4      | Cr75      |             | 3D        | VA 2D, Esplosione 1D     |
+| Frammentazione           | 5      | Cr30      |             | 3D        | VA 2D, Esplosione 5      |
+| Pastico                  | 6      | Cr200     | \-          | 6D        | VA 4D, Esplosione 10     |
+| HEAP (Anti-Vehicle)      | 7      | Cr50      | Lancio      | 5D        | VA 5D, Esplosione 1.5    |
+| Flashbang                | 7      | Cr30      |             | Stordente | Esplosione 10, Stordente |
 
-**Move:** move up to 10m (or six 1.5m squares). Alternatively, fall
-prone or get up from a prone position.
+# Combattimento
 
-**Overwatch:** delay your action until an enemy moves through your line
-of sight or attacks you. When this happens, you may immediately act,
-regardless of initiative order. You may hold your Overwatch for a number
-of rounds equal to your END score.
+Gli spaziali e gli avventurieri spesso incontrano problemi tra le stelle. In molti casi dovranno combattere, sia per una causa o un obiettivo, sia per la sopravvivenza. Le seguenti regole consentono una rapida risoluzione dei combattimenti. Vedere le descrizioni delle armi nel capitolo precedente per le varie regole speciali, come il fuoco automatico o le armi esplosive.
 
-**Ranged Combat DM Table**
+### Round di Combattimento
 
-| **Condition**                                      | **DM**                       |
-| -------------------------------------------------- | ---------------------------- |
-| Target obscured                                    | DM-1                         |
-| Target behind hard cover                           | DM-2                         |
-| Target running (double move on its previous round) | DM-1                         |
-| Target behind total cover                          | DM-4; direct fire impossible |
-| Target prone                                       | DM-2                         |
-| Darkness                                           | DM-2                         |
+Il combattimento si svolge in segmenti di 6 secondi chiamati Round di combattimento. I personaggi agiscono in ordine decrescente di iniziativa, come discusso di seguito, in ogni round di combattimento, a meno che non siano sorpresi o altrimenti incapaci di agire.
 
-### 
+## Procedura di combattimento
 
-### Automatic Weapons
+**1. Sorpresa**
 
-A weapon with the Auto aspect can make attacks in three fire modes:
-single, burst, and full auto, as described below.
+Prima del combattimento, nelle situazioni in cui è possibile la sorpresa, ogni gruppo lancia Ricognizione 8+. Se una delle parti riesce e l'altra fallisce, il vincitore ottiene la sorpresa. Se entrambe le parti hanno successo o entrambe falliscono, non c'è sorpresa. Un gruppo che organizza deliberatamente un'imboscata guadagna MD+2 ai tiri per sorpresa. I gruppi in veicoli, o gruppi di personaggi che numerano 8 o più membri, subiscono MD-2 per i tiri per sorpresa.
 
-*Single:* Attacks are made using the normal combat rules.
+La sorpresa garantisce un round di combattimento "gratuito" durante il quale la parte sorprendente può agire, ma la parte sorpresa può no.
 
-*Burst:* Add the Auto score to damage. This uses a number of rounds
-equal to the Auto score.
+**2. Iniziativa**
 
-*Full Auto:* Make a number of attacks equal to the Auto score. These
-attacks can be made against separate targets so long as they are all
-within six meters of one another. Full auto uses ammunition equal to
-three times the weapon’s Auto score. You may only perform one Full Auto
-attack in a given round.
+Quando inizia un combattimento, ogni combattente lancia 2D + la propria abilità Tattica per il proprio punteggio di iniziativa. Ad ogni round, i combattenti agiscono in ordine decrescente di iniziativa.
 
-### Thrown Weapons
+**3. Agire in combattimento**
 
-Knives have a range of 5/10. Throw DEX 8+ to hit with a thrown knife at
-Effective range, or 10+ beyond it.
+Ogni round, ogni combattente ha due azioni, come descritto di seguito. Applicare immediatamente eventuali danni causati da un'azione.
 
-Throw DEX 6+ to accurately throw a hand grenade at effective range, and
-8+ to place a grenade on target at maximum range. Hand grenades have an
-Effective range of the thrower’s STR characteristic.
+Dopo che tutti i combattenti hanno agito, inizia un nuovo round, fino al termine della battaglia.
 
-## Damage and Healing
+## Azioni di Combattimento
 
-Each weapon has a number of damage dice which are rolled and totaled;
-add the attack throw’s Effect to the damage roll. This is the damage
-inflicted on the character.
+Ogni personaggio ha due azioni per round, scelte dal seguente elenco.
 
-**Armor**
+**Attacco:** tira Armi da Fuoco o Armi Pesanti 8+ (a seconda dei casi) per colpire un bersaglio in un combattimento a distanza. Aumenta a 10+ se il bersaglio è oltre la gittata effettiva. Tira Mischia 8+ per colpire un bersaglio in un combattimento corpo a corpo.
 
-Subtract the armor’s protection rating from any physical damage caused
-to the character before applying the damage to the character’s physical
-characteristics.
+**Muovere:** muovi fino a 10 m (o sei quadrati da 1,5 m). In alternativa, mettiti prono o alzati da una posizione prona.
 
-**Applying Damage**
+**In guardia:** ritardare la tua azione finché un nemico non si muove attraverso la tua linea di vista o ti attacca. Quando ciò accade, puoi agire immediatamente, indipendentemente dall'ordine di iniziativa. Puoi mantenere il tuo In Guardia per un numero di round pari al tuo punteggio RES.
 
-The first time a character takes damage, subtract it from the
-character’s END. If this reduces the character’s END to 0, subtract the
-remaining damage from STR or DEX (target’s choice). The damage may be
-distributed between the two characteristics as desired by the target.
+**Tabella dei MD del Combattimento a Distanza**
 
-In any subsequent damaging attack, the target may allocate it to any of
-the three physical characteristics (STR, DEX, or END), which is at 1 or
-more, as desired.
+| **Condizione**                                         | **MD**                          |
+|--------------------------------------------------------|---------------------------------|
+| Obiettivo oscurato                                     | MD-1                            |
+| Obiettivo dietro copertura solida                      | MD-2                            |
+| Obiettivo in corsa (doppia mossa nel round precedente) | MD-1                            |
+| Obiettivo dietro copertura totale                      | MD-4; fuoco diretto impossibile |
+| Obiettivo prone                                        | MD-2                            |
+| Oscurità                                               | MD-2                            |
 
-If either STR or DEX fall to 0, subtract any further damage from the
-remaining physical characteristic.
+### Armi Automatiche
 
-**Wounds**
+Un'arma con l'aspetto Automatica può effettuare attacchi in tre modalità di fuoco: singola, raffica e completamente automatica, come descritto di seguito.
 
-If at least two physical characteristics remain above 0, the character
-has suffered **Minor Wounds**. Use the reduced characteristics for any
-relevant purposes, such as characteristic throws.
+*Singolo:* Gli attacchi vengono effettuati utilizzando le normali regole di combattimento.
 
-If one characteristic, including END, falls to 0 the character falls
-**unconscious** for 1D rounds. Characters rendered unconscious in this
-manner will wake up having recovered half their characteristics’ value
-(rounded down). For example, a character with STR 9 who was so wounded
-would wake up with STR 4 after 1D minutes. The character still suffers
-**Minor Wounds** upon waking.
+*Raffica:* Aggiungi il punteggio Auto al danno. Questo utilizza un numero di round pari al punteggio Auto.
 
-If two characteristics are reduced to 0, the character is **Seriously
-Wounded**; they must throw 8+ or fall unconscious for 1D hours;
-otherwise, they fall unconscious for 1D minutes instead. Upon waking,
-the character’s wounded characteristics are 1. The character will
-require medical care to recover any further.
+*Automatico:* Effettua un numero di attacchi pari al punteggio Auto. Questi attacchi possono essere effettuati contro bersagli separati purché si trovino tutti entro sei metri l'uno dall'altro. La modalità automatica completa utilizza munizioni pari a tre volte il punteggio automatico dell'arma. Puoi eseguire un solo attacco Automatico in un dato round.
 
-Characters **die** if all three physical characteristics are reduced to
-0.
+### Armi da Lancio
 
-**Healing and Medical Care**
+I coltelli hanno una gamma di 5/10. Lancia DEX 8+ per colpire con un coltello lanciato a distanza effettiva, o 10+ oltre.
 
-**Minor Wounds** require treatment by a character with at least
-Medicine-1, a Med Kit, and 30 minutes. Alternatively, characters will
-recover from all Minor Wounds on their own after a full day’s rest.
-Treatment or rest restores the wounded character's full characteristic
-scores.
+Lancia DEX 6+ per lanciare con precisione una bomba a mano alla gittata effettiva e 8+ per posizionare una granata sul bersaglio alla massima gittata. Le bombe a mano hanno una portata effettiva della caratteristica FOR del lanciatore.
 
-**Serious Wounds** require a medical facility—a standard starship medbay
-will suffice—and treatment by a nurse or a physician (Medicine-2 skill
-or better). Recovery takes 5D days. No recovery from Serious Wounds is
-possible without medical care.
+## Danni e guarigione
 
-## Vehicle Combat
+Ogni arma ha un numero di dadi di danno che vengono lanciati e sommati; aggiungi l'effetto del tiro per colpire al tiro di danno. Questo è il danno inflitto al personaggio.
 
-Sometimes, characters will find themselves operating a vehicle in
-combat, or facing enemy vehicles. The following rules allow the
-inclusion of vehicles in personal combat, as well as vehicle chases.
+**Armatura**
 
-**Vehicle Tactical Movement**
+Sottrai il grado di protezione dell'armatura da qualsiasi danno fisico causato al personaggio prima di applicare il danno alle caratteristiche fisiche del personaggio.
 
-In tactical (non-chase) combat, a vehicle moves on its driver's
-initiative. Apply the vehicle's Agility as a DM to the driver's
-initiative.
+**Applicazione del danno**
 
-In personal combat, a vehicle can move up to 20m (14 squares on a 1.5m
-grid) in a single round. This is considered cautious combat movement.
-Fast-moving vehicles will pass through the tactical battle area in less
-than a round. The chase rules below are designed to handle such high
-speed combats.
+La prima volta che un personaggio subisce danni, sottrailo dalla RES del personaggio. Se questo riduce la RES del personaggio a 0, sottrai il danno rimanente da FOR o DEX (a scelta del bersaglio). Il danno può essere distribuito tra le due caratteristiche come desiderato dal bersaglio.
 
-**  
-Chases**
+In ogni successivo attacco dannoso, il bersaglio può assegnarlo a una qualsiasi delle tre caratteristiche fisiche (FOR, DEX o RES), che è a 1 o più, come desidera.
 
-The tactical combat rules represent action in small, more limited areas.
-For vehicles, this means short range and slow speeds. As noted above, a
-fast-moving vehicle will easily pass through the entire tactical combat
-map in less than one combat round. This is unsuitable for chases and
-dog-fighting. Use these rules instead. Chase turns are an abstraction in
-combat and vary in length depending on circumstances, from mere seconds
-in high-speed aircraft pursuits to hours in long drawn-out submarine
-duels. The Referee should inform the players of how long each chase
-combat turn is at the start of the chase.
+Se FOR o DEX scendono a 0, sottrai ogni ulteriore danno dalla caratteristica fisica rimanente.
 
-There is no initiative throw in chases. Instead, at the start of each
-turn both participants throw 2D + the relevant vehicle skill + the
-vehicle's Agility. The pursuer wins on ties. The winner has Advantage
-and may attack using the regular vehicle attack and damage rules, with
-the following modifiers based on the vehicle throw's effect:
+**Ferite**
 
-| **Effect** | **DM** |
+Se almeno due caratteristiche fisiche rimangono superiori a 0, il personaggio ha subito **Ferite minori**. Usa le caratteristiche ridotte per qualsiasi scopo rilevante, come i lanci caratteristici.
+
+Se una caratteristica, incluso RES, scende a 0, il personaggio cade **privo di sensi** per round 1D. I personaggi resi inconsci in questo modo si risveglieranno dopo aver recuperato metà del valore delle loro caratteristiche (arrotondato per difetto). Per esempio, un personaggio con FOR 9 così ferito si sveglia con FOR 4 dopo 1D minuti. Il personaggio subisce ancora **Ferite minori** al risveglio.
+
+Se due caratteristiche vengono ridotte a 0, il personaggio è **Gravemente ferito**; devono tirare 8+ o perdere conoscenza per 1D ore; in caso contrario, cadono in stato di incoscienza per 1D minuti. Al risveglio, le caratteristiche del personaggio ferito sono 1. Il personaggio avrà bisogno di cure mediche per riprendersi ulteriormente.
+
+I personaggi **muoiono** se tutte e tre le caratteristiche fisiche vengono ridotte a 0.
+
+**Guarigione e assistenza medica**
+
+Le **ferite minori** richiedono un trattamento da parte di un personaggio con almeno Medicina-1, un kit medico e 30 minuti. In alternativa, i personaggi si riprenderanno da tutte le ferite minori dopo un'intera giornata di riposo. Il trattamento o il recupero ripristinano i punteggi caratteristici completi del personaggio ferito.
+
+Le **ferite gravi** richiedono una struttura medica (un ponte medico di un'astronave standard sarà sufficiente) e un trattamento da parte di un'infermiera o di un medico (abilità Medicina 2 o superiore). Il recupero richiede 5 giorni. Nessun recupero da ferite gravi è possibile senza assistenza medica.
+
+## Veicolo da Combattimento
+
+A volte, i personaggi si troveranno a guidare un veicolo in combattimento o ad affrontare veicoli nemici. Le seguenti regole consentono l'inclusione di veicoli nei combattimenti personali e negli inseguimenti di veicoli.
+
+**Movimento Tattico del Veicolo**
+
+Nel combattimento tattico (senza inseguimento), un veicolo si muove su iniziativa del suo guidatore. Applicare l'agilità del veicolo come MD all'iniziativa del guidatore.
+
+Nel combattimento personale, un veicolo può muoversi fino a 20 m (14 quadrati su una griglia di 1,5 m) in un singolo round. Questo è considerato un movimento di combattimento cauto. I veicoli in rapido movimento passeranno attraverso l'area di battaglia tattica in meno di un round. Le regole di inseguimento seguenti sono progettate per gestire combattimenti ad alta velocità.
+
+**Inseguimento**
+
+Le regole del combattimento tattico rappresentano l'azione in aree piccole e più limitate. Per i veicoli, questo significa corta gittata e basse velocità. Come notato sopra, un veicolo in rapido movimento attraverserà facilmente l'intera mappa di combattimento tattico in meno di un round di combattimento. Questo non è adatto per inseguimenti e combattimenti aerei. Usa invece queste regole. I turni di inseguimento sono un'astrazione in combattimento e variano in lunghezza a seconda delle circostanze, da semplici secondi in inseguimenti aerei ad alta velocità a ore in lunghi duelli sottomarini. L'arbitro dovrebbe informare i giocatori di quanto tempo dura ogni turno di combattimento d'inseguimento all'inizio dell'inseguimento.
+
+Non si tira per l'iniziativa negli inseguimenti. Invece, all'inizio di ogni turno entrambi i partecipanti lanciano 2D + l'abilità del veicolo pertinente + l'Agilità del veicolo. L'inseguitore vince sui pareggi. Il vincitore ha Vantaggio e può attaccare usando le normali regole di attacco e danno del veicolo, con i seguenti modificatori basati sull'effetto del lancio del veicolo:
+
+| **Effetto** | **MD** |
 | ---------- | ------ |
-| 0          | DM-2   |
-| 1 or 2     | DM-1   |
-| 3 or 4     | DM+0   |
-| 5+         | DM+1   |
+| 0          | MD-2   |
+| 1 o 2      | MD-1   |
+| 3 o 4      | MD+0   |
+| 5+         | MD+1   |
 
-The loser of the Advantage throw cannot attack in that turn, unless
-their vehicle has a turret-mounted weapon. Turret attacks made without
-Advantage suffer DM-4 to hit. Note that there is no tracking of range in
-a chase. This is intentional. The attack penalty for low-Effect
-Advantage rolls is meant to reflect a bad angle of attack, or
-sub-optimal range for an attack, among other things.
+Il perdente del tiro di Vantaggio non può attaccare in quel turno, a meno che il suo veicolo non abbia un'arma montata sulla torretta. Gli attacchi alla torretta effettuati senza vantaggio subiscono il colpo di MD-4. Notare che non c'è traccia della distanza in una sequenza. Questo è intenzionale. La penalità di attacco per i tiri di vantaggio a basso effetto ha lo scopo di riflettere un cattivo angolo di attacco, o una distanza non ottimale per un attacco, tra le altre cose.
 
-It is possible to have multiple parties engaged in a chase. Simply
-record the different Advantage results in descending order. The vehicles
-higher on the “ladder” may attack any vehicle below them. This can be
-used to great effect in a dogfight, below.
+È possibile che più parti siano impegnate in un inseguimento. Registra semplicemente i diversi risultati di Vantaggio in ordine decrescente. I veicoli più in alto sulla "scala" possono attaccare qualsiasi veicolo sotto di loro. Questo può essere usato con grande effetto in un combattimento aereo, di seguito.
 
-Chases last five turns. At the end of the fifth turn, if the prey has
-not been stopped, disabled, or destroyed, the prey escapes and the chase
-ends.
+Gli inseguimenti durano cinque turni. Alla fine del quinto turno, se la preda non è stata fermata, disabilitata o distrutta, la preda fugge e l'inseguimento termina.
 
-**Dogfighting**
+**Combattimento areo**
 
-In a dogfight, two or more highly maneuverable vehicles, such as
-aircraft or grav vehicles, try to outmaneuver and fight each other. A
-dogfight has no time limit, barring fuel considerations. The dogfight
-ends either when one participant is disabled or destroyed, or if one
-participant disengages. To disengage from a dogfight, a participant must
-have Advantage and use their action that turn to throw Vehicle Skill
-10+, including the DM for the vehicle’s agility.
+In un combattimento aereo, due o più veicoli altamente manovrabili, come aerei o veicoli gravitazionali, cercano di superare in astuzia e combattersi a vicenda. Un combattimento areo non ha limiti di tempo, salvo considerazioni sul carburante. Il combattimento areo termina quando un partecipante viene disabilitato o distrutto o se un partecipante si disimpegna. Per disimpegnarsi da un combattimento aereo, un partecipante deve avere Vantaggio e utilizzare la propria azione in quel turno per lanciare l'abilità Veicoli 10+, incluso l'MD per l'agilità del veicolo.
 
-**Attacking Vehicles**
+**Attaccare Veicoli**
 
-When attacking vehicles with personal, hand-held weapons, make a regular
-to-hit throw; on a hit, consult the Vehicle Penetration and Damage rules
-below.
+Quando si attaccano veicoli con armi personali e portatili, eseguire un tiro regolare per colpire; in caso di colpo, consultare le regole di Penetrazione e Danni al veicolo riportate di seguito.
 
-Personal weapon attacks on a non-moving vehicle enjoy DM+1 due to target
-size.
+Gli attacchi con armi personali su un veicolo fermo godono di MD+1 a causa delle dimensioni del bersaglio.
 
-Personal weapon attacks on fast-moving vehicles suffer DM-2.
+Gli attacchi con armi personali su veicoli in rapido movimento subiscono MD-2.
 
-Personal weapon attacks from a fast-moving vehicle (like a gunman firing
-a pistol out of the window of a moving car) are penalized by DM-1. This
-is cumulative with attacking a moving target.
+Gli attacchi con armi personali da un veicolo in rapido movimento (come un uomo armato che spara con una pistola dal finestrino di un'auto in movimento) sono penalizzati da MD-1. Questo è cumulativo con l'attacco di un bersaglio in movimento.
 
-When using a vehicle-mounted weapon, throw Gunnery 8+ to hit a target in
-Effective range and 10+ to hit a target beyond it and up to maximum
-range. Support and gunnery weapons use stabilized mounts and do not
-suffer the DM-1 for attacking from a fast-moving vehicle.
+Quando usi un'arma montata su un veicolo, tira Artiglieria 8+ per colpire un bersaglio nel raggio effettivo e 10+ per colpire un bersaglio oltre di esso e fino alla gittata massima. Le armi di supporto e di artiglieria utilizzano supporti stabilizzati e non subiscono il DM-1 per l'attacco da un veicolo in rapido movimento.
 
-Throw Gunnery 8+ to hit a target with vehicle-mounted weapons at the
-Support Weapon’s Effective range. At Maximum range, this throw becomes
-10+. Gunnery Weapons have long ranges and for typical tactical
-engagements or chases covered by these rules, Gunnery weapon targets
-will almost always be within Effective range.
+Tira Artiglieria 8+ per colpire un bersaglio con armi montate su veicoli nel raggio d'azione dell'arma di supporto. Alla portata massima, questo lancio diventa 10+. Le armi d'artiglieria hanno lunghe gittate e per i tipici scontri tattici o inseguimenti coperti da queste regole, i bersagli delle armi d'artiglieria saranno quasi sempre entro la gittata effettiva.
 
-**Vehicle Penetration and Damage**
+**Penetrazione e danneggiamento del veicolo**
 
-When you hit a vehicle, throw the weapon’s AV dice. If the throw is
-equal to or exceeds the vehicle’s Armor Rating, the attack has
-penetrated the vehicle’s armor and caused internal damage. Roll one
-damage throw on the vehicle damage table. If the AV throw is equal to
-*twice* the target's Armor Rating or greater, the attack has scored an
-automatic Critical Hit.
+Quando colpisci un veicolo, lancia i dadi VA dell'arma. Se il lancio è pari o superiore al valore di corazza del veicolo, l'attacco è penetrato nell'armatura del veicolo e ha causato danni interni. Tira il danno sulla tabella dei danni del veicolo. Se il lancio VA è uguale a *due volte* il Valore di Armatura del bersaglio o superiore, l'attacco ha ottenuto un colpo critico automatico.
 
-**Vehicle Damage Table (2D)**
+**Tabella Danni Veicolo (2D)**
 
-|        |                    |                     |
-| ------ | ------------------ | ------------------- |
-| **2D** | **Regular Damage** | **Critical Damage** |
-| 4-     | Breach             | Knocked Out         |
-| 5      | Cargo              | Knocked Out         |
-| 6      | Occupants          | Knocked Out         |
-| 7      | Weapon             | Crew                |
-| 8-9    | Locomotion         | Crew                |
-| 10     | Electronics        | Destroyed           |
-| 11     | Power Plant        | Destroyed           |
-| 12     | Critical           | Destroyed           |
+| **2D** | **Danno Regolare** | **Danno Critico** |
+|--------|--------------------|-------------------|
+| 4-     | Breccia            | KO                |
+| 5      | Carico             | KO                |
+| 6      | Occupanti          | KO                |
+| 7      | Arma               | Equipaggio        |
+| 8-9    | Locomozione        | Equipaggio        |
+| 10     | Elettronica        | Distrutto         |
+| 11     | Generatore         | Distrutto         |
+| 12     | Critico            | Distrutto         |
 
-The following are the damage effects on vehicles. Note that additional
-hits on a disabled system will have no further effect.
+Di seguito sono riportati gli effetti del danno sui veicoli. Tieni presente che ulteriori colpi su un sistema disabilitato non avranno ulteriori effetti.
 
-**Regular Damage**
+**Danno Regolare**
 
-**Breach:** If the vehicle is pressurized, its environmental seal is
-breached, exposing its occupants to the environment. Patching an
-environmental seal breach requires either pre-packaged emergency hull
-patches (most air-tight vehicles carry 1D of these) – which may be used
-within 1 combat round - or a Repair 5+ throw and 1D minutes.
+**Breccia:** Se il veicolo è pressurizzato, il suo sigillo ambientale viene violato, esponendo i suoi occupanti all'ambiente. Riparare una violazione di un sigillo ambientale richiede toppe dello scafo di emergenza preconfezionate (la maggior parte dei veicoli a tenuta d'aria ne porta 1D) - che possono essere utilizzate entro 1 round di combattimento - o un lancio di riparazione 5+ e 1D minuti.
 
-A breached watercraft begins to leak, reducing its speed by one quarter
-and inflicting a cumulative DM-1 to all throws related to the vehicle's
-steering. Four such breaches will cause the watercraft to take on too
-much water and begin to sink. It will sink within 1D minutes; if repair
-supplies are available, water breaches may be patched with a successful
-Repair 6+ throw.
+Un natante brecciato inizia a perdere, riducendo la sua velocità di un quarto e infliggendo un MD-1 cumulativo a tutti i lanci relativi allo sterzo del veicolo. Quattro di tali brecce faranno sì che il natante imbarchi troppa acqua e inizi ad affondare. Affonderà entro 1D minuti; se sono disponibili forniture per la riparazione, le brecce possono essere riparate con un successo su un tiro di riparazione 6+.
 
-**Cargo:** 1 ton of cargo is destroyed. If no cargo remains, this
-becomes an Occupants hit.
+**Carico:** 1 tonnellata di carico viene distrutta. Se non rimane alcun carico, questo diventa un colpo agli occupanti.
 
-**Occupants:** 1D occupants chosen randomly by the Referee are injured
-and take 3D damage each. Subtract personal armor from this damage if
-applicable. If there are less occupants than the roiled number,
-distribute the hits randomly between the remaining occupants, which
-means that an occupant may suffer a double hit.
+**Occupanti:** 1D occupanti scelti a caso dall'Arbitro sono feriti e subiscono 3D danni ciascuno. Sottrai l'armatura personale da questo danno, se applicabile. Se il numero di occupanti è inferiore al numero tirato, distribuire i colpi in modo casuale tra gli occupanti rimanenti, il che significa che un occupante potrebbe subire un doppio colpo.
 
-**Weapon:** One of the vehicle's weapons is disabled and may not fire.
+**Arma:** Una delle armi del veicolo è disattivata e potrebbe non sparare.
 
-**Locomotion:** The vehicle's locomotion or engine is disabled, and it
-cannot move. In case of aircraft or high-flying grav vehicles, this
-might cause a crash; throw Aircraft 6+ or Grav Vehicle 6+ (respectively)
-to land safely, otherwise the aircraft crashes; roll on the Critical
-Damage table
+**Locomozione:** La locomozione o il motore del veicolo è disabilitato e non può muoversi. In caso di aeromobili o veicoli gravitazionali ad alta quota, ciò potrebbe causare un incidente; tirare Aeromobili 6+ o Grav 6+ (rispettivamente) per atterrare in sicurezza, altrimenti l'aereomobile si schianta; tirare sulla tabella Danno Critico
 
-**Electronics:** One or more of the vehicle's electronic systems is
-destroyed, usually the computer systems or major sensors/radar. Flying
-an aircraft or Grav vehicle with damaged electronics incurs a DM-2
-penalty to all vehicle throws.
+**Elettronica:** Uno o più sistemi elettronici del veicolo vengono distrutti, di solito i sistemi informatici o i principali sensori/radar. Volare con un aeremobile o con un Grav con elettronica danneggiata comporta una penalità MD-2 a tutti i lanci del veicolo.
 
-**Power Plant:** The vehicle's power plant is disabled. The vehicle is
-immobile and cannot use electronics or energy weapons. In case of
-aircraft or grav vehicles, this might cause a crash; throw Aircraft or
-Grav Vehicle 8+ to land safely, otherwise roll on the Critical Damage
-table.
+**Generatore:** Il generatore del veicolo è disattivato. Il veicolo è immobile e non può utilizzare elettronica o armi ad energia. In caso di aeromobili o grav, ciò potrebbe causare un incidente; tira Aeromobili o Grav 8+ per atterrare in sicurezza, altrimenti tira sulla tabella dei danni critici.
 
-**Critical:** Massive internal damage. Roll on the Critical Damage table
-instead.
+**Critico:** Massicci danni interni. Tira sulla tabella Danno Critico.
 
-**Critical Hits**
+**Colpi Critici**
 
-**Knocked Out:** The vehicle is seriously damaged and inoperable until
-it undergoes major repairs at a full-scale workshop. Each occupant must
-throw END 6+ to avoid taking 3D damage. High flying aircraft and grav
-vehicles crash, causing 6D damage to all occupants. Low-flying vehicles
-crash, causing 3D damage to all occupants. Subtract personal armor from
-this damage if applicable. Watercraft, including large vessels, suffer a
-massive hull breach, and will sink within 1D combat rounds.
+**KO:** Il veicolo è gravemente danneggiato e inutilizzabile fino a quando non viene sottoposto a riparazioni importanti presso un'officina attrezzata. Ogni occupante deve tirare RES 6+ per evitare di subire 3D danni. Gli aereomobili ad alta quota e i grav si schiantano causando 6D danni a tutti gli occupanti. I veicoli a bassa quota si schiantano, causando 3D danni a tutti gli occupanti. Sottrai l'armatura personale da questo danno, se applicabile. Le imbarcazioni, comprese le navi di grandi dimensioni, subiscono una massiccia breccia dello scafo e affondano entro round di combattimento 1D.
 
-**Crew:** All crew and passengers suffer 4D damage each. This is reduced
-by personal armor, if applicable.
+**Equipaggio:** Tutto l'equipaggio e i passeggeri subiscono danni 4D ciascuno. Questo è ridotto dall'armatura personale, se applicabile.
 
-**Destroyed:** The vehicle is destroyed, with the loss of all hands. In
-the case of ground vehicles, occupants may throw DEX 8+ to bail out
-unscathed; failure causes 5D damage.
+**Distrutto:** Il veicolo viene distrutto, con la perdita di tutti gli uomini. Nel caso di veicoli terrestri, gli occupanti possono lanciare DEX 8+ per liberarsi incolumi; il fallimento causa 5D danni.
 
-### Repairing Vehicles
+### Riparare Veicoli
 
-Throw Repair 8+ to jury-rig a damaged or disabled system back to
-functioning with a handful of spare parts. These repairs are temporary.
-The system will stop functioning again after 1D hours and require
-repairs at a workshop.
+Tira Riparazioni 8+ per far tornare a funzionare un sistema danneggiato o disabilitato con una manciata di pezzi di ricambio. Queste riparazioni sono temporanee. Il sistema smetterà di funzionare nuovamente dopo 1D ore e richiederà riparazioni presso un'officina.
 
-# Off-World Travel
+# Viaggi Spaziali
 
-The stars await! Adventurers ply the star-lanes and boldly go into the
-unknown; others may serve in a navy, hunting pirates, or raiding enemy
-shipping. Still others may mine asteroid belts for valuable ores,
-smuggle goods to distant planets, or even engage in piracy. This chapter
-covers interplanetary and interstellar travel, as well as starship
-operations and procedures.
+Le stelle vi aspettano! Gli avventurieri percorrono le corsie stellari e si spingono coraggiosamente verso l'ignoto; altri possono servire in una marina, dare la caccia ai pirati o razziare navi nemiche. Altri ancora possono estrarre minerali preziosi dalle cinture di asteroidi, contrabbandare merci verso pianeti lontani o persino impegnarsi nella pirateria. Questo capitolo tratta i viaggi interplanetari e interstellari, nonché le operazioni e le procedure delle navi stellari.
 
-## Starports
+## Astroporti
 
-Most worlds have starports catering to starship traffic. A typical
-Cepheus (or similar OGL 2D6 Sci-Fi game) starmap lists the starport
-ratings of various worlds. The following are the starport ratings and
-services available:
+La maggior parte dei mondi ha degli astroporti per il traffico di navi stellari. Una tipica mappa stellare di Cepheus (o un simile gioco di fantascienza OGL 2D6) elenca le classificazioni degli astroporti di vari mondi. Di seguito sono riportate le classi e i servizi degli astroporti disponibili:
 
-**Starport A:** Excellent facilities. Shipyard may construct any ship.
-Full repairs available. Refined fuel available.
+**Astroporto A:** Strutture eccellenti. Il cantiere navale può costruire qualsiasi nave. Riparazioni complete disponibili. Disponibile carburante raffinato.
 
-**Starport B:** Good facilities. Shipyard may construct small craft.
-Full repairs available. Refined fuel available.
+**Astroporto B:** Buone strutture. Il cantiere navale può costruire piccoli vascelli. Riparazioni complete disponibili. Disponibile carburante raffinato.
 
-**Starport C:** Average facilities. Full repairs available. Unrefined
-fuel available.
+**Astroporto C:** Strutture nella media. Riparazioni complete disponibili. Disponibilità di carburante grezzo.
 
-**Starport D:** Basic facilities. Unrefined fuel available; no repair
-capabilities.
+**Astroporto D:** Strutture di base. Disponibilità di carburante non raffinato; nessuna capacità di riparazione.
 
-**Starport E:** Frontier landing strip. No fuel or repair capabilities
-available.
+**Astroporto E:** Pista di atterraggio di frontiera. Nessun carburante o capacità di riparazione disponibili.
 
-**Starport X:** No starport.
+**Astroporto X:** Nessun astroporto.
 
 ## Interplanetary Travel
 
-Starships and other spacecraft in Cepheus Light have reactionless
-magnetogravitic real-space thrusters with an acceleration rating from
-1Gs to 6Gs. Ships normally travel under full acceleration halfway to
-their destination, then decelerate for the other half of the journey.
-The following table presents abstracted in-system travel times according
-to the ship’s acceleration.
+Le astronavi e altri veicoli spaziali in Cepheus PVDL hanno propulsori dello spazio reale magnetogravitici senza reazione con un indice di accelerazione da 1G a 6G. Le navi normalmente viaggiano in piena accelerazione a metà strada verso la loro destinazione, quindi decelerano per l'altra metà del viaggio. La tabella seguente presenta i tempi di viaggio nel sistema astratti in base all'accelerazione della nave.
 
-**Common interplanetary travel times by acceleration**
+**Tempi Comuni di Viaggio Interplanetario per accellerazione**
 
-|                                        |         |         |         |         |         |         |
-| -------------------------------------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| **Destination**                        | **1-G** | **2-G** | **3-G** | **4-G** | **5-G** | **6G**  |
-| Planetoid Jump Point                   | 10m     | 7m      | 6m      | 5m      | 5m      | 4m      |
-| Ground to Planetary Orbit              | 33m     | 23m     | 19m     | 16m     | 14m     | 13m     |
-| Ground to Typical Planetary Jump Point | 5h, 30m | 4h      | 3h      | 3h      | 2h, 30m | 2h      |
-| Small Gas Giant to Jump Point          | 12h     | 8h      | 7h      | 6h      | 5h, 30m | 5h      |
-| Large Gas Giant to Jump Point          | 17h     | 12h     | 10h     | 9h      | 8h      | 7h      |
-| Planet to Close Neighbor               | 1d, 13h | 1d, 2h  | 22h     | 19h     | 17h     | 15h     |
-| Planet to Far Neighbor                 | 3d, 17h | 2d, 15h | 2d, 3h  | 1d, 20h | 1d, 16h | 1d, 12h |
-| Mainworld to Close Gas Giant           | 5d, 16h | 4d      | 3d, 7h  | 2d, 20h | 2d, 13h | 2d, 8h  |
-| Mainworld to Far Gas Giant             | 6d, 23h | 4d, 22h | 4d      | 3d, 11h | 3d, 3h  | 2d, 20h |
+| **Destinazione**                           | **1-G** | **2-G** | **3-G** | **4-G** | **5-G** | **6G**  |
+|--------------------------------------------|---------|---------|---------|---------|---------|---------|
+| Punto di Balzo da Planetoide               | 10m     | 7m      | 6m      | 5m      | 5m      | 4m      |
+| Terra all'orbita planetaria                | 33m     | 23m     | 19m     | 16m     | 14m     | 13m     |
+| Terra al tipico punto di Balzo planetario  | 5h, 30m | 4h      | 3h      | 3h      | 2h, 30m | 2h      |
+| Punto di Balzo Piccolo Gigante Gassoso     | 12h     | 8h      | 7h      | 6h      | 5h, 30m | 5h      |
+| Punto di Balzo Grande Gigante Gassoso      | 17h     | 12h     | 10h     | 9h      | 8h      | 7h      |
+| Pianeta al Vicino Prossimo                 | 1d, 13h | 1d, 2h  | 22h     | 19h     | 17h     | 15h     |
+| Pianeta al Vicino Lontano                  | 3d, 17h | 2d, 15h | 2d, 3h  | 1d, 20h | 1d, 16h | 1d, 12h |
+| Mondo Principale a Gigante Gassoso Vicino  | 5d, 16h | 4d      | 3d, 7h  | 2d, 20h | 2d, 13h | 2d, 8h  |
+| Mondo Principale a Gigante Gassoso Lontano | 6d, 23h | 4d, 22h | 4d      | 3d, 11h | 3d, 3h  | 2d, 20h |
 
-**Landing**
+**Atterraggio**
 
-Ships with streamlined hulls may land on any rocky planet or planetoid,
-regardless of atmosphere. Standard hulls may also land on planets with
-atmospheres but are extremely ungainly inside an atmosphere. Dispersed
-structures cannot land on any world as they will fall apart under
-significant gravity.
+Le navi con scafi aerodinamici possono atterrare su qualsiasi pianeta roccioso o planetoide, indipendentemente dall'atmosfera. Gli scafi standard possono anche atterrare su pianeti con atmosfera, ma sono estremamente sgraziati all'interno di un'atmosfera. Le strutture disperse non possono atterrare su nessun mondo poiché cadranno a pezzi sotto una gravità significativa.
 
-## Interstellar Travel
+## Viaggio Interstellare
 
-Starships travel using their Jump Drives. A jump takes one week
-regardless of its destination or length. Drives are rated according to
-the maximum range in parsecs (map hexes) they may travel in a single
-jump, from 1 to 6. Jump drives require a significant gravity well (star
-system) on each side of the jump, but strong gravity will disrupt the
-jump and thus ships jump at least 100 planetary diameters from any
-significant celestial body.
+Le astronavi viaggiano usando le loro unità di Balzo. Un Balzo dura una settimana indipendentemente dalla sua destinazione o dalla sua lunghezza. Le unità sono classificate in base alla portata massima in parsec (esagoni della mappa) che possono viaggiare in un singolo Balzo, da 1 a 6. I motori di Balzo richiedono un pozzo gravitazionale significativo (sistema a stella) su ciascun lato del Balzo, ma una forte gravità interromperà il Balzo e quindi le navi saltano almeno 100 diametri planetari da qualsiasi corpo celeste significativo.
 
-A jump requires 10% of the ship's volume in liquid hydrogen fuel per
-parsec traveled. Fuel is either refined (Cr500 per ton) or unrefined
-(Cr100 per ton). Unrefined fuel may hamper jumps and even cause
-misjumps. Streamlined ships may also scoop unrefined fuel from gas
-giants or pump unrefined fuel from water from a world's oceans (if such
-exist) at no cost. Some ships carry fuel purifiers capable of refining
-fuel, but this process often takes days to complete and thus is
-economically nonviable for most commercial craft.
+Un Balzo richiede il 10% del volume della nave in idrogeno liquido per parsec viaggiato. Il carburante è raffinato (Cr500 per tonnellata) o non raffinato (Cr100 per tonnellata). Il carburante non raffinato può ostacolare i Balzi e persino causare Balzi errati. Le navi aerodinamiche possono anche raccogliere carburante non raffinato dai giganti del gas o pompare carburante non raffinato dall'acqua degli oceani di un mondo (se esiste) senza alcun costo. Alcune navi trasportano depuratori di carburante in grado di raffinare il carburante, ma questo processo richiede spesso giorni per essere completato e quindi non è economicamente redditizio per la maggior parte dei vascelli commerciali.
 
 **Interstellar Jump Procedure**
 
