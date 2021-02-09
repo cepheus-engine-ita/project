@@ -1,736 +1,441 @@
-# Cepheus: Faster Than Light!
+# Cepheus: Più Veloce Della Luce!
 
-## Minimalist 2D6 sci-fi Role-Playing
+## Gioco di Ruolo 2D6 Minimalista di fantascienza
 
-## Editable Version
-
-## Credits
-
-### 
+## Attribuzioni
 
 ### Playtesters
 
 Josh Peters, Georges Gauthier, Jason Dubsky, Matthew Vann, Mathieu
 Bedard, Julien Reliat, Isaac Abouganem, Paul DeMelto, Shawn Fisher
 
-### Author
+### Autore
 
 Omer Golan-Joel
 
-### Editor
+### Redattore
 
 Josh Peters
 
-### Interior Design and Layout
+### Traduzione
 
-Omer Golan-Joel
+Roberto Bisceglie
 
-## Die Roll Conventions
+### Layout e Grafica
 
-Cepheus: Faster Than Light uses common six-sided dice. We note each die
-you need to roll as a “D”. Unless noted otherwise, “2D”, for example,
-means “roll two dice and add the results together”.
+Roberto Bisceglie
 
-In this game, DM means Dice Modifier – a number you add or subtract from
-a dice roll. For example, “2D, DM-2” means “roll two dice, add the
-results together, and then subtract 2 from the total”.
+## Convenzioni sul lancio dei dadi
 
-## The Basic Game Mechanic
+*Cepheus: Più Veloce Della Luce* usa i comuni dadi a sei facce. Indichiamo ogni dado che devi tirare come una "D". Salvo diversa indicazione, "2D", ad esempio, significa "tira due dadi e somma i risultati".
 
-The basic mechanic of Cepheus: Faster Than Light is the dice throw.
-Throw 2D, add the relevant skill or characteristic DM, and if the total
-is equal or higher than the target number, you succeed. For example,
-“throw STR 8+” means “throw 2D and add your STR modifier; if the total
-is 8 or more, you succeed” The amount by which your total throw exceeds
-or misses the target number is called the Effect If, using the previous
-example, you roll a total of 11 on that throw, your Effect is 11 – 8 =
-3.
+In questo gioco, MD significa Modificatore ai Dadi, un numero che aggiungi o sottrai a un tiro di dadi. Per esempio, "2D, MD-2" significa "tira due dadi, somma i risultati, quindi sottrai 2 dal totale".
 
-The average target number is 6+; easier tasks are 4+, and harder tasks
-are 8+ or even higher.
+## La meccanica fondamentale del gioco
 
-A "natural" result of 2 is always a failure, regardless of skills or
-other DMs. A "natural" result of 12 is always a success, even in adverse
-situations.
+La meccanica di base di Cepheus: Faster Than Light è il tiro dei dadi. Tira 2D, aggiungi l'abilità pertinente o l'MD di caratteristica e se il totale è uguale o superiore al numero obiettivo, hai successo. Per esempio, "tira FOR 8+" significa "tira 2D e aggiungi il tuo modificatore FOR; se il totale è 8 o più, hai successo". La differenza tra un risultato e il numero obiettivo è chiamata Effetto. Se, usando l'esempio precedente, ottieni un totale di 11 su quel tiro, il tuo Effetto è 11 - 8 = 3.
 
-***Opposed throws:*** in a situation where two characters oppose each
-other in an attempt, for example a spy trying to sneak past a guard,
-each character throws 2D plus the appropriate skill or characteristic
-modifier; the higher roll wins. Re-roll ties.
+Il numero obiettivo medio è 6+; per i compiti più facili è 4+ e per i compiti più difficili è 8+ o superiore.
 
-# Character Generation
+Un risultato "naturale" di 2 è sempre un fallimento, indipendentemente dalle abilità o da altri MD. Un risultato "naturale" di 12 è sempre un successo, anche in situazioni avverse.
 
-Your character starts the game as a skilled, experienced adult. Follow
-the steps detailed in this chapter to generate a character and take them
-through a career.
+***Tiri di opposizione:*** in una situazione in cui due personaggi si oppongono in un tentativo, per esempio una spia che cerca di intrufolarsi davanti a una guardia, ogni personaggio tira 2D più l'abilità o il modificatore di caratteristica appropriato; vince il risultato più alto. Tira nuovamente in caso di parità.
 
-## 1. characteristics
+# Generazione del personaggio
 
-Throw 2D six times. Assign as desired to your six characteristics -
-Strength (STR), Endurance (END), Dexterity (DEX), Intelligence (INT),
-Education (EDU), and Social Standing (SOC). Some Referees will prefer
-that you assign them in the order they are rolled, instead.
+Il tuo personaggio inizia il gioco come un adulto abile ed esperto. Segui i passaggi descritti in questo capitolo per generare un personaggio e accompagnarlo attraverso una carriera.
 
-### Universal Personal Profile and Pseudo-Hexadecimal Numbers
+## 1. Caratteristiche
 
-You can list a character’s characteristics in shorthand, as a string of
-numbers in the order given above, called a “Universal Personal Profile”,
-or UPP. To denote numbers above 9, use a “pseudo-hexadecimal” system:
+Tira 2D sei volte. Assegna i risultati come preferisci alle sei carattetistiche - Forza (FOR), Destrezza (DEX), Resistenza (RES), Intelligenza (INT), Educazione (EDU) e Status Sociale (SOC). Alcuni Arbitri preferiranno invece che tu li assegni nell'ordine in cui sono stati tirati.
 
-| **Characteristic** | **Letter** |
-| ------------------ | ---------- |
-| 10                 | A          |
-| 11                 | B          |
-| 12                 | C          |
-| 13                 | D          |
-| 14                 | E          |
-| 15                 | F          |
-| 16                 | G          |
+### Il Profilo di Personalità Universale e Numeri PseudoEsadecimali
 
-So, for example, a character with STR 7, DEX 12, END 6, INT 10, EDU 8,
-and SOC 11 will have a UPP of 7C6A8B.
+Puoi indicare le caratteristiche di un personaggio in forma abbreviata, come una stringa di numeri nell'ordine sopra indicato, chiamato "Profilo di Personalità Universale" o PPU. Per indicare numeri superiori a 9, utilizza un sistema "pseudo-esadecimale":
 
-Normal humans cannot have a characteristic higher than 15 (F).
+| **Caratteristica** | **Lettera** |
+| :----------------: | :---------: |
+| 10                 | A           |
+| 11                 | B           |
+| 12                 | C           |
+| 13                 | D           |
+| 14                 | E           |
+| 15                 | F           |
+| 16                 | G           |
 
-## Characteristic DMs
+Quindi, per esempio, un personaggio con FOR 7, DEX 12, RES 6, INT 10, EDU 8, and SOC 11 avrà un PPU di 7C6A8B.
 
-Each characteristic has an associated Dice Modifier (DM) based on its
-value or score, as noted below:
+I normali esseri umani non avranno caratteristiche più alte di 15 (F).
 
-| **Characteristic Score** | **Characteristic DM** |
-| ------------------------ | --------------------- |
-| 0-2                      | DM-2                  |
-| 3-5                      | DM-1                  |
-| 6-8                      | DM+0                  |
-| 9-11                     | DM+1                  |
-| 12-14                    | DM+2                  |
-| 15-17                    | DM+3                  |
-| 18-20                    | DM+4                  |
+## MD di Caratteristica
 
-## 2. Homeworld
+Ogni caratteristica ha un modificatore ai dadi (MD) associato basato sul suo valore o punteggio, come indicato di seguito:
 
-Think about the world the character grew up on and pick up any one skill
-from the skill list (see next chapter) at Level-1 to represent what they
-learned there before embarking on a career.
+| **Punteggio di Caratteristica** | **MD di Caratteristica** |
+| :-----------------------------: | :----------------------: |
+| 0-2                             | MD-2                     |
+| 3-5                             | MD-1                     |
+| 6-8                             | MD+0                     |
+| 9-11                            | MD+1                     |
+| 12-14                           | MD+2                     |
+| 15-17                           | MD+3                     |
+| 18-20                           | MD+4                     |
 
-**Zero-Level Skills**
+## 2. Mondo d’Origine
 
-Normally, a character is either skilled in a task or unskilled. In the
-latter case, they suffer DM-3 for lacking the appropriate skill.
-However, we recommend that the Referee grant a few skills as
-“Zero-level”. This means that while the character is not skilled enough
-to hold down a job with that skill, and does not enjoy a positive DM on
-rolls, the character is familiar enough with that skill to avoid the
-unskilled penalty (DM-3). Recommended Zero-level Skills for all
-adventurers include Athletics, Driving, Grav Vehicle, Gun Combat, Melee
-Combat, and Zero-G. There is no need to write them on the character
-sheet, as all adventurers and other characters with military or
-paramilitary training have them – just keep that in mind when rolling.
+Prova a pensare al mondo in cui il personaggio è cresciuto e scegli un'abilità dall'elenco delle abilità (vedi il capitolo successivo) al Livello 1 per rappresentare ciò che hanno imparato lì prima di intraprendere una carriera.
 
-## 3. Careers
+**Abilità di Livello Zero**
 
-Characters starts at the age of 18. To become skilled adventurers ready
-to conquer the stars, they go through a career. Each career is comprised
-of four-year terms of service. Each career table presents the different
-throws needed for character generation.
+Normalmente, un personaggio o è abile in un compito o è insperto. In quest'ultimo caso, soffre un MD-3 per mancanza dell'abilità appropriata. Tuttavia, si raccomanda che l'Arbitro conceda alcune abilità come "Livello Zero". Ciò significa che mentre il personaggio non è abbastanza abile da compiere un lavoro con quell'abilità e non gode di un MD positivo ai tiri, il personaggio ha abbastanza familiarità con quell'abilità per evitare la penalità di inesperto (MD-3). Le abilità di livello zero consigliate per tutti gli avventurieri includono Atletica, Guida, Grav, Armi da Fuoco, Mischia e G-Zero. Non è necessario scriverli sulla scheda del personaggio, poiché tutti gli avventurieri e altri personaggi con addestramento militare o paramilitare li hanno - semplicemente tienilo a mente quando tiri.
 
-Note that the total sum of a character’s skill Levels can never exceed
-the sum of their INT + EDU characteristics.
+## 3. Carriere
 
-This is how you go through a career:
+I personaggi iniziano all'età di 18 anni. Per diventare abili avventurieri pronti per conquistare le stelle, affrontano una carriera. Ogni carriera è composta da quattro anni di termini di servizio. Ogni tabella carriera presenta i tiri necessari per la generazione del personaggio.
 
-**3.1 Choose any of the six careers presented below.**
+Nota che la somma totale dei livelli di abilità di un personaggio non può mai superare la somma delle loro caratteristiche INT + EDU.
 
-**3.2 Resolve each term of service:**
+Ecco come affronti una carriera:
 
-1. *Survival throw:* If you fail, you die; roll up a new character.
+### 3.1 Scegli una delle sei carriere presentate di seguito.
 
-2. *Skill table:* Choose one of the three main tables (Personal
-   Development, Service, or Specialist) and roll on it once. Acquired
-   skill levels are cumulative; the first time you receive a skill, you
-   receive it at level 1. On your first term only, roll twice and gain
-   two skills. If you have EDU 8+, you may choose to roll on the
-   Advanced Education table instead.
+### 3.2 Risolvi ogni termine di servizio:
 
-3. *Advancement:* If you succeed, you gain one rank and gain an
-   additional skill roll on any table you are eligible to roll on.
+1. *Tiro di sopravvivenza:* If you fail, you die; roll up a new character.
 
-4. *Rank Skills:* If promoted, some ranks have skills associated with
-   that rank. Gain that skill rank, if eligible. These are cumulative
-   with existing skills.
+2. *Tabella delle abilità:* Scegli una delle tre tabelle principali (Sviluppo personale, Servizio o Specialista) e tira su di essa una volta. I livelli di abilità acquisiti sono cumulativi; la prima volta che ricevi un'abilità, la ricevi al livello 1. Solo nel primo periodo, tira due volte e ottieni due abilità. Se hai EDU 8+, puoi scegliere di tirare sulla tabella Educazione Avanzate.
 
-5. *Re-Enlistment and additional terms of service:* If you want to
-   continue to another term of service, make this throw; if you
-   succeed, continue to another term; fail - and you finish your career
-   (proceed to step 3.3: Mustering Out).
+3. *Avanzamento:* Se hai successo, guadagni un rango e ottieni un tiro abilità aggiuntivo su qualsiasi tabella per la quale sei idoneo.
 
-**3.3 Muster Out**: Once you complete your career, roll for Mustering
-Out Benefits. Each term of service you completed allows you one roll on
-one of the two Mustering Out tables: Cash or Benefit. You gain one bonus
-roll if you are Rank O4, two if you are Rank O5, or three if you are
-Rank O6. Characters of Rank O5 or O6 enjoy DM+1 on the Material Benefits
-table; characters with the Carousing skill enjoy DM+1 on the Cash table.
-No more than 3 rolls may be made on the Cash Benefit table.
+4. *Abilità di Rango:* Se promosso, alcuni ranghi hanno abilità associate ad esso. Ottieni quell'abilità di rango, se idoneo. Questi sono cumulativi con le abilità esistenti.
 
-### Mustering out benefits:
+5. *Riarruolamento e periodi aggiuntivi di servizio:* Se vuoi continuare con un altro periodo di servizio, esegui questo tiro; se hai successo, continua con un altro periodo; se fallisci la tua carriera è finita (vai al passaggio 3.3: Congedo).
 
-- *Contact:* a useful relationship with a person or group who can
-  provide significant favors and/or jobs.
+**3.3 Congedo**: Una volta completata la tua carriera, tira per i benefici di congedo. Ogni periodo di servizio che hai completato ti garantisce un tiro su una delle due tabelle di congedo: Denaro o Benefici. Ottieni un tiro bonus se sei di Rango O4, due se sei di Rango O5 o tre se sei di Rango O6. I personaggi di rango O5 o O6 godono di un MD+1 nella tabella Benefici Materiali; i personaggi con l'abilità Baldoria godono di MD+1 sulla tabella Denaro. Non è possibile effettuare più di 3 tiri sulla tabella dei Benefici in Denaro.
 
-- *Free Trader:* a 200-ton Free Trader starship. Purchased under a
-  mortgage.
+### Benefici di Congedo:
 
-- *Explorer's Society:* Membership in the exclusive Explorer's
-  Society, which entails one high passage ticket every two months and
-  free stay at Society hostels.
+- *Contatto:* un rapporto utile con una persona o un gruppo che può fornire favori e/o lavori importanti.
 
-- *Passage:* get the named ticket for one jump (up to two parsecs).
+- *Libero Mercantile:* una nave stellare Free Trader da 200 tonnellate. Acquistato con mutuo.
 
-- *Scout Ship:* a 100-ton scout ship "loaned" to you by the Scout
-  Service as part of your "Detached Duty".
+- *Società degli esploratori:* Associazione alla esclusiva Società degli esploratori, che garantisce un biglietto di passaggio superiore ogni due mesi e soggiorno gratuito negli ostelli della Società.
 
-- *Weapon:* gain a single weapon up to Cr1000 in value including
-  ammunition.
+- *Passaggio:* ottenere il biglietto indicato per un salto (fino a due parsec).
 
-## 4. Round Out your character
+- *Nave da Esploratore:* una nave da ricognizione da 100 tonnellate "prestata" dal Servizio Esploratori come parte del tuo "Servizio Distaccato".
 
-Choose one skill you don't have yet; you receive it at level 1.
+- *Arma:* ottieni una singola arma fino a Cr1000 di valore, comprese le munizioni.
 
-## 5. Reach to the stars and begin your adventures!
+## 4. Completa il tuo personaggio
+
+Scegli un'abilità che non hai ancora; la ricevi al livello 1.
+
+## 5. Raggiungi le stelle e inizia le tue avventure!
 
 ## Careers List
 
-| **Army**                                               |                          |                            |                 |                        |               |
-| ------------------------------------------------------ | ------------------------ | -------------------------- | --------------- | ---------------------- | ------------- |
-| You served in a planetary military or mercenary force. |                          |                            |                 |                        |               |
-|                                                        | **Survival**             | END 5+                     | **Advancement** | EDU 8+                 |               |
-|                                                        | **Re-Enlistment**        | 5+                         |                 |                        |               |
-|                                                        |                          | **Mustering Out Benefits** |                 |                        |               |
-| **Rank**                                               | **Title**                | **Skill or Bonus**         | **1D6**         | **Cash**               | **Materials** |
-| 0                                                      | Private                  | Gun Combat-1               | 1               | 1000                   | Low Passage   |
-| 1                                                      | Lieutenant               | Leadership-1               | 2               | 5000                   | +1 INT        |
-| 2                                                      | Captain                  |                            | 3               | 10000                  | Weapon        |
-| 3                                                      | Major                    |                            | 4               | 10000                  | Mid Passage   |
-| 4                                                      | Lt. Colonel              |                            | 5               | 20000                  | Weapon        |
-| 5                                                      | Colonel                  |                            | 6               | 50000                  | High Passage  |
-| 6                                                      | General                  | SOC +1                     | 7               | 50000                  | +1 SOC        |
-| **Skills and Training**                                |                          |                            |                 |                        |               |
-| **1D6**                                                | **Personal Development** | **Service**                | **Specialist**  | **Advanced Education** |               |
-| 1                                                      | +1 STR                   | Repair                     | Computer        | Admin                  |               |
-| 2                                                      | +1 DEX                   | Gun Combat                 | Demolitions     | Computer               |               |
-| 3                                                      | +1 END                   | Gunnery                    | Gun Combat      | Jack o’ Trades         |               |
-| 4                                                      | Athletics                | Melee Combat               | Watercraft      | Medicine               |               |
-| 5                                                      | Melee Combat             | Recon                      | Survival        | Leadership             |               |
-| 6                                                      | Carousing                | Driving                    | Aircraft        | Tactics                |               |
-
-| **Marine**                                                                                          |                          |                            |                 |                        |                    |
-| --------------------------------------------------------------------------------------------------- | ------------------------ | -------------------------- | --------------- | ---------------------- | ------------------ |
-| You served as a space trooper carried aboard starships for boarding actions and planetary assaults. |                          |                            |                 |                        |                    |
-|                                                                                                     | **Survival**             | END 7+                     | **Advancement** | SOC 6+                 |                    |
-|                                                                                                     | **Re-Enlistment**        | 6+                         |                 |                        |                    |
-|                                                                                                     |                          | **Mustering Out Benefits** |                 |                        |                    |
-| **Rank**                                                                                            | **Title**                | **Skill or Bonus**         | **1D6**         | **Cash**               | **Materials**      |
-| 0                                                                                                   | Trooper                  | Gun Combat-1               | 1               | 1000                   | +1 EDU             |
-| 1                                                                                                   | Lieutenant               | Leadership-1               | 2               | 5000                   | Weapon             |
-| 2                                                                                                   | Captain                  |                            | 3               | 10000                  | Mid Passage        |
-| 3                                                                                                   | Major                    | Tactics-1                  | 4               | 10000                  | +1 SOC             |
-| 4                                                                                                   | Lt. Colonel              |                            | 5               | 20000                  | High Passage       |
-| 5                                                                                                   | Colonel                  |                            | 6               | 50000                  | Explorer’s Society |
-| 6                                                                                                   | Brigadier                |                            | 7               | 50000                  | +1 EDU             |
-| **Skills and Training**                                                                             |                          |                            |                 |                        |                    |
-| **1D6**                                                                                             | **Personal Development** | **Service**                | **Specialist**  | **Advanced Education** |                    |
-| 1                                                                                                   | +1 STR                   | Heavy Weapons              | Repair          | Admin                  |                    |
-| 2                                                                                                   | +1 DEX                   | Athletics                  | Demolitions     | Computer               |                    |
-| 3                                                                                                   | +1 END                   | Gun Combat                 | Leadership      | Piloting               |                    |
-| 4                                                                                                   | +1 INT                   | Gunnery                    | Survival        | Medicine               |                    |
-| 5                                                                                                   | +1 EDU                   | Melee Combat               | Recon           | Sciences               |                    |
-| 6                                                                                                   | Carousing                | Zero-G                     | Grav Vehicle    | Tactics                |                    |
-
-<table>
-<thead>
-<tr class="header">
-<th><span dir="rtl"><br />
-</span><strong>Merchant</strong></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>You were star-faring purveyor of goods, either a tough independent trader, or working for a corporation.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Survival</strong></td>
-<td>INT 5+</td>
-<td><strong>Advancement</strong></td>
-<td>EDU 8+</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><strong>Re-Enlistment</strong></td>
-<td>4+</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td><strong>Mustering Out Benefits</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><strong>Rank</strong></td>
-<td><strong>Title</strong></td>
-<td><strong>Skill or Bonus</strong></td>
-<td><strong>1D6</strong></td>
-<td><strong>Cash</strong></td>
-<td><strong>Materials</strong></td>
-</tr>
-<tr class="even">
-<td>0</td>
-<td>Crewmember</td>
-<td>Steward-1</td>
-<td>1</td>
-<td>1000</td>
-<td>Low Passage</td>
-</tr>
-<tr class="odd">
-<td>1</td>
-<td>Deck Cadet</td>
-<td></td>
-<td>2</td>
-<td>5000</td>
-<td>+1 EDU</td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>Fourth Officer</td>
-<td></td>
-<td>3</td>
-<td>10000</td>
-<td>Weapon</td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>Third Officer</td>
-<td>Pilot-1</td>
-<td>4</td>
-<td>20000</td>
-<td>Contact</td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>Second Officer</td>
-<td></td>
-<td>5</td>
-<td>20000</td>
-<td>High passage</td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>First Officer</td>
-<td></td>
-<td>6</td>
-<td>50000</td>
-<td>Explorer’s Society</td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>Captain</td>
-<td></td>
-<td>7</td>
-<td>100000</td>
-<td>Free Trader</td>
-</tr>
-<tr class="odd">
-<td><strong>Skills and Training</strong></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>1D6</strong></td>
-<td><strong>Personal Development</strong></td>
-<td><strong>Service</strong></td>
-<td><strong>Specialist</strong></td>
-<td><strong>Advanced Education</strong></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>1</td>
-<td>+1 STR</td>
-<td>Repair</td>
-<td>Liaison</td>
-<td>Admin</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>+1 DEX</td>
-<td>Liaison</td>
-<td>Gunnery</td>
-<td>Engineering</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>Athletics</td>
-<td>Gun Combat</td>
-<td>Jack o’ Trades</td>
-<td>Medicine</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>Zero-G</td>
-<td>Admin</td>
-<td>Medicine</td>
-<td>Computers</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>Melee Combat</td>
-<td>Streetwise</td>
-<td>Engineering</td>
-<td>Science</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>Carousing</td>
-<td>Steward</td>
-<td>Piloting</td>
-<td>Tactics</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-| **Navy**                                                                                    |                          |                            |                 |                        |                    |
-| ------------------------------------------------------------------------------------------- | ------------------------ | -------------------------- | --------------- | ---------------------- | ------------------ |
-| You served in the interstellar navy, patrolling the stars and fighting enemies and pirates. |                          |                            |                 |                        |                    |
-|                                                                                             | **Survival**             | INT 6+                     | **Advancement** | EDU 7+                 |                    |
-|                                                                                             | **Re-Enlistment**        | 5+                         |                 |                        |                    |
-|                                                                                             |                          | **Mustering Out Benefits** |                 |                        |                    |
-| **Rank**                                                                                    | **Title**                | **Skill or Bonus**         | **1D6**         | **Cash**               | **Materials**      |
-| 0                                                                                           | Starhand                 | Zero-G-1                   | 1               | 1000                   | Low Passage        |
-| 1                                                                                           | Ensign                   | Leadership-1               | 2               | 5000                   | +1 EDU             |
-| 2                                                                                           | Lieutenant               |                            | 3               | 10000                  | Weapon             |
-| 3                                                                                           | Lt. Commander            | Tactics-1                  | 4               | 10000                  | Mid Passage        |
-| 4                                                                                           | Commander                |                            | 5               | 20000                  | +1 SOC             |
-| 5                                                                                           | Captain                  |                            | 6               | 50000                  | High Passage       |
-| 6                                                                                           | Commodore                | +1 SOC                     | 7               | 50000                  | Explorer’s Society |
-| **Skills and Training**                                                                     |                          |                            |                 |                        |                    |
-| **1D6**                                                                                     | **Personal Development** | **Service**                | **Specialist**  | **Advanced Education** |                    |
-| 1                                                                                           | +1 STR                   | Repair                     | Jack o’ Trades  | Admin                  |                    |
-| 2                                                                                           | +1 DEX                   | Engineering                | Repair          | Computer               |                    |
-| 3                                                                                           | Athletics                | Gun Combat                 | Engineering     | Engineering            |                    |
-| 4                                                                                           | +1 INT                   | Gunnery                    | Leadership      | Medicine               |                    |
-| 5                                                                                           | +1 EDU                   | Melee Combat               | Piloting        | Sciences               |                    |
-| 6                                                                                           | Carousing                | Zero-G                     | Jack o’ Trades  | Tactics                |                    |
-
-| **Rogue**                               |                          |                            |                 |                        |               |
-| --------------------------------------- | ------------------------ | -------------------------- | --------------- | ---------------------- | ------------- |
-| You were a drifter, criminal, or rebel. |                          |                            |                 |                        |               |
-|                                         | **Survival**             | DEX 5+                     | **Advancement** | INT 8+                 |               |
-|                                         | **Re-Enlistment**        | 4+                         |                 |                        |               |
-|                                         |                          | **Mustering Out Benefits** |                 |                        |               |
-| **Rank**                                | **Title**                | **Skill or Bonus**         | **1D6**         | **Cash**               | **Materials** |
-| 0                                       | Independent              | Streetwise-1               | 1               | 1000                   | Low Passage   |
-| 1                                       | Associate                |                            | 2               | 5000                   | +1 INT        |
-| 2                                       | Made Soldier             | Gun Combat-1               | 3               | 5000                   | Weapon        |
-| 3                                       | Lieutenant               |                            | 4               | 5000                   | Contact       |
-| 4                                       | Underboss                |                            | 5               | 10000                  | Weapon        |
-| 5                                       | Consigliere              |                            | 6               | 20000                  | Mid Passage   |
-| 6                                       | Boss                     |                            | 7               | 50000                  | +1 SOC        |
-| **Skills and Training**                 |                          |                            |                 |                        |               |
-| **1D6**                                 | **Personal Development** | **Service**                | **Specialist**  | **Advanced Education** |               |
-| 1                                       | +1 STR                   | Streetwise                 | Computer        | Survival               |               |
-| 2                                       | +1 DEX                   | Repair                     | Repair          | Engineering            |               |
-| 3                                       | +1 INT                   | Gun Combat                 | Carousing       | Jack o’ Trades         |               |
-| 4                                       | Athletics                | Deception                  | Admin           | Medicine               |               |
-| 5                                       | Melee Combat             | Stealth                    | Recon           | Investigation          |               |
-| 6                                       | Carousing                | Recon                      | Deception       | Tactics                |               |
-
-| **Scout**                                 |                          |                            |                 |                        |                    |
-| ----------------------------------------- | ------------------------ | -------------------------- | --------------- | ---------------------- | ------------------ |
-| You were an intrepid explorer or courier. |                          |                            |                 |                        |                    |
-|                                           | **Survival**             | END 7+                     | **Advancement** | INT 6+                 |                    |
-|                                           | **Re-Enlistment**        | 6+                         |                 | \-                     |                    |
-|                                           |                          | **Mustering Out Benefits** |                 |                        |                    |
-| **Rank**                                  | **Title**                | **Skill or Bonus**         | **1D6**         | **Cash**               | **Materials**      |
-| 0                                         | Scout                    | Piloting-1                 | 1               | 1000                   | Low Passage        |
-| 1                                         |                          |                            | 2               | 5000                   | +1 INT             |
-| 2                                         |                          |                            | 3               | 10000                  | Weapon             |
-| 3                                         | Senior Scout             | Sciences-1                 | 4               | 10000                  | Mid Passage        |
-| 4                                         |                          |                            | 5               | 20000                  | Vacc Suit          |
-| 5                                         |                          |                            | 6               | 50000                  | Scout Ship         |
-| 6                                         | Director                 |                            | 7               | 50000                  | Explorer’s Society |
-| **Skills and Training**                   |                          |                            |                 |                        |                    |
-| **1D6**                                   | **Personal Development** | **Service**                | **Specialist**  | **Advanced Education** |                    |
-| 1                                         | +1 STR                   | Repair                     | Engineering     | Admin                  |                    |
-| 2                                         | +1 DEX                   | Computer                   | Animals         | Computer               |                    |
-| 3                                         | Athletics                | Gun Combat                 | Sciences        | Grav Vehicle           |                    |
-| 4                                         | Jack o’ Trades           | Gunnery                    | Piloting        | Medicine               |                    |
-| 5                                         | +1 EDU                   | Recon                      | Investigation   | Science                |                    |
-| 6                                         | Melee Combat             | Piloting                   | Stealth         | Tactics                |                    |
-
-# Skills
-
-Characters in Cepheus Light use different skills to confront the
-challenges awaiting them among the stars, from piloting a starship to
-shooting a laser. Skills are the character’s greatest asset. Skilled
-characters are competent: Skill-1 is employable, while Skill-3 denotes
-professional expertise and knowledge.
-
-Below are the skills used by these rules:
-
-**Admin:** administration and dealing with bureaucracies and the law.
-Also covers forgery.
-
-**Aircraft:** controlling and using atmospheric aircraft.
-
-**Animals:** the care and training of animals. Also covers riding and
-general agriculture.
-
-**Athletics:** the ability to exert oneself physically. You may add the
-Athletics skill to appropriate physical characteristic rolls. This skill
-is never rolled unskilled.
-
-**Carousing:** the art of mingling in social settings to achieve your
-goals. Also covers gambling.
-
-**Computer:** programming, working with computer hardware, and hacking.
-This skill also covers the use of sensors and communications gear.
-
-**Deception:** convincingly avoiding the truth and misleading other
-people.
-
-**Demolitions:** working with explosives to blow stuff up! This skill
-also covers defusing said explosives before they blow up!
-
-**Driving:** controlling and using ground vehicles.
-
-**Engineering:** use and maintenance of starship drives and power
-plants.
-
-**Grav Vehicles:** controlling and using gravitic vehicles.
-
-**Gun Combat:** using small arms, crossbows, and bows in combat.
-
-**Gunnery:** using vehicle-mounted or spaceship-mounted weapons.
-
-**Heavy Weapons:** using plasma guns, rocket launchers, and other
-portable support weapons.
-
-**Investigation:** this skill combines keen observation, forensics,
-research, and detailed analysis.
-
-**Jack o’ Trades:** this special skill reduces the unskilled penalty
-(DM-3, noted above) by its level. For example, a character with Jack o’
-Trades at level 2 would only suffer DM-1 to unskilled rolls. You may not
-gain more than 3 levels in this skill and cannot improve it after
-character generation.
-
-**Leadership:** motivating and directing others, often in times of
-crisis.
-
-**Liaison:** the art and practice of negotiation and diplomacy in a
-myriad of social situations.
-
-**Medicine:** training in the medical sciences, from diagnosis and
-triage to surgery.
-
-**Melee Combat:** fighting hand-to-hand, either with a weapon or
-unarmed.
-
-**Piloting:** operating, controlling, and navigating interplanetary and
-interstellar space craft, both in real space and in jump space.
-
-**Recon:** scouting for danger and spotting threats.
-
-**Repair:** the ability to maintain, repair and build mechanical and
-electronic devices of all sorts. Also covers lockpicking.
-
-**Science:** the multi-disciplinary scientific skill, as would be
-typical for a starship’s science officer.
-
-**Stealth:** training in being unseen and unheard.
-
-**Steward:** the care and serving of passengers and other guests.
-
-**Streetwise:** familiarity with underworld society and the ways of
-working within it.
-
-**Survival:** staying alive in the wilderness. This also covers
-“outdoor” skills such as tracking, foraging, and fishing.
-
-**Tactics:** tactical planning and decision making, whether on the
-ground or in space.
-
-**Watercraft:** controlling and using watercraft, including submarines.
-
-**Zero-G:** working and living under microgravity conditions. Also
-covers the use of vacc suits and heavy armor.
-
-# Equipment
-
-This chapter describes common tools, weapons, and other paraphernalia
-used by interstellar adventurers, from flashlights to laser guns. Prices
-are in Credits (Cr), the interstellar currency. Thousands of Credits are
-noted as KCr, and millions of Credits are noted as MCr. A Credit is a
-futuristic currency roughly equivalent to $3 USD in 2018CE currency.
-
-Items come at various Tech Levels (TLs), denoting technological
-complexity and progress. TL0 is equivalent to the stone age.; TL7 is our
-modern day; TL8-9 are near future; and a typical "space opera"
-interstellar polity would be around TL12-13.
-
-## Personal Armor
-
-Personal armor reduces the damage caused by incoming attacks. Subtract
-the armor’s Protection rating from any damage caused to the character,
-some types of armor require minimum levels of the Zero-G skill to use.
-It is not possible to wear more than one type of armor at a time.
-
-| **Armor**     | **TL** | **Protection**  | **Cost**  | **Skill Required** |
-| ------------- | ------ | --------------- | --------- | ------------------ |
-| Jack          | 1      | 2               | Cr50      | --                 |
-| Mesh          | 6      | 3               | Cr150     | --                 |
-| Cloth         | 7      | 6               | Cr250     | --                 |
-| Vacc Suit     | 9      | 6               | Cr9000    | Zero-G 0           |
-| Reflec        | 10     | 0/14 vs. lasers | Cr1500    | --                 |
-| Combat Armor  | 11     | 11              | Cr20,000  | Zero-G 1           |
-| Powered Armor | 13     | 18              | Cr200,000 | Zero-G 2           |
-
-**Cloth (TL7):** modern heavy-duty ballistic-cloth armor. Cloth may be
-worn under clothes.
-
-**Combat Armor (TL11):** enclosed rigid military armor. Combat armor can
-also serve as a vacc suit with 6 hours of life-support.
-
-**Jack (TL1):** leather jacket or medieval leather armor.
-
-**Mesh (TL6):** jacket lined with a flexible protective metal or plastic
-mesh.
-
-**Powered Armor (TL13):** motorized combat armor. This powerful armor
-Grants DM+4 to STR and DEX, though this does not apply to wound levels.
-Powered armor grants DM+4 to all melee damage done by its wearer and is
-shielded against vacuum and hostile environments, as a vacc suit, with 6
-hours of life support supplies.
-
-**Reflec (TL10):** anti-laser reflective armor. Reflec is highly
-effective against lasers but is ineffective against anything else.
-Reflec be worn over another suit of armor for additional anti-laser
-protection.
-
-**Vacc Suit (TL9):** a standard, futuristic space suit. A Vacc suit
-carries life support supplies for up to 6 hours. Counts as two items
-towards encumbrance. Protects against Vacuum, Tainted and Exotic
-atmospheres, as well as airborne pathogens. Protects against Corrosive
-atmosphere for 2D hours, and against Insidious atmospheres for 1Dx10
-minutes.
-
-## Adventuring Gear
-
-The following items are common among adventurers and explorers.
-
-| **Item**                             | **TL** | **Cost** |
-| ------------------------------------ | ------ | -------- |
-| Back Pack                            | 1      | Cr50     |
-| Field Rations, 5 days                | 1      | Cr125    |
-| Rope, 70m                            | 1      | Cr50     |
-| Torch                                | 1      | Cr1      |
-| Handcuffs                            | 2      | Cr10     |
-| Tent                                 | 2      | Cr100    |
-| Binoculars                           | 3      | Cr10     |
-| Compass                              | 3      | Cr5      |
-| Water Canteen                        | 4      | Cr5      |
-| Breather                             | 5      | Cr75     |
-| LED Flashlight                       | 7      | Cr5      |
-| Lockpick Set                         | 5      | Cr25     |
-| Oxygen Tanks, 6-hour duration        | 5      | Cr250    |
-| Tech Toolkit                         | 5      | Cr300    |
-| Disguise Kit                         | 7      | C300     |
-| Long-Range Communicator, 500km range | 7      | Cr250    |
-| Medkit                               | 7      | Cr100    |
-| Tent, Pressure                       | 7      | Cr2000   |
-| Artificial Gill                      | 8      | Cr4000   |
-| Night Visor                          | 8      | Cr100    |
-| Panacea                              | 8      | Cr200    |
-| Thruster Pack                        | 8      | Cr200    |
-| Omnicomm                             | 9      | Cr50     |
-| Omnicomp                             | 9      | Cr250    |
-| Rescue Bubble                        | 9      | Cr900    |
-| Cold Weather Clothing                | 10     | Cr200    |
-| Fast Forward                         | 10     | Cr200    |
-| Metabolic Accelerator                | 10     | Cr500    |
-| Multiscanner                         | 10     | Cr2000   |
-
-### Equipment Notes
-
-An **Artificial Gill** allows unlimited underwater activity on worlds
-with atmospheres 4-9.
-
-**Fast Forward** is a drug that slows metabolism by a ratio of 60 to 1 –
-a subjective day to the user is actually 2 months. Note that this drug
-will greatly reduce life-support consumption.
-
-Picking a lock without **Lockpicks** invokes a DM-2 penalty to the
-attempt.
-
-**Metabolic Accelerator:** provides DM+8 to initiative throws and allows
-the user to take 3 actions per round rather than the usual 2. Effect
-begins 8 rounds after application and lasts 10 minutes (60 rounds),
-after which the user suffers 2D damage.
-
-The **Multiscanner** combines several sensor functions: it can detect
-radiation, electromagnetic emissions, metals, and a limited set of
-chemicals and biological compounds.
-
-The **Night Visor** combines low-light and infra-red vision.
-
-Today’s smartphones eventually evolve into an **Omnicomm,** a tool
-designed to meet all your telecom needs in one handy place, with
-holographic augmented reality capability. The same applies the
-**Omnicomp** – a hand-held, light-weight computer which evolved from
-both the laptop and the tablet computer. TL9 batteries last for months
-between recharging.
-
-**Panacea:** allows any character, even those without the Medicine
-skill, to neutralize diseases or poisons on a throw of Medicine 5+
-(assume Medicine-0 for characters lacking the Medicine skill when
-administering Panacea).
-
-A **Pressure Tent** lacks an airlock and must be depressurized to enter
-or leave; it can house up to 2 people and requires external oxygen
-tanks.
-
-A **Rescue Bubble** is a 2m-diameter plastic bubble. Piezoelectric
-layers translate the user’s movement to electricity to recharge the
-bubble’s battery. It contains supplies for 2 person/hours of operation.
-The bubble’s skin can self-repair all but the most serious punctures.
-
-A **Thruster Pack** allows maneuvering in zero-G conditions.
-
-## 
+| **Esercito**                                                         |                          |                            |                 |                        |                     |
+| -------------------------------------------------------------------- | ------------------------ | -------------------------- | --------------- | ---------------------- | ------------------- |
+| Hai prestato servizio in una forza militare o mercenaria planetaria. |                          |                            |                 |                        |                     |
+|                                                                      | **Sopravvivenza**        | RES 5+                     | **Avanzamento** | EDU 8+                 |                     |
+|                                                                      | **Riarruolamento**       | 5+                         |                 |                        |                     |
+|                                                                      |                          | **Benefici di Congedo**    |                 |                        |                     |
+| **Rango*                                                             | **Titolo**               | **Abilità o Bonus**        | **1D6**         | **Denaro**             | **Materiali**       |
+| 0                                                                    | Soldato                  | Armi da Fuoco-1            | 1               | 1000                   | Passaggio Inferiore |
+| 1                                                                    | Tenente                  | Comando-1                  | 2               | 5000                   | +1 INT              |
+| 2                                                                    | Capitano                 |                            | 3               | 10000                  | Arma                |
+| 3                                                                    | Maggiore                 |                            | 4               | 10000                  | Passaggio Medio     |
+| 4                                                                    | Tenente Colonnello       |                            | 5               | 20000                  | Arma                |
+| 5                                                                    | Colonello                |                            | 6               | 50000                  | Passaggio Superiore |
+| 6                                                                    | Generale                 | SOC +1                     | 7               | 50000                  | +1 SOC              |
+| **Abilità e Addestramento**                                          |                          |                            |                 |                        |                     |
+| **1D6**                                                              | **Sviluppo Personale**   | **Servizio**               | **Specialista** | **Educazione Avanzata**|                     |
+| 1                                                                    | +1 FOR                   | Riparazioni                | Computer        | Amministrazione        |                     |
+| 2                                                                    | +1 DEX                   | Armi da Fuoco              | Demolizioni     | Computer               |                     |
+| 3                                                                    | +1 RES                   | Artiglieria                | Armi da Fuoco   | Tuttofare              |                     |
+| 4                                                                    | Atletica                 | Mischia                    | Watercraft      | Medicina               |                     |
+| 5                                                                    | Mischia                  | Ricognizione               | Sopravvivenza   | Comando                |                     |
+| 6                                                                    | Baldoria                 | Guida                      | Aircraft        | Tattica                |                     |
+
+| **Marine**                                                                                                        |                          |                         |                 |                         |                           |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------------------|-----------------|-------------------------|---------------------------|
+| Hai servito come soldato spaziale trasportato a bordo di astronavi per azioni di abbordaggio e assalti planetari. |                          |                         |                 |                         |                           |
+|                                                                                                                   | **Sopravvivenza**        | END 7+                  | **Avanzamento** | SOC 6+                  |                           |
+|                                                                                                                   | **Riarruolamento**       | 6+                      |                 |                         |                           |
+|                                                                                                                   |                          | **Benefici di Congedo** |                 |                         |                           |
+| **Rango**                                                                                                         | **Titolo**               | **Abilità o Bonus**     | **1D6**         | **Denaro**              | **Materiali**             |
+| 0                                                                                                                 | Fante                    | Armi da Fuoco-1         | 1               | 1000                    | +1 EDU                    |
+| 1                                                                                                                 | Tenente                  | Comando-1               | 2               | 5000                    | Arma                      |
+| 2                                                                                                                 | Capitano                 |                         | 3               | 10000                   | Passaggio Medio           |
+| 3                                                                                                                 | Maggiore                 | Tattica-1               | 4               | 10000                   | +1 SOC                    |
+| 4                                                                                                                 | Tenente Colonnello       |                         | 5               | 20000                   | Passaggio Superiore       |
+| 5                                                                                                                 | Colonnello               |                         | 6               | 50000                   | Società degli Esploratori |
+| 6                                                                                                                 | Brigadiere               |                         | 7               | 50000                   | +1 EDU                    |
+| **Abilità e Addestramento**                                                                                       |                          |                         |                 |                         |                           |
+| **1D6**                                                                                                           | **Personal Development** | **Servizio**            | **Specialista** | **Educazione Avanzata** |                           |
+| 1                                                                                                                 | +1 FOR                   | Armi Pesanti            | Riparazioni     | Amministrazione         |                           |
+| 2                                                                                                                 | +1 DEX                   | Atletica                | Demolizioni     | Computer                |                           |
+| 3                                                                                                                 | +1 END                   | Armi da Fuoco           | Leadership      | Pilotare                |                           |
+| 4                                                                                                                 | +1 INT                   | Artiglieria             | Sopravvivenza   | Medicina                |                           |
+| 5                                                                                                                 | +1 EDU                   | Mischia                 | Ricognizione    | Scienze                 |                           |
+| 6                                                                                                                 | Baldoria                 | G-Zero                  | Grav            | Tattica                 |                           |
+
+| **Mercante**                                                                             |                        |                         |                 |                         |                           |
+|------------------------------------------------------------------------------------------|------------------------|-------------------------|-----------------|-------------------------|---------------------------|
+| Eri un fornitore di beni, o un commerciante indipendente o che lavorava per una società. |                        |                         |                 |                         |                           |
+|                                                                                          | **Sopravvivenza**      | INT 5+                  | **Avanzamento** | EDU 8+                  |                           |
+|                                                                                          | **Riarruolamento**     | 4+                      |                 |                         |                           |
+|                                                                                          |                        | **Benefici di Congedo** |                 |                         |                           |
+| **Rango**                                                                                | **Titolo**             | **Abilità o Bonus**     | 1D6             | **Denaro**              | **Materiali**             |
+| 0                                                                                        | Marinaio               | Steward-1               | 1               | 1000                    | Passaggio Inferiore       |
+| 1                                                                                        | Cadetto                |                         | 2               | 5000                    | +1 EDU                    |
+| 2                                                                                        | Quarto Ufficiale       |                         | 3               | 10000                   | Arma                      |
+| 3                                                                                        | Terzo Ufficiale        | Pilota-1                | 4               | 20000                   | Contatto                  |
+| 4                                                                                        | Secondo Ufficiale      |                         | 5               | 20000                   | Passaggio Superiore       |
+| 5                                                                                        | Prima Ufficiale        |                         | 6               | 50000                   | Società degli Esploratori |
+| 6                                                                                        | Capitano               |                         | 7               | 100000                  | Libero Mercantile         |
+| **Abilità e Addestramento**                                                              |                        |                         |                 |                         |                           |
+| 1D6                                                                                      | **Sviluppo Personale** | **Servizio**            | **Specialista** | **Educazione Avanzata** |                           |
+| 1                                                                                        | +1 FOR                 | Riparazioni             | Collegamento    | Amministrazione         |                           |
+| 2                                                                                        | +1 DEX                 | Collegamento            | Artiglieria     | Ingegneria              |                           |
+| 3                                                                                        | Atletica               | Armi da Fuoco           | Tuttofare       | Medicina                |                           |
+| 4                                                                                        | G-Zero                 | Amministrazione         | Medicina        | Computer                |                           |
+| 5                                                                                        | Mischia                | Legge della Strada      | Ingegneria      | Science                 |                           |
+| 6                                                                                        | Baldoria               | Steward                 | Pilotare        | Tactics                 |                           |
+
+| **Marina**                                                                                              |                        |                         |                 |                         |                           |
+|---------------------------------------------------------------------------------------------------------|------------------------|-------------------------|-----------------|-------------------------|---------------------------|
+| Hai prestato servizio nella marina interstellare, pattugliando le stelle e combattendo nemici e pirati. |                        |                         |                 |                         |                           |
+|                                                                                                         | **Sopravvivenza**      | INT 6+                  | **Avanzamento** | EDU 7+                  |                           |
+|                                                                                                         | **Riarruolamento**     | 5+                      |                 |                         |                           |
+|                                                                                                         |                        | **Benefici di Congedo** |                 |                         |                           |
+| **Rango**                                                                                               | **Titolo**             | **Abilità o Bonus**     | **1D6**         | **Denaro**              | **Materiali**             |
+| 0                                                                                                       | Marinaio               | G-Zero-1                | 1               | 1000                    | Passaggio Inferiore       |
+| 1                                                                                                       | Guardiamarina          | Comando-1               | 2               | 5000                    | +1 EDU                    |
+| 2                                                                                                       | Tenente                |                         | 3               | 10000                   | Arma                      |
+| 3                                                                                                       | Tenente Comandante     | Tattica-1               | 4               | 10000                   | Passaggio Medio           |
+| 4                                                                                                       | Comandante             |                         | 5               | 20000                   | +1 SOC                    |
+| 5                                                                                                       | Capitano               |                         | 6               | 50000                   | Passaggio Superiore       |
+| 6                                                                                                       | Ammiraglio             | +1 SOC                  | 7               | 50000                   | Società degli Esploratori |
+| **Abilità e Addestramento**                                                                             |                        |                         |                 |                         |                           |
+| **1D6**                                                                                                 | **Sviluppo Personale** | **Servizio**            | **Specialista** | **Educazione Avanzata** |                           |
+| 1                                                                                                       | +1 FOR                 | Riparazioni             | Tuttofare       | Amministrazione         |                           |
+| 2                                                                                                       | +1 DEX                 | Ingegneria              | Riparazioni     | Computer                |                           |
+| 3                                                                                                       | Atletica               | Armi da Fuoco           | Ingegneria      | Ingegneria              |                           |
+| 4                                                                                                       | +1 INT                 | Artiglieria             | Comando         | Medicina                |                           |
+| 5                                                                                                       | +1 EDU                 | Mischia                 | Pilotare        | Scienze                 |                           |
+| 6                                                                                                       | Baldoria               | G-Zero                  | Tuttofare       | Tattica                 |                           |
+
+| **Malvivente**                       |                        |                         |                 |                         |                     |
+|--------------------------------------|------------------------|-------------------------|-----------------|-------------------------|---------------------|
+| Eri un ramingo, criminale o ribelle. |                        |                         |                 |                         |                     |
+|                                      | **Sopravvivenza**      | DEX 5+                  | **Avanzamento** | INT 8+                  |                     |
+|                                      | **Riarruolamento**     | 4+                      |                 |                         |                     |
+|                                      |                        | **Benefici di Congedo** |                 |                         |                     |
+| **Rango**                            | **Titolo**             | **Abilità o Bonus**     | **1D6**         | **Denaro**              | **Materiali**       |
+| 0                                    | Independente           | Legge delle Strada-1    | 1               | 1000                    | Passaggio Inferiore |
+| 1                                    | Associato              |                         | 2               | 5000                    | +1 INT              |
+| 2                                    | Soldato                | Armi da Fuoco-1         | 3               | 5000                    | Arma                |
+| 3                                    | Tenente                |                         | 4               | 5000                    | Contatto            |
+| 4                                    | Sottoboss              |                         | 5               | 10000                   | Arma                |
+| 5                                    | Consigliere            |                         | 6               | 20000                   | Passaggio Medio     |
+| 6                                    | Boss                   |                         | 7               | 50000                   | +1 SOC              |
+| **Abilità e Addestramento**          |                        |                         |                 |                         |                     |
+| **1D6**                              | **Sviluppo Personale** | **Servizio**            | **Specialista** | **Educazione Avanzata** |                     |
+| 1                                    | +1 FOR                 | Legge delle Strada      | Computer        | Sopravvivenza           |                     |
+| 2                                    | +1 DEX                 | Riparazioni             | Riparazioni     | Ingegneria              |                     |
+| 3                                    | +1 INT                 | Armi da Fuoco           | Baldoria        | Tuttofare               |                     |
+| 4                                    | Atletica               | Inganno                 | Amministrazione | Medicina                |                     |
+| 5                                    | Mischia                | Furtività               | Ricognizione    | Investigation           |                     |
+| 6                                    | Baldoria               | Ricognizione            | Inganno         | Tattica                 |                     |
+
+| **Esploratore**                          |                        |                         |                 |                         |                           |
+|------------------------------------------|------------------------|-------------------------|-----------------|-------------------------|---------------------------|
+| Eri un intrepido esploratore o corriere. |                        |                         |                 |                         |                           |
+|                                          | **Sopravvivenza**      | END 7+                  | **Avanzamento** | INT 6+                  |                           |
+|                                          | **Riarruolamento**     | 6+                      |                 | \-                      |                           |
+|                                          |                        | **Benefici di Congedo** |                 |                         |                           |
+| **Rango**                                | **Titolo**             | **Abilità o Bonus**     | **1D6**         | **Denaro**              | **Materiali**             |
+| 0                                        | Esploratore            | Pilotare-1              | 1               | 1000                    | Passaggio Inferiore       |
+| 1                                        |                        |                         | 2               | 5000                    | +1 INT                    |
+| 2                                        |                        |                         | 3               | 10000                   | Arma                      |
+| 3                                        | Esploratore Anziano    | Scienze-1               | 4               | 10000                   | Passaggio Medio           |
+| 4                                        |                        |                         | 5               | 20000                   | Tuta Spaziale             |
+| 5                                        |                        |                         | 6               | 50000                   | Nave da ricognizione      |
+| 6                                        | Direttore              |                         | 7               | 50000                   | Società degli Esploratori |
+| **Abilità e Addestramento**              |                        |                         |                 |                         |                           |
+| **1D6**                                  | **Sviluppo Personale** | **Servizio**            | **Specialista** | **Educazione Avanzata** |                           |
+| 1                                        | +1 FOR                 | Riparazioni             | Ingegneria      | Amministrazione         |                           |
+| 2                                        | +1 DEX                 | Computer                | Animali         | Computer                |                           |
+| 3                                        | Atletica               | Armi da Fuoco           | Scienze         | Grav                    |                           |
+| 4                                        | Tuttofare              | Artiglieria             | Pilotare        | Medicina                |                           |
+| 5                                        | +1 EDU                 | Ricognizione            | Investigare     | Science                 |                           |
+| 6                                        | Mischia                | Pilotare                | Furtività       | Tattica                 |                           |
+
+# Abilità
+
+I personaggi in Cepheus PVDL usano abilità diverse per confrontarsi con sfide che li attendono tra le stelle, dal pilotaggio di un'astronave a sparare con un laser. Le abilità sono la più grande risorsa del personaggio. I personaggi Abili sono competenti: Abilità-1 è utilizzabile, mentre Abilità-3 denota competenza e conoscenza professionale.
+
+Di seguito sono elencate le abilità utilizzate da queste regole:
+
+**Ammistazione:** amministrazione e gestione della burocrazia e della legge. Copre anche la contraffazione.
+
+**Aeromobili:** controllo e utilizzo di velivoli atmosferici.
+
+**Animali:** la cura e l'addestramento degli animali. Copre anche l'equitazione e agricoltura generale.
+
+**Atletica:** la capacità di esercitare se stessi fisicamente. Puoi aggiungere l'abilità Atletica ai tiri delle caratteristiche fisiche appropriati. Questa abilità non viene mai considerata come non qualificata.
+
+**Baldoria:** l'arte di socializzare in contesti sociali per raggiungere i tuoi obiettivi. Copre anche il gioco d'azzardo.
+
+**Computer:** programmazione, lavoro con l'hardware del computer e hacking. Questa abilità copre anche l'uso di sensori e dispositivi di comunicazione.
+
+**Inganno:** evitando in modo convincente la verità e fuorviando gli altri persone.
+
+**Demolizioni:** lavorare con gli esplosivi per far esplodere le cose! Questa abilità copre anche disinnescare detti esplosivi prima che esplodano!
+
+**Guidare:** controllo e utilizzo di veicoli terrestri.
+
+**Ingegneria:** uso e manutenzione di propulsori di astronavi e centrali elettriche.
+
+**Grav:** controllo e utilizzo di veicoli gravitazionali.
+
+**Armi da Fuoco:** usando armi leggere, balestre e archi in combattimento.
+
+**Artiglieria:** utilizzando armi montate su veicoli o su astronavi.
+
+**Armi Pesanti:** utilizzando pistole al plasma, lanciarazzi e altre armi di supporto portatili.
+
+**Investigare:** questa abilità combina un'attenta osservazione, analisi forense, ricerca e analisi dettagliata.
+
+**Tuttofare:** questa abilità speciale riduce la penalità Inesperto (MD-3, annotata sopra) del suo livello. Per esempio, un personaggio con Tuttofare al livello 2 subirà DM-1 solo per tiri Insperto. Non puoi ottenere più di 3 livelli in questa abilità e non puoi migliorarla dopo la generazione del personaggio.
+
+**Comando:** motivare e dirigere gli altri, spesso in tempi di crisi.
+
+**Collegamento:** l'arte e la pratica della negoziazione e della diplomazia in una miriade di situazioni sociali.
+
+**Medicina:** addestramento nelle scienze mediche, dalla diagnosi e triage alla chirurgia.
+
+**Mischia:** combattere corpo a corpo, con un'arma o senza armi.
+
+**Pilotare:** funzionamento, controllo e navigazione di astronavi interplanetarie e interstellari, sia nello spazio reale che nello spazio di Balzo.
+
+**Ricognizione:** scouting per pericolo e individuazione di minacce.
+
+**Riparazioni:** la capacità di mantenere, riparare e costruire dispositivi meccanici ed elettronici di ogni tipo. Copre anche lo scassinare.
+
+**Scienze:** l'abilità scientifica multidisciplinare, come sarebbe tipico per un ufficiale scientifico di un'astronave.
+
+**Furtività:** addestramento nell'essere invisibili e inascoltati.
+
+**Steward:** la cura e il servizio dei passeggeri e degli altri ospiti.
+
+**Legge della Strada:** familiarità con la società della malavita e il modo di lavorare al suo interno.
+
+**Sopravvivenza:** rimanere vivi nella natura selvaggia. Questo copre anche le abilità "all'aperto" come il tracciamento, il foraggiamento e la pesca.
+
+**Tattica:** pianificazione tattica e processo decisionale, sia sul
+terra o nello spazio.
+
+**Marinaio:** controllo e utilizzo di imbarcazioni, compresi i sottomarini.
+
+**G-Zero:** lavorare e vivere in condizioni di microgravità. Copre anche l'uso di tute spaziali e armature pesanti.
+
+# Equipaggiamento
+
+Questo capitolo descrive strumenti comuni, armi e altri accessori utilizzato dagli avventurieri interstellari, dalle torce alle pistole laser. I prezzi sono in crediti (Cr), la valuta interstellare. Migliaia di crediti sono indicati come KCr e milioni di crediti sono indicati come MCr. Un credito è un valuta futuristica equivalente all'incirca a $ 3 $ nella valuta 2018.
+
+Gli articoli sono disponibili a vari livelli tecnologici (LT), che denotano la complessità tecnologica e il progresso. LT0 è equivalente all'età della pietra .; LT7 è la nostra era moderna; LT8-9 sono nel prossimo futuro; e una tipica entità politica da "space opera" sarebbe intorno a LT12-13.
+
+## Armatura personale
+
+L'armatura personale riduce i danni causati dagli attacchi in arrivo. Sottrai il grado di protezione dell'armatura da qualsiasi danno causato al personaggio, alcuni tipi di armatura richiedono livelli minimi dell'abilità G-Zero per essere utilizzati. Non è possibile indossare più di un tipo di armatura alla volta.
+
+| **Armatura**              | **LT** | **Protezione** | **Costo** | **Abilità Richiesta** |
+|---------------------------|--------|----------------|-----------|-----------------------|
+| Giubbotto                 | 1      | 2              | Cr50      | --                    |
+| Rete                      | 6      | 3              | Cr150     | --                    |
+| Tessuto                   | 7      | 6              | Cr250     | --                    |
+| Tuta spaziale             | 9      | 6              | Cr9000    | G-Zero 0              |
+| Reflec                    | 10     | 0/14 vs. laser | Cr1500    | --                    |
+| Armatura da Combattimento | 11     | 11             | Cr20,000  | G-Zero 1              |
+| Armatura Potenziata       | 13     | 18             | Cr200,000 | G-Zero 2              |
+
+**Tessuto (LT7):** armatura moderna in tessuto balistico resistente. Il panno può essere indossato sotto i vestiti.
+
+**Armatura da Combattimento (LT11):** armatura militare rigida chiusa. L'armatura da combattimento può anche fungere da tuta spziale con 6 ore di supporto vitale.
+
+**Giubbotto (LT1):** giacca di pelle o armatura di cuoio medievale.
+
+**Rete (LT6):** giacca rivestita con un metallo protettivo flessibile o  maglia di plastica.
+
+**Armatura Potenziata (LT13):** armatura da combattimento motorizzata. Questa potente armatura conferisce MD + 4 a FOR e DEX, anche se questo non si applica ai livelli di ferita. L'armatura potenziata garantisce MD + 4 a tutti i danni in mischia inflitti da chi la indossa ed è protetta dal vuoto e dagli ambienti ostili, come una tuta spaziale, con 6 ore di rifornimenti di supporto vitale.
+
+**Reflec (LT10):** armatura riflettente anti-laser. Reflec è molto efficace contro i laser ma è inefficace contro qualsiasi altra cosa. Reflec può essere indossato su un'altra armatura per una protezione anti-laser aggiuntiva.
+
+**Tuta spaziale (LT9):** una tuta spaziale futuristica standard. Una tuta spaziale trasporta forniture di supporto vitale per un massimo di 6 ore. Conta come due elementi per l'ingombro. Protegge dal vuoto, dalle atmosfere contaminate ed esotiche, nonché dagli agenti patogeni presenti nell'aria. Protegge dall'atmosfera corrosiva per ore 2D e dall'atmosfera insidiosa per 1Dx10 minuti.
+
+## Attrezzatura da avventura
+
+I seguenti oggetti sono comuni tra avventurieri ed esploratori.
+
+| **Oggetto**                                 | **LT** | **Costo** |
+|---------------------------------------------|--------|-----------|
+| Zaino                                       | 1      | Cr50      |
+| Razioni, 5 days                             | 1      | Cr125     |
+| Corda, 70m                                  | 1      | Cr50      |
+| Torcia                                      | 1      | Cr1       |
+| Manette                                     | 2      | Cr10      |
+| Tenda                                       | 2      | Cr100     |
+| Binocoli                                    | 3      | Cr10      |
+| Compasso                                    | 3      | Cr5       |
+| Borraccia                                   | 4      | Cr5       |
+| Respiratore                                 | 5      | Cr75      |
+| Torcia LED                                  | 7      | Cr5       |
+| Grimaldelli                                 | 5      | Cr25      |
+| Bombolo d'ossigeno, durata 6 ore            | 5      | Cr250     |
+| Toolkit tecnologico                         | 5      | Cr300     |
+| Kit per travestimento                       | 7      | C300      |
+| Comunicatore a lungo raggio, portata 500 km | 7      | Cr250     |
+| Kit Medico                                  | 7      | Cr100     |
+| Tenda pressurizzata                         | 7      | Cr2000    |
+| Branchie Artificiali                        | 8      | Cr4000    |
+| Visore Notturno                             | 8      | Cr100     |
+| Panacea                                     | 8      | Cr200     |
+| Zaino Propulsore                            | 8      | Cr200     |
+| Omnicomm                                    | 9      | Cr50      |
+| Omnicomp                                    | 9      | Cr250     |
+| Bolla di salvataggio                        | 9      | Cr900     |
+| Abbigliamento Artico                        | 10     | Cr200     |
+| Droga Acceleratrice                         | 10     | Cr200     |
+| Acceleratore Metabolico                     | 10     | Cr500     |
+| Multiscanner                                | 10     | Cr2000    |
+
+### Note sull'equipaggiamento
+
+Le **branchie artificiali** consentono un'attività subacquea illimitata sui mondi con atmosfere 4-9.
+
+**Droga Acceleratrice** è un farmaco che rallenta il metabolismo in un rapporto di 60 a 1 - una giornata soggettiva per l'utente è in realtà di 2 mesi. Si noti che questo farmaco ridurrà notevolmente il consumo di supporto vitale.
+
+Scassinare un lucchetto senza **grimaldelli** invoca una penalità DM-2 al
+tentativo.
+
+**Acceleratore Metabolico:** fornisce MD+8 ai lanci di iniziativa e consente all'utente di eseguire 3 azioni per round anziché le solite 2. L'effetto inizia 8 round dopo l'applicazione e dura 10 minuti (60 round), dopodiché l'utente subisce danni 2D.
+
+Il **Multiscanner** combina diverse funzioni del sensore: può rilevare radiazioni, emissioni elettromagnetiche, metalli e una serie limitata di sostanze chimiche e composti biologici.
+
+Il **Visore notturno** combina la visione in condizioni di scarsa illuminazione e a infrarossi.
+
+Gli smartphone di oggi alla fine si evolvono in un **Omnicomm**, uno strumento progettato per soddisfare tutte le tue esigenze di telecomunicazione in un solo dispositivo a portata di mano, con capacità di realtà aumentata olografica. Lo stesso vale per **Omnicomp**: un computer portatile e leggero che si è evoluto da sia il laptop che il tablet. Le batterie TL9 durano mesi tra le ricariche.
+
+**Panacea:** consente a qualsiasi personaggio, anche quelli senza la Medicina abilità, per neutralizzare malattie o veleni con un lancio di Medicina 5+ (assume Medicina-0 per i personaggi privi dell'abilità Medicina quando somministrazione di Panacea).
+
+Una **tenda a pressione** è priva di camera di decompressione e deve essere depressurizzata per entrare o uscire; può ospitare fino a 2 persone e necessita di bombole di ossigeno esterne.
+
+Una **Bolla di salvataggio** è una bolla di plastica di 2 m di diametro. Strati piezoelettrici convertono il movimento dell'utente in elettricità per ricaricare ilbatteria della bolla. Contiene forniture per 2 persone/ore di funzionamento. La pelle della bolla può riparare da sola tutte le forature tranne le più gravi.
+
+Uno **Zaino Propulsore** consente le manovre in condizioni di gravità zero.
 
 ## Vehicles
 
@@ -765,194 +470,25 @@ vehicle requires; the second, the number of passengers it may carry.
 
 **Cargo:** cargo capacity in kilograms or tons.
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>Vehicle</strong></th>
-<th><strong>TL</strong></th>
-<th><strong>Cost</strong></th>
-<th><strong>Agi</strong></th>
-<th><strong>Spd (kph)</strong></th>
-<th><strong>Light Damage</strong></th>
-<th><strong>Critical Damage</strong></th>
-<th><strong>Weapons</strong></th>
-<th><strong>Crew/<br />
-Psgrs</strong></th>
-<th><strong>Cargo (kg)</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Ground Car</td>
-<td>5</td>
-<td>KCr6</td>
-<td>+0</td>
-<td>150</td>
-<td>3</td>
-<td>6</td>
-<td></td>
-<td>1/3</td>
-<td>200</td>
-</tr>
-<tr class="even">
-<td>Motor Boat</td>
-<td>5</td>
-<td>KCr530</td>
-<td>-3</td>
-<td>120</td>
-<td>3</td>
-<td>6</td>
-<td></td>
-<td>5/10</td>
-<td>10000</td>
-</tr>
-<tr class="odd">
-<td>Truck</td>
-<td>5</td>
-<td>KCr50</td>
-<td>-1</td>
-<td>120</td>
-<td>6</td>
-<td>9</td>
-<td></td>
-<td>1/1</td>
-<td>30000</td>
-</tr>
-<tr class="even">
-<td>Main Battle Tank</td>
-<td>6</td>
-<td>KCr100</td>
-<td>-2</td>
-<td>60</td>
-<td>25</td>
-<td>32</td>
-<td><p>Gunnery,</p>
-<p>2 Support</p></td>
-<td>4/0</td>
-<td>100</td>
-</tr>
-<tr class="odd">
-<td>APC</td>
-<td>6</td>
-<td>KCr65</td>
-<td>-1</td>
-<td>80</td>
-<td>12</td>
-<td>15</td>
-<td>Support</td>
-<td>2/9</td>
-<td>1000</td>
-</tr>
-<tr class="even">
-<td>Helicopter</td>
-<td>6</td>
-<td>KCr250</td>
-<td>+1</td>
-<td>100</td>
-<td>3</td>
-<td>6</td>
-<td></td>
-<td>1/7</td>
-<td>500</td>
-</tr>
-<tr class="odd">
-<td>Submersible</td>
-<td>6</td>
-<td>KCr1700</td>
-<td>-4</td>
-<td>40</td>
-<td>3</td>
-<td>6</td>
-<td></td>
-<td>5/10</td>
-<td>30000</td>
-</tr>
-<tr class="even">
-<td>ATV, Tracked</td>
-<td>7</td>
-<td>KCr50</td>
-<td>-1</td>
-<td>80</td>
-<td>12</td>
-<td>15</td>
-<td></td>
-<td>1/15</td>
-<td>1000</td>
-</tr>
-<tr class="odd">
-<td>ATV, Wheeled</td>
-<td>7</td>
-<td>KCr50</td>
-<td>+0</td>
-<td>100</td>
-<td>12</td>
-<td>15</td>
-<td></td>
-<td>1/15</td>
-<td>10000</td>
-</tr>
-<tr class="even">
-<td>VTOL Jet</td>
-<td>7</td>
-<td>KCr500</td>
-<td>+1</td>
-<td>600</td>
-<td>3</td>
-<td>6</td>
-<td></td>
-<td>2/6</td>
-<td>5000</td>
-</tr>
-<tr class="odd">
-<td>Air/Raft</td>
-<td>8</td>
-<td>KCr275</td>
-<td>+0</td>
-<td>400</td>
-<td>3</td>
-<td>6</td>
-<td></td>
-<td>1/2</td>
-<td>4000</td>
-</tr>
-<tr class="even">
-<td>G/Carrier</td>
-<td>8</td>
-<td>KCr1000</td>
-<td>+0</td>
-<td>620</td>
-<td>16</td>
-<td>20</td>
-<td>Support</td>
-<td>2/12</td>
-<td>2000</td>
-</tr>
-<tr class="odd">
-<td>Speeder</td>
-<td>8</td>
-<td>KCr890</td>
-<td>+2</td>
-<td>1500</td>
-<td>3</td>
-<td>6</td>
-<td></td>
-<td>1/1</td>
-<td>4000</td>
-</tr>
-<tr class="even">
-<td>Grav Belt</td>
-<td>12</td>
-<td>KCr100</td>
-<td>+2</td>
-<td>300</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td>1</td>
-<td>personal</td>
-</tr>
-</tbody>
-</table>
+| Vehicle          | TL | Cost    | Agi | Spd (kph) | Light Damage | Critical Damage | Weapons            | Crew/
+Psgrs | Cargo (kg) |
+|------------------|----|---------|-----|-----------|--------------|-----------------|--------------------|-------------|------------|
+| Ground Car       | 5  | KCr6    | +0  | 150       | 3            | 6               |                    | 1/3         | 200        |
+| Motor Boat       | 5  | KCr530  | -3  | 120       | 3            | 6               |                    | 5/10        | 10000      |
+| Truck            | 5  | KCr50   | -1  | 120       | 6            | 9               |                    | 1/1         | 30000      |
+| Main Battle Tank | 6  | KCr100  | -2  | 60        | 25           | 32              | Gunnery,
+2 Support | 4/0         | 100        |
+| APC              | 6  | KCr65   | -1  | 80        | 12           | 15              | Support            | 2/9         | 1000       |
+| Helicopter       | 6  | KCr250  | +1  | 100       | 3            | 6               |                    | 1/7         | 500        |
+| Submersible      | 6  | KCr1700 | -4  | 40        | 3            | 6               |                    | 5/10        | 30000      |
+| ATV, Tracked     | 7  | KCr50   | -1  | 80        | 12           | 15              |                    | 1/15        | 1000       |
+| ATV, Wheeled     | 7  | KCr50   | +0  | 100       | 12           | 15              |                    | 1/15        | 10000      |
+| VTOL Jet         | 7  | KCr500  | +1  | 600       | 3            | 6               |                    | 2/6         | 5000       |
+| Air/Raft         | 8  | KCr275  | +0  | 400       | 3            | 6               |                    | 1/2         | 4000       |
+| G/Carrier        | 8  | KCr1000 | +0  | 620       | 16           | 20              | Support            | 2/12        | 2000       |
+| Speeder          | 8  | KCr890  | +2  | 1500      | 3            | 6               |                    | 1/1         | 4000       |
+| Grav Belt        | 12 | KCr100  | +2  | 300       | -            | -               |                    | 1           | personal   |
+
 
 ### 
 
@@ -1046,233 +582,31 @@ conditions.
 
 **Common Personal Weapons**
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>Weapon</strong></th>
-<th><strong>TL</strong></th>
-<th><strong>Cost</strong></th>
-<th><strong>Range</strong></th>
-<th><strong>Dmg</strong></th>
-<th><strong>Mag</strong></th>
-<th><p><strong>Ammo</strong></p>
-<p><strong>Cost</strong></p></th>
-<th><strong>Aspects</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Unarmed attack</td>
-<td>--</td>
-<td>--</td>
-<td>--</td>
-<td>STR DM</td>
-<td>--</td>
-<td>--</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Axe or Staff</td>
-<td>0</td>
-<td>Cr25</td>
-<td>--</td>
-<td>2D</td>
-<td>--</td>
-<td>--</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Cudgel (Club) or Spear</td>
-<td>0</td>
-<td>Cr10</td>
-<td>--</td>
-<td>3D</td>
-<td>--</td>
-<td>--</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Dagger</td>
-<td>0</td>
-<td>Cr0</td>
-<td>--</td>
-<td>1D</td>
-<td>--</td>
-<td>--</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Sword or Cutlass</td>
-<td>1</td>
-<td>Cr150</td>
-<td>--</td>
-<td>3D</td>
-<td>--</td>
-<td>--</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Broadsword or Great-Axe</td>
-<td>2</td>
-<td>Cr300</td>
-<td>--</td>
-<td>4D</td>
-<td>--</td>
-<td>--</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Shotgun</td>
-<td>4</td>
-<td>Cr200</td>
-<td>20/40</td>
-<td>4D</td>
-<td>6</td>
-<td>Cr10</td>
-<td>Scattergun</td>
-</tr>
-<tr class="even">
-<td>Autopistol</td>
-<td>5</td>
-<td>Cr150</td>
-<td>10/50</td>
-<td>2D</td>
-<td>16</td>
-<td>Cr7</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Rifle</td>
-<td>5</td>
-<td>Cr500</td>
-<td>200/400</td>
-<td>3D</td>
-<td>10</td>
-<td>Cr15</td>
-<td>AV 1D</td>
-</tr>
-<tr class="even">
-<td>Submachinegun</td>
-<td>5</td>
-<td>Cr500</td>
-<td>30/100</td>
-<td>2D</td>
-<td>30</td>
-<td>Cr20</td>
-<td>Auto 3</td>
-</tr>
-<tr class="odd">
-<td>Assault Rifle</td>
-<td>7</td>
-<td>Cr300</td>
-<td>50/200</td>
-<td>3D</td>
-<td>30</td>
-<td>Cr15</td>
-<td>AV 1D, Auto 2</td>
-</tr>
-<tr class="even">
-<td>Light Machinegun</td>
-<td>7</td>
-<td>Cr1200</td>
-<td>100/300</td>
-<td>3D</td>
-<td>100</td>
-<td>Cr125</td>
-<td>AV 1D, Auto 3,</td>
-</tr>
-<tr class="odd">
-<td>Body (Stealth) Pistol</td>
-<td>8</td>
-<td>Cr500</td>
-<td>5/20</td>
-<td>2D</td>
-<td>6</td>
-<td>Cr20</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Snub Revolver</td>
-<td>8</td>
-<td>Cr150</td>
-<td>5/20</td>
-<td>2D</td>
-<td>6</td>
-<td>Cr6</td>
-<td>Zero-G</td>
-</tr>
-<tr class="odd">
-<td>Stun Prod</td>
-<td>8</td>
-<td>Cr300</td>
-<td>--</td>
-<td>2D</td>
-<td>--</td>
-<td>--</td>
-<td>Stun</td>
-</tr>
-<tr class="even">
-<td>Laser Rifle</td>
-<td>9</td>
-<td>Cr3500</td>
-<td>300/500</td>
-<td>5D</td>
-<td>30</td>
-<td>Cr1500</td>
-<td>AV 2D, Laser</td>
-</tr>
-<tr class="odd">
-<td>Advanced Combat Rifle</td>
-<td>10</td>
-<td>Cr1000</td>
-<td>200/400</td>
-<td>3D</td>
-<td>40</td>
-<td>Cr30</td>
-<td>AV 1D, Auto 3</td>
-</tr>
-<tr class="even">
-<td>Laser Pistol</td>
-<td>10</td>
-<td>Cr1500</td>
-<td>50/200</td>
-<td>3D</td>
-<td>10</td>
-<td>Cr500</td>
-<td>Laser</td>
-</tr>
-<tr class="odd">
-<td>Stunner</td>
-<td>10</td>
-<td>Cr600</td>
-<td>10/30</td>
-<td>3D</td>
-<td>10</td>
-<td>Cr10</td>
-<td>Stun, Zero-G</td>
-</tr>
-<tr class="even">
-<td>Gauss Pistol</td>
-<td>12</td>
-<td>Cr1000</td>
-<td>20/100</td>
-<td>3D</td>
-<td>30</td>
-<td>Cr30</td>
-<td>AV 1D, Auto 2</td>
-</tr>
-<tr class="odd">
-<td>Gauss Rifle</td>
-<td>12</td>
-<td>Cr1500</td>
-<td>300/600</td>
-<td>4D</td>
-<td>100</td>
-<td>Cr40</td>
-<td>AV 1D, Auto 4</td>
-</tr>
-</tbody>
-</table>
+| Weapon                  | TL | Cost   | Range   | Dmg    | Mag | Ammo
+Cost | Aspects        |
+|-------------------------|----|--------|---------|--------|-----|-----------|----------------|
+| Unarmed attack          | -- | --     | --      | STR DM | --  | --        |                |
+| Axe or Staff            | 0  | Cr25   | --      | 2D     | --  | --        |                |
+| Cudgel (Club) or Spear  | 0  | Cr10   | --      | 3D     | --  | --        |                |
+| Dagger                  | 0  | Cr0    | --      | 1D     | --  | --        |                |
+| Sword or Cutlass        | 1  | Cr150  | --      | 3D     | --  | --        |                |
+| Broadsword or Great-Axe | 2  | Cr300  | --      | 4D     | --  | --        |                |
+| Shotgun                 | 4  | Cr200  | 20/40   | 4D     | 6   | Cr10      | Scattergun     |
+| Autopistol              | 5  | Cr150  | 10/50   | 2D     | 16  | Cr7       |                |
+| Rifle                   | 5  | Cr500  | 200/400 | 3D     | 10  | Cr15      | AV 1D          |
+| Submachinegun           | 5  | Cr500  | 30/100  | 2D     | 30  | Cr20      | Auto 3         |
+| Assault Rifle           | 7  | Cr300  | 50/200  | 3D     | 30  | Cr15      | AV 1D, Auto 2  |
+| Light Machinegun        | 7  | Cr1200 | 100/300 | 3D     | 100 | Cr125     | AV 1D, Auto 3, |
+| Body (Stealth) Pistol   | 8  | Cr500  | 5/20    | 2D     | 6   | Cr20      |                |
+| Snub Revolver           | 8  | Cr150  | 5/20    | 2D     | 6   | Cr6       | Zero-G         |
+| Stun Prod               | 8  | Cr300  | --      | 2D     | --  | --        | Stun           |
+| Laser Rifle             | 9  | Cr3500 | 300/500 | 5D     | 30  | Cr1500    | AV 2D, Laser   |
+| Advanced Combat Rifle   | 10 | Cr1000 | 200/400 | 3D     | 40  | Cr30      | AV 1D, Auto 3  |
+| Laser Pistol            | 10 | Cr1500 | 50/200  | 3D     | 10  | Cr500     | Laser          |
+| Stunner                 | 10 | Cr600  | 10/30   | 3D     | 10  | Cr10      | Stun, Zero-G   |
+| Gauss Pistol            | 12 | Cr1000 | 20/100  | 3D     | 30  | Cr30      | AV 1D, Auto 2  |
+| Gauss Rifle             | 12 | Cr1500 | 300/600 | 4D     | 100 | Cr40      | AV 1D, Auto 4  |
+
 
 **A note on unarmed damage:** any character can inflict at least 1 point
 of unarmed damage (before armor, of course) even if their STR DM is 0 or
@@ -1282,73 +616,15 @@ lower.
 
 The following weapons use the Heavy Weapons skill.
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>Weapon</strong></th>
-<th><strong>TL</strong></th>
-<th><strong>Cost</strong></th>
-<th><strong>Range</strong></th>
-<th><strong>Dmg</strong></th>
-<th><strong>Mag</strong></th>
-<th><p><strong>Ammo</strong></p>
-<p><strong>Cost</strong></p></th>
-<th><strong>Aspects</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>GP Machinegun</td>
-<td>6</td>
-<td>Cr1500</td>
-<td>200/400</td>
-<td>3D</td>
-<td>100</td>
-<td>Cr150</td>
-<td>Auto 4, AV 2D</td>
-</tr>
-<tr class="even">
-<td>Rocket Launcher</td>
-<td>6</td>
-<td>Cr2000</td>
-<td>50/200</td>
-<td>5D</td>
-<td>1</td>
-<td>Cr150</td>
-<td>AV 2D, Blast 6</td>
-</tr>
-<tr class="odd">
-<td>Under-barrel Grenade Launcher</td>
-<td>7</td>
-<td>Cr1000</td>
-<td>50/200</td>
-<td>By grenade</td>
-<td>1</td>
-<td>-</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Support Laser</td>
-<td>8</td>
-<td>Cr5000</td>
-<td>100/400</td>
-<td>6D</td>
-<td>100</td>
-<td>Cr2000</td>
-<td>AV 3D</td>
-</tr>
-<tr class="odd">
-<td>Plasma Gun</td>
-<td>12</td>
-<td>Cr20000</td>
-<td>200/500</td>
-<td>10D</td>
-<td>40</td>
-<td>Cr2500</td>
-<td>AV 5D</td>
-</tr>
-</tbody>
-</table>
+| Weapon                        | TL | Cost    | Range   | Dmg        | Mag | Ammo
+Cost | Aspects        |
+|-------------------------------|----|---------|---------|------------|-----|-----------|----------------|
+| GP Machinegun                 | 6  | Cr1500  | 200/400 | 3D         | 100 | Cr150     | Auto 4, AV 2D  |
+| Rocket Launcher               | 6  | Cr2000  | 50/200  | 5D         | 1   | Cr150     | AV 2D, Blast 6 |
+| Under-barrel Grenade Launcher | 7  | Cr1000  | 50/200  | By grenade | 1   | -         |                |
+| Support Laser                 | 8  | Cr5000  | 100/400 | 6D         | 100 | Cr2000    | AV 3D          |
+| Plasma Gun                    | 12 | Cr20000 | 200/500 | 10D        | 40  | Cr2500    | AV 5D          |
+
 
 **Rocket Launcher (TL6):** Rocket launchers are unsafe to use in
 enclosed spaces. Rocket payloads are considered high explosive and are
