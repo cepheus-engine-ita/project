@@ -553,7 +553,7 @@ Le armi hanno Aspetti che descrivono le loro caratteristiche speciali, come indi
 | Pistola Automatica               | 5        | Cr150    | 10/50     | 2D       | 16         | Cr7         |                  |
 | Fucile                           | 5        | Cr500    | 200/400   | 3D       | 10         | Cr15        | VA 1D            |
 | Mitragliatrice                   | 5        | Cr500    | 30/100    | 2D       | 30         | Cr20        | Auto 3           |
-| Fucile d'Assalto                 | 7        | Cr300    | 50/200    | 3D       | 30         | Cr15        | VA 1D, Auto 2    |
+| Fucile d'AsBalzo                 | 7        | Cr300    | 50/200    | 3D       | 30         | Cr15        | VA 1D, Auto 2    |
 | Mitragliatrice leggera           | 7        | Cr1200   | 100/300   | 3D       | 100        | Cr125       | VA 1D, Auto 3,   |
 | Pistola Portatile (Stealth)      | 8        | Cr500    | 5/20      | 2D       | 6          | Cr20        |                  |
 | Revolver                         | 8        | Cr150    | 5/20      | 2D       | 6          | Cr6         | Zero-G           |
@@ -810,7 +810,7 @@ La maggior parte dei mondi ha degli astroporti per il traffico di navi stellari.
 
 **Astroporto X:** Nessun astroporto.
 
-## Interplanetary Travel
+## Viaggio Interplanetario
 
 Le astronavi e altri veicoli spaziali in Cepheus PVDL hanno propulsori dello spazio reale magnetogravitici senza reazione con un indice di accelerazione da 1G a 6G. Le navi normalmente viaggiano in piena accelerazione a metà strada verso la loro destinazione, quindi decelerano per l'altra metà del viaggio. La tabella seguente presenta i tempi di viaggio nel sistema astratti in base all'accelerazione della nave.
 
@@ -838,706 +838,456 @@ Le astronavi viaggiano usando le loro unità di Balzo. Un Balzo dura una settima
 
 Un Balzo richiede il 10% del volume della nave in idrogeno liquido per parsec viaggiato. Il carburante è raffinato (Cr500 per tonnellata) o non raffinato (Cr100 per tonnellata). Il carburante non raffinato può ostacolare i Balzi e persino causare Balzi errati. Le navi aerodinamiche possono anche raccogliere carburante non raffinato dai giganti del gas o pompare carburante non raffinato dall'acqua degli oceani di un mondo (se esiste) senza alcun costo. Alcune navi trasportano depuratori di carburante in grado di raffinare il carburante, ma questo processo richiede spesso giorni per essere completato e quindi non è economicamente redditizio per la maggior parte dei vascelli commerciali.
 
-**Interstellar Jump Procedure**
+### Procedura per il Balzo Interstellare
 
-1. **Calculate Plot**: A jump requires a “jump plot”. Starports rated D
-   or better sell up-to-date jump plots to nearby populated worlds and
-   vessels for Cr1000 per parsec. A skilled pilot can also calculate
-   their own jump plot. Throw Piloting 4+ to calculate a jump plot;
-   this takes 1Dx6 minutes (i.e. 1D ship combat turns). A failed check
-   requires repeated calculation, or the ship will misjump (see below).
-   It is possible to calculate a jump plot in advance, but it will
-   become obsolete within 1D days.
+1. **Calcolare la rotta**: un Balzo richiede una "rotta di Balzo". Gli Astroporti con classificazione D o superiore vendono rotte di Balzo aggiornate a mondi popolati e vascelli vicini per Cr1000 al parsec. Un pilota esperto può anche calcolare la propria rotta di Balzo. Tira Pilotare 4+ per calcolare una rotta di Balzo; questo richiede 1Dx6 minuti (cioè 1D turni di combattimento navale). Una prova fallita richiede calcoli ripetuti, altrimenti la nave balzerà male (vedi sotto). È possibile calcolare in anticipo una rotta di Balzo, ma diventerà obsoleta entro 1D giorni.
 
-2. **Jump**: Once the jump plot is ready, the ship’s engineer must
-   throws 2D and adds their Engineering skill, with the following DMs.
-   A throw of 0 or less causes a misjump. A bad jump plot causes an
-   automatic misjump.
+2. **Balzo**: una volta che la rotta di Balzo è pronta, l'ingegnere della nave deve lanciare 2D e aggiungere la propria abilità di ingegneria, con i seguenti MD. Un lancio pari o inferiore a 0 causa un Balzo errato. Una rotta di Balzo calcolata male causa un Balzo errato automatico.
+       DM-1 al giorno se la rotta di Balzo non è aggiornata
+       DM-2 se il motore di Balzo è danneggiato.
+       DM-2 se si utilizza carburante non raffinato.
+       DM-8 se si balza entro un limite di cento diametri dal pianeta o dalla stella più vicini (e non nel punto di Balzo)
 
-> DM-1 per day the jump plot is out of date
-> 
-> DM-2 if the Jump Drive is damaged.
-> 
-> DM-2 if using Unrefined fuel.
-> 
-> DM-8 if within a hundred-diameter limit of the nearest planet or star
-> (not at jump point)
+3. **In caso di Balzo errato**: un Balzo errato provoca un colpo critico sulla nave (vedi le regole del combattimento spaziale) e può distruggerla. Inoltre, la nave viaggia 1D x 1D  parsec in una direzione casuale. Se questo porta ad un esagono vuoto sulla mappa, la nave emerge dal Balzo errato nel sistema stellare più vicino a quell'esagono vuoto. Nel caso in cui ci siano più sistemi adiacenti, scegline uno a caso.
 
-1. **In Case of a Misjump**: A misjump causes a Critical Hit on the
-   ship (see the space combat rules) and may destroy it. Furthermore,
-   the ship travels 1D x 1D parsecs in a random direction. If this
-   leads to an empty hex on the map, the ship emerges from the misjump
-   at the closest star system to that empty hex. In case there are
-   multiple adjacent systems, choose one randomly.
+### Sensori e rilevamento
 
-**Sensors and Detection**
+Ogni nave ha un MD Sensori (o computer) indicato nel suo blocco delle statistiche. Questo vale per tutti i tiri sensore (tipicamente i tiri di Computer).
 
-Each ship has a Sensor (or Computer) DM listed in its stat block. This
-applies to all sensor throws (typically Computer throws).
+Tira Computer 6+ per utilizzare i sensori di una nave a scopo di scansione e rilevamento. Applica l'MD Sensori della nave a questo tiro. L'Arbitro può determinare vari ulteriori MD per questo tiro in base al compito da svolgere.
 
-Throw Computer 6+ to use a ship’s sensors for scanning and detection
-purposes. Apply the ship’s Sensor DM to this throw. The Referee may
-determine various further DMs to this throw based on the task at hand.
+I sensori delle navi stellari rilevano automaticamente qualsiasi nave civile presente nel sistema planetario locale se utilizza un transponder. Contrabbandieri, pirati e navi militari spesso disattivano tali transponder e quindi richiedono un tiro di Computer 8+ per essere rilevati a lungo raggio. Per una nave **occultata** si applica MD-4 ai tiri di rilevamento. Al rilevamento di veicoli piccoli si applica un ulteriore MD-2. Il rilevamento delle navi a breve distanza viene effettuato a MD+2.
 
-Starship sensors automatically detect any civilian ship present in the
-local planetary system if it is using a transponder. Smugglers, pirates,
-and naval vessels often turn off such transponders and thus require a
-Computer 8+ throw to detect at long range. A **stealthed** ship applies
-DM-4 to detection throws. Detecting small craft applies a further DM-2.
-Detecting ships at short range is done at DM+2.
+# Vascelli Comuni
 
-# Common Spacecraft
+Alcune classi di navi sono comuni in una tipica ambientazione di Cepheus PVDL. Esistono certamente molte altre classi e modelli, ma le seguenti sono molto utili per una tipica campagna.
 
-Some ship classes are common in a typical Cepheus Light setting. Many
-other classes and designs certainly exist, but the following are very
-useful for a typical campaign.
+## Veicoli Piccoli
 
-## Small Craft
+Di seguito sono riportate alcuni veicoli piccoli comuni. In tutti i casi, la capacità del generatore è di 2 settimane.
 
-Below are a few common small craft. In all cases, power plant endurance
-is 2 weeks.
+### LT11 Caccia da 10t 
 
-### TL11 10-ton Fighter
+Il Caccia è un veicolo leggero da attacco e intercettazione.
 
-The fighter is a light attack craft and interceptor.
-
-| **Fighter**                                        | **Tonnage:** 10                                                                                           | **Armor:** None | Streamlined     |
+| **Fighter**                                        | **Tonnellaggio:** 10                                                                                           | **Corazza:** Nessuna | Aerodinamico     |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
-|                                                    |                                                                                                           |                 | **Thrust:** 6 G |
-|                                                    | **Fuel:** 2 tons of fuel, 2 weeks endurance                                                               |                 |                 |
-| Model/1 **computer**                               | **Armament:** 1 ton reserved for weapons; may only mount one energy weapon and up to 2 non-energy weapons |                 |                 |
-| **Fittings:** None                                 |                                                                                                           |                 |                 |
-| **Crew:** pilot in a 1-person cockpit              |                                                                                                           |                 |                 |
-| **Cost:** MCr10.3; **Construction Time:** 28 weeks |                                                                                                           |                 |                 |
+|                                                    |                                                                                                           |                 | **Spinta:** 6 G |
+|                                                    | **Carburante:** 2 tonnellate di carburante, 2 settimane di autonomia                                                               |                 |                 |
+| Modello/1 **computer**                               | **Armamenti:** 1 tonnellata riservata alle armi; può montare solo un'arma energetica e fino a 2 armi non energetiche |                 |                 |
+| **Accessori:** Nessuno                                 |                                                                                                           |                 |                 |
+| **Equipaggio:** pilota in cabina di pilotaggio per 1 persona              |                                                                                                           |                 |                 |
+| **Costo:** MCr10.3; **Tempo Costruzione:** 28 settimane |                                                                                                           |                 |                 |
 
-### TL9 20-ton Launch
+### LT9 Lancia da 20t
 
-The Launch often serves as a lifeboat or small transport craft.
+Il lancio spesso funge da scialuppa di salvataggio o piccola imbarcazione da trasporto.
 
-| **Launch**                                                                          | **Tonnage:** 20                               | **Armor:** None | Streamlined     |
+| **Lancia**                                                                          | **Tonnellaggio:** 20                               | **Corazza:** Nessuna | Aerodinamico     |
 | ----------------------------------------------------------------------------------- | --------------------------------------------- | --------------- | --------------- |
-|                                                                                     |                                               |                 | **Thrust:** 1 G |
-|                                                                                     | **Fuel:** 0.8 tons of fuel, 2 weeks endurance |                 |                 |
-| No **computer**                                                                     | **Armament:** None                            |                 |                 |
-| **Fittings:** 16 tons of cargo space (other fittings are usually added as required) |                                               |                 |                 |
-| **Crew:** pilot in a 1-person cockpit                                               |                                               |                 |                 |
-| **Cost:** MCr5.4; **Construction Time:** 29 weeks                                   |                                               |                 |                 |
+|                                                                                     |                                               |                 | **Spinta:** 1 G |
+|                                                                                     | **Carburante:** 0,8 tonnellate di carburante, 2 settimane di autonomia |                 |                 |
+| No **computer**                                                                     | **Armamenti:** Nessuno                            |                 |                 |
+| **Accessori:** 16 tonnellate di spazio di carico (altri accessori vengono solitamente aggiunti secondo necessità) |                                               |                 |                 |
+| **Equipaggio:** pilota in cabina di pilotaggio per 1 persona                                               |                                               |                 |                 |
+| **Costo:** MCr5.4; **Tempo Costruzione:** 29 settimane                                   |                                               |                 |                 |
 
-### 30-ton Ship's Boat
+### Scialuppa da 30t
 
-The ship’s boat is a small multi-use vessel with powerful engines.
+La scialuppa è un veicolo piccolo multiuso con motori potenti.
 
-| **Ship's Boat**                                    | **Tonnage:** 30                                                                                                | **Armor:** None | Streamlined     |
+| **Scialuppa**                                    | **Tonnellaggio:** 30                                                                                                | **Corazza:** Nessuno | Aerodinamico     |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
-|                                                    |                                                                                                                |                 | **Thrust:** 6 G |
-|                                                    | **Fuel:** 2.2 tons of fuel, 2 weeks endurance                                                                  |                 |                 |
-| Model/1 **computer**                               | **Armament:** 1 ton reserved for weapon systems; may mount one energy weapon and up to two non-energy weapons. |                 |                 |
-| **Fittings:** 15.5 tons of cargo space             |                                                                                                                |                 |                 |
-| **Crew:** pilot in a 1-person control cabin        |                                                                                                                |                 |                 |
-| **Cost:** MCr17.4; **Construction Time:** 30 weeks |                                                                                                                |                 |                 |
+|                                                    |                                                                                                                |                 | **Spinta:** 6 G |
+|                                                    | **Carburante:** 2,2 tonnellate di carburante, 2 settimane di autonomia                                                                  |                 |                 |
+| Modello/1 **computer**                               | **Armamenti:** 1 tonnellata riservata ai sistemi d'arma; può montare un'arma energetica e fino a due armi non energetiche. |                 |                 |
+| **Accessori:** 15,5 tonnellate di spazio di carico             |                                                                                                                |                 |                 |
+| **Equipaggio:** pilota in cabina di comando per 1 persona        |                                                                                                                |                 |                 |
+| **Costo:** MCr17.4; **Tempo Costruzione:** 30 settimane |                                                                                                                |                 |                 |
 
-### 95-ton Shuttle
+### Shuttle da 95t
 
-The shuttle is a heavy transport craft often used to ferry passengers
-and cargo between surface and orbit.
+La navetta è un veicolo da trasporto pesante spesso utilizzato per trasportare passeggeri e merci tra la superficie e l'orbita.
 
-| **Shuttle**                                                                                               | **Tonnage:** 95                               | **Armor:** None | Streamlined     |
+| **Shuttle**                                                                                               | **Tonnellaggio:** 95                               | **Corazza:** Nessuno | Aerodinamico     |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------- | --------------- |
-|                                                                                                           |                                               |                 | **Thrust:** 3 G |
-|                                                                                                           | **Fuel:** 4.2 tons of fuel, 2 weeks endurance |                 |                 |
-| No **computer**                                                                                           | **Armament:** None                            |                 |                 |
-| **Fittings:** 69.5 tons of cargo space. Some of the cargo space is often traded for acceleration couches. |                                               |                 |                 |
-| **Crew:** pilot in a 2-person control cabin (allowing another crewmember)                                 |                                               |                 |                 |
-| **Cost:** MCr32.6; **Construction Time:** 35 weeks                                                        |                                               |                 |                 |
+|                                                                                                           |                                               |                 | **Spinta:** 3 G |
+|                                                                                                           | **Carburante:** 4,2 tonnellate di carburante, 2 settimane di autonomia |                 |                 |
+| No **computer**                                                                                           | **Armamenti:** Nessuno                            |                 |                 |
+| **Accessori:** 69,5 tonnellate di spazio di carico. Una parte dello spazio di carico viene spesso utilizzata per divani di accelerazione. |                                               |                 |                 |
+| **Equipaggio:** pilota in una cabina di comando per 2 persone (consentendo un altro membro dell'equipaggio)                                 |                                               |                 |                 |
+| **Costo:** MCr32.6; **Tempo Costruzione:** 35 settimane                                                        |                                               |                 |                 |
 
-## Starships
+## Astronavi
 
-The following are some of the common and archetypal starships useful in
-the typical Cepheus universe.
+Le seguenti sono alcune delle astronavi comuni e archetipiche utili nel tipico universo di Cepheus.
 
-### 300-ton Corsair
+### Corsaro da 300t
 
-The corsair is a light attack vessel intended for raiding enemy commerce
-and now often employed by independent pirates and mercenaries.
+Il corsaro è un vascello da attacco leggero destinato a razziare il commercio nemico e ora spesso impiegato da pirati e mercenari indipendenti.
 
-| **Corsair**                                                                                                                                                 | **Tonnage:** 300                                              | **Armor:** 4 Crystaliron | Streamlined     |
+| **Corsaro**                                                                                                                                                 | **Tonnellaggio:** 300                                              | **Corazza:** 4 Crystaliron | Aerodinamico     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------ | --------------- |
-| **Maneuver:** F                                                                                                                                             | **Jump:** E                                                   | **P-Plant:** F           | **Thrust:** 4 G |
-| **Jump Rating:** 3                                                                                                                                          | **Fuel:** 102 tons for: 1x Jump 3, 2 weeks endurance          |                          |                 |
-| Model/3 **computer**                                                                                                                                        | **Armament:** 3x triple turrets: 1 missile and 2 pulse lasers |                          |                 |
-| **Fittings:** 60 escape pods, armory for 10 marines, fuel scoops, fuel processor (25t/day), 10 staterooms, 5 emergency low berths, 35 tons of cargo space   |                                                               |                          |                 |
-| **Crew:** 19 total – captain, pilot, sensor operator, medic, 2 engineers, 3 gunners, 10 ship's troops. All crew at double occupancy except for the captain. |                                                               |                          |                 |
-| **Cost:** MCr158; **Construction Time:** 52 weeks                                                                                                           |                                                               |                          |                 |
+| **Manovra:** F                                                                                                                                             | **Balzo:** E                                                   | **Generatore:** F           | **Spinta:** 4 G |
+| **Classe di Balzo:** 3                                                                                                                                          | **Carburante:** 102 tonnellate per: 1x Balzo 3, 2 settimane di resistenza          |                          |                 |
+| Modello/3 **computer**                                                                                                                                        | **Armamenti:** 3 torrette triple: 1 missile e 2 laser a impulsi |                          |                 |
+| **Accessori:** 60 capsule di salvataggio, armeria per 10 marines, bocchettoni carburante, processore carburante (25 t / giorno), 10 cabine, 5 cuccette inferiori di emergenza, 35 tonnellate di spazio di carico   |                                                               |                          |                 |
+| **Equipaggio:** 19 in totale: capitano, pilota, operatore del sensore, medico, 2 ingegneri, 3 artiglieri, 10 truppe della nave. Tutto l'equipaggio in doppia occupazione tranne il capitano. |                                                               |                          |                 |
+| **Costo:** MCr158; **Tempo Costruzione:** 52 settimane                                                                                                           |                                                               |                          |                 |
 
-### 400-ton Frigate
+### Fregata da 400t
 
-The frigate is a light naval ship used for anti-piracy patrols and
-customs inspections.
+La fregata è una nave militare leggera utilizzata per pattugliamenti antipirateria e ispezioni doganali.
 
-| **Frigate**                                                                                                                                                               | **Tonnage:** 400                                                              | **Armor:** 10 Superdense | Standard        |
+| **Fregata**                                                                                                                                                               | **Tonnellaggio:** 400                                                              | **Corazza:** 10 Superdense | Standard        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------ | --------------- |
-| **Maneuver:** H                                                                                                                                                           | **Jump:** F                                                                   | **P-Plant:** H           | **Thrust:** 4 G |
-| **Jump Rating:** 3                                                                                                                                                        | **Fuel:** 136 tons for: 1x Jump 3, 2 weeks endurance                          |                          |                 |
-| Model/3 **computer**                                                                                                                                                      | **Armament:** 4x triple turrets: 2 particle beam, 1 pulse laser, 1 sandcaster |                          |                 |
-| **Fittings:** ship's boat, 23 escape pods, armory for 10 marines, fuel scoops, fuel processor (140t/day), 12 staterooms, 10 emergency low berths, 9.5 tons of cargo space |                                                                               |                          |                 |
-| **Crew:** 21 total – captain, 3 pilots, sensor operator, medic, 3 engineers, 4 gunners, and 8 marines. All crew at double occupancy except for the captain.               |                                                                               |                          |                 |
-| **Cost:** MCr245; **Construction Time:** 60 weeks                                                                                                                         |                                                                               |                          |                 |
+| **Manovra:** H                                                                                                                                                           | **Balzo:** F                                                                   | **Generatore:** H           | **Spinta:** 4 G |
+| **Classe di Balzo:** 3                                                                                                                                                        | **Carburante:** 136 tonnellate per: 1x Balzo 3, 2 settimane di durata                          |                          |                 |
+| Modello/3 **computer**                                                                                                                                                      | **Armamenti:** 4 torrette triple: 2 fascio di particelle, 1 laser a impulsi, 1 sandcaster |                          |                 |
+| **Accessori:** barca della nave, 23 capsule di salvataggio, armeria per 10 marines, bocchettoni carburante, processore carburante (140t / giorno), 12 cabine, 10 cuccette inferiori di emergenza, 9,5 tonnellate di spazio di carico |                                                                               |                          |                 |
+| **Equipaggio:** 21 in totale: capitano, 3 piloti, operatore di sensori, medico, 3 ingegneri, 4 artiglieri e 8 marines. Tutto l'equipaggio in doppia occupazione tranne il capitano.               |                                                                               |                          |                 |
+| **Costo:** MCr245; **Tempo Costruzione:** 60 settimane                                                                                                                         |                                                                               |                          |                 |
 
-### 400-ton Subsidized Merchant
+### Mercantile Sovvenzionato da 400t
 
-The subsidized merchant is a common interstellar merchant vessel,
-financed by the government to provide services on the less profitable
-frontier routes.
+Il mercantile sovvenzionato è una comune nave mercantile interstellare, finanziata dal governo per fornire servizi sulle rotte di frontiera meno redditizie.
 
-| **Subsidized Merchant**                                                    | **Tonnage:** 400                                       | **Armor:** None | Streamlined     |
+| **Mercantile Sovvenzionato**                                                    | **Tonnellaggio:** 400                                       | **Corazza:** Nessuno | Aerodinamico     |
 | -------------------------------------------------------------------------- | ------------------------------------------------------ | --------------- | --------------- |
-| **Maneuver:** D                                                            | **Jump:** D                                            | **P-Plant:** D  | **Thrust:** 2 G |
-| **Jump Rating:** 2                                                         | **Fuel:** 88 tons for: 1x Jump 2, 2 weeks endurance    |                 |                 |
-| Model/1bis **computer**                                                    | **Armament:** none; 2 tons reserved for weapon systems |                 |                 |
-| **Fittings:** 14 escape pods, 14 staterooms, 10 low berths, 179 tons cargo |                                                        |                 |                 |
-| **Crew:** 6 total – pilot, sensor operator, 2 engineers, medic, steward.   |                                                        |                 |                 |
-| **Cost:** MCr113; **Construction Time:** 60 weeks                          |                                                        |                 |                 |
+| **Manovra:** D                                                            | **Balzo:** D                                            | **Generatore:** D  | **Spinta:** 2 G |
+| **Classe di Balzo:** 2                                                         | **Carburante:** 88 tonnellate per: 1x Balzo 2, 2 settimane di durata    |                 |                 |
+| Modello/1bis **computer**                                                    | **Armamenti:** nessuno; 2 tonnellate riservate ai sistemi d'arma |                 |                 |
+| **Accessori:** 14 capsule di salvataggio, 14 cabine, 10 cuccette inferiori, 179 tonnellate di carico |                                                        |                 |                 |
+| **Equipaggio:** 6 in totale: pilota, operatore del sensore, 2 ingegneri, medico, steward.   |                                                        |                 |                 |
+| **Costo:** MCr113; **Tempo Costruzione:** 60 settimane                          |                                                        |                 |                 |
 
-### 100-ton Scout Ship
+### Nave Esploratrice da 100t
 
-The scout ship is a small exploration and courier vessel operable by a
-single scout but often operated by a team of 3 or 4 explorers.
+La nave esploratrice è una piccola nave da esplorazione e corriere azionabile da un singolo esploratore ma spesso gestita da una squadra di 3 o 4 esploratori.
 
-| **Scout Ship**                                                                                                                              | **Tonnage:** 100                                    | **Armor:** None | Streamlined     |
+| **Nave Esploratrice**                                                                                                                              | **Tonnellaggio:** 100                                    | **Corazza:** Nessuno | Aerodinamico     |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------- | --------------- |
-| **Maneuver:** A                                                                                                                             | **Jump:** A                                         | **P-Plant:** A  | **Thrust:** 2 G |
-| **Jump Rating:** 2                                                                                                                          | **Fuel:** 24 tons for: 1x Jump 2, 4 weeks endurance |                 |                 |
-| Model/2 **computer**                                                                                                                        | **Armament:** 1 ton reserved for weapon systems     |                 |                 |
-| **Fittings:** 4 escape pods, 15 probe drones, ATV, fuel scoops, fuel processor (5t/day), 4 staterooms, 1 emergency low berth, 14 tons cargo |                                                     |                 |                 |
-| **Crew:** 1 Pilot; optionally, also sensor operator/science officer, engineer, and gunner                                                   |                                                     |                 |                 |
-| **Cost:** MCr28; **Construction Time:** 36 weeks                                                                                            |                                                     |                 |                 |
+| **Manovra:** A                                                                                                                             | **Balzo:** A                                         | **Generatore:** A  | **Spinta:** 2 G |
+| **Classe di Balzo:** 2                                                                                                                          | **Carburante:** 24 tonnellate per: 1x Balzo 2, 4 settimane di durata |                 |                 |
+| Modello/2 **computer**                                                                                                                        | **Armamenti:** 1 tonnellata riservata ai sistemi d'arma     |                 |                 |
+| **Accessori:** 4 capsule di salvataggio, 15 droni sonda, ATV, bocchettoni carburante, processore carburante (5t / giorno), 4 cabine, 1 cuccetta inferiore di emergenza, 14 tonnellate di carico |                                                     |                 |                 |
+| **Equipaggio:** 1 pilota; opzionalmente, anche operatore del sensore / ufficiale scientifico, ingegnere e artigliere                                                   |                                                     |                 |                 |
+| **Costo:** MCr28; **Tempo Costruzione:** 36 settimane                                                                                            |                                                     |                 |                 |
 
-### 200-ton Trader
+### 200-ton Mercantile
 
-The trader is a light, often independent, commercial vessel.
+Il commerciante è una nave commerciale leggera, spesso indipendente.
 
-| **Trader**                                                                | **Tonnage:** 200                                    | **Armor:** None | Standard        |
+| **Mercantile**                                                                | **Tonnellaggio:** 200                                    | **Corazza:** Nessuno | Standard        |
 | ------------------------------------------------------------------------- | --------------------------------------------------- | --------------- | --------------- |
-| **Maneuver:** B                                                           | **Jump:** B                                         | **P-Plant:** B  | **Thrust:** 2 G |
-| **Jump Rating:** 2                                                        | **Fuel:** 44 tons for: 1x Jump 2, 2 weeks endurance |                 |                 |
-| Model/1bis **computer**                                                   | **Armament:** 2 tons reserved for weapon systems    |                 |                 |
-| **Fittings:** 10 escape pods, 10 staterooms, 20 low berths, 53 tons cargo |                                                     |                 |                 |
-| **Crew:** 5 total – pilot, sensor operator, engineer, medic, steward.     |                                                     |                 |                 |
-| **Cost:** MCr61; **Construction Time:** 44 weeks                          |                                                     |                 |                 |
+| **Manovra:** B                                                           | **Balzo:** B                                         | **Generatore:** B  | **Spinta:** 2 G |
+| **Classe di Balzo:** 2                                                        | **Carburante:** 44 tonnellate per: 1x Balzo 2, 2 settimane di durata |                 |                 |
+| Modello/1bis **computer**                                                   | **Armamenti:** 2 tonnellate riservate ai sistemi d'arma   |                 |                 |
+| **Accessori:** 10 capsule di salvataggio, 10 cabine, 20 cuccette inferiori, 53 tonnellate di carico |                                                     |                 |                 |
+| **Equipaggio:** 5 in totale: pilota, operatore di sensori, ingegnere, medico, steward.     |                                                     |                 |                 |
+| **Costo:** MCr61; **Tempo Costruzione:** 44 settimane                          |                                                     |                 |                 |
 
-### 100-ton Yacht
+### Yacht da 100t
 
-The yacht is a plaything and a transport for people of wealth and power.
+Lo yacht è un sollazzo e un trasporto per persone ricche e potenti.
 
-| **Yacht**                                                                                                                                          | **Tonnage:** 100                                    | **Armor:** None | Streamlined     |
+| **Yacht**                                                                                                                                          | **Tonnellaggio:** 100                                    | **Corazza:** Nessuno | Aerodinamico     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------- | --------------- |
-| **Maneuver:** A                                                                                                                                    | **Jump:** A                                         | **P-Plant:** A  | **Thrust:** 2 G |
-| **Jump Rating:** 2                                                                                                                                 | **Fuel:** 24 tons for: 1x Jump 2, 4 weeks endurance |                 |                 |
-| Model/2 **computer**                                                                                                                               | **Armament:** 1 ton reserved for weapon systems     |                 |                 |
-| **Fittings:** 8 escape pods, fuel scoops, 8 staterooms (2 of them joined together to form a luxurious suite), 3 emergency low berth, 10 tons cargo |                                                     |                 |                 |
-| **Crew:** 4 total – pilot, sensor operator, engineer, steward.                                                                                     |                                                     |                 |                 |
-| **Cost:** MCr30; **Construction Time:** 36 weeks                                                                                                   |                                                     |                 |                 |
+| **Manovra:** A                                                                                                                                    | **Balzo:** A                                         | **Generatore:** A  | **Spinta:** 2 G |
+| **Classe di Balzo:** 2                                                                                                                                 | **Carburante:** 24 tonnellate per: 1x Balzo 2, 4 settimane di durata |                 |                 |
+| Modello/2 **computer**                                                                                                                               | **Armamenti:** 1 tonnellata riservata ai sistemi d'arma     |                 |                 |
+| **Accessori:** 8 capsule di salvataggio, prese per carburante, 8 cabine (2 delle quali unite per formare una lussuosa suite), 3 cuccette inferiori di emergenza, 10 tonnellate di carico |                                                     |                 |                 |
+| **Equipaggio:** 4 in totale: pilota, operatore del sensore, ingegnere, steward.                                                                                     |                                                     |                 |                 |
+| **Costo:** MCr30; **Tempo Costruzione:** 36 settimane                                                                                                   |                                                     |                 |                 |
 
-# Space Combat
+# Combattimento Spaziale
 
-The spacelanes can be dangerous. Pirates lurk near gas giants and jump
-points. Vessels belonging to enemy interstellar polities might raid a
-system and prey on the player characters’ ship. The player characters
-might decide to engage in some piracy themselves, or they may be the
-crew of a patrol frigate that has found some pirates or raiders. Use the
-following rules to run the combats in such occasions.
+Le astronavi possono essere pericolose. I pirati si nascondono vicino a giganti gassosi e punti di Balzo. I vascelli appartenenti a comunità politiche interstellari nemiche potrebbero razziare un sistema e depredare la nave dei personaggi giocanti. I personaggi giocanti potrebbero decidere di impegnarsi in qualche atto di pirateria per conto proprio, o potrebbero essere l'equipaggio di una fregata di pattuglia che ha trovato alcuni pirati o predoni. Usa le seguenti regole per eseguire i combattimenti in tali *situazioni.
 
-## Space Combat Basics
+## Nozioni di base sul combattimento spaziale
 
-Space combat typically occurs in 6-minute **rounds**. This time accounts
-for weapon recharge cycles and long-range missile travel, as well as
-emergency repairs. Since range is abstracted using the Advantage
-mechanic (below), it is possible to run space combats at different time
-frames. Each round, every crew member may take one **action**, as
-detailed below. This means that crew members staffing two posts – such
-as a pilot also serving as a captain – must choose only *one* post they
-are filling in each round.
+Il combattimento spaziale avviene in genere in **round** di 6 minuti. Questa tempo tiene conto dei cicli di ricarica delle armi e della percorrenza dei missili a lunga gittata, nonché delle riparazioni di emergenza. Poiché la gittata viene estratta utilizzando la meccanica Vantaggio (sotto), è possibile eseguire combattimenti spaziali in diversi intervalli di tempo. Ogni round, ogni membro dell'equipaggio può eseguire un'**azione**, come descritto di seguito. Ciò significa che i membri dell'equipaggio che occupano due posizioni, ad esempio un pilota che funge anche da capitano, devono scegliere solo *una* posizione che stanno riempiendo in ogni turno.
 
-## Advantage
+## Vantaggio
 
-There is no initiative or range to track in space combat. Each space
-combat round, all participating ships' pilots throw 2D + Piloting + the
-ship's maneuver drive acceleration. The winner of this opposed throw has
-Advantage and may attack with the following modifiers:
+Non c'è iniziativa o gittata da monitorare nel combattimento spaziale. Ad ogni round di combattimento spaziale, i piloti di tutte le navi partecipanti tirano 2D + Pilotare + l'accelerazione di manovra della nave. Il vincitore di questo tiro in opposizione ha Vantaggio e può attaccare con i seguenti modificatori:
 
-| **Effect** | **DM** |
-| ---------- | ------ |
-| 0          | DM-2   |
-| 1 or 2     | DM-1   |
-| 3 or 4     | DM+0   |
-| 5+         | DM+1   |
+| **Effetto** | **MD** |
+| ----------  | ------ |
+| 0           | MD-2   |
+| 1 o 2       | MD-1   |
+| 3 o 4       | MD+0   |
+| 5+          | MD+1   |
 
-The loser of the Advantage throw suffers DM-3 to attack anyone with a
-higher Advantage number than them, for the round. This penalty applies
-to turrets and bays. Weapons in fixed mounts cannot attack without
-Advantage. Note that two vessels that have the same result for their
-Advantage throw can still attack each other, albeit at DM-2 to their
-attack throws.
+Il perdente del tiro di Vantaggio subisce MD-3 per attaccare chiunque abbia un numero di Vantaggio più alto di lui, per il round. Questa penalità si applica a torrette e batterie. Le armi a punto fisso non possono attaccare senza Vantaggio. Nota che due navi che hanno lo stesso risultato per il loro tiro di Vantaggio possono ancora attaccarsi a vicenda, anche se con MD-2 per i loro tiri di attacco.
 
-Vessels with disabled Maneuver drives automatically lose Advantage.
-Fixed space stations roll Advantage normally. They simply do not have a
-bonus from maneuver drives. Instead of Piloting, station commanders
-throw 2D + Gunnery for Advantage. It is difficult, but not impossible,
-to stay in the blind spot of a station-mounted turret.
+Le navi con motori di manovra disabilitati perdono automaticamente il Vantaggio. Le stazioni spaziali fisse tirano normalmente Vantaggio. Semplicemente non hanno un bonus dai motori di manovra. Invece di Pilotare, i comandanti della stazione tirano 2D + Artiglieria per Vantaggio. È difficile, ma non impossibile, rimanere nel punto cieco di una torretta montata sulla stazione.
 
-It is possible to have multiple ships engaged in combat. Simply record
-the different Advantage results in descending order. The ships higher on
-the “ladder” have Advantage on any ship below them.
+È possibile avere più navi impegnate in combattimento. Registra semplicemente i diversi risultati di Vantaggio in ordine decrescente. Le navi più in alto sulla "scala" hanno Vantaggio su tutte le navi sotto di loro.
 
-The battle ends either when one participant is disabled or destroyed, or
-if one participant disengages.
+La battaglia termina quando un partecipante viene disabilitato o distrutto o se un partecipante si disimpegna.
 
-## Actions
+## Azioni
 
-Each character may act once in each combat round. There are five
-positions aboard a ship: Captain, Pilot, Sensor Operator, Gunner, and
-Engineer, each with its own actions. There may, of course, be multiple
-characters acting as gunners or engineers.
+Ogni personaggio può agire una volta in ogni round di combattimento. Ci sono cinque posizioni a bordo di una nave: Capitano, Pilota, Operatore Sensori, Artigliere e Ingegnere, ognuna con le proprie azioni. Potrebbero, naturalmente, esserci più personaggi che agiscono come artiglieri o ingegneri.
 
-### Captain's Actions
+### Azioni del Capitano
 
-**Support Crew:** throw Leadership 8+. If successful, gain a pool of
-positive DM points equal to the Effect (minimum 1) that the captain may
-distribute as they see fit for the next round. For example, a roll of 12
-generates a pool of 4 points, which can be given to one crewmember for a
-DM+4, or to four separate crewmembers, for a DM+1 each.
+**Supportare Equipaggio: ** tira Comando 8+. In caso di successo, ottieni una riserva di punti MD positivi pari all'Effetto (minimo 1) che il capitano può distribuire come ritiene opportuno per il round successivo. Per esempio, un tiro di 12 genera una riserva di 4 punti, che possono essere dati a un membro dell'equipaggio per un MD+4, o a quattro membri dell'equipaggio separati, per un MD+1 ciascuno.
 
-**Outmaneuver:** the captain throws Tactics 10+. If successful, apply a
-DM+2 to the ship's next round's Advantage throw.
+**Superare in astuzia:** il capitano tira Tattica 10+. In caso di successo, applica un MD+2 al tiro di Vantaggio successivo della nave.
 
-### Pilot Actions
+### Azioni del Pilota
 
-**Dock:** Docking with a moving hostile ship is nearly impossible.
-Docking with a ship unable to maneuver is automatic.
+**Attracco** L'attracco con una nave ostile in movimento è quasi impossibile, mentre l'attracco con una nave incapace di manovrare è automatico.
 
-**Disengage**: To disengage from ship combat, a ship must have Advantage
-and use their Pilot action that round to throw an opposed Piloting roll
-vs. the pursuer's Pilot, adding each ship’s thrust rating. The quarry
-escapes if its pilot wins the opposed throw. Alternatively, a
-jump-capable ship may jump out of combat.
+**Disimpegnarsi**: per disimpegnarsi dal combattimento navale, una nave deve avere Vantaggio e usare la sua azione di Pilota in quel round per eseguire un tiro di Pilotare in opposizione contro il Pilota dell'inseguitore, aggiungendo il valore di spinta di ciascuna nave. La preda scappa se il suo pilota vince il tiro in opposizione. In alternativa, una nave capace di Balzo può balzare fuori dal combattimento.
 
-**Evasive Maneuvers:** the pilot throws Piloting 12+, modified by the
-ship’s available maneuver drive Thrust. On a success, apply a negative
-DM equal to the Pilot’s skill (to a maximum of DM-2) to all incoming
-attacks. This does not require Advantage.
+**Manovre evasive:** il pilota tira Pilotare 12+, modificato dalla spinta di manovra disponibile della nave. In caso di successo, applica un MD negativo pari all'abilità del Pilota (fino a un massimo di MD-2) a tutti gli attacchi in arrivo. Ciò non richiede Vantaggio.
 
-**Plot Jump:** The pilot may attempt to plot a jump as noted in the
-Off-World Travel chapter above. It is also possible to plot a jump
-faster, but this imposes a DM-2 per round reduced, to a minimum of 1
-round.
+**Rotta di Balzo:** Il pilota può tentare di tracciare una rotta di Balzo come indicato nel capitolo Viaggi Spaziali. È anche possibile tracciare una rotta di Balzo più velocemente, ma questo impone un MD-2 ridotto per round, fino a un minimo di 1 round.
 
-**Emergency Jump:** throw Piloting 6+ to initiate an emergency jump
-while under fire; if successful, the ship’s engineer must throw
-Engineering 8+ to power the jump. Failures may be retried in the next
-round. See the Ship Operations chapter above for the jump procedure
-itself. Note this applies DM-2 to the Jump Throw, increasing the chance
-of misjump. This requires a jump plot, as noted above – either prepared
-beforehand or generated during combat.
+**Balzo di emergenza:** tira Pilotare 6+ per iniziare un Balzo di emergenza mentre sei sotto attacco; in caso di successo, l'ingegnere della nave deve lanciare Ingegneria 8+ per alimentare il Balzo. I fallimenti possono essere riprovati nel round successivo. Vedi il capitolo Procedura per il Balzo. Nota che questo applica MD-2 al tiro di Balzo, aumentando la possibilità di Balzo errato. Ciò richiede una rotta di Balzo, come indicato sopra, preparato in anticipo o generato durante il combattimento.
 
-### Sensor Operator's Actions
+### Azioni dell'Operatore Sensori
 
-**Spoof Missiles**: Electronic warfare can defeat incoming missiles;
-throw Computer 8+ to spoof an incoming missile due to impact that round,
-or the next round. The sensor operator must roll to successfully spoof
-each missile. Multiple missiles may be spoofed each round.
+**Contromisure Missili**: la guerra elettronica può sconfiggere i missili in arrivo; tira Computer 8+ per fermare un missile in arrivo simulando un impatto in quel round o nel round successivo. L'operatore del sensore deve tirare per ingannare con successo ogni missile. Più missili possono essere ingagnnati ogni round.
 
-**Jam Sensors**: Electronic warfare can provide “cover” to a ship. Roll
-Opposed Computer against one enemy vessel. If successful, the target of
-the Jamming suffers a DM equal to the skill level of the sensor operator
-(to a DM-3 cap) to any attack throw made against the jamming ship. This
-is cumulative with a pilot's Evasive Maneuvers.
+**Disturbare i Sensori**: la guerra elettronica può fornire "copertura" a una nave. Tira Computer in opposizione a una nave nemica. In caso di successo, il bersaglio del Disturbo subisce un MD pari al livello di abilità dell'operatore del sensore fino a un limite MD-3) a qualsiasi tiro di attacco effettuato contro la nave distrubata. Questo è cumulativo con le manovre evasive di un pilota.
 
-**Target Systems:** throws Computer 10+. If successful, a single gunner
-in the crew may choose to target a specific system on the enemy ship
-with one attack. If that gunner’s next attack is successful and does
-damage, they may select which system the attack has hit.
+**Mirare ai Sistemi:** tira Computer 10+. In caso di successo, un singolo artigliere dell'equipaggio può scegliere di prendere di mira un sistema specifico sulla nave nemica con un attacco. Se il prossimo attacco del cannoniere ha successo e infligge danni, possono selezionare il sistema che l'attacco ha colpito.
 
-### Gunner's Actions
+### Azioni dell'Artigliere
 
-**Fire Energy Weapons:** throw Gunnery 8+ to hit a target with an energy
-weapon.
+**Armi a energia di fuoco:** lancia Artiglieria 8+ per colpire un bersaglio con un'arma a energia.
 
-**Launch Missiles:** the gunner launches one missile per rack in the
-turret. Throw Gunnery 5+ before launch to lock the missile on its
-target. Failure to lock prevents launching but keeps the missile intact.
+**Lancia missili:** l'artigliere lancia un missile per ogni missiliera nella torretta. Tira Artiglieria 5+ prima del lancio per agganciare il missile sul suo bersaglio. Il mancato aggancio impedisce il lancio ma mantiene intatto il missile.
 
-Missiles ignore Advantage modifiers but are vulnerable to point-defense
-fire and electronic warfare spoofing. Missiles will hit their target the
-*next* round after their launch, allowing the target to target the
-missile with point-defense and spoofing, if desired. On the round
-missiles reach their target, throw 4+ to hit the target, unmodified by
-any skill. The Evasive Maneuvers Pilot action affects this missile
-attack throw. Smart missiles may retry this throw once at 8+, in the
-following round.
+I missili ignorano i modificatori di Vantaggio ma sono vulnerabili al fuoco di difesa puntuale e all'inganno della guerra elettronica. I missili colpiranno il bersaglio il round *successivo* dopo il loro lancio, consentendo al bersaglio di mirare al missile con difesa puntiforme e inganno, se lo si desidera. Durante il round in cui i missili raggiungono il bersaglio, tira 4+ per colpire il bersaglio, non modificato da nessuna abilità. L'azione Manovre Evasive Pilota influisce sul lancio dell'attacco missilistico. I missili intelligenti possono ritentare questo tiro una volta a 8+, nel round successivo.
 
-**Point Defense:** The gunner may allocate their weapon(s) to Point
-Defense, as noted below.
+**Difesa Puntiforme:** Il mitragliere può allocare le proprie armi a Difesa Puntiforme, come indicato di seguito.
 
-**Launch Sand:** throw Gunnery 6+. If successful, all incoming laser and
-particle beam fire from a single target suffer DM-2 to hit. Sand clouds
-last for one round. Each sand canister can block fire from one ship, so
-a double or triple sandcaster turret can help the ship defend against
-multiple threats at once or provide a denser defense against a single
-threat. Note that this modifier does not stack; each ship can be
-affected only once by a given target's sand clouds.
+**Lanciare Sabbia:** tira Artiglieria 6+. In caso di successo, tutto i laser e i raggi di particelle in arrivo da un singolo bersaglio subiscono un MD-2 a colpire. Le nuvole di sabbia durano un round. Ciascun contenitore di sabbia può bloccare il fuoco di una nave, quindi una torretta doppia o tripla può aiutare la nave a difendersi da più minacce contemporaneamente o fornire una difesa più densa contro una singola minaccia. Nota che questo modificatore non si accumula; ogni nave può essere influenzata solo una volta dalle nuvole di sabbia di un dato bersaglio.
 
 ## Streamlined Turret Fire
 
-To reduce the amount of die rolls in ship combat, we recommend that for
-ships with over 3 turrets, each double or triple turret should carry the
-same type of weapons. This allows all weapons to share the same attack
-throw, causing a single hit but attacking at DM+1 for a double turret or
-at DM+2 for a triple turret. All weapons in such a turret must attack
-the same target. If launching missiles, all missiles in the same turret
-share a single locking throw but hit their target individually.
+Per ridurre la quantità di tiri di dado nel combattimento navale, si raccomanda che per le navi con più di 3 torrette, ogni doppia o tripla torretta si debba trasportare lo stesso tipo di armi. Ciò consente a tutte le armi di condividere lo stesso tiro di attacco, causando un singolo colpo ma attaccando a MD+1 ogni una doppia torretta o a MD+2 ogni una tripla torretta. Tutte le armi in una stessa torretta devono attaccare lo stesso bersaglio. Se si lanciano missili, tutti i missili nella stessa torretta condividono un singolo tiro di aggancio ma colpiscono il bersaglio individualmente.
 
-## Point Defense
+## Difesa Puntiforme
 
-At the beginning of each round, the defender decides how many, if any,
-energy weapons will be dedicated to point defense. This applies a -DM to
-all incoming missiles' hit throws, per the following table.
+All'inizio di ogni round, il difensore decide quante, se ce ne sono, armi energetiche saranno dedicate alla difesa dei punti. Questo applica un MD- a tutti i lanci dei missili in arrivo, secondo la tabella seguente.
 
-| **Weapons** | **DM to incoming missiles** |
+| **Armi** | **MD ai missili in arrivo** |
 | ----------- | --------------------------- |
 | 1           | -1                          |
 | 2-4         | -2                          |
 | 5-7         | -3                          |
 | 8+          | -4                          |
 
-### Engineer Actions
+### Azioni dell'Ingegnere
 
-Any character with the Engineering skill can perform **Damage Control**
-– emergency repairs of damaged systems and breaches. Multiple characters
-with this skill may perform damage control at the same time, each on a
-different system. Throw Engineering 8+ to repair a damaged system or to
-jury-rig a single disabled system back into operation. Success
-temporarily repairs one hit on the system. The damage will reappear in
-1D hours.
+Qualsiasi personaggio con l'abilità Ingegneria può eseguire **Controllo danni** - riparazioni di emergenza di sistemi danneggiati e violazioni. Più personaggi con questa abilità possono eseguire il controllo dei danni contemporaneamente, ciascuno su un sistema diverso. Tira Ingegneria 8+ per riparare un sistema danneggiato o per rimettere in funzione un singolo sistema disabilitato. Il successo ripara temporaneamente un colpo sul sistema. Il danno riapparirà in 1D ore.
 
-**Overcharge Weapon**: the engineer can disable the safeties on an
-energy weapon for extra damage. Throw Engineering 8+ to boost a single
-energy weapon’s Hits rating by +1.
+**Sovraccarico arma**: l'ingegnere può disabilitare le sicurezze su un'arma energetica per danni extra. Usa Ingegneria 8+ per aumentare la classe dei Colpi di una singola arma energetica di +1.
 
-**Redline Engines:** the ship’s chief engineer throws Engineering 8+. On
-a success, the ship’s thrust increases by 1 for next round (including
-the Advantage throw).
+**Massima Potenza:** l'ingegnere capo della nave tira Ingegneria 8+. In caso di successo, la spinta della nave aumenta di 1 per il round successivo (incluso il tiro di Vantaggio).
 
-## Naval Weapons
+## Armi Navali
 
-The following table lists turret weapons. The complete Cepheus Engine
-rules also provides bay weapons for larger ships, but here, for
-simplicity's sake, turret weapons shall suffice.
+La tabella seguente elenca le armi da torretta. Le regole complete del Cepheus Engine forniscono anche armi di batteria per navi più grandi, ma qui, per semplicità, le armi da torretta saranno sufficienti.
 
-|               |                |                 |
+| **Arma**    | **Danno**     | **Colpi**        |
 | ------------- | -------------- | --------------- |
-| **Weapon**    | **Damage**     | **Hits**        |
-| Missile Rack  | 2D per missile | 2               |
-| Pulse Laser   | 1D             | 2               |
-| Sandcaster    | Special        | Special         |
-| Particle Beam | 2D             | 1 + 1 radiation |
-| Beam Laser    | 2D             | 1               |
+| Missiliera  | 2D per missile | 2               |
+| Laser a Impulso  | 1D             | 2               |
+| Spargisabbia    | Speciale        | Speciale         |
+| Raggio a Particelle | 2D             | 1 + 1 radiazioni |
+| Raggio Laser    | 2D             | 1               |
 
-### 
+### Note sulle armi da torretta
 
-### Turret weapon notes
+I **missili normali** costano Cr1200 ciascuno; missili intelligenti, Cr2500 ciascuno; missili nucleari, Cr50000 ciascuno, ma normalmente non sono disponibili per i civili. I **missili intelligenti** colpiscono con un tiro di 6+ indipendentemente dall'abilità del cannoniere e, se mancano il bersaglio, possono ripetere il tiro una volta nel round successivo. I **missili nucleari** causano danni 3D e 2 colpi + 1 colpo a radiazioni. Il capitolo del combattimento spaziale spiega la procedura di attacco missilistico.
 
-**Regular missiles** cost Cr1200 each; smart missiles, Cr2500 each;
-nuclear missiles, Cr50000 each but are not normally available to
-civilians. **Smart missiles** hit on a throw of 6+ regardless of the
-gunner’s skill, and if they miss their target, they may re-roll this
-throw once the following round. **Nuclear missiles** cause 3D damage and
-2 hits + 1 radiation hit. The Space Combat chapter explains the missile
-attack procedure.
+Una singola missiliera contiene 3 missili e ogni tonnellata di spazio di carico può ospitare 12 missili. Caricare una missiliera dal magazzino ordinario nelle vicinanze richiede all'artigliere un round di combattimento nello spazio. Un magazzino missilistico pre-designato consente il caricamento automatico, ma impedisce che lo spazio venga utilizzato per il carico quando non si trasportano missili.
 
-A single missile rack holds 3 missiles and each ton of cargo space can
-accommodate 12 missiles. Loading a rack from nearby ordinary cargo takes
-the gunner a full space combat round. A pre-designated missile magazine
-allows automatic loading, but prevents that space from being used for
-cargo when not carrying missiles.
+Gli **Spargisabbia** lanciano contenitori di sabbia anti-laser, come descritto nel capitolo sul combattimento navale. Un singolo spargsiabbia può contenere 6 contenitori di sabbia e una singola tonnellata di carico può contenere 24 contenitori di sabbia. I magazzini possono servire per la sabbia proprio come per i missili, e un magazzino può essere utilizzato per entrambi in modo intercambiabile, a un tasso di cambio di due contenitori per missile.
 
-**Sandcasters** launch anti-laser sand canisters, as described in the
-ship combat chapter. A single sandcaster holds 6 sand canisters, and a
-single ton of cargo can hold 24 sand canisters. Magazines can serve for
-sand just like for missiles, and a magazine can be used for both
-interchangeably, at an exchange rate of two canisters per missile.
+I **raggi di particelle** colpiscono i nemici con fasci di particelle cariche, causando danni sia strutturali che da radiazioni. Questa è l'arma energetica di livello militare più leggera disponibile e molti stati ne limitano l'uso alle navi militari e paramilitari.
 
-**Particle Beams** blast enemies with beams of charged particles,
-causing both structural and radiation damage. This is the lightest
-military-grade energy weapon available, and many polities restrict its
-use to military and paramilitary ships.
+I **raggi laser** sono deboli ma i laser sparano raggi continui.
 
-**Beam Lasers** are weak but lasers firing continuous beams.
+## Danni e Colpi
 
-## Damage and Hits
+Quando un attacco colpisce una nave corazzata, tira i dadi di danno dell'arma. Se il tiro è uguale al valore di armatura del bersaglio o superiore, l'attacco penetra e provoca danni. Gli attacchi penetrano sempre nelle navi non corazzate. Per esempio, quando un raggio laser colpisce una nave con Armatura 4, tira 4+ sul danno 2D del laser per penetrare. L'armatura bloccherà qualsiasi tiro inferiore.
 
-When an attack hits an armored ship, throw the weapon’s damage dice. If
-the throw is equal to the target’s Armor rating or higher, the attack
-penetrates and causes damage. Attacks always penetrate unarmored ships.
-For example, when a beam laser hits a ship with Armor 4, throw 4+ on the
-laser’s 2D damage to penetrate. The armor will block any lower roll.
+Per ogni arma che penetra, effettua un tiro sulla seguente tabella. Ogni "colpo" causato da un'arma (vedi la descrizione dell'arma) porta un tiro separato su questa tabella.
 
-For each weapon that Penetrates, make one throw on the following table.
-Each "hit" a weapon causes (see the weapon description) brings a
-separate roll on this table.
+**Posizioni di Penetrazione nei Combattimenti Spaziali**
 
-**Space Combat Penetration Locations**
-
-|        |                          |                             |
+| **2D** | **Penetrazione Nave** | **Penetrazione Veicoli Piccoli** |
 | ------ | ------------------------ | --------------------------- |
-| **2D** | **Starship Penetration** | **Small Craft Penetration** |
-| 2      | Breach                   | Breach                      |
-| 3      | Power Plant              | Power Plant                 |
-| 4      | J-Drive                  | Hold                        |
-| 5      | Weapons                  | M-Drive                     |
-| 6      | M-Drive                  | Fuel                        |
-| 7      | Armor                    | M-Drive                     |
-| 8      | Hold                     | Armor                       |
-| 9      | Crew                     | Weapons                     |
+| 2      | Breccia                   | Breccia                      |
+| 3      | Generatore              | Generatore                 |
+| 4      | Motore-B                  | Stiva                        |
+| 5      | Armi                  | Motore-M                     |
+| 6      | Motore-M                  | Carburante                        |
+| 7      | Corazza                    | Motore-M                     |
+| 8      | Stiva                     | Armi                       |
+| 9      | Equipaggio                     | Armi                     |
 | 10     | Computer                 | Computer                    |
-| 11     | Bridge                   | Crew                        |
-| 12     | Critical                 | Critical                    |
+| 11     | Bridge                   | Equipaggio                        |
+| 12     | Critico                 | Critico                    |
 
-**Radiation Penetration**
+**Penetrazione Radiazioni**
 
-|        |                                    |
-| ------ | ---------------------------------- |
 | **1D** | **Radiation Penetration**          |
-| 1      | Lucky escape – no radiation damage |
-| 2      | Crew                               |
-| 3      | Crew                               |
+| 1      | Evasione Fortuita – nessun danno da radiazioni |
+| 2      | Equipaggio                               |
+| 3      | Equipaggio                               |
 | 4      | Computer                           |
 | 5      | Computer                           |
-| 6      | Critical Crew Hit                  |
+| 6      | Colpo Critico Equipaggio                  |
 
-**Critical Hits**
+**Colpi Critici**
 
-|        |                           |                              |
+| **1D** | **Colpo Critico Astronave** | **Colpo Critico Veicoli Piccoli** |
 | ------ | ------------------------- | ---------------------------- |
-| **1D** | **Starship Critical Hit** | **Small Craft Critical Hit** |
-| 1      | Power Plant Destroyed     | M-Drive Destroyed            |
-| 2      | M-Drive Destroyed         | M-Drive Destroyed            |
-| 3      | Jump Drive Destroyed      | Power Plant Destroyed        |
-| 4      | Critical Crew Hit         | Critical Crew Hit            |
-| 5      | Computer Destroyed        | Computer Destroyed           |
-| 6      | Ship Destroyed            | Ship Destroyed               |
+| 1      | Generatore Distrutto     | Motore-M Distrutto            |
+| 2      | Motore-M Distrutto         | Motore-M Distrutto            |
+| 3      | Motore-B Distrutto      | Generatore Distrutto        |
+| 4      | Colpo Critico Equipaggio         | Colpo Critico Equipaggio            |
+| 5      | Computer Distrutto        | Computer Distrutto           |
+| 6      | Nave Distrutta            | Nave Distrutta               |
 
-## 
+## Descrizione Penetrazioni
 
-## Penetration Description
+Quella che segue è una descrizione dei colpi di penetrazione del sistema navale. Nota che se un sistema viene distrutto, qualsiasi ulteriore danno sullo stesso sistema non ha alcun ulteriore effetto.
 
-The following is a description of ship system penetration hits. Note
-that if a system is destroyed, any further damage on the same system has
-no further effect.
+**Corazza**
 
-**Armor**
+Riduci il valore di corazza della nave di 1. Ignora se la nave non ha corazza.
 
-Reduce the ship’s armor rating by 1. Ignore if the ship has no armor.
+**Breccia**
 
-**Breach**
+La nave subisce una breccia nello scafo ed è esposta al vuoto. Chiunque non indossi una tuta spaziale o è protetto in uno scomparto sigillato subisce l'esposizione al vuoto secondo il capitolo sui Rischi Ambientali.
 
-The ship suffers a hull breach and is exposed to vacuum. Anyone not
-wearing a Vacc Suit or in a sealed compartment suffers exposure to
-vacuum per the environmental hazard chapter.
+**Ponte**
 
-**Bridge**
+Ponte disabilitato; Le azioni del capitano, del pilota e dell'operatore del sensore sono impossibili finché il ponte non viene riparato e i tiri di artiglieria subiscono MD-2. L'equipaggio subisce un colpo (vedi sotto).
 
-Bridge disabled; Captain, Pilot, and Sensor Operator actions are
-impossible until the bridge is repaired, and Gunnery throws suffer DM-2.
-The crew suffers a Crew Hit (see below).
+**Equipaggio**
 
-**Crew**
+1D membri dell'equipaggio e i passeggeri subiscono 2D danni ciascuno. Se ci sono meno persone rispetto al numero tirato, una o più di esse, determinate casualmente, riceveranno più colpi. Questo danno può essere ridotto dall'armatura personale.
 
-1D crew members and passengers suffer 2D damage each. If there are fewer
-people than the number rolled, one or more of them, randomly determined,
-will receive multiple hits. This damage can be reduced by personal
-armor.
+**Colpo Critico Equipaggio**
 
-**Critical Crew Hit**
-
-All crew and passengers suffer 4D damage each. This damage can be
-reduced by personal armor.
+Tutto l'equipaggio e i passeggeri subiscono danni 4D ciascuno. Questo danno può essere ridotto dall'armatura personale.
 
 **Computer**
 
-Computer disabled. Jumps and sensor use are impossible until the
-computer is repaired.
+Computer disabilitato. I Balzi e l'uso dei sensori sono impossibili fino a quando il computer viene riparato.
 
-**Fuel**
+**Carburante**
 
-1Dx10% of the fuel tank capacity is destroyed.
+1Dx10% della capacità del serbatoio del carburante viene distrutto.
 
-**Hold**
+**Stiva**
 
-1Dx10% of cargo is destroyed.
+1Dx10% del carico viene distrutto.
 
-**J-Drive**
+**Motore-B**
 
-Jump drive disabled.
+Motore a Balzo disabilitato.
 
-**M-Drive**
+**Motore-M**
 
-Maneuver drive disabled. The ship is adrift and will always lose
-Advantage.
+Motore di manovra disabilitato. La nave è alla deriva e perderà sempre il Vantaggio.
 
-**Power Plant**
+**Generatore**
 
-Power plant disabled. The ship is functioning on emergency power. Energy
-weapons fire is impossible. The ship will always lose Advantage.
+Generatore disabilitato. La nave funziona con l'alimentazione di emergenza. Le armi a energia non possono fare fuoco. La nave perderà sempre il Vantaggio.
 
-**Weapons**
+**Armi**
 
-Disable 1DX10% of all weapons (rounded up).
+Disabilitate l'1DX10% di tutte le armi (arrotondato per eccesso).
 
-## Repairing Damage
+## Riparare i danni
 
-A jury-rigged system will fail within 1D hours. After that, the system
-requires full repairs. Throw Engineering 6+ to repair a damaged system;
-this takes 1D hours and requires 0.02 ton of spare parts per ton of
-repaired system. A successful throw returns the system to full
-functioning. A failed throw may be repeated but will require additional
-spare parts. Spare parts cost Cr100,000 per ton, and may be stored in
-the ship's cargo bay.
+Un sistema danneggiato collasserà entro 1D ore. Dopodiché, il sistema richiede riparazioni complete. Tira Ingegneria 6+ per riparare un sistema danneggiato; ciò richiede 1D ore e 0,02 tonnellate di pezzi di ricambio per tonnellata di sistema riparato. Un tiro riuscito riporta il sistema al completo funzionamento. Un tiro fallito può essere ripetuto ma richiederà un ulteriori pezzi di ricambio. I pezzi di ricambio costano Cr100.000 per tonnellata e possono essere immagazzinati nella stiva della nave.
 
-# Environmental Hazard
+# Rischi Ambientali
 
-Not all threats carry weapons. Starfarers must consider disease,
-radiation, and extreme environments when exploring distant stars. This
-chapter provides simple rules for these hazards.
+Non tutte le minacce portano armi. I viaggiatori stellari devono considerare la malattia, radiazioni e ambienti estremi durante l'esplorazione di stelle lontane. Questo capitolo fornisce semplici regole per questi pericoli.
 
-## Disease and Poison
+## Malattia e Veleno
 
-When a character is exposed to a disease or poison, they must make an
-Endurance throw. The target is the pathogen’s Virulence number. If
-successful, the character shrugs off the effect. If the throw is failed,
-the disease damages the character’s END according to the listed damage.
-The infected character must repeat this throw after the pathogen’s
-listed interval. Success means recovery and failure causes the listed
-damage, again. If this damage reduces the character’s END to zero,
-additional damage applies to STR or DEX (player’s choice). The character
-cannot heal this damage until they recover from the illness or
-poisoning. Note that most poisons do not have an interval, but rather
-cause their damage immediately upon poisoning and only once.
+Quando un personaggio è esposto a una malattia o a un veleno, deve fare un tiro di Resistenza. L'obiettivo è il numero di virulenza del patogeno. Se ha successo, il personaggio gestisce l'effetto. Se il tiro fallisce, la malattia danneggia la RES del personaggio in base al danno indicato. Il personaggio infetto deve ripetere questo tiro dopo l'intervallo indicato per quell'agente patogeno. Di nuovo, il successo significa il ripristino e il fallimento causa il danno indicato. Se questo danno riduce la RES del personaggio a zero, il danno aggiuntivo si applica a FOR o DEX (a scelta del giocatore). Il personaggio non può curare questo danno fino a quando non si riprende dalla malattia o dall'avvelenamento. Nota che la maggior parte dei veleni non ha un intervallo, ma piuttosto causa il proprio danno immediatamente dopo  l'avvelenamento e solo una volta.
 
-**Sample pathogens**
+**Patogeni di esempio**
 
-|                   |               |             |              |
+| **Patogeno**      | **Virulenza** | **Danno**  | **Intervallo** |
 | ----------------- | ------------- | ----------- | ------------ |
-| **Pathogen**      | **Virulence** | **Damage**  | **Interval** |
-| Pneumonia         | 6+            | 1D          | 1D weeks     |
-| Anthrax           | 9+            | 1D          | 1D days      |
-| Biological Weapon | 12+           | 3D          | 1D hours     |
-| Arsenic           | 8+            | 2D          | \-           |
-| Tranq Gas         | 10+           | Unconscious | \-           |
+| Polmonite         | 6+            | 1D          | 1D settimane     |
+| Antrace           | 9+            | 1D          | 1D giorni      |
+| Arma Biologica | 12+           | 3D          | 1D ora     |
+| Arsenico           | 8+            | 2D          | \-           |
+| Gas Traqnuillante         | 10+           | Incosciente | \-           |
 
-## Extreme Temperatures
+## Temperature Estreme
 
-Extreme environments damage unprotected characters, as noted in the
-table below.
+Ambienti estremi danneggiano i personaggi non protetti, come indicato nella tabella sottostante.
 
-**Extreme Temperatures**
+**Temperature Estreme**
 
-|                 |            |                |
+| **Temperatura** | **Dannno** | **Esempio**    |
 | --------------- | ---------- | -------------- |
-| **Temperature** | **Damage** | **Example**    |
-| -100° or less   | 1D/round   | Deep space     |
-| -50°            | 2D/hour    | Mars           |
-| -25°            | 1D/hour    | Arctic         |
-| -10° to 40°     | None       | Typical Terra  |
-| 50°             | 1D/hour    | Searing desert |
-| 100°            | 2D/hour    | Boiling point  |
-| 200° or more    | 1D/round   | Mercury        |
+| -100° o meno   | 1D/round   | Spazio Profondo     |
+| -50°            | 2D/ore    | Marte           |
+| -25°            | 1D/ore    | Artico         |
+| -10° fino a 40°     | Nessuno       | Ambiente terrestre  |
+| 50°             | 1D/ore    | Deserto ardente |
+| 100°            | 2D/ore    | Punto di ebollizione  |
+| 200° o più    | 1D/round   | Mercurio        |
 
-## 
+## Fuoco
 
-## Fire
+Quando vengono attaccati dal fuoco, i personaggi devono lanciare DEX 8+ per evitare di prendere fuoco. Un personaggio in fiamme subisce 2D danni  per round. Fai un altro tiro DEX 8+ ogni round successivo; in caso di successo, il personaggio spegne il fuoco. Se fallisce, il personaggio subisce altri 2D danni. Spegnendo il fuoco con altri mezzi, come un estintore, si ferma anche questo danno continuo.
 
-When attacked by fire, characters must throw DEX 8+ to avoid catching
-fire. A burning character takes 2D damage per round. Make another DEX 8+
-throw each subsequent round; if successful, the character puts out the
-fire. If failed, the character suffers another 2D damage. Putting out
-the fire by other means, such as an extinguisher, also stops this
-continuous damage.
+## Caduta
 
-## Falling
+Un personaggio subisce 1D danno ogni 2m di caduta, fino a 6D a velocità terminale. Moltiplica questo danno per il livello di gravità del mondo in G. Per esempio, cadere per 10 metri su un mondo con 0.45G infliggerebbe 5D danni, che viene quindi moltiplicato per 0,45 per il risultato del danno effettivo - 2.5D arrotondato per eccesso a 3D.
 
-A character suffers 1D damage per 2m fallen, up to 6D at terminal
-velocity. Multiply this damage by the world’s gravity rating in Gs. For
-example, falling 10 meters on a world with 0.45Gs would inflict 5D
-damage, which is then multiplied by 0.45 for the actual damage result –
-2.5D rounded up to 3D.
+## Fame e Disidratazione
 
-## Starvation and Dehydration
+Un personaggio richiede due litri di acqua e 0,5 kg di cibo al giorno per mantenersi in salute.
 
-A character requires two liters of water and 0.5kg of food per day to
-stay healthy.
+Un personaggio può restare senza acqua per 20 ore + il doppio del punteggio END senza effetti negativi. Dopo che è trascorso quel tempo, il personaggio deve lanciare END 6+ ogni ora senza acqua o subire danni 1D. C'è un DM-1 cumulativo per ogni assegno.
 
-A character may go without water for 20 hours + twice their END score
-with no ill effect. After that time has passed, the character must throw
-END 6+ per hour without water or suffer 1D damage. There is a cumulative
-DM-1 per each check.
+Un personaggio può restare senza cibo per 3 giorni. Dopodiché, il personaggio deve lanciare END 6+ al giorno senza cibo o subire danni 1D. C'è un DM-1 cumulativo per ogni controllo precedente.
 
-A character may go without food for 3 days. After that, the character
-must throw END 6+ per day without food or suffer 1D damage. There is a
-cumulative DM-1 per each previous check.
+Il personaggio può recuperare questo danno solo dopo aver bevuto e mangiato.
 
-The character can recover this damage only after drinking and eating.
+## Soffocamento
 
-## Suffocation
+In caso di ossigeno insufficiente, come su una nave con supporto vitale non funzionante, i personaggi subiscono 1D danni al minuto. Se il personaggio non ha accesso ad alcun tipo di ossigeno, come quando un personaggio viene strangolato o è stato risucchiato nello spazio, questo diventa invece 1D danni per round.
 
-In cases of insufficient oxygen, such as on a ship with failing life
-support, characters suffer 1D damage per minute. If the character has no
-access to any oxygen whatsoever, such as when a character is being
-strangled, or has been sucked out into space, this becomes 1D damage per
-round instead.
+## Esposizione al vuoto
 
-## Vacuum Exposure
+Contrariamente alla credenza popolare, il vuoto non uccide immediatamente. Un personaggio esposto al vuoto subisce regolarmente danni da soffocamento (vedi sopra). Mentre sono esposti allo spazio subiscono anche 3Dx10 radiazioni per round. Inoltre, a partire dal terzo round di esposizione al vuoto, il personaggio deve tirare RES 10+ per round o perdere i sensi a causa degli aeroemboli - la formazione di bolle d'aria nel flusso sanguigno.
 
-Contrary to popular belief, vacuum does not kill immediately. A
-character exposed to vacuum suffers regular suffocation damage (above).
-While exposed to space they also suffer 3Dx10 rads of radiation per
-round. Additionally, beginning from the third round of vacuum exposure,
-the character must throw END 10+ per round or fall unconscious from
-aeroembolisms – the formation of air bubbles in their blood stream.
+# Informazioni Legali
 
-# 
+## Note Importanti
 
-# Legal
+Questo Prodotto è derivato dal Traveller System Reference Document e altro Open Gaming Content reso disponibile attraverso la Open Gaming License e non contiene contenuto chiuso da prodotti pubblicati né da Mongoose Publishing né da Far Future Enterprises. Questo Prodotto non è affilliato né da Mongoose Publishing né da Far Future Enterprises e non rivendica né contesta alcun marchio detenuto da una delle due entità. L’uso del Traveller System Reference Document non esprime l’approvazione di questo prodotto né da parte di Mongoose Publishing né di Far Future Enterprises come prodotto di alcuna delle loro linee di prodotti.
 
-## 
+Cepheus Engine e Samardan Press ™ sono marchi di Jason "Flynn"
+Kemp "; Stellagama Publishing non è affiliato con Jason "Flynn" Kemp
+o Samardan Press ™.
 
-## important notices
+I nomi "Cepheus" e "Cepheus Engine" sono utilizzati in questo prodotto con il permesso di Jason "Flynn" Kemp.
 
-This Product is derived from the Traveller System Reference Document and
-other Open Gaming Content made available by the Open Gaming License and
-does not contain closed content from products published by either
-Mongoose Publishing or Far Future Enterprises. This Product is not
-affiliated with either Mongoose Publishing or Far Future Enterprises,
-and it makes no claim to or challenge to any trademarks held by either
-entity. The use of the Traveller System Reference Document does not
-convey the endorsement of this Product by either Mongoose Publishing or
-Far Future Enterprises as a product of either of their product lines.
-
-This Product is derived from the Traveller System Reference Document and
-other Open Gaming Content made available by the Open Gaming License and
-does not contain closed content from products published by either
-Mongoose Publishing or Far Future Enterprises. This Product is not
-affiliated with either Mongoose Publishing or Far Future Enterprises,
-and it makes no claim to or challenge to any trademarks held by either
-entity. The use of the Traveller System Reference Document does not
-convey the endorsement of this Product by either Mongoose Publishing or
-Far Future Enterprises as a product of either of their product lines.
-
-Cepheus Engine and Samardan Press™ are the trademarks of Jason "Flynn"
-Kemp”; Stellagama Publishing is not affiliated with Jason "Flynn" Kemp
-or Samardan Press™.
-
-The names “Cepheus” and “Cepheus Engine” are used in this product with
-Jason "Flynn" Kemp’s permission.
+Traduzione italiana a cura di Roberto Bisceglie autorizzata da Omer Golan-Joel.
 
 ## Open Game Licence Version 1.0A
 
@@ -1733,3 +1483,5 @@ Josh Peters.
 
 Cepheus: Faster Than Light © 2019, Stellagama Publishing; Author Omer
 Golan-Joel.
+
+Cepheus: Più Veloce della Luce © 2021, Italian translation by Roberto Bisceglie
